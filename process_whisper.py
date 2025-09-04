@@ -194,16 +194,16 @@ def transcribe_audio(audio_file):
     return json_out
 
 def generate_outputs(json_file):
-    """Generate full transcription, segments, and text files with speech part separation."""
+    """Generate full transcription, segments, and text files."""
     with open(json_file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     base_name = os.path.splitext(os.path.basename(json_file))[0]
     
-    # Detect speech parts
+    # Detect speech parts for analysis (but don't generate separate files)
     parts, transitions = detect_speech_parts(data["segments"])
 
-    # Generate traditional full transcription file
+    # Generate full transcription file
     full_trans_path = os.path.join(TRANSCRIPT_DIR, base_name + "_full_transcription.txt")
     with open(full_trans_path, "w", encoding="utf-8") as f:
         for i, seg in enumerate(data["segments"], start=1):
@@ -213,51 +213,14 @@ def generate_outputs(json_file):
             f.write(f"Confidence: {seg.get('avg_logprob', 0):.4f}\n")
             f.write(f"Text: {seg['text'].strip()}\n\n")
 
-    # Generate part-specific files
-    part_files = {}
-    for part_name, part_segments in parts.items():
-        if not part_segments:
-            continue
-            
-        # Part-specific transcription file
-        part_trans_path = os.path.join(TRANSCRIPT_DIR, f"{base_name}_part_{part_name}.txt")
-        with open(part_trans_path, "w", encoding="utf-8") as f:
-            f.write(f"=== {part_name.upper().replace('_', ' ')} ===\n\n")
-            for i, (orig_idx, seg) in enumerate(part_segments, start=1):
-                f.write(f"Utterance {i} (Original: {orig_idx + 1})\n")
-                f.write(f"Start: {seg['start']:.2f}\n")
-                f.write(f"End: {seg['end']:.2f}\n")
-                f.write(f"Confidence: {seg.get('avg_logprob', 0):.4f}\n")
-                f.write(f"Text: {seg['text'].strip()}\n\n")
-        
-        # Part-specific segments file (Kaldi style)
-        part_segments_path = os.path.join(SEGMENTS_DIR, f"{base_name}_part_{part_name}_segments.txt")
-        with open(part_segments_path, "w", encoding="utf-8") as f:
-            for i, (orig_idx, seg) in enumerate(part_segments, start=1):
-                seg_id = f"{base_name}_{part_name}_{i:04d}"
-                f.write(f"{seg_id} {base_name} {seg['start']:.2f} {seg['end']:.2f}\n")
-
-        # Part-specific text file (Kaldi style)
-        part_text_path = os.path.join(TEXT_DIR, f"{base_name}_part_{part_name}_text.txt")
-        with open(part_text_path, "w", encoding="utf-8") as f:
-            for i, (orig_idx, seg) in enumerate(part_segments, start=1):
-                seg_id = f"{base_name}_{part_name}_{i:04d}"
-                f.write(f"{seg_id} {seg['text'].strip()}\n")
-        
-        part_files[part_name] = {
-            "transcription": part_trans_path,
-            "segments": part_segments_path,
-            "text": part_text_path
-        }
-
-    # Traditional segments file (Kaldi style) - for compatibility
+    # Generate segments file (Kaldi style)
     segments_path = os.path.join(SEGMENTS_DIR, base_name + "_segments.txt")
     with open(segments_path, "w", encoding="utf-8") as f:
         for i, seg in enumerate(data["segments"], start=1):
             seg_id = f"{base_name}_{i:04d}"
             f.write(f"{seg_id} {base_name} {seg['start']:.2f} {seg['end']:.2f}\n")
 
-    # Traditional text file (Kaldi style) - for compatibility
+    # Generate text file (Kaldi style)
     text_path = os.path.join(TEXT_DIR, base_name + "_text.txt")
     with open(text_path, "w", encoding="utf-8") as f:
         for i, seg in enumerate(data["segments"], start=1):
@@ -266,19 +229,24 @@ def generate_outputs(json_file):
 
     print(f"✅ Outputs generated for {base_name}")
     print(f" - Full transcription: {full_trans_path}")
-    print(f" - Traditional segments: {segments_path}")
-    print(f" - Traditional text: {text_path}")
-    print()
+    print(f" - Segments: {segments_path}")
+    print(f" - Text: {text_path}")
     
-    # Show part-specific files
-    for part_name, files in part_files.items():
-        count = len(parts[part_name])
-        print(f" - {part_name.replace('_', ' ').title()} ({count} segments):")
-        print(f"   • Transcription: {files['transcription']}")
-        print(f"   • Segments: {files['segments']}")
-        print(f"   • Text: {files['text']}")
+    # Show speech parts analysis summary
+    parts_summary = []
+    for part_name, part_segments in parts.items():
+        if part_segments:
+            parts_summary.append(f"{part_name.replace('_', ' ').title()}: {len(part_segments)} segments")
     
-    return part_files
+    if parts_summary:
+        print(f" - Speech parts detected: {', '.join(parts_summary)}")
+    
+    return {
+        "full_transcription": full_trans_path,
+        "segments": segments_path,
+        "text": text_path,
+        "parts_analysis": parts
+    }
 
 def main():
     wav_files = [f for f in os.listdir(AUDIO_DIR) if f.endswith(".wav")]
@@ -449,7 +417,7 @@ def main():
                 print(f"⚠️ Issues: {', '.join(analysis['issues'][:2])}")
             
             # Generate output files
-            part_files = generate_outputs(json_path)
+            output_files = generate_outputs(json_path)
             
             print(f"✅ Completed processing {selected_file}")
             
