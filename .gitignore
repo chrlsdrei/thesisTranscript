@@ -1,0 +1,78 @@
+# Python virtual environment
+whisper-env/
+venv/
+env/
+.env
+
+# Audio files (too large for git)
+audio_input/*.wav
+audio_input/*.mp3
+audio_input/*.m4a
+audio_input/*.flac
+
+# Generated output files
+transcript_output/*.json
+transcript_output/*.txt
+segments_output/*.txt
+text_output/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model cache (Whisper downloads models here)
+.cache/
+models/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Keep directory structure but ignore contents
+audio_input/.gitkeep
+transcript_output/.gitkeep
+segments_output/.gitkeep
+text_output/.gitkeep
