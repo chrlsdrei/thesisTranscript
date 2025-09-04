@@ -10,12 +10,6 @@ audio_input/*.mp3
 audio_input/*.m4a
 audio_input/*.flac
 
-# Generated output files
-transcript_output/*.json
-transcript_output/*.txt
-segments_output/*.txt
-text_output/*.txt
-
 # Python cache
 __pycache__/
 *.pyc
