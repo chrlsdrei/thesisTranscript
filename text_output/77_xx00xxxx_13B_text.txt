@@ -1,0 +1,79 @@
+77_xx00xxxx_13B_0001 Ngayon, ang dahong corteng puso ay ilalagay ninyo sa basong may tubig.
+77_xx00xxxx_13B_0002 Ang baso naman ay ilagay ninyo sa ilalim ng inyong higaan.
+77_xx00xxxx_13B_0003 Siguraduhin lamang na ang basong kinalagyan ng daon ay nasa tapat ng inyong ulo.
+77_xx00xxxx_13B_0004 Magdasal bago matulog at hilingin makita sa panaginip ang lalaking magkakaroon ng kaugnayan sa iyong buhay at pag-ibig.
+77_xx00xxxx_13B_0005 Nakakapagtakang may mga pagkakataong ang pag-ibig na dapat sana ay nagpapaligay sa tao.
+77_xx00xxxx_13B_0006 Ay sya pang dahilan ng kasawihan. Pero lagi natin isaisip, dadi pag-ibig ang sumisira sa tao, kundi tao mismo.
+77_xx00xxxx_13B_0007 Dahil ang pag-ibig ay gaya ng tubig. Nawawalan man, muli pa ring buhabalig.
+77_xx00xxxx_13B_0008 Ang ganda ng buwan kung mainit ang ulo mo, maaring makadama ka ng saglit na ginhawa.
+77_xx00xxxx_13B_0009 Mapapatingin ka sa langit nang parang binihiyag ng isang magandang diwata ng kalangitan.
+77_xx00xxxx_13B_0010 Ang nagliliwanag ng gintong kulay ay nagsasabog ng kagandahan sa daigdig, tulad ng isang magaling na makata o kompositor.
+77_xx00xxxx_13B_0011 Ito ay madaramamong para kang nakagagawa ng magagandang bagay.
+77_xx00xxxx_13B_0012 Saan pala ang libing? Sinong nagbigay sa iyo ng hula?
+77_xx00xxxx_13B_0013 Dapat ang mga tao ay nagtutulungan, di ba? Kailan kayo aalis?
+77_xx00xxxx_13B_0014 Kanino kaya ito? Ihatid mo yung kapatid mo.
+77_xx00xxxx_13B_0015 Aalis tayo bukas. Pakiiwan na lang diyan.
+77_xx00xxxx_13B_0016 Pagtimpla mo naman kami ng gatas. Usap tayo.
+77_xx00xxxx_13B_0017 Magandang hapon po. Salamat po.
+77_xx00xxxx_13B_0018 Hello Edsel. Kulay red ang Japanese vase ng Boy Scout na si Rico na binili sa zoo.
+77_xx00xxxx_13B_0019 Siya ang Jack na pumunta sa Freeport Zone noong Friday at nag-phishing.
+77_xx00xxxx_13B_0020 Galing daw ang wise employment sa Chinese Embassy.
+77_xx00xxxx_13B_0021 Tagboan, din, kinuwento, nagtrabaho, tahanan, kita, nagtratrabaho.
+77_xx00xxxx_13B_0022 Takas, dinamay, ko, nagtutulungan, takbo, dinanas, kompositor, nagtuturo, takdang, dinasal.
+77_xx00xxxx_13B_0023 Kung nahiga, takot, dingin, konstruksyon, nauhuli, taxi, dinig, koche, naintindihan, talaga, dinilaan, krimen, naisahan, talampakan, direksyon, kukuha, nakagagawa, tali, direcho,
+77_xx00xxxx_13B_0024 kulang, nakakapagtakang, talo, disyembre, kulay, nakakasilaw, talon, jaging, maamong, narestong, nakatagdang, kilong, kakulangan, dito, kulit, nakakita, diwata, kulitin, nakalabas, diyan, kulog, nakapagtapos, tama, diyon,
+77_xx00xxxx_13B_0025 tama, dios, kumaing, nakatira, tamad, doktor, kumanta, nakatulog, tambakan, tambakan, dokumento, kumbento, nakausap, tanawin, drama, kumilos, nakausli, tanga, dugo, kundi, nakao, tanghali, duktong, kung,
+77_xx00xxxx_13B_0026 taniman, tanim, duktongan, kunin, nakikipagusap, taniman, taniman, dumaan, kuntento, nakita, tao, dumalo, kusa, nalalanghap, taon, dumamay, kuarto, nalasing, taong, dumamba, kuento, nalito, tapakan, dumami,
+77_xx00xxxx_13B_0027 nalulugi, tapat, tumapa, labing, naman, naman, tapon, dumarami, labis, namatay, tapos, dumating, lagay, namin, tapusin, dumi, lagi, namumunga, tara, dumidinig, laging, nanalangin, tatag, dumilat, laglag, nanay,
+77_xx00xxxx_13B_0028 tatagbo, duon, lagpas, nandito, tauhan, edad, lagpasan, nandian, tawad, eh, lagyan, nang, tawag, exam, lahat, naninirahan, tawagan,
+77_xx00xxxx_13B_0029 elementaria, lahok, naniligaw, tawiran, enero, lakad, napagiwanan, tai, entablado, lakas, napansin, taya, eskwela, lalaki, napatingin, tayaan, tayaan, eto, lalaking, nalito,
+77_xx00xxxx_13B_0030 tayo, ewan, lalapit, narian, tayo, faksyon, lalo, nars, tayuan, tayuan, familia, laman, naroon, deka, familiar, lamang, nasa, telefonono,
+77_xx00xxxx_13B_0031 fanatik, lamangan, lamangan, nasaan, tigil, fantastic, lambing, nasagasaan, tigilan, federasyon, lambingan, nasira, tigilin, feminist, lamok, nasiraan, tikim, favor, lang, nasugatan, tikman, fake, langit, natataniman, tila,
+77_xx00xxxx_13B_0032 fear, lansa, natin, timpla, face towel, lantaran, natin, timplahan, figurine, laos, natira, tinamad, fiesta, lapit, nauunahan, tinambakan, gaan, lapitan, nawala, tinapon, gaano, lara, nawalan, tinatangkilig, gabi, larangan, nawawala, tindi,
+77_xx00xxxx_13B_0033 supporter, gagawa, lalo, negosyo, sitcom, tiniis, galangin, laruan, nenita, kimirhan, galing, laruin, nang, tinutukoy, galing, lasa, nga, tira, kalingan, lasaan, ngang, tiwala, gamit, lasengo, ngayon, tiak, gamitin, lasing, ngipin, tiyan, gamum,
+77_xx00xxxx_13B_0034 gamot, laya, ngunit, totoo, ganap, layas, ni, trabaho, ganda, layasan, nila, nila, trahedya, gandahan, layo, nilagay, cheque, ganito, layuan, nilakbay, cheque,
+77_xx00xxxx_13B_0035 layuin, nilang, chinelas, ganyan, lengguaje, nilapit, chismis, gas, libangan, nilapitan, tubig, gaskasan, libing, nilasing, tula, gastos, liblib, nilusob, tulad, gastusan, libro, ningning, tulo, gastosin, ligaw, nino, tulungan,
+77_xx00xxxx_13B_0036 gatas, ligawan, nino, tumakas, gatong, ligaya, nitong, tumakbo, gaya, ligo, nia, tumalon, gayahin, ligpitin, niyan, tumatanda, gate, liham, niyang, tumatawag, gigil, lihim, nio, nyo,
+77_xx00xxxx_13B_0037 tumawag, gilid, liko, nobyembre, tumawid, giling, likot, nuong, tumayo, gilingin, likuan, numero, giliw, lima, nung, gimik, limos, nuod, tunay, ginang, lindol, okey, tungkol, ginhawa, linggong, okra, tunog, kinisa, linggo, oktubre,
+77_xx00xxxx_13B_0038 ginoo, lingon, oo, tuid, ginto, dinis, opisina, ube, gintong, linisin, opisinang, ubo, gising, linlang, obo, ubuhin, gisingin, linta, oras, ubusin, gitna, lisanin, orasan,
+77_xx00xxxx_13B_0039 ugali, gubat, litaw, oso, ugat, gulang, lito, oto, uhaw, gulangan, lituhin, pa, hulam, gulat, lokohan, pa, ulan, ulan, gulatin, lokohin, pakiat, ulanan, gulay, palis, ulang, gulo, paano, uli,
+77_xx00xxxx_13B_0040 gulod, paralan, ulit, gulpi, pabalik, ulitan, ulitan, gulpihin, paborito, ulitin, guluhin, padamdam, pulo, gumamit, pader, rosario, restaurant,
+77_xx00xxxx_13B_0041 records, limang, inusenteng, pangailangan, pinangyarihan, umabot, gumiling, lupang, pagbati, umaga, gumising, maaari, pagbibigay, umalis, gunting, maaaring, pagdami, umarte, kupit, maabilidad, pagdating, umihi, kupitan, maabot, paggawa, umiak, kupitin,
+77_xx00xxxx_13B_0042 maaga, paghaharapin, gusali, maagang, paghandaan, gusto, maalat, paghina, gustuhin, maaliwalas, pagibig, maasim, pagiging, haba, mabagal, pagkabigla, una, habaan, mabaho, nakilalang, magpipitong, nasabing, parangal, karangalan,
+77_xx00xxxx_13B_0043 dating, dating, planong, pagkabuhat, unahan, habang, mabait, pagkain, unang, hadanan, mabango, pagkakilala, universidad, haharapin, mabayaran, pagkakataong, uod, halaga, mabilis, pagkakautang, upang, halaman, mabuhay,
+77_xx00xxxx_13B_0044 pagkakuha, upo, halain, mabuo, pagkatalo, upuan, halika, mabuti, pagkatapos, uri, halina, madaanan, pagkawala, usapan, halos, madalas, pagkuha, utang, hambing, madali, pagod, uunlad, handa, madami, magpapabaya, ui, handaan,
+77_xx00xxxx_13B_0045 madarama, pagsabit, pagsabmit, valedictorian, hanggang, madidilan, pagsubok, valuable, hangin, madidilaw, pagulan, vanilya, hapag, magagandang, pakealam, vibes, hapon, magaling, pakebukas,
+77_xx00xxxx_13B_0046 violet, harap, maganda, pakigamot, vice versa, ginawang, pangyayaring, anyang, pambansang, mabigyang, panunong kulang, kataas-taasang, tayong, magsabong, magsawalang kibo, kasamahan, ibang, mapayapang, harapan, magandang, pakigawa, vendo,
+77_xx00xxxx_13B_0047 harapin, mag-aral, pakihugas, veranda, hasa, magasawa, pakiiwan, versatil, hasain, magasawang, pakikanta, versus, hataw, magawa, pakikua, vigilante, hatawin, magbago, wagi, hatid, magbantay, pakinabang, wakas, hawaan, magbasa, pakiusap, wala,
+77_xx00xxxx_13B_0048 hawakan, magbasag, pakiusapan, walang, hayag, magbawas, paksa, walis, hayop, magbayad, pala, walo, high school, magbenta, palabas, walong, general, magbigayan, palad, warat, higaan, magbilang, palawaking, wasak, hila,
+77_xx00xxxx_13B_0049 magbubukid, palayasin, wika, hilahan, hilahan, magdala, palifasa, yaman, hilain, magdasal, paliwanagan, yan, hilingin, maghanda, pambihira, yari, recreation, kongreso, pagmamahal, namayapang, magsasalita,
+77_xx00xxxx_13B_0050 senate, secretary, abalang, alamang, mangugulo, mangulo, nangyari, darating, humuhungi, dalampung, narsing, himbing, maghapon, pamilya, yaya, hina, maghihintay, yayain, hinayang, maghintay-hintay, panaginip, yelo,
+77_xx00xxxx_13B_0051 hindi, magiging, panahon, yero, hiningan, maging, pananim, yoyo, hinintay, magisa, pandak, yumao, hinipuan, magkaibigan, pang, yung, hintay, magkakabisa, pangalan, zero, hintayin, magkakaibigan, panganim, zigzag, hinto, magkakapatid,
+77_xx00xxxx_13B_0052 pangarap, zinya, hintong, magkakaroon, pangit, zipper, hintuan, panglima, hipan, magkamay, pangyayari, hipanin, magkapamilya, paningin, hipo, magkasama, pantalon, hipuan, maglagay, papel, hirap, maglita, para, host, parang, hotel,
+77_xx00xxxx_13B_0053 pasahin, hugasan, magnanakaw, pasko, nakakulong, sessions,
+77_xx00xxxx_13B_0054 babibobu, bad, bag, bak, bal, bam, bani, bang, bap, bar, bas, bat, bau, bay, ben, bid, big, bik, bil, bin, bim, bing, bis, bit, bog, bon, bong, bot, boy, bug, bur, bok, bol, bril, blue, bre, box,
+77_xx00xxxx_13B_0055 ber, bra, dadedi, dodu, dag, dal, dik, dra, dad, dug, dak, dal, dib, dam, day, dan, dig, ding, ga, ge, gi, go, gu, god, gua, gaw, gin, giw, gos, gas, gay, gan, gil, git, gul, gun, gal,
+77_xx00xxxx_13B_0056 gus, gat, gab, fa, fe, fi, fo, fu, feis, fan, fies, fig, ha, he, hi, ho, fu, hin, hau, han, hai, hit, hoy, has, hil, him, hag, hul, ham,
+77_xx00xxxx_13B_0057 ja, je, ji, jo, ju, jit, yuk, jun, ka, ke, ki, po, ku, kid, kin, kot, kit, kum, kum, kun, kas, kam, kal, kan, ket, kat, kaw, kim, kip,
+77_xx00xxxx_13B_0058 la, le, li, lo, lu, lok, los, lam, lin, ling, lit, lik, lung, lang, lan, lat, lid, liu, law, long, leng, lis, las, les, lag, lam, lun, lon, lis,
+77_xx00xxxx_13B_0059 ma, me, mi, mo, mu, mag, mar, mis, min, mil, mok, men, mang, mai, mit, mik, man, mun, mad, mak, mat,
+77_xx00xxxx_13B_0060 na, ne, ni, no, nu, nag, nai, nib, nau, nen, nok, nan, nig, nin, nang, nog, nak, nim, nas, nig, nob, nam, nil, nga, nge, ni, ngo, mu, ngan, nog, ngin, ngay, nye, ngin, ngon,
+77_xx00xxxx_13B_0061 pa, be, pi, po, pu, pag, pak, pas, pat, bet, pon, poi, pin, pan, pit, pla, pang, ping, pir, peb, pos, pun, per, ra, re, ri, ro, ru,
+77_xx00xxxx_13B_0062 ras, ral, rang, rat, rat, ran, rau, rin, ret, rap, rong, sa, se, si, so, su, shem, sin, sak, shon, san, sip, sul, sog, skwe,
+77_xx00xxxx_13B_0063 sal, sim, sing, sag, sig, sok, sep, sil, sis, suk, sul, sol, sum, sun, sung, sus, suwe, ta, te, ti, to, tu, tan, tai, tas, tor, tik, tes, tok, tau, tin, tab, tik, tel, tos, tong, did, ten, ting,
+77_xx00xxxx_13B_0064 tak, tam, tim, til.
+77_xx00xxxx_13B_0065 Cha, che, chi, cho, chu, tis, ba, be, pi, po, pu, ven, ver, vais, wa, we, wi, wo, wu, wu, wid, wad, wag, wai, wel, wan, wak, was, wat, win, wang, wing, wong, ya, ye, i, yo, yu,
+77_xx00xxxx_13B_0066 yem, yin, yad, yat, yan, yar, yos, yer, yag, yang, yak, yon, yor, za, ze, zi, zo, zu, zin.
+77_xx00xxxx_13B_0067 Ang, as, ak, ay, at, ar, an, am, ag, en, em, eng, ed, es, is, in, ing, im,
+77_xx00xxxx_13B_0068 bung, dang, dong, ging, gang, gong, hang, hing, hong, ging, kang, gong, kung, ming, mong, mung, ning, nong, nung, neng, ngun, ngin, pung, pong, ring, sang, song, sing, tang, teng, tung, chang, chong, ching, ying, yong, yung.
+77_xx00xxxx_13B_0069 Bab, bed, bem, bo, boa, bui, das, dai, del, den, dog, dos, gad, gag, gam, gap, far, fat, fel, fing, fo, hab, had, hat, hen, hid, hog, hung, jag, jak, jas, jas,
+77_xx00xxxx_13B_0070 ging, joy, gab, gad, gag, ken, gib, kog, kow, koy, kur, lab, lad, lay, log, lo, loy, luk, mal, mem, mip, mir, mow, mug, muk, nab, nad, nal, neg, nep, nip, nir, nos, nou,
+77_xx00xxxx_13B_0071 nus, ngas, ngek, ngik, ngop, pad, peng, pik, bo, puk, pus, rab, rad, rag, rak, rem, ren, ris, rou, sad, sat, sei, sou, sui, tad, tag, tem, ten, dog, dou,
+77_xx00xxxx_13B_0072 chap, check, ches, chok, choy, vak, val, ves, vin, vol, wal, war, wed, vol, yab, yap, yaw, ya, zam, zay, zig.
+77_xx00xxxx_13B_0073 aalis, aalis, ang, at, ay, ba, bagay, bago, baso, basong, binihag, binili, boy scout, buhay, buhay, bukas, bumabalik, buwan, Chinese, dahil, dahilan, dahon, dahong, daigdig, dapat, daw, di, diwata, dian, erig,
+77_xx00xxxx_13B_0074 redcell, embassy, employment, freeport, friday, galing, galing, ganda, gatas, gaya, ginhawa, gintong, hapon, hello, higaan, hilingin, hula, ihatid, ilagay, ilalagay, ilalim, inyong, isaisip, isang, ito, iyo, iyong, jack, Japanese, ka, kagandahan, kailan, kalangitan, kami,
+77_xx00xxxx_13B_0075 kang, kanino, kabatid, kasawian, kaugnayan, kaya, kaya, kayo, kinalalagyan, kompositor, korteng, kulay, kundi, kung, lagi, lalaking, lalaking, lamang, lang, langit, libing, maaaring, madarama, magagandang, magaling, magandang,
+77_xx00xxxx_13B_0076 magdasal, magkakaroon, mainit, makadama, makata, makita, man, mapapatingin, matulog, may, mga, mismo, mo, mong, muli, na, nagbigay, nagfishing, nagliliwanag, nagpapaligaya, nagsasabog, nagsasabog, nagtutulungan, nakagagawa,
+77_xx00xxxx_13B_0077 nakakapagtakang, naman, nasa, nating, nawawala, nang, ngayon, ninyo, noong, o, pa, bagibig, pagibig, pagkakataong, pagtimpla, pakiiwan, pala, pala, panaginip, pang, para, parang, pero, po, pumunta, puso, red, riko, ring, sa, saan,
+77_xx00xxxx_13B_0078 mait, salamat, sana, si, siguraduhin, sino, sia, sumisira, tao, tapat, tayo, tayo, tayo, tubig, tulad, ulo, usap, vase, wise, yung, zone, zoo.
+77_xx00xxxx_13B_0079 Thank you for watching!

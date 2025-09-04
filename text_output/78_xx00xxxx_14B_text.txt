@@ -1,0 +1,91 @@
+78_xx00xxxx_14B_0001 Maaari mong ipabawa sa sweldo ng iyong asawa ang sustento para sa inyong pamilya.
+78_xx00xxxx_14B_0002 Magtanong ka sa opisina ng Provost Marshal-General.
+78_xx00xxxx_14B_0003 Ang opisinang ito ang dumidinig sa mga problema mo o reklamo sa mga aktibong sundalo,
+78_xx00xxxx_14B_0004 kinakailangan mong magdala ng mga kaukulang dokumento paghaharapin kayong mag-asawa upang ayusin ang iyong problema.
+78_xx00xxxx_14B_0005 Maaaring ang i-mismong opisinang ito ang mag-utos sa iyong asawa na bawasin sa sahod ang sustento para sa inyong.
+78_xx00xxxx_14B_0006 Hindi natin dapat i-tanim sa isipan ang kahapon at mabuhay ng para sa kahapon naman.
+78_xx00xxxx_14B_0007 Tapos na iyon at hindi na muling ibabalik pa.
+78_xx00xxxx_14B_0008 Bakit hindi na lang natin tanawin ang bukas at paghandaan ang anumang pagsubok na maaaring dumating pa?
+78_xx00xxxx_14B_0009 Kung may suliranin, harapin ito ng buong tatag.
+78_xx00xxxx_14B_0010 Huwag magmukmuk at magsawalang kibona lamang.
+78_xx00xxxx_14B_0011 Sa pagkakakilala ko sa kanya, hindi naman siya masamang tao.
+78_xx00xxxx_14B_0012 Madalas nga ay wala siyang kibo pero nakikipag-usap siya sa akin noong mga panahon na malapit pa ang kanilang bahay sa amin.
+78_xx00xxxx_14B_0013 Marami siyang kinuwento sa akin tungkol sa dati niyang buhay noong nasa probinsya pa siya.
+78_xx00xxxx_14B_0014 Saan ka nakatira?
+78_xx00xxxx_14B_0015 Mali ang magnakaw, di ba?
+78_xx00xxxx_14B_0016 Sino kasama mo lumabas?
+78_xx00xxxx_14B_0017 Kailangan ang birthday mo.
+78_xx00xxxx_14B_0018 Kailangan ang birthday mo.
+78_xx00xxxx_14B_0019 Kukuha ka ba ng exam?
+78_xx00xxxx_14B_0020 Bumaba ka rito?
+78_xx00xxxx_14B_0021 Palayasin mo siya.
+78_xx00xxxx_14B_0022 Pakiluto itong isda.
+78_xx00xxxx_14B_0023 Magandang araw po.
+78_xx00xxxx_14B_0024 Maligayang karawan.
+78_xx00xxxx_14B_0025 Iwan mo na ang mga withdrawals.
+78_xx00xxxx_14B_0026 Ang mga zebra ay lumalakad sa apat na paa.
+78_xx00xxxx_14B_0027 Ang ungoy ay nakita noong Friday.
+78_xx00xxxx_14B_0028 Siya ay isang imahe ng dalagang Pilipina.
+78_xx00xxxx_14B_0029 Isuot mo ang chinelas.
+78_xx00xxxx_14B_0030 Siya ay tumutugtog ng violin at flute sa Vilinsuela.
+78_xx00xxxx_14B_0031 Jogging ang mabisang exercise.
+78_xx00xxxx_14B_0032 Tagpuan, din, kinuwento, nagtrabaho, tahanan, kita, nagtratrabaho, takas, dinamay, ko, nagtutulungan, takdin.
+78_xx00xxxx_14B_0033 Takbo, dinanas, kompositor, nagtuturo, takdang, dinasal, kong, nahiga, takot, dingin, konstruksyon, nahuhuli, taxi.
+78_xx00xxxx_14B_0034 Taxi, dinig, koche, naintindihan, talaga, dinilaan, krimen, naisahan, talampakan, direksyon, kukuha, nakagagawa, tali, direcho, kulang, nakakapagtakang, talo, desyembre, kulay, nakakasilaw, talon.
+78_xx00xxxx_14B_0035 Jogging, maamong, narastong, nakataktang, kilong, kakulangan, dito, kulit, nakakita, diwata, kulitin, nakalabas, dyan, kulog, nakapagtapos, tama, diyos, kumain, nakatira, tamad, doktor, kumanta, nakatulog, tambakan, dokumento, kumbento, nakausap, tanawin, drama,
+78_xx00xxxx_14B_0036 kumilos, nakausli, tanga, dugo, kundi, nakao, tanghali, dugtong, kong, nakawan, tanim, dugtungan, kunin, nagkipag-usap, taniman, dumaan, kuntento, nakita, tao, dumalo, kusa, nalalanghap, taon, dumamay, kuarto, nalasing, taong,
+78_xx00xxxx_14B_0037 dumamba, dumamba, kwento, nalito, tapakan, dumami, labi, nalulugi, tapat, dumapa, labing, naman, tapon, dumarami, labis, namatay, tapos, dumating, lagay, namin, tapusin, dumilagi, namumunga,
+78_xx00xxxx_14B_0038 tara, tara, dumidinig, laging, nananalangin, tatag, dumilat, laglag, nanay, tatakbo, doon, lagpas, nandito, tauhan, edad, lagpasan.
+78_xx00xxxx_14B_0039 Nandiyan, tawad, eh, lagyan, nang, tawag, exam, lahat, naninirahan, tawagan, elementaria, lahok, nanliligaw, tawiran, inero, lakad, napag-iiwanan, tai, entablado, lakas, napansin, taya, iskwela, lalaki,
+78_xx00xxxx_14B_0040 napatingin, tayaan, eto, lalaking, nalito, tayo, ewan, lalapit, narian, tayo, faksyon, lalo, nars, tayoan, familia, laman, naroon, deka, familiar, lamang, nasa, telefonono,
+78_xx00xxxx_14B_0041 fanatik, lamangan, nasaan, tigil, fantastic, lambing, nasagasaan, tigilan, federesyon, lambingan, lambingan, nasira, tigilin, feminist, lamok, nasiraan, tikim, fevor, lang, nasugatan, tikman, fake, langit, natataniman, tila, fair, lansa,
+78_xx00xxxx_14B_0042 natin, timpla, face, towel, nantaran, nating, timplahan, figurine, laos, laos, natira, tinamad, fiesta, lapit, nauunahan, tinambakan, gaan, lapitan, nawala, tinapon, gaano,
+78_xx00xxxx_14B_0043 lara, nawalan, tinatangkilik, gabi, narangan, nawawala, tindi, supporter, gagawa, laro, negosyo, sitcom, tiniis, galangin, laruan, nenita, tinirhan,
+78_xx00xxxx_14B_0044 galing, laruan, nang, tinutukoy, galing, lasa, nga, tira, galingan, nasahan, ngang, tiwala, gamit, lasengo, ngayon, tiak, gamitin, lasing, ngipin, tiyan, gamot, laya, ngunit, totoo, ganap, layas, ni, trabaho, ganda, layasan.
+78_xx00xxxx_14B_0045 Nila, trahedya, gandahan, layo, nilagay, check, ganito, layuan, nilakbay, cheque, ganoon, layuin, layuin, nilang, chinelas, ganyan, lingwahe, nilapit, chismis, gas, libangan, nilapitan, tubig, gasgasan, libig, nilasing, tula, gastos, liblib, nilusob, tulad,
+78_xx00xxxx_14B_0046 gastusan, libro, nining, tulo, gastusin, ligaw, nino, tulungan, gatas, ligawan, ninyo, tumakas, gatong, ligaya, nitong, tumakbo, gaya, ligo, nya, tumalon, gayahin, digpitin, nyan, tumatanda, gate,
+78_xx00xxxx_14B_0047 liham, nyang, tumatawag, gigil, lihim, nyo, tumawag, gilid, liko, nobyembre, tumawid, giling, likot, noong, tumayo, gilingin, likoan, numero, giliw, lima, nung, gimik, limos, nuod, tunay, ginang, lindol, okey, tungkol,
+78_xx00xxxx_14B_0048 ginhawa, lingong, okra, tunog, ginsa, dingo, lingo, oktubre, turo, ginoo, lingon, oo, tuid, ginto, dinis, opisina, ube, gintong, dinisin, opisinang, ubo, gising, linlang, opo, ubuhin, gisingin, linta, oras, ubusin, gitna, nisanin, orasan,
+78_xx00xxxx_14B_0049 gali, gubat, ditao, oso, ugat, gulang, dito, oto, uhaw, gulangan, lituhin, pa, ulam, gulat, lukohan, paa, ulan, gulatin, lukohin, pakiat, ulanan, gulay, paadis.
+78_xx00xxxx_14B_0050 gulang, gulo, paano, uli, gulod, paaralan, ulit, gulpe, pabalik, ulitan, gulpehin, paborito, ulitin, guluhin, padamdam, ulo, gumamit, pader, rosario, restaurant, records, limang, inusenting, pangangilangan, pinangyarihan, umabot, gumiling, lupang, pagbati, umaga, gumising, maaari,
+78_xx00xxxx_14B_0051 pagbibigay, umalis, gunting, maaaring, pagdami, umarte, gupit, maabilidad, pagdating, umihi, gupitan, maabot, paggawa, umiyak, gupitin, maaga, paghaharapin, gusali, maagang, paghandaan, gusto, maalak, paghina, gustuhin, maaliwalas, pagibig, maasim, pagiging, haba, mabagal,
+78_xx00xxxx_14B_0052 pagkabigla, una, habaan, mabaho, nakilalang, magtipitong, nasabing, parangal, karangalan, dating, lanong, pagkabuhat, unahan, habang, mabait, pagkain, unang, naghagdanan, mabango, pagkakakilala,
+78_xx00xxxx_14B_0053 universidad, haharapin, mabayaran, pagkakataong, uod, halaga, mabilis, pagkakautang, upang, halaman, mabuhay, pagkakuha, upo, halain, mabuo, pagkatalo,
+78_xx00xxxx_14B_0054 upuan, halika, mabuti, pagkatapos, uri, halina, madaanan, pagkawala, usapan, halos, madalas, pagkuha, utang, hambing, madali, pagod, uunlad, handa, madami, pagpapabaya, uwi, handaan, madarama, pagsubmit, valedictorian,
+78_xx00xxxx_14B_0055 hanggang, madidilat, pagsubok, valuable, hangin, madidilaw, pagulan, vanilya, hapag, magagandang, pakialam, vibes, hapon, magaling, paki bukas.
+78_xx00xxxx_14B_0056 Violet, harap, maganda, pakigamot, vice versa, ginawang, pangyayaring, anyang, pambansang, mabigyang, panunungkulang, kataas-taasang,
+78_xx00xxxx_14B_0057 tayong, magsabong, magsawalang kibo, kasamahan, ibang, mapayapang, harapan, magandang, pakigawa, vendoh, harapin, mag-aral, pakihugas, veranda, hasa, mag-asawa, pakiiwan, versatid, hasain, mag-asawang, pakikanta, versus, hataw, magawa,
+78_xx00xxxx_14B_0058 vigilante, hatawin, magbago, wagi, hatid, magbantay, pakinabang, wakas, hawaan, magbasa, pakiusap, wala, hawakan, magbasag, pakiusapan, walang, hayag, magbawas, paksa, walis, hayop, magbayad, pala, walo, high school,
+78_xx00xxxx_14B_0059 magbenta, palabas, walong, general, magbigayan, palad, warat, higaan, magbilang, palawakin, wasak, hila, magbubukid, palayasin, wika, hilahan, magdala, palipasa, yaman, hilain, magdasal, paliwanagan, yan, hilingin, maghanda, pambihira, yari,
+78_xx00xxxx_14B_0060 recreation, kongreso, pagmamahal, namayapang, magsasalita, senate, sekretary, abalang, alamang, manggugulo, manggulo, nangyari, darating, humuhingi, dalawampong, narsing, himbing, maghapon, pamilya,
+78_xx00xxxx_14B_0061 yaya, hina, maghihintay, yayain, hinayang, maghihintay-hintay, maghintay-hintay, panaginip, yelo, hindi, magiging, panahon, yero, hiningan, maging, pananim, yoyo, hinintay, magisa, pandak, yumao, hinipuan, magkaibigan, pang, yung, hintay, magkakabisa,
+78_xx00xxxx_14B_0062 pangalan, zero, hintayin, magkakaibigan,
+78_xx00xxxx_14B_0063 Panganim, zigzag, hinto, magkakapatid, pangarap, zinya, hintong, magkakaroon, pangit, zipper, hintuan, panglima, hipan, magkamay, pangyayari, hipanin, magkapamilya, paningin, hipo, magkasama, pantalon, hipuan, maglagay,
+78_xx00xxxx_14B_0064 hirap, maglita, para, hos, parang, hotel, pasahin, hugasan, magnakaw, pasko, nakakulong sessions.
+78_xx00xxxx_14B_0065 Bas, bat, bau, bay, ben, bid, big, bik, bil, bin, bim, bing, bis, bit, bog, bon, bong, bot, boi, bug, bur, bok, bol, bril, blu, bre, baks, bre, bul, ber, bra, da, de, di, do, du, dag,
+78_xx00xxxx_14B_0066 dal, di, dra, dad, dug, dak, dal, dib, dam, de, dan, dig, dig, ga, ge, gi, go, gu, god, gua, gaw, gin, giu, gos, gas, gay, gan, gil, git, gul, gun, gal, gus,
+78_xx00xxxx_14B_0067 gab, fa, fe, fi, fo, fu, fis, fan, fies, fig, ha, he, hi, ho, hu, hin, hau, han, hai, hit, hoi, has, hil, him, hag, hul, ham,
+78_xx00xxxx_14B_0068 ja, je, ji, jo, ju, jit, juk, jun, ka, ke, ti, go, gu, kid, kin, got, kit, kum, kund,
+78_xx00xxxx_14B_0069 kas, kam, kal, kan, kit, kat, kaw, kim, kip, la, le, li, lo, lu, lok, los, lam, lin, ling, lit, lik, lung, lang, lan, lat, lid, liu, law, long, leng, lis, las, les, lag, lam, lun, lon,
+78_xx00xxxx_14B_0070 lun, lon, lis, ma, me, mi, mo, mu, mag, mar, mis, min, mil, mok, men, mang, may, mit, mik, man, mun, mad, mak, mat, na, ne, nin, no, nu, nag, nai, nib, nau, nen, nok, nan, nig, nin,
+78_xx00xxxx_14B_0071 nang, nog, nak, nim, nas, nig, nob, nam, nil, nga, nge, ngi, ngo, ngu, ngan, nog, ngin, ngay, nye, nin, ngon, pa, be, pi, po, pu, pag, pak, pas, pat, pet, pon, poy, pin, pan, pit,
+78_xx00xxxx_14B_0072 plang, pang, ping, pir, peb, pos, pun, per, ra, re, ri, ro, ru, ras, ral, rang, rat, ran, rau, rin, ret, rap, rong, sa, se, si, so,
+78_xx00xxxx_14B_0073 siyem, sin, sak, siyon, san, sip, sul, sog, skwe, lasal, sim, sing, sag, sig, sok, sep, sil, sis, suk, sul, sol, sum, sun, sung, sus, suwe, ta, te, ti, to, tu, tan, tai, tas,
+78_xx00xxxx_14B_0074 or, tik, tes, tok, tau, tin, tab, tik, tel, tos, tong, tid, ten, teng, tak, tam, tim, tid.
+78_xx00xxxx_14B_0075 Cha, che, chi, cho, chu, chis, va, ve, vi, vo, vu, ven, ver, vais, wa, we, wi, wo, wu, wid, wad, wag, wai, wel, wan, wak, was, wat, win, wang, wing, wong,
+78_xx00xxxx_14B_0076 yang, ye, i, yo, yu, yem, yin, yad, yat, yan, yar, yos, yer, yag, yang, yak, yon, yor, za, ze, zi, zo, zu, zin, ang, as, ak, ay, at, ar, an, am, ag, en, em, eng, ed, es,
+78_xx00xxxx_14B_0077 in, in, im, bung, dang, dong, ging, gang, gong, hang, hing, hong, ging, gang, gong, kung, ming, mong, mung, nying, nong, nung, neng, ngun,
+78_xx00xxxx_14B_0078 ngin, pung, pong, ring, sang, song, sing, tang, teng, tung, chang, chong, ching, ying, yong, yung.
+78_xx00xxxx_14B_0079 Bab, bed, bem, bow, wa, bui, das, dai, del, den, dog, dos, da, gad, gag, gam, gap, far, fat, fel, fing, fo, hab, had, hat, hen, hid, hog, hung, jag, jack, jas,
+78_xx00xxxx_14B_0080 jazz, jing, joy, cab, kad, gag, ken, kib, kog, kow, koy, kur, lab, lab, lay, log, lo, loy, luk, mal, mem, mip, mir, mow, mug, muk, nab,
+78_xx00xxxx_14B_0081 nad, nal, neg, nep, nip, nir, nos, nou, nus, ngas, ngek, nyik, ngop, pad, peng, pik, pow, puk, pus, rab, rab, rad, rag, rak, rem, ren, riz, ra,
+78_xx00xxxx_14B_0082 sad, sat, sei, so, sui, tad, tag, dem, ten, tog, tow, chap, chick, chas, chok, choy, vak, val, das, vin, vol, wal, ware, wed, wal, yung, doon,
+78_xx00xxxx_14B_0083 Chok, Choy, Vak, Val, Ves, Vin, Vol, Wal, War, Wed, Wol, Yab, Yap, Yaw, Zam, Zay, Zig.
+78_xx00xxxx_14B_0084 Akin aktibong amin ang anumang apat araw asawa at ay ayusin ba ba bahay. Bakit bawasin birthday, buhay, bukas, bumaba, buong dalagang.
+78_xx00xxxx_14B_0085 Dapat, dati, di, dokumento, dumating, dumidinig, exam, exercise, flute, free die, harapin, hindi.
+78_xx00xxxx_14B_0086 Wag imahe inyo, inyong ipabawas isang isda, isipan, isuot, itanim, ito, itong, iwan, iyon, iyong, general, jaging, ka, kaarawan, kahapon, kailan, kanilang, kanya, kasama, kaokolang, kayong, kibo,
+78_xx00xxxx_14B_0087 kinakailangan, kinuwento, ko, kukuha, kung, lamang, lang, lumabas, lumalakad, maaaring, mabisang, mabuhay, madalas, magandang, magasawa, magdala, magmukmuk, magnakaw, magsawalang kibo,
+78_xx00xxxx_14B_0088 magtanong, magutos, maibalik, malapit, mali, maligayang, marami, marsyal, masamang, may, mga, mismong, mo, mong, muling, na, nakatira, nakikipagusap, nakita, naman, nasa, natin, nating, nang, nga, nyang,
+78_xx00xxxx_14B_0089 nuong, nuong, oh, opisina, opisinang, pa, paa, paghaharapin, paghandaan, pagkakakilala, pagsubok, pagkiluto, palayasin, pamilya, panahon, para, pero, pilipina, po, probinsya, problema, probos, riklamo, rito.
+78_xx00xxxx_14B_0090 Sa, saan, sahod, sino, siya, siya, siyang, suliranin, sundalo, sustento, sweldo, tanawin, tao, tapos, tatag, chinelas, tumut, tugtog, tungkol, unggoy, upang, vilinsuela, vilin, walang, widrawals,
+78_xx00xxxx_14B_0091 zebra.

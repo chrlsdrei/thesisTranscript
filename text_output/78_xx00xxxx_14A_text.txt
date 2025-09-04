@@ -1,0 +1,886 @@
+78_xx00xxxx_14A_0001 Ako po ay 26 na años at 4 na taon ng nagtatrabaho dito
+78_xx00xxxx_14A_0002 dahil sa hirap ng buhay at maaga pang namatay ang aming ama.
+78_xx00xxxx_14A_0003 Kaya ako lamang ang nakapagtapos ng high school at ang iba kong kapatid ay elementary alang.
+78_xx00xxxx_14A_0004 Walo kaming magkakapatid at panganim ako pagkatapos ng high school
+78_xx00xxxx_14A_0005 ay agad akong pumunta rito at nagtrabaho binang katulong sa isang carpintero.
+78_xx00xxxx_14A_0006 Noong unang panahon, may isang magsasaka na lumisan nilakbay niya ang malawak ng kapatagang pakiyat ng kabundukan.
+78_xx00xxxx_14A_0007 Binaybay ang gilid ng mahabang ilog, sinuot ng masukal na gubat,
+78_xx00xxxx_14A_0008 ang hirap na dinanas ng kanyang kaibigan ay dinanas din niya at iniis hanggang sa makarating siya sa ikapitong bundok.
+78_xx00xxxx_14A_0009 Madalas nilang kantawan si Angelic, na siya palang naninirahan sa bukid.
+78_xx00xxxx_14A_0010 Lagi namang itinatanggi ng dalaga ang bagay na iyon at pinaninindigan na masisira ang hula ng matandang egorota.
+78_xx00xxxx_14A_0011 Never itong tumira ng nayon, mananatili siya sa Manila forever.
+78_xx00xxxx_14A_0012 Iyon ang madalas na isinasagot ni Angelic sa mga kaibigan.
+78_xx00xxxx_14A_0013 Sentence
+78_xx00xxxx_14A_0014 Paano nyo masisigurado na makikita ninyo siya rito?
+78_xx00xxxx_14A_0015 Sasamahan mo ako mamaya, di ba?
+78_xx00xxxx_14A_0016 Tumalon kamo ang iyong puso.
+78_xx00xxxx_14A_0017 Ano ba kayo?
+78_xx00xxxx_14A_0018 Bakit matamlay siya?
+78_xx00xxxx_14A_0019 Mag-aral ka na.
+78_xx00xxxx_14A_0020 Halik ka rito.
+78_xx00xxxx_14A_0021 Kumain na tayo.
+78_xx00xxxx_14A_0022 Tulungan mo naman kami.
+78_xx00xxxx_14A_0023 Kumanta ka naman.
+78_xx00xxxx_14A_0024 Nawawala ang anak ko.
+78_xx00xxxx_14A_0025 Masakit ha?
+78_xx00xxxx_14A_0026 Chinelas daw.
+78_xx00xxxx_14A_0027 Gusto ko nang tyaa.
+78_xx00xxxx_14A_0028 Bawal yan.
+78_xx00xxxx_14A_0029 Siya si Mayor Jesus Sebastián.
+78_xx00xxxx_14A_0030 Humuhuli sa mga bumababoy sa kalikasan.
+78_xx00xxxx_14A_0031 Ang Villanina Georgie ay malapit sa Zambales.
+78_xx00xxxx_14A_0032 Sa water fun masarap maligo.
+78_xx00xxxx_14A_0033 Doon ko nakita si Don Solueta ng Fiesta.
+78_xx00xxxx_14A_0034 Maganda sa Hollywood Showies.
+78_xx00xxxx_14A_0035 Pangulo.
+78_xx00xxxx_14A_0036 Magnanakaw.
+78_xx00xxxx_14A_0037 Lungsod.
+78_xx00xxxx_14A_0038 Kasalukuyang.
+78_xx00xxxx_14A_0039 Aabutan.
+78_xx00xxxx_14A_0040 Hugis.
+78_xx00xxxx_14A_0041 Magpalimos.
+78_xx00xxxx_14A_0042 Paso.
+78_xx00xxxx_14A_0043 Aalis.
+78_xx00xxxx_14A_0044 Huling.
+78_xx00xxxx_14A_0045 Magpipitong.
+78_xx00xxxx_14A_0046 Magsabong.
+78_xx00xxxx_14A_0047 Showing.
+78_xx00xxxx_14A_0048 Ngayong.
+78_xx00xxxx_14A_0049 Patak.
+78_xx00xxxx_14A_0050 Humahataw.
+78_xx00xxxx_14A_0051 Magsama.
+78_xx00xxxx_14A_0052 Masyadong.
+78_xx00xxxx_14A_0053 Patay.
+78_xx00xxxx_14A_0054 Humanda.
+78_xx00xxxx_14A_0055 Magsanay.
+78_xx00xxxx_14A_0056 Masamang.
+78_xx00xxxx_14A_0057 Agad.
+78_xx00xxxx_14A_0058 Humihingi.
+78_xx00xxxx_14A_0059 Pangalagaan.
+78_xx00xxxx_14A_0060 Agahan.
+78_xx00xxxx_14A_0061 Hunyo.
+78_xx00xxxx_14A_0062 Galawang.
+78_xx00xxxx_14A_0063 Magsasaka.
+78_xx00xxxx_14A_0064 Patungpatong.
+78_xx00xxxx_14A_0065 Agaw.
+78_xx00xxxx_14A_0066 Husgahan.
+78_xx00xxxx_14A_0067 Magsawa.
+78_xx00xxxx_14A_0068 Agawin.
+78_xx00xxxx_14A_0069 Wag.
+78_xx00xxxx_14A_0070 Kinauukulang.
+78_xx00xxxx_14A_0071 Magsawalang kibo.
+78_xx00xxxx_14A_0072 Pautos.
+78_xx00xxxx_14A_0073 Mapapakinabangan.
+78_xx00xxxx_14A_0074 Febrero.
+78_xx00xxxx_14A_0075 Hating gabi.
+78_xx00xxxx_14A_0076 Akayin.
+78_xx00xxxx_14A_0077 Magsikap.
+78_xx00xxxx_14A_0078 Pera.
+78_xx00xxxx_14A_0079 Akin.
+78_xx00xxxx_14A_0080 Swimming.
+78_xx00xxxx_14A_0081 Magtagumpay.
+78_xx00xxxx_14A_0082 Pero. Aking.
+78_xx00xxxx_14A_0083 Ibagsak.
+78_xx00xxxx_14A_0084 Magtanim.
+78_xx00xxxx_14A_0085 Petcha.
+78_xx00xxxx_14A_0086 Ako. Magtanong.
+78_xx00xxxx_14A_0087 Akong. Ibang.
+78_xx00xxxx_14A_0088 Pilat. Senatorial.
+78_xx00xxxx_14A_0089 Aktibong.
+78_xx00xxxx_14A_0090 Magusap. Pili.
+78_xx00xxxx_14A_0091 Akiat.
+78_xx00xxxx_14A_0092 Magutos. Alagaan.
+78_xx00xxxx_14A_0093 Ibigin.
+78_xx00xxxx_14A_0094 Mahabang. Piliin.
+78_xx00xxxx_14A_0095 Alalayan. Idein.
+78_xx00xxxx_14A_0096 Spokesman.
+78_xx00xxxx_14A_0097 Tatanggapin. Mahal.
+78_xx00xxxx_14A_0098 Pinagiba. Alam.
+78_xx00xxxx_14A_0099 Idikit.
+78_xx00xxxx_14A_0100 Mahalan. Pinaglalagyan.
+78_xx00xxxx_14A_0101 Alisin.
+78_xx00xxxx_14A_0102 Ihatid. Pinagpuputol.
+78_xx00xxxx_14A_0103 Ihayag.
+78_xx00xxxx_14A_0104 Mahirap. Pinagsabihan.
+78_xx00xxxx_14A_0105 Alukin.
+78_xx00xxxx_14A_0106 Iisa. Mahuli.
+78_xx00xxxx_14A_0107 Pinalawak. Ama.
+78_xx00xxxx_14A_0108 Ikalat.
+78_xx00xxxx_14A_0109 Maibabalik. Pinanunuod.
+78_xx00xxxx_14A_0110 Ikanta. Maingay.
+78_xx00xxxx_14A_0111 Pinatakbo.
+78_xx00xxxx_14A_0112 Aming. Ikapitong.
+78_xx00xxxx_14A_0113 Anak. Ikasa.
+78_xx00xxxx_14A_0114 Maintindihan.
+78_xx00xxxx_14A_0115 Pinto. Ang.
+78_xx00xxxx_14A_0116 Maipaliwanag.
+78_xx00xxxx_14A_0117 Pintura.
+78_xx00xxxx_14A_0118 Anim. Maipapayo.
+78_xx00xxxx_14A_0119 Anino. Ikaw.
+78_xx00xxxx_14A_0120 Mais.
+78_xx00xxxx_14A_0121 Piraso. Ano.
+78_xx00xxxx_14A_0122 Ilagay.
+78_xx00xxxx_14A_0123 Maitatanggi. Pirasong.
+78_xx00xxxx_14A_0124 Antay.
+78_xx00xxxx_14A_0125 Ilalagay. Makaabot.
+78_xx00xxxx_14A_0126 Pirma. Antayin.
+78_xx00xxxx_14A_0127 Maka dama.
+78_xx00xxxx_14A_0128 Pisa.
+78_xx00xxxx_14A_0129 Antok. Nangangahulugan.
+78_xx00xxxx_14A_0130 Maka kalimot.
+78_xx00xxxx_14A_0131 Pisain.
+78_xx00xxxx_14A_0132 Antukin. Ilang.
+78_xx00xxxx_14A_0133 Maka katapos.
+78_xx00xxxx_14A_0134 Pisingi.
+78_xx00xxxx_14A_0135 Anumang. Maka kuha.
+78_xx00xxxx_14A_0136 Piso.
+78_xx00xxxx_14A_0137 Años. Maka pagkalat.
+78_xx00xxxx_14A_0138 Apat. Ilibing.
+78_xx00xxxx_14A_0139 Maka pagsasabing.
+78_xx00xxxx_14A_0140 Po. Ilito.
+78_xx00xxxx_14A_0141 Maka pal.
+78_xx00xxxx_14A_0142 Posporo. Balitang.
+78_xx00xxxx_14A_0143 Yong.
+78_xx00xxxx_14A_0144 Apoy. Maka rating.
+78_xx00xxxx_14A_0145 Premyo. Ilong.
+78_xx00xxxx_14A_0146 Maka sali.
+78_xx00xxxx_14A_0147 Provincia.
+78_xx00xxxx_14A_0148 Makata. Araw.
+78_xx00xxxx_14A_0149 Impossible. Maka tulog.
+78_xx00xxxx_14A_0150 Aray.
+78_xx00xxxx_14A_0151 Ina. Maki angkas.
+78_xx00xxxx_14A_0152 Pumasok. Asa.
+78_xx00xxxx_14A_0153 Inaasahan.
+78_xx00xxxx_14A_0154 Makikita. Asahan.
+78_xx00xxxx_14A_0155 Inay. Makita.
+78_xx00xxxx_14A_0156 Pumunta.
+78_xx00xxxx_14A_0157 Asarin. Ingay.
+78_xx00xxxx_14A_0158 Makitid. Punas.
+78_xx00xxxx_14A_0159 Regulations.
+78_xx00xxxx_14A_0160 Asawa.
+78_xx00xxxx_14A_0161 Inhinnyero. Makuha.
+78_xx00xxxx_14A_0162 Puno. Aso.
+78_xx00xxxx_14A_0163 Punong.
+78_xx00xxxx_14A_0164 At ininsulto.
+78_xx00xxxx_14A_0165 Punta.
+78_xx00xxxx_14A_0166 Atin. Inis.
+78_xx00xxxx_14A_0167 Puntahan.
+78_xx00xxxx_14A_0168 Ugusto.
+78_xx00xxxx_14A_0169 Inisin. Malaking.
+78_xx00xxxx_14A_0170 Bupunta. Awang.
+78_xx00xxxx_14A_0171 Iniwan. Malalaki.
+78_xx00xxxx_14A_0172 Pusa. Away.
+78_xx00xxxx_14A_0173 Insulto.
+78_xx00xxxx_14A_0174 Rekord. Pusang. Awayan.
+78_xx00xxxx_14A_0175 Interesado.
+78_xx00xxxx_14A_0176 Rekomendasyon.
+78_xx00xxxx_14A_0177 Krimeng. Malamang. Puso.
+78_xx00xxxx_14A_0178 Awayin. Intindihin.
+78_xx00xxxx_14A_0179 Pwede. Ay.
+78_xx00xxxx_14A_0180 Inurong. Pweden.
+78_xx00xxxx_14A_0181 Ayoko. Inyo.
+78_xx00xxxx_14A_0182 Raho. Ayos.
+78_xx00xxxx_14A_0183 Inyong. Malawak.
+78_xx00xxxx_14A_0184 Raketa. Ayusin.
+78_xx00xxxx_14A_0185 Ipabawas.
+78_xx00xxxx_14A_0186 Rayuma. Ba.
+78_xx00xxxx_14A_0187 Ipagpatuloy. Reaksyon.
+78_xx00xxxx_14A_0188 Baba. Ipagtimpla.
+78_xx00xxxx_14A_0189 Siwang. Ganitong.
+78_xx00xxxx_14A_0190 Malayong. Babaan.
+78_xx00xxxx_14A_0191 Ipainom. Rebulto.
+78_xx00xxxx_14A_0192 Bababa.
+78_xx00xxxx_14A_0193 Maligayang. Babae.
+78_xx00xxxx_14A_0194 Ipasa. Babalik.
+78_xx00xxxx_14A_0195 Ipinatutupad.
+78_xx00xxxx_14A_0196 Relasyon.
+78_xx00xxxx_14A_0197 Bagay. Maliksi.
+78_xx00xxxx_14A_0198 Bago. Isa.
+78_xx00xxxx_14A_0199 Malinaw. Rin.
+78_xx00xxxx_14A_0200 Bagong. Isahan.
+78_xx00xxxx_14A_0201 Maliwanag.
+78_xx00xxxx_14A_0202 Ring.
+78_xx00xxxx_14A_0203 Bagsak.
+78_xx00xxxx_14A_0204 Isa isip. Maliwanagan.
+78_xx00xxxx_14A_0205 Rito. Bagsakan.
+78_xx00xxxx_14A_0206 Isang. Malungkot.
+78_xx00xxxx_14A_0207 Roon. Bagsakin.
+78_xx00xxxx_14A_0208 Mangyari.
+78_xx00xxxx_14A_0209 Kasong.
+78_xx00xxxx_14A_0210 Pautang. Isara.
+78_xx00xxxx_14A_0211 Mama.
+78_xx00xxxx_14A_0212 Bagyo. Isda.
+78_xx00xxxx_14A_0213 Mamamayan. Saan.
+78_xx00xxxx_14A_0214 Baha.
+78_xx00xxxx_14A_0215 Masang.
+78_xx00xxxx_14A_0216 Panunungkulan. Isigaw.
+78_xx00xxxx_14A_0217 Mamaya. Saan man.
+78_xx00xxxx_14A_0218 Bahala.
+78_xx00xxxx_14A_0219 Negosasyong.
+78_xx00xxxx_14A_0220 Linggo. Isilang.
+78_xx00xxxx_14A_0221 Sabado. Bahay.
+78_xx00xxxx_14A_0222 Isip.
+78_xx00xxxx_14A_0223 Man. Sabay.
+78_xx00xxxx_14A_0224 Baka. Mana.
+78_xx00xxxx_14A_0225 Sabayan. Bakit.
+78_xx00xxxx_14A_0226 Isipin.
+78_xx00xxxx_14A_0227 Manalangin. Sabi.
+78_xx00xxxx_14A_0228 Bakla.
+78_xx00xxxx_14A_0229 Itaas. Sabihan.
+78_xx00xxxx_14A_0230 Balang.
+78_xx00xxxx_14A_0231 Syobis. Bang.
+78_xx00xxxx_14A_0232 Bagong. Matanggap.
+78_xx00xxxx_14A_0233 Malaking. Itinatali.
+78_xx00xxxx_14A_0234 Mangahoy. Sabungan.
+78_xx00xxxx_14A_0235 Bansa.
+78_xx00xxxx_14A_0236 Itinuring.
+78_xx00xxxx_14A_0237 Manganib. Saglit.
+78_xx00xxxx_14A_0238 Bantay.
+78_xx00xxxx_14A_0239 Mangasar. Ingay.
+78_xx00xxxx_14A_0240 Barangay.
+78_xx00xxxx_14A_0241 Makiankas. Sahod.
+78_xx00xxxx_14A_0242 Labingsyam. Jaming.
+78_xx00xxxx_14A_0243 Among.
+78_xx00xxxx_14A_0244 Bantayan.
+78_xx00xxxx_14A_0245 Ito. Mangaway.
+78_xx00xxxx_14A_0246 Saka. Barangay.
+78_xx00xxxx_14A_0247 Shapping.
+78_xx00xxxx_14A_0248 Itong.
+78_xx00xxxx_14A_0249 Manggagamot.
+78_xx00xxxx_14A_0250 Basa.
+78_xx00xxxx_14A_0251 Iurong. Manggugulo.
+78_xx00xxxx_14A_0252 Sakto. Basa.
+78_xx00xxxx_14A_0253 Iusog.
+78_xx00xxxx_14A_0254 Ingisda. Sakuna.
+78_xx00xxxx_14A_0255 Basahin.
+78_xx00xxxx_14A_0256 Namamaya.
+78_xx00xxxx_14A_0257 Namamaya pang.
+78_xx00xxxx_14A_0258 Angkas. Notoriosong.
+78_xx00xxxx_14A_0259 Iuwi. Manlindang.
+78_xx00xxxx_14A_0260 Salamat.
+78_xx00xxxx_14A_0261 Baso. Iwan.
+78_xx00xxxx_14A_0262 Manok. Basong.
+78_xx00xxxx_14A_0263 Iwanan. Manuod.
+78_xx00xxxx_14A_0264 Successful. Basura.
+78_xx00xxxx_14A_0265 Iwas. Mapaliwanagan.
+78_xx00xxxx_14A_0266 Basurahan.
+78_xx00xxxx_14A_0267 Iwasan. Mapapakinabangan.
+78_xx00xxxx_14A_0268 Samahan.
+78_xx00xxxx_14A_0269 Bata. Iak.
+78_xx00xxxx_14A_0270 Sandwich.
+78_xx00xxxx_14A_0271 Mapapatingin. Batang.
+78_xx00xxxx_14A_0272 Iyan. Marami.
+78_xx00xxxx_14A_0273 Batiin. Iyo.
+78_xx00xxxx_14A_0274 Maraming. Sambayanan.
+78_xx00xxxx_14A_0275 Bato. Iyon.
+78_xx00xxxx_14A_0276 Sampo. Batuhin.
+78_xx00xxxx_14A_0277 Iyong. Marso.
+78_xx00xxxx_14A_0278 Marso.
+78_xx00xxxx_14A_0279 Sampong. Bawas.
+78_xx00xxxx_14A_0280 Magtanong. Iyong.
+78_xx00xxxx_14A_0281 Martes. Sana.
+78_xx00xxxx_14A_0282 Sana. Bawasan.
+78_xx00xxxx_14A_0283 Jacket.
+78_xx00xxxx_14A_0284 Marshal.
+78_xx00xxxx_14A_0285 Sandal.
+78_xx00xxxx_14A_0286 Sandal.
+78_xx00xxxx_14A_0287 Bawasin.
+78_xx00xxxx_14A_0288 Halosi.
+78_xx00xxxx_14A_0289 Mas. Subject.
+78_xx00xxxx_14A_0290 Rescue.
+78_xx00xxxx_14A_0291 Sandalan.
+78_xx00xxxx_14A_0292 Bawat. Janitor.
+78_xx00xxxx_14A_0293 Masagana. Sandali.
+78_xx00xxxx_14A_0294 Bayaan.
+78_xx00xxxx_14A_0295 Japan.
+78_xx00xxxx_14A_0296 Masaganang.
+78_xx00xxxx_14A_0297 Sapagkat. Bayad.
+78_xx00xxxx_14A_0298 General. Masahi.
+78_xx00xxxx_14A_0299 Sapakan.
+78_xx00xxxx_14A_0300 Bayan.
+78_xx00xxxx_14A_0301 Jeep. Masakit.
+78_xx00xxxx_14A_0302 Sara.
+78_xx00xxxx_14A_0303 Benta.
+78_xx00xxxx_14A_0304 Jujitsu. Masaklap.
+78_xx00xxxx_14A_0305 Sarahan.
+78_xx00xxxx_14A_0306 Birthday.
+78_xx00xxxx_14A_0307 Jukbox. Masama.
+78_xx00xxxx_14A_0308 Sarap. Bibig.
+78_xx00xxxx_14A_0309 Makapagsasabing.
+78_xx00xxxx_14A_0310 Makarating. Maingay.
+78_xx00xxxx_14A_0311 Gawang. Lang.
+78_xx00xxxx_14A_0312 Junior. Masamain.
+78_xx00xxxx_14A_0313 Bigas. Ka.
+78_xx00xxxx_14A_0314 Masamang.
+78_xx00xxxx_14A_0315 Semifinals.
+78_xx00xxxx_14A_0316 Semifinals.
+78_xx00xxxx_14A_0317 Masariling.
+78_xx00xxxx_14A_0318 Bigay.
+78_xx00xxxx_14A_0319 Kaarawan. Masarap.
+78_xx00xxxx_14A_0320 Masarisaring.
+78_xx00xxxx_14A_0321 Bigla. Kaaway. Masaya.
+78_xx00xxxx_14A_0322 Sasamahan.
+78_xx00xxxx_14A_0323 Biglang. Kabalikat.
+78_xx00xxxx_14A_0324 Masigla. Sawa.
+78_xx00xxxx_14A_0325 Bigo.
+78_xx00xxxx_14A_0326 Kabalyero.
+78_xx00xxxx_14A_0327 Masira. Saya.
+78_xx00xxxx_14A_0328 Biguin. Kabayo.
+78_xx00xxxx_14A_0329 Masisigurado. Segundo.
+78_xx00xxxx_14A_0330 Bigyan. Kabuhayan.
+78_xx00xxxx_14A_0331 Masisiguro.
+78_xx00xxxx_14A_0332 Semento. Victima. Kabundukan.
+78_xx00xxxx_14A_0333 Masukal.
+78_xx00xxxx_14A_0334 Sitiembre. Bilang.
+78_xx00xxxx_14A_0335 Tanong. Nagsasabing.
+78_xx00xxxx_14A_0336 Kagandahan. Masunog.
+78_xx00xxxx_14A_0337 Si. Ipinanganak.
+78_xx00xxxx_14A_0338 Ikinulong. Bilhan.
+78_xx00xxxx_14A_0339 Kahapon. Masuerte.
+78_xx00xxxx_14A_0340 Sibak. Bili.
+78_xx00xxxx_14A_0341 Kaharian. Masyado.
+78_xx00xxxx_14A_0342 Reliable.
+78_xx00xxxx_14A_0343 Sibakin.
+78_xx00xxxx_14A_0344 Binata.
+78_xx00xxxx_14A_0345 Kahit. Mata.
+78_xx00xxxx_14A_0346 Siga. Binati.
+78_xx00xxxx_14A_0347 Kahoy. Matalik.
+78_xx00xxxx_14A_0348 Sigaw. Pwedeng.
+78_xx00xxxx_14A_0349 Lutang.
+78_xx00xxxx_14A_0350 Lumutang. Nang.
+78_xx00xxxx_14A_0351 Binato.
+78_xx00xxxx_14A_0352 Kaibigan. Matalino.
+78_xx00xxxx_14A_0353 Sigawan. Binawasan.
+78_xx00xxxx_14A_0354 Kailan.
+78_xx00xxxx_14A_0355 Matamis. Sige.
+78_xx00xxxx_14A_0356 Binaybay.
+78_xx00xxxx_14A_0357 Kailangan. Matamlay.
+78_xx00xxxx_14A_0358 Sigla. Binenta.
+78_xx00xxxx_14A_0359 Kailangan. Matanda.
+78_xx00xxxx_14A_0360 Siguraduhin.
+78_xx00xxxx_14A_0361 Binibini. Kailanman.
+78_xx00xxxx_14A_0362 Matanggap.
+78_xx00xxxx_14A_0363 Sikat.
+78_xx00xxxx_14A_0364 Binigay.
+78_xx00xxxx_14A_0365 Kainan. Matapos.
+78_xx00xxxx_14A_0366 Sikip. Binihag.
+78_xx00xxxx_14A_0367 Kainin. Materiales.
+78_xx00xxxx_14A_0368 Sikipan. Binili.
+78_xx00xxxx_14A_0369 Kakampi.
+78_xx00xxxx_14A_0370 Matindi. Sila.
+78_xx00xxxx_14A_0371 Binisita. Kakatuwang.
+78_xx00xxxx_14A_0372 Matino. Silang.
+78_xx00xxxx_14A_0373 Bintana. Kalagayan.
+78_xx00xxxx_14A_0374 Matipuno. Silbi.
+78_xx00xxxx_14A_0375 Binuhusan. Kaladiman.
+78_xx00xxxx_14A_0376 Matulog. Silbihan.
+78_xx00xxxx_14A_0377 Binuksan. Kalangitan.
+78_xx00xxxx_14A_0378 Mauna. Silia.
+78_xx00xxxx_14A_0379 Biniyag. Kalat.
+78_xx00xxxx_14A_0380 May. Simbahan.
+78_xx00xxxx_14A_0381 Bisa. Kalawakan.
+78_xx00xxxx_14A_0382 Maya. Simple.
+78_xx00xxxx_14A_0383 Bisita. Kalayaan.
+78_xx00xxxx_14A_0384 Mayabang. Pwedeng.
+78_xx00xxxx_14A_0385 Praning.
+78_xx00xxxx_14A_0386 Ngayon. Sinama.
+78_xx00xxxx_14A_0387 Bituin.
+78_xx00xxxx_14A_0388 Kalikasan.
+78_xx00xxxx_14A_0389 Mayaman. Sinamahan.
+78_xx00xxxx_14A_0390 Bihaya. Kalimutan.
+78_xx00xxxx_14A_0391 Manila. Sindak.
+78_xx00xxxx_14A_0392 Viernes. Kaliwang.
+78_xx00xxxx_14A_0393 Mayo. Sindi.
+78_xx00xxxx_14A_0394 Blackboard. Kalsada.
+78_xx00xxxx_14A_0395 Mayroon.
+78_xx00xxxx_14A_0396 Sindihan. Bobo.
+78_xx00xxxx_14A_0397 Kalungkutan. May sakit.
+78_xx00xxxx_14A_0398 Singkit. Bola.
+78_xx00xxxx_14A_0399 Kali. Mensaje.
+78_xx00xxxx_14A_0400 Sinilang.
+78_xx00xxxx_14A_0401 Bolahan. Kama.
+78_xx00xxxx_14A_0402 Meron. Sino.
+78_xx00xxxx_14A_0403 Bote. Kamay.
+78_xx00xxxx_14A_0404 Mesa. Sinuman.
+78_xx00xxxx_14A_0405 Boyfriend. Kamayan.
+78_xx00xxxx_14A_0406 Mga. Sinungaling.
+78_xx00xxxx_14A_0407 Bugbog. Kami.
+78_xx00xxxx_14A_0408 Minsan. Sinunog.
+78_xx00xxxx_14A_0409 Bugbogin. Kaming. Sinuot.
+78_xx00xxxx_14A_0410 Buhay. Kamo.
+78_xx00xxxx_14A_0411 Sipag. Masasamang.
+78_xx00xxxx_14A_0412 Nagtanong. Bukas.
+78_xx00xxxx_14A_0413 Kampihan. Mismong.
+78_xx00xxxx_14A_0414 Sipagin. Bukid.
+78_xx00xxxx_14A_0415 Kamusta. Mirkules.
+78_xx00xxxx_14A_0416 Sipain. Buksan.
+78_xx00xxxx_14A_0417 Kang. Mo.
+78_xx00xxxx_14A_0418 Sipunin.
+78_xx00xxxx_14A_0419 Bumaba. Kanila.
+78_xx00xxxx_14A_0420 Mong. Sira.
+78_xx00xxxx_14A_0421 Bumati. Kanilang. Mukha.
+78_xx00xxxx_14A_0422 Sirain. Bumenta.
+78_xx00xxxx_14A_0423 Kanino.
+78_xx00xxxx_14A_0424 Sisinuhin. Bumigay.
+78_xx00xxxx_14A_0425 Kanta. Muling.
+78_xx00xxxx_14A_0426 Magtulungan. Magulang.
+78_xx00xxxx_14A_0427 Aking. Akong. Sistema.
+78_xx00xxxx_14A_0428 Bumili. Kantaan.
+78_xx00xxxx_14A_0429 Siya. Bumisita.
+78_xx00xxxx_14A_0430 Kanto. Siyang.
+78_xx00xxxx_14A_0431 Kanya. Sobra.
+78_xx00xxxx_14A_0432 Bundok. Kanyang.
+78_xx00xxxx_14A_0433 Munting. Sobre.
+78_xx00xxxx_14A_0434 Bunso. Kapag.
+78_xx00xxxx_14A_0435 Sofa. Buong.
+78_xx00xxxx_14A_0436 Kapahamakan. Nasubuk.
+78_xx00xxxx_14A_0437 Buto.
+78_xx00xxxx_14A_0438 Kapalaran. Naalala.
+78_xx00xxxx_14A_0439 Subukan. Buwan.
+78_xx00xxxx_14A_0440 Kapalarang. Nabanga. Sugal.
+78_xx00xxxx_14A_0441 Buwanang. Kapatagang.
+78_xx00xxxx_14A_0442 Nabasa.
+78_xx00xxxx_14A_0443 Sugat. Daan.
+78_xx00xxxx_14A_0444 Kapatawaran.
+78_xx00xxxx_14A_0445 Nadinig.
+78_xx00xxxx_14A_0446 Sugat.
+78_xx00xxxx_14A_0447 Daanan.
+78_xx00xxxx_14A_0448 Kapatid.
+78_xx00xxxx_14A_0449 Naga. Sugli.
+78_xx00xxxx_14A_0450 Daga. Kapitbahay.
+78_xx00xxxx_14A_0451 Nagaalaga. Suglian.
+78_xx00xxxx_14A_0452 Dagat. Nuong.
+78_xx00xxxx_14A_0453 Abangan.
+78_xx00xxxx_14A_0454 Sekons. Suspec.
+78_xx00xxxx_14A_0455 Suspec.
+78_xx00xxxx_14A_0456 Regulasyon.
+78_xx00xxxx_14A_0457 Aktibong. Kapuak.
+78_xx00xxxx_14A_0458 Nagaalis.
+78_xx00xxxx_14A_0459 Sukok. Dagdag.
+78_xx00xxxx_14A_0460 Karanasan.
+78_xx00xxxx_14A_0461 Nagaway.
+78_xx00xxxx_14A_0462 Sulat.
+78_xx00xxxx_14A_0463 Dagdagan. Karpintero.
+78_xx00xxxx_14A_0464 Nagbasa. Sulatan.
+78_xx00xxxx_14A_0465 Dahas.
+78_xx00xxxx_14A_0466 Kasabay. Nagbibigay.
+78_xx00xxxx_14A_0467 Sulatin. Dahil.
+78_xx00xxxx_14A_0468 Kasabian. Nagbigay.
+78_xx00xxxx_14A_0469 Suliranin. Dahilan.
+78_xx00xxxx_14A_0470 Kasama. Nagbubungkal.
+78_xx00xxxx_14A_0471 Sulit. Dahon.
+78_xx00xxxx_14A_0472 Kasamahan.
+78_xx00xxxx_14A_0473 Nagdidilim. Sulitin.
+78_xx00xxxx_14A_0474 Dahong. Show.
+78_xx00xxxx_14A_0475 Kasawian.
+78_xx00xxxx_14A_0476 Naginagpis.
+78_xx00xxxx_14A_0477 Sul-sol.
+78_xx00xxxx_14A_0478 Daigdig. Kasha.
+78_xx00xxxx_14A_0479 Naghirap. Sul-sulan.
+78_xx00xxxx_14A_0480 Dalaga. Katawan.
+78_xx00xxxx_14A_0481 Nagiging.
+78_xx00xxxx_14A_0482 Dalampasigan.
+78_xx00xxxx_14A_0483 Katulong. Naging.
+78_xx00xxxx_14A_0484 Sumbong. Dalawa.
+78_xx00xxxx_14A_0485 Kaunayan. Nagising.
+78_xx00xxxx_14A_0486 Sumisira. Dalawin.
+78_xx00xxxx_14A_0487 Payapang. Sangayon.
+78_xx00xxxx_14A_0488 Tatlong. Buang.
+78_xx00xxxx_14A_0489 Mapanghe. Maluwang.
+78_xx00xxxx_14A_0490 Pangulong.
+78_xx00xxxx_14A_0491 Kaokulang.
+78_xx00xxxx_14A_0492 Nagkaayusan.
+78_xx00xxxx_14A_0493 Sundalo.
+78_xx00xxxx_14A_0494 Sundalo.
+78_xx00xxxx_14A_0495 Dalidaling. Kaunaran.
+78_xx00xxxx_14A_0496 Nagkakaingin.
+78_xx00xxxx_14A_0497 Nagkakaingin.
+78_xx00xxxx_14A_0498 Sundan.
+78_xx00xxxx_14A_0499 Dambahin. Kaunti.
+78_xx00xxxx_14A_0500 Nagkamay.
+78_xx00xxxx_14A_0501 Sundo.
+78_xx00xxxx_14A_0502 Dami. Kaya.
+78_xx00xxxx_14A_0503 Nagkukwento. Sunduin.
+78_xx00xxxx_14A_0504 Damit. Kayo.
+78_xx00xxxx_14A_0505 Naglalarawan. Sungab.
+78_xx00xxxx_14A_0506 Damo. Kayong.
+78_xx00xxxx_14A_0507 Nagliliwanag.
+78_xx00xxxx_14A_0508 Sungaban. Dapat.
+78_xx00xxxx_14A_0509 Kibo. Nagmamadaling.
+78_xx00xxxx_14A_0510 Sungkit. Dasal.
+78_xx00xxxx_14A_0511 Kidlat. Nagpahinga.
+78_xx00xxxx_14A_0512 Sunog. Dasalan.
+78_xx00xxxx_14A_0513 Kilabot. Nagpalambot.
+78_xx00xxxx_14A_0514 Suot. Dati.
+78_xx00xxxx_14A_0515 Kilabutan.
+78_xx00xxxx_14A_0516 Nagpapakilala.
+78_xx00xxxx_14A_0517 Sustento.
+78_xx00xxxx_14A_0518 Dau. Kilala.
+78_xx00xxxx_14A_0519 Nagpapaligaya.
+78_xx00xxxx_14A_0520 Sueldo. Daya.
+78_xx00xxxx_14A_0521 Kilay.
+78_xx00xxxx_14A_0522 Nagpapayo. Taas.
+78_xx00xxxx_14A_0523 Dayaan.
+78_xx00xxxx_14A_0524 Kilos. Nagsabi.
+78_xx00xxxx_14A_0525 Taasan.
+78_xx00xxxx_14A_0526 Dayaan. Kinain.
+78_xx00xxxx_14A_0527 Nagsalita. Taba.
+78_xx00xxxx_14A_0528 Di.
+78_xx00xxxx_14A_0529 Kinakailangan.
+78_xx00xxxx_14A_0530 Patungong. Ginoong.
+78_xx00xxxx_14A_0531 Nangyaring. Mangyayari.
+78_xx00xxxx_14A_0532 Paputok. Unsehong.
+78_xx00xxxx_14A_0533 Kosehong. Aligasyong.
+78_xx00xxxx_14A_0534 Nagsasabog.
+78_xx00xxxx_14A_0535 Tabi. Dibdib.
+78_xx00xxxx_14A_0536 Kinakain.
+78_xx00xxxx_14A_0537 Nagsasalaysay. Tabihan.
+78_xx00xxxx_14A_0538 Dikit. Kinalalagyan.
+78_xx00xxxx_14A_0539 Nagsasalita.
+78_xx00xxxx_14A_0540 Tabo. Dikitan.
+78_xx00xxxx_14A_0541 Kinalat. Nagsawa.
+78_xx00xxxx_14A_0542 Tae. Dikitin.
+78_xx00xxxx_14A_0543 Kinangtahan.
+78_xx00xxxx_14A_0544 Nagtaka. Taga.
+78_xx00xxxx_14A_0545 Dilaan. Kinatatayuan.
+78_xx00xxxx_14A_0546 Nagtalo. Tagiliran.
+78_xx00xxxx_14A_0547 Delikado. Kinuha.
+78_xx00xxxx_14A_0548 Nagtatanong.
+78_xx00xxxx_14A_0549 Ba. Be.
+78_xx00xxxx_14A_0550 Bi. Bo. Bu.
+78_xx00xxxx_14A_0551 Bad. Bag.
+78_xx00xxxx_14A_0552 Bak.
+78_xx00xxxx_14A_0553 Bal. Bam.
+78_xx00xxxx_14A_0554 Bang. Bang.
+78_xx00xxxx_14A_0555 Bap. Bar.
+78_xx00xxxx_14A_0556 Bas. Bat.
+78_xx00xxxx_14A_0557 Bau. Bay.
+78_xx00xxxx_14A_0558 Ben. Bid.
+78_xx00xxxx_14A_0559 Bik.
+78_xx00xxxx_14A_0560 Bil. Bin. Bim.
+78_xx00xxxx_14A_0561 Bing. Bis. Bit.
+78_xx00xxxx_14A_0562 Bog. Bon.
+78_xx00xxxx_14A_0563 Bong. Bot.
+78_xx00xxxx_14A_0564 Boy.
+78_xx00xxxx_14A_0565 Bug. Bur.
+78_xx00xxxx_14A_0566 Bok. Bol.
+78_xx00xxxx_14A_0567 Bril. Blue.
+78_xx00xxxx_14A_0568 Bre. Box.
+78_xx00xxxx_14A_0569 Bre. Bull.
+78_xx00xxxx_14A_0570 Ber. Bra.
+78_xx00xxxx_14A_0571 Da. De.
+78_xx00xxxx_14A_0572 Di. Do. Du.
+78_xx00xxxx_14A_0573 Dag. Dal.
+78_xx00xxxx_14A_0574 Dik. Dra. Dad.
+78_xx00xxxx_14A_0575 Dug. Dak.
+78_xx00xxxx_14A_0576 Dal. Dib.
+78_xx00xxxx_14A_0577 Dam. Dey.
+78_xx00xxxx_14A_0578 Dan. Dig. Ding.
+78_xx00xxxx_14A_0579 Ga. Ge.
+78_xx00xxxx_14A_0580 Gi. Go. Gu.
+78_xx00xxxx_14A_0581 God. Gua.
+78_xx00xxxx_14A_0582 Gao. Gin.
+78_xx00xxxx_14A_0583 Giw. Gos. Gas.
+78_xx00xxxx_14A_0584 Gay. Gan.
+78_xx00xxxx_14A_0585 Gil. Git. Gul.
+78_xx00xxxx_14A_0586 Gun. Gal.
+78_xx00xxxx_14A_0587 Gus. Gat. Gab.
+78_xx00xxxx_14A_0588 Pa. Fe.
+78_xx00xxxx_14A_0589 Fi. Po. Fu.
+78_xx00xxxx_14A_0590 Fis. Fan.
+78_xx00xxxx_14A_0591 Fies.
+78_xx00xxxx_14A_0592 Fig. Ha. He.
+78_xx00xxxx_14A_0593 Hi. Ho.
+78_xx00xxxx_14A_0594 Hu. Hin. Hao.
+78_xx00xxxx_14A_0595 Han. Hai. Hit. Hoi.
+78_xx00xxxx_14A_0596 Has. Hil.
+78_xx00xxxx_14A_0597 Him. Hag.
+78_xx00xxxx_14A_0598 Hul. Ham.
+78_xx00xxxx_14A_0599 Ja. De.
+78_xx00xxxx_14A_0600 Di. Do. Du.
+78_xx00xxxx_14A_0601 Jit. Juk.
+78_xx00xxxx_14A_0602 Jun.
+78_xx00xxxx_14A_0603 Ga. Ge.
+78_xx00xxxx_14A_0604 Gi. Go. Gu.
+78_xx00xxxx_14A_0605 Kid. Gin. Got.
+78_xx00xxxx_14A_0606 It. Kung. Gun.
+78_xx00xxxx_14A_0607 Gas. Gam. Gal.
+78_xx00xxxx_14A_0608 Gan. Get.
+78_xx00xxxx_14A_0609 Kat. Kao. Kim.
+78_xx00xxxx_14A_0610 Kit. La.
+78_xx00xxxx_14A_0611 Le. Li. Lo.
+78_xx00xxxx_14A_0612 Lu. Lok. Los.
+78_xx00xxxx_14A_0613 Lam. Lin.
+78_xx00xxxx_14A_0614 Ling. Lit. Lik.
+78_xx00xxxx_14A_0615 Lung. Lan. Lan.
+78_xx00xxxx_14A_0616 Lat. Lid. Liu.
+78_xx00xxxx_14A_0617 Lau. Long.
+78_xx00xxxx_14A_0618 Leng. Lis. Las.
+78_xx00xxxx_14A_0619 Les. Lag. Lam.
+78_xx00xxxx_14A_0620 Lun. Lon.
+78_xx00xxxx_14A_0621 Lis. Ma.
+78_xx00xxxx_14A_0622 Me. Mi. Mo.
+78_xx00xxxx_14A_0623 Mu. Mag. Mar.
+78_xx00xxxx_14A_0624 Mis. Min. Mil.
+78_xx00xxxx_14A_0625 Mok. Men.
+78_xx00xxxx_14A_0626 Mang. Mai. Mit.
+78_xx00xxxx_14A_0627 Mik. Man.
+78_xx00xxxx_14A_0628 Mun. Mad. Mak.
+78_xx00xxxx_14A_0629 Mat. Na. Ne.
+78_xx00xxxx_14A_0630 Ni. No.
+78_xx00xxxx_14A_0631 Lu. Nag. Nai.
+78_xx00xxxx_14A_0632 Nib. Nau.
+78_xx00xxxx_14A_0633 Nen. Nok. Nan.
+78_xx00xxxx_14A_0634 Nig. Nin. Nang.
+78_xx00xxxx_14A_0635 Nog. Nak.
+78_xx00xxxx_14A_0636 Nim. Nas. Nig.
+78_xx00xxxx_14A_0637 Nob. Nam. Nil.
+78_xx00xxxx_14A_0638 Nga. Nge.
+78_xx00xxxx_14A_0639 Nghi. Ngo. Ngu.
+78_xx00xxxx_14A_0640 Ngan. Nog.
+78_xx00xxxx_14A_0641 Ngin. Ngay. Nye.
+78_xx00xxxx_14A_0642 Nin. Ngon.
+78_xx00xxxx_14A_0643 Pa. Pe. Pi.
+78_xx00xxxx_14A_0644 Po. Pu.
+78_xx00xxxx_14A_0645 Pag. Pak. Pas.
+78_xx00xxxx_14A_0646 Pat. Pet. Pon.
+78_xx00xxxx_14A_0647 Poy. Pin. Pan.
+78_xx00xxxx_14A_0648 Pit. Pla.
+78_xx00xxxx_14A_0649 Pang. Ping. Pir.
+78_xx00xxxx_14A_0650 Peb. Pos. Poon.
+78_xx00xxxx_14A_0651 Per. Rang. Re.
+78_xx00xxxx_14A_0652 Ri. Ro. Ru.
+78_xx00xxxx_14A_0653 Ras. Ral.
+78_xx00xxxx_14A_0654 Rang. Rat. Ran.
+78_xx00xxxx_14A_0655 Ro. Rau.
+78_xx00xxxx_14A_0656 Rin. Rep. Rap.
+78_xx00xxxx_14A_0657 Rong. Sa.
+78_xx00xxxx_14A_0658 Se. Si. So.
+78_xx00xxxx_14A_0659 Su. Shem. Sin.
+78_xx00xxxx_14A_0660 Sak. Shon. San.
+78_xx00xxxx_14A_0661 Sip. Sul. Sog.
+78_xx00xxxx_14A_0662 Skwe. Sal.
+78_xx00xxxx_14A_0663 Sim. Sing. Sag.
+78_xx00xxxx_14A_0664 Sig. Sog.
+78_xx00xxxx_14A_0665 Sep. Sil.
+78_xx00xxxx_14A_0666 Sis. Suk. Sul.
+78_xx00xxxx_14A_0667 Sol. Sum. Sun.
+78_xx00xxxx_14A_0668 Sung. Sus. Sue.
+78_xx00xxxx_14A_0669 Ta. Te.
+78_xx00xxxx_14A_0670 Ti. To. Tu.
+78_xx00xxxx_14A_0671 Tan. Tai. Tas.
+78_xx00xxxx_14A_0672 Dor. Tik. Tes.
+78_xx00xxxx_14A_0673 Tok. Tau. Tin. Tab.
+78_xx00xxxx_14A_0674 Tik. Tel. Tos.
+78_xx00xxxx_14A_0675 Tong. Tin. Ting.
+78_xx00xxxx_14A_0676 Ta. Te. Ti. To.
+78_xx00xxxx_14A_0677 Chu. Chis.
+78_xx00xxxx_14A_0678 Va. Ve. Vi.
+78_xx00xxxx_14A_0679 Vo. Vu.
+78_xx00xxxx_14A_0680 Ven. Ver. Vais.
+78_xx00xxxx_14A_0681 Wa. Ve. Vi.
+78_xx00xxxx_14A_0682 Vo. Vu.
+78_xx00xxxx_14A_0683 Vid. Wad. Wag.
+78_xx00xxxx_14A_0684 Wai. Wel. Wan.
+78_xx00xxxx_14A_0685 Wak. Was.
+78_xx00xxxx_14A_0686 Wat. Tumat.
+78_xx00xxxx_14A_0687 Tumat.
+78_xx00xxxx_14A_0688 Tumat.
+78_xx00xxxx_14A_0689 Tumat.
+78_xx00xxxx_14A_0690 Was. Wat.
+78_xx00xxxx_14A_0691 Win. Wang.
+78_xx00xxxx_14A_0692 Wing. Wong.
+78_xx00xxxx_14A_0693 Ya. Ye.
+78_xx00xxxx_14A_0694 Yi. Yo.
+78_xx00xxxx_14A_0695 Yu. Yem.
+78_xx00xxxx_14A_0696 Yin. Yad.
+78_xx00xxxx_14A_0697 Yat. Yan. Yar.
+78_xx00xxxx_14A_0698 Yos. Yer.
+78_xx00xxxx_14A_0699 Yag. Yang.
+78_xx00xxxx_14A_0700 Yak. Yon.
+78_xx00xxxx_14A_0701 Yor. Za.
+78_xx00xxxx_14A_0702 Ze. Zi.
+78_xx00xxxx_14A_0703 Zo. Zu.
+78_xx00xxxx_14A_0704 Zin. Ang.
+78_xx00xxxx_14A_0705 As. Ak.
+78_xx00xxxx_14A_0706 Ay. At.
+78_xx00xxxx_14A_0707 Ar.
+78_xx00xxxx_14A_0708 An. Am.
+78_xx00xxxx_14A_0709 Ag. En.
+78_xx00xxxx_14A_0710 Em. Eng.
+78_xx00xxxx_14A_0711 Ed. Es.
+78_xx00xxxx_14A_0712 Is. In.
+78_xx00xxxx_14A_0713 Ing. Im.
+78_xx00xxxx_14A_0714 Bung. Dang.
+78_xx00xxxx_14A_0715 Dong. Ging.
+78_xx00xxxx_14A_0716 Gang. Gong.
+78_xx00xxxx_14A_0717 Hang. Hing.
+78_xx00xxxx_14A_0718 Hong. Ging.
+78_xx00xxxx_14A_0719 Gang. Gong.
+78_xx00xxxx_14A_0720 Gung. Ming.
+78_xx00xxxx_14A_0721 Mong. Mung.
+78_xx00xxxx_14A_0722 Ning. Nong.
+78_xx00xxxx_14A_0723 Nung. Neng.
+78_xx00xxxx_14A_0724 Ngun. Ngin.
+78_xx00xxxx_14A_0725 Pung. Pong.
+78_xx00xxxx_14A_0726 Ring. Sang. Song.
+78_xx00xxxx_14A_0727 Sing. Tang.
+78_xx00xxxx_14A_0728 Teng. Tung.
+78_xx00xxxx_14A_0729 Jang. Jong.
+78_xx00xxxx_14A_0730 Jing. Ying.
+78_xx00xxxx_14A_0731 Yong. Yung.
+78_xx00xxxx_14A_0732 Bab.
+78_xx00xxxx_14A_0733 Bed. Bem.
+78_xx00xxxx_14A_0734 Bo.
+78_xx00xxxx_14A_0735 Boa. Boy.
+78_xx00xxxx_14A_0736 Das. Dai.
+78_xx00xxxx_14A_0737 Del. Den.
+78_xx00xxxx_14A_0738 Dog.
+78_xx00xxxx_14A_0739 Dos.
+78_xx00xxxx_14A_0740 Gad. Gak.
+78_xx00xxxx_14A_0741 Gam. Gap.
+78_xx00xxxx_14A_0742 Far. Fat.
+78_xx00xxxx_14A_0743 Fel. Fing.
+78_xx00xxxx_14A_0744 Pou. Fad.
+78_xx00xxxx_14A_0745 Hab. Had.
+78_xx00xxxx_14A_0746 Hab. Had.
+78_xx00xxxx_14A_0747 Hat. Hen.
+78_xx00xxxx_14A_0748 Hid. Hog.
+78_xx00xxxx_14A_0749 Hung. Jag.
+78_xx00xxxx_14A_0750 Jak. Jas.
+78_xx00xxxx_14A_0751 Jaz. Jing.
+78_xx00xxxx_14A_0752 Joy. Kab.
+78_xx00xxxx_14A_0753 Gad. Kag.
+78_xx00xxxx_14A_0754 Ken. Kib.
+78_xx00xxxx_14A_0755 Kog. Kou.
+78_xx00xxxx_14A_0756 Koi. Kur.
+78_xx00xxxx_14A_0757 Lab. Lad.
+78_xx00xxxx_14A_0758 Lai. Log.
+78_xx00xxxx_14A_0759 Lou. Loy.
+78_xx00xxxx_14A_0760 Mal. Mem.
+78_xx00xxxx_14A_0761 Mip. Mir.
+78_xx00xxxx_14A_0762 Mau. Mug.
+78_xx00xxxx_14A_0763 Muk. Nab.
+78_xx00xxxx_14A_0764 Nad. Nal.
+78_xx00xxxx_14A_0765 Neg. Nep.
+78_xx00xxxx_14A_0766 Nip. Nir. Nos.
+78_xx00xxxx_14A_0767 Nau. Nus.
+78_xx00xxxx_14A_0768 Ngas. Ngek.
+78_xx00xxxx_14A_0769 Ngik. Ngop.
+78_xx00xxxx_14A_0770 Pad. Peng.
+78_xx00xxxx_14A_0771 Pik. Pou.
+78_xx00xxxx_14A_0772 Puk. Pus.
+78_xx00xxxx_14A_0773 Rab. Rad. Rag.
+78_xx00xxxx_14A_0774 Rak. Rem. Ren.
+78_xx00xxxx_14A_0775 Ris. Rou.
+78_xx00xxxx_14A_0776 Sad. Sat.
+78_xx00xxxx_14A_0777 Sei.
+78_xx00xxxx_14A_0778 Sou. Sui.
+78_xx00xxxx_14A_0779 Tad. Tag.
+78_xx00xxxx_14A_0780 Tem. Ten. Tog.
+78_xx00xxxx_14A_0781 Taw. Chap.
+78_xx00xxxx_14A_0782 Cek. Ches.
+78_xx00xxxx_14A_0783 Chok. Choy.
+78_xx00xxxx_14A_0784 Vat. Val.
+78_xx00xxxx_14A_0785 Ves. Vin.
+78_xx00xxxx_14A_0786 Vol. Wal.
+78_xx00xxxx_14A_0787 War. Wed.
+78_xx00xxxx_14A_0788 Wal. Yab.
+78_xx00xxxx_14A_0789 Yap. Yaw.
+78_xx00xxxx_14A_0790 Zam. Zay.
+78_xx00xxxx_14A_0791 Zig.
+78_xx00xxxx_14A_0792 Agad.
+78_xx00xxxx_14A_0793 Ako. Akong.
+78_xx00xxxx_14A_0794 Ama. Aming.
+78_xx00xxxx_14A_0795 Anak. Ang.
+78_xx00xxxx_14A_0796 Angelic.
+78_xx00xxxx_14A_0797 Anim. Ano.
+78_xx00xxxx_14A_0798 Anos. Apat.
+78_xx00xxxx_14A_0799 At. Ay.
+78_xx00xxxx_14A_0800 Ba. Ba.
+78_xx00xxxx_14A_0801 Bagay. Bakit.
+78_xx00xxxx_14A_0802 Awal. Bilang.
+78_xx00xxxx_14A_0803 Binaybay. Buhay.
+78_xx00xxxx_14A_0804 Bukid. Bumababoy.
+78_xx00xxxx_14A_0805 Bundok. Dahil.
+78_xx00xxxx_14A_0806 Dalaga.
+78_xx00xxxx_14A_0807 Dalawampot. Dau.
+78_xx00xxxx_14A_0808 Daun. Di.
+78_xx00xxxx_14A_0809 Din. Binanas.
+78_xx00xxxx_14A_0810 Dinanas.
+78_xx00xxxx_14A_0811 Dito. Doon.
+78_xx00xxxx_14A_0812 Elementaria.
+78_xx00xxxx_14A_0813 Fiesta. Forever.
+78_xx00xxxx_14A_0814 Fun. Gilid.
+78_xx00xxxx_14A_0815 Gubat. Gusto.
+78_xx00xxxx_14A_0816 Ha. Halika.
+78_xx00xxxx_14A_0817 Hanggang. High School.
+78_xx00xxxx_14A_0818 Hirap. Hollywood.
+78_xx00xxxx_14A_0819 Hula. Humuhuli.
+78_xx00xxxx_14A_0820 Iba. Igorota.
+78_xx00xxxx_14A_0821 Ikapitong. Ilog.
+78_xx00xxxx_14A_0822 Isang. Isang.
+78_xx00xxxx_14A_0823 Isinasagot. Itinatanggi.
+78_xx00xxxx_14A_0824 Itong. Iyon.
+78_xx00xxxx_14A_0825 Iyong. Jesus.
+78_xx00xxxx_14A_0826 Hohi.
+78_xx00xxxx_14A_0827 Ka.
+78_xx00xxxx_14A_0828 Kabundukan. Kaibigan.
+78_xx00xxxx_14A_0829 Kaibigan.
+78_xx00xxxx_14A_0830 Kalikasan. Kami.
+78_xx00xxxx_14A_0831 Kaming. Kamu.
+78_xx00xxxx_14A_0832 Kanchawan.
+78_xx00xxxx_14A_0833 Kanyang. Kapatagang.
+78_xx00xxxx_14A_0834 Kapatid. Carpintero.
+78_xx00xxxx_14A_0835 Katulong. Kaya.
+78_xx00xxxx_14A_0836 Kayo. Ko.
+78_xx00xxxx_14A_0837 Kong. Kumain.
+78_xx00xxxx_14A_0838 Kumanta. Lagi.
+78_xx00xxxx_14A_0839 Lamang. Lang.
+78_xx00xxxx_14A_0840 Lumisan.
+78_xx00xxxx_14A_0841 Maaga.
+78_xx00xxxx_14A_0842 Madalas. Maganda.
+78_xx00xxxx_14A_0843 Magaral. Magkakapatid.
+78_xx00xxxx_14A_0844 Magsasaka. Mahabang.
+78_xx00xxxx_14A_0845 Makarating. Makikita.
+78_xx00xxxx_14A_0846 Malapit. Malawak.
+78_xx00xxxx_14A_0847 Maligo. Mamaya.
+78_xx00xxxx_14A_0848 Mananatili. Masakit.
+78_xx00xxxx_14A_0849 Masarap. Masisigurado.
+78_xx00xxxx_14A_0850 Masisira. Masukal.
+78_xx00xxxx_14A_0851 Matamlay. Matandang.
+78_xx00xxxx_14A_0852 May. Maynila.
+78_xx00xxxx_14A_0853 Mayor. Mga.
+78_xx00xxxx_14A_0854 Mo. Na.
+78_xx00xxxx_14A_0855 Na. Nagtrabaho.
+78_xx00xxxx_14A_0856 Nagtratrabaho. Nakapagtapos.
+78_xx00xxxx_14A_0857 Nakita. Naman.
+78_xx00xxxx_14A_0858 Naman. Namang.
+78_xx00xxxx_14A_0859 Namatay. Naninirahan.
+78_xx00xxxx_14A_0860 Nawawala. Nayon.
+78_xx00xxxx_14A_0861 Never. Nang.
+78_xx00xxxx_14A_0862 Ni. Ninakbay.
+78_xx00xxxx_14A_0863 Nilang.
+78_xx00xxxx_14A_0864 Nina. Ninyo.
+78_xx00xxxx_14A_0865 Nya. Nyo.
+78_xx00xxxx_14A_0866 Noong. Nung.
+78_xx00xxxx_14A_0867 Pakiyat. Paano.
+78_xx00xxxx_14A_0868 Pagkatapos. Palang.
+78_xx00xxxx_14A_0869 Panahon. Pang.
+78_xx00xxxx_14A_0870 Panganim. Pinaninindigan.
+78_xx00xxxx_14A_0871 Po. Pumunta.
+78_xx00xxxx_14A_0872 Puso. Rito.
+78_xx00xxxx_14A_0873 Rito. Sa.
+78_xx00xxxx_14A_0874 Sasamahan.
+78_xx00xxxx_14A_0875 Sebastian. Shobis.
+78_xx00xxxx_14A_0876 Si. Sinoot.
+78_xx00xxxx_14A_0877 Siya. Siya.
+78_xx00xxxx_14A_0878 Taon. Tayo.
+78_xx00xxxx_14A_0879 Tiniis. Chaa.
+78_xx00xxxx_14A_0880 Chinelas. Tulungan.
+78_xx00xxxx_14A_0881 Tumalon.
+78_xx00xxxx_14A_0882 Tumira. Unang.
+78_xx00xxxx_14A_0883 Vilia. Walo.
+78_xx00xxxx_14A_0884 Water.
+78_xx00xxxx_14A_0885 Yan. Zambalis.
+78_xx00xxxx_14A_0886 Sulweta.

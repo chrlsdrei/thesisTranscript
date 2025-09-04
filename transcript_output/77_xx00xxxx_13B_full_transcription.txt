@@ -1,0 +1,474 @@
+Utterance 1
+Start: 0.00
+End: 8.00
+Confidence: -0.1370
+Text: Ngayon, ang dahong corteng puso ay ilalagay ninyo sa basong may tubig.
+
+Utterance 2
+Start: 8.00
+End: 13.00
+Confidence: -0.1370
+Text: Ang baso naman ay ilagay ninyo sa ilalim ng inyong higaan.
+
+Utterance 3
+Start: 13.00
+End: 20.00
+Confidence: -0.1370
+Text: Siguraduhin lamang na ang basong kinalagyan ng daon ay nasa tapat ng inyong ulo.
+
+Utterance 4
+Start: 21.00
+End: 30.00
+Confidence: -0.1230
+Text: Magdasal bago matulog at hilingin makita sa panaginip ang lalaking magkakaroon ng kaugnayan sa iyong buhay at pag-ibig.
+
+Utterance 5
+Start: 30.00
+End: 38.00
+Confidence: -0.1230
+Text: Nakakapagtakang may mga pagkakataong ang pag-ibig na dapat sana ay nagpapaligay sa tao.
+
+Utterance 6
+Start: 38.00
+End: 47.00
+Confidence: -0.1963
+Text: Ay sya pang dahilan ng kasawihan. Pero lagi natin isaisip, dadi pag-ibig ang sumisira sa tao, kundi tao mismo.
+
+Utterance 7
+Start: 47.00
+End: 54.00
+Confidence: -0.1963
+Text: Dahil ang pag-ibig ay gaya ng tubig. Nawawalan man, muli pa ring buhabalig.
+
+Utterance 8
+Start: 56.00
+End: 63.00
+Confidence: -0.1963
+Text: Ang ganda ng buwan kung mainit ang ulo mo, maaring makadama ka ng saglit na ginhawa.
+
+Utterance 9
+Start: 63.00
+End: 70.00
+Confidence: -0.1335
+Text: Mapapatingin ka sa langit nang parang binihiyag ng isang magandang diwata ng kalangitan.
+
+Utterance 10
+Start: 70.00
+End: 80.00
+Confidence: -0.1335
+Text: Ang nagliliwanag ng gintong kulay ay nagsasabog ng kagandahan sa daigdig, tulad ng isang magaling na makata o kompositor.
+
+Utterance 11
+Start: 80.00
+End: 85.00
+Confidence: -0.1335
+Text: Ito ay madaramamong para kang nakagagawa ng magagandang bagay.
+
+Utterance 12
+Start: 86.00
+End: 92.00
+Confidence: -0.1477
+Text: Saan pala ang libing? Sinong nagbigay sa iyo ng hula?
+
+Utterance 13
+Start: 92.00
+End: 98.00
+Confidence: -0.1477
+Text: Dapat ang mga tao ay nagtutulungan, di ba? Kailan kayo aalis?
+
+Utterance 14
+Start: 98.00
+End: 104.00
+Confidence: -0.1477
+Text: Kanino kaya ito? Ihatid mo yung kapatid mo.
+
+Utterance 15
+Start: 104.00
+End: 108.00
+Confidence: -0.1477
+Text: Aalis tayo bukas. Pakiiwan na lang diyan.
+
+Utterance 16
+Start: 108.00
+End: 112.00
+Confidence: -0.1477
+Text: Pagtimpla mo naman kami ng gatas. Usap tayo.
+
+Utterance 17
+Start: 113.00
+End: 117.00
+Confidence: -0.2052
+Text: Magandang hapon po. Salamat po.
+
+Utterance 18
+Start: 117.00
+End: 124.00
+Confidence: -0.2052
+Text: Hello Edsel. Kulay red ang Japanese vase ng Boy Scout na si Rico na binili sa zoo.
+
+Utterance 19
+Start: 124.00
+End: 129.00
+Confidence: -0.2052
+Text: Siya ang Jack na pumunta sa Freeport Zone noong Friday at nag-phishing.
+
+Utterance 20
+Start: 129.00
+End: 134.00
+Confidence: -0.2052
+Text: Galing daw ang wise employment sa Chinese Embassy.
+
+Utterance 21
+Start: 135.00
+End: 146.00
+Confidence: -0.1695
+Text: Tagboan, din, kinuwento, nagtrabaho, tahanan, kita, nagtratrabaho.
+
+Utterance 22
+Start: 146.00
+End: 157.00
+Confidence: -0.1695
+Text: Takas, dinamay, ko, nagtutulungan, takbo, dinanas, kompositor, nagtuturo, takdang, dinasal.
+
+Utterance 23
+Start: 157.00
+End: 186.00
+Confidence: -0.1806
+Text: Kung nahiga, takot, dingin, konstruksyon, nauhuli, taxi, dinig, koche, naintindihan, talaga, dinilaan, krimen, naisahan, talampakan, direksyon, kukuha, nakagagawa, tali, direcho,
+
+Utterance 24
+Start: 186.00
+End: 215.00
+Confidence: -0.1632
+Text: kulang, nakakapagtakang, talo, disyembre, kulay, nakakasilaw, talon, jaging, maamong, narestong, nakatagdang, kilong, kakulangan, dito, kulit, nakakita, diwata, kulitin, nakalabas, diyan, kulog, nakapagtapos, tama, diyon,
+
+Utterance 25
+Start: 215.00
+End: 244.00
+Confidence: -0.1450
+Text: tama, dios, kumaing, nakatira, tamad, doktor, kumanta, nakatulog, tambakan, tambakan, dokumento, kumbento, nakausap, tanawin, drama, kumilos, nakausli, tanga, dugo, kundi, nakao, tanghali, duktong, kung,
+
+Utterance 26
+Start: 244.00
+End: 273.00
+Confidence: -0.1557
+Text: taniman, tanim, duktongan, kunin, nakikipagusap, taniman, taniman, dumaan, kuntento, nakita, tao, dumalo, kusa, nalalanghap, taon, dumamay, kuarto, nalasing, taong, dumamba, kuento, nalito, tapakan, dumami,
+
+Utterance 27
+Start: 274.00
+End: 303.00
+Confidence: -0.0850
+Text: nalulugi, tapat, tumapa, labing, naman, naman, tapon, dumarami, labis, namatay, tapos, dumating, lagay, namin, tapusin, dumi, lagi, namumunga, tara, dumidinig, laging, nanalangin, tatag, dumilat, laglag, nanay,
+
+Utterance 28
+Start: 303.00
+End: 323.00
+Confidence: -0.1294
+Text: tatagbo, duon, lagpas, nandito, tauhan, edad, lagpasan, nandian, tawad, eh, lagyan, nang, tawag, exam, lahat, naninirahan, tawagan,
+
+Utterance 29
+Start: 323.00
+End: 349.00
+Confidence: -0.1385
+Text: elementaria, lahok, naniligaw, tawiran, enero, lakad, napagiwanan, tai, entablado, lakas, napansin, taya, eskwela, lalaki, napatingin, tayaan, tayaan, eto, lalaking, nalito,
+
+Utterance 30
+Start: 349.00
+End: 371.00
+Confidence: -0.1496
+Text: tayo, ewan, lalapit, narian, tayo, faksyon, lalo, nars, tayuan, tayuan, familia, laman, naroon, deka, familiar, lamang, nasa, telefonono,
+
+Utterance 31
+Start: 371.00
+End: 400.00
+Confidence: -0.1194
+Text: fanatik, lamangan, lamangan, nasaan, tigil, fantastic, lambing, nasagasaan, tigilan, federasyon, lambingan, nasira, tigilin, feminist, lamok, nasiraan, tikim, favor, lang, nasugatan, tikman, fake, langit, natataniman, tila,
+
+Utterance 32
+Start: 401.00
+End: 430.00
+Confidence: -0.1047
+Text: fear, lansa, natin, timpla, face towel, lantaran, natin, timplahan, figurine, laos, natira, tinamad, fiesta, lapit, nauunahan, tinambakan, gaan, lapitan, nawala, tinapon, gaano, lara, nawalan, tinatangkilig, gabi, larangan, nawawala, tindi,
+
+Utterance 33
+Start: 431.00
+End: 460.00
+Confidence: -0.1979
+Text: supporter, gagawa, lalo, negosyo, sitcom, tiniis, galangin, laruan, nenita, kimirhan, galing, laruin, nang, tinutukoy, galing, lasa, nga, tira, kalingan, lasaan, ngang, tiwala, gamit, lasengo, ngayon, tiak, gamitin, lasing, ngipin, tiyan, gamum,
+
+Utterance 34
+Start: 461.00
+End: 481.00
+Confidence: -0.1506
+Text: gamot, laya, ngunit, totoo, ganap, layas, ni, trabaho, ganda, layasan, nila, nila, trahedya, gandahan, layo, nilagay, cheque, ganito, layuan, nilakbay, cheque,
+
+Utterance 35
+Start: 482.00
+End: 508.00
+Confidence: -0.1866
+Text: layuin, nilang, chinelas, ganyan, lengguaje, nilapit, chismis, gas, libangan, nilapitan, tubig, gaskasan, libing, nilasing, tula, gastos, liblib, nilusob, tulad, gastusan, libro, ningning, tulo, gastosin, ligaw, nino, tulungan,
+
+Utterance 36
+Start: 508.00
+End: 533.00
+Confidence: -0.1467
+Text: gatas, ligawan, nino, tumakas, gatong, ligaya, nitong, tumakbo, gaya, ligo, nia, tumalon, gayahin, ligpitin, niyan, tumatanda, gate, liham, niyang, tumatawag, gigil, lihim, nio, nyo,
+
+Utterance 37
+Start: 533.00
+End: 562.00
+Confidence: -0.1579
+Text: tumawag, gilid, liko, nobyembre, tumawid, giling, likot, nuong, tumayo, gilingin, likuan, numero, giliw, lima, nung, gimik, limos, nuod, tunay, ginang, lindol, okey, tungkol, ginhawa, linggong, okra, tunog, kinisa, linggo, oktubre,
+
+Utterance 38
+Start: 564.00
+End: 586.00
+Confidence: -0.1773
+Text: ginoo, lingon, oo, tuid, ginto, dinis, opisina, ube, gintong, linisin, opisinang, ubo, gising, linlang, obo, ubuhin, gisingin, linta, oras, ubusin, gitna, lisanin, orasan,
+
+Utterance 39
+Start: 586.00
+End: 615.00
+Confidence: -0.1625
+Text: ugali, gubat, litaw, oso, ugat, gulang, lito, oto, uhaw, gulangan, lituhin, pa, hulam, gulat, lokohan, pa, ulan, ulan, gulatin, lokohin, pakiat, ulanan, gulay, palis, ulang, gulo, paano, uli,
+
+Utterance 40
+Start: 616.00
+End: 635.00
+Confidence: -0.1276
+Text: gulod, paralan, ulit, gulpi, pabalik, ulitan, ulitan, gulpihin, paborito, ulitin, guluhin, padamdam, pulo, gumamit, pader, rosario, restaurant,
+
+Utterance 41
+Start: 636.00
+End: 664.00
+Confidence: -0.1382
+Text: records, limang, inusenteng, pangailangan, pinangyarihan, umabot, gumiling, lupang, pagbati, umaga, gumising, maaari, pagbibigay, umalis, gunting, maaaring, pagdami, umarte, kupit, maabilidad, pagdating, umihi, kupitan, maabot, paggawa, umiak, kupitin,
+
+Utterance 42
+Start: 664.00
+End: 690.00
+Confidence: -0.1014
+Text: maaga, paghaharapin, gusali, maagang, paghandaan, gusto, maalat, paghina, gustuhin, maaliwalas, pagibig, maasim, pagiging, haba, mabagal, pagkabigla, una, habaan, mabaho, nakilalang, magpipitong, nasabing, parangal, karangalan,
+
+Utterance 43
+Start: 690.00
+End: 718.00
+Confidence: -0.1201
+Text: dating, dating, planong, pagkabuhat, unahan, habang, mabait, pagkain, unang, hadanan, mabango, pagkakilala, universidad, haharapin, mabayaran, pagkakataong, uod, halaga, mabilis, pagkakautang, upang, halaman, mabuhay,
+
+Utterance 44
+Start: 718.00
+End: 747.00
+Confidence: -0.1253
+Text: pagkakuha, upo, halain, mabuo, pagkatalo, upuan, halika, mabuti, pagkatapos, uri, halina, madaanan, pagkawala, usapan, halos, madalas, pagkuha, utang, hambing, madali, pagod, uunlad, handa, madami, magpapabaya, ui, handaan,
+
+Utterance 45
+Start: 748.00
+End: 771.00
+Confidence: -0.1466
+Text: madarama, pagsabit, pagsabmit, valedictorian, hanggang, madidilan, pagsubok, valuable, hangin, madidilaw, pagulan, vanilya, hapag, magagandang, pakealam, vibes, hapon, magaling, pakebukas,
+
+Utterance 46
+Start: 771.00
+End: 800.00
+Confidence: -0.1617
+Text: violet, harap, maganda, pakigamot, vice versa, ginawang, pangyayaring, anyang, pambansang, mabigyang, panunong kulang, kataas-taasang, tayong, magsabong, magsawalang kibo, kasamahan, ibang, mapayapang, harapan, magandang, pakigawa, vendo,
+
+Utterance 47
+Start: 801.00
+End: 829.00
+Confidence: -0.1039
+Text: harapin, mag-aral, pakihugas, veranda, hasa, magasawa, pakiiwan, versatil, hasain, magasawang, pakikanta, versus, hataw, magawa, pakikua, vigilante, hatawin, magbago, wagi, hatid, magbantay, pakinabang, wakas, hawaan, magbasa, pakiusap, wala,
+
+Utterance 48
+Start: 829.00
+End: 858.00
+Confidence: -0.1119
+Text: hawakan, magbasag, pakiusapan, walang, hayag, magbawas, paksa, walis, hayop, magbayad, pala, walo, high school, magbenta, palabas, walong, general, magbigayan, palad, warat, higaan, magbilang, palawaking, wasak, hila,
+
+Utterance 49
+Start: 859.00
+End: 885.00
+Confidence: -0.0983
+Text: magbubukid, palayasin, wika, hilahan, hilahan, magdala, palifasa, yaman, hilain, magdasal, paliwanagan, yan, hilingin, maghanda, pambihira, yari, recreation, kongreso, pagmamahal, namayapang, magsasalita,
+
+Utterance 50
+Start: 885.00
+End: 912.00
+Confidence: -0.1507
+Text: senate, secretary, abalang, alamang, mangugulo, mangulo, nangyari, darating, humuhungi, dalampung, narsing, himbing, maghapon, pamilya, yaya, hina, maghihintay, yayain, hinayang, maghintay-hintay, panaginip, yelo,
+
+Utterance 51
+Start: 912.00
+End: 939.00
+Confidence: -0.1349
+Text: hindi, magiging, panahon, yero, hiningan, maging, pananim, yoyo, hinintay, magisa, pandak, yumao, hinipuan, magkaibigan, pang, yung, hintay, magkakabisa, pangalan, zero, hintayin, magkakaibigan, panganim, zigzag, hinto, magkakapatid,
+
+Utterance 52
+Start: 939.00
+End: 968.00
+Confidence: -0.1386
+Text: pangarap, zinya, hintong, magkakaroon, pangit, zipper, hintuan, panglima, hipan, magkamay, pangyayari, hipanin, magkapamilya, paningin, hipo, magkasama, pantalon, hipuan, maglagay, papel, hirap, maglita, para, host, parang, hotel,
+
+Utterance 53
+Start: 968.00
+End: 980.00
+Confidence: -0.2596
+Text: pasahin, hugasan, magnanakaw, pasko, nakakulong, sessions,
+
+Utterance 54
+Start: 980.00
+End: 1009.00
+Confidence: -0.2059
+Text: babibobu, bad, bag, bak, bal, bam, bani, bang, bap, bar, bas, bat, bau, bay, ben, bid, big, bik, bil, bin, bim, bing, bis, bit, bog, bon, bong, bot, boy, bug, bur, bok, bol, bril, blue, bre, box,
+
+Utterance 55
+Start: 1011.00
+End: 1038.00
+Confidence: -0.2122
+Text: ber, bra, dadedi, dodu, dag, dal, dik, dra, dad, dug, dak, dal, dib, dam, day, dan, dig, ding, ga, ge, gi, go, gu, god, gua, gaw, gin, giw, gos, gas, gay, gan, gil, git, gul, gun, gal,
+
+Utterance 56
+Start: 1038.00
+End: 1059.00
+Confidence: -0.2285
+Text: gus, gat, gab, fa, fe, fi, fo, fu, feis, fan, fies, fig, ha, he, hi, ho, fu, hin, hau, han, hai, hit, hoy, has, hil, him, hag, hul, ham,
+
+Utterance 57
+Start: 1060.00
+End: 1079.00
+Confidence: -0.2251
+Text: ja, je, ji, jo, ju, jit, yuk, jun, ka, ke, ki, po, ku, kid, kin, kot, kit, kum, kum, kun, kas, kam, kal, kan, ket, kat, kaw, kim, kip,
+
+Utterance 58
+Start: 1079.00
+End: 1099.00
+Confidence: -0.1410
+Text: la, le, li, lo, lu, lok, los, lam, lin, ling, lit, lik, lung, lang, lan, lat, lid, liu, law, long, leng, lis, las, les, lag, lam, lun, lon, lis,
+
+Utterance 59
+Start: 1099.00
+End: 1115.00
+Confidence: -0.1342
+Text: ma, me, mi, mo, mu, mag, mar, mis, min, mil, mok, men, mang, mai, mit, mik, man, mun, mad, mak, mat,
+
+Utterance 60
+Start: 1115.00
+End: 1140.00
+Confidence: -0.1991
+Text: na, ne, ni, no, nu, nag, nai, nib, nau, nen, nok, nan, nig, nin, nang, nog, nak, nim, nas, nig, nob, nam, nil, nga, nge, ni, ngo, mu, ngan, nog, ngin, ngay, nye, ngin, ngon,
+
+Utterance 61
+Start: 1140.00
+End: 1160.00
+Confidence: -0.1464
+Text: pa, be, pi, po, pu, pag, pak, pas, pat, bet, pon, poi, pin, pan, pit, pla, pang, ping, pir, peb, pos, pun, per, ra, re, ri, ro, ru,
+
+Utterance 62
+Start: 1160.00
+End: 1181.00
+Confidence: -0.1755
+Text: ras, ral, rang, rat, rat, ran, rau, rin, ret, rap, rong, sa, se, si, so, su, shem, sin, sak, shon, san, sip, sul, sog, skwe,
+
+Utterance 63
+Start: 1181.00
+End: 1209.00
+Confidence: -0.1868
+Text: sal, sim, sing, sag, sig, sok, sep, sil, sis, suk, sul, sol, sum, sun, sung, sus, suwe, ta, te, ti, to, tu, tan, tai, tas, tor, tik, tes, tok, tau, tin, tab, tik, tel, tos, tong, did, ten, ting,
+
+Utterance 64
+Start: 1210.00
+End: 1212.00
+Confidence: -0.5019
+Text: tak, tam, tim, til.
+
+Utterance 65
+Start: 1212.00
+End: 1241.00
+Confidence: -0.2067
+Text: Cha, che, chi, cho, chu, tis, ba, be, pi, po, pu, ven, ver, vais, wa, we, wi, wo, wu, wu, wid, wad, wag, wai, wel, wan, wak, was, wat, win, wang, wing, wong, ya, ye, i, yo, yu,
+
+Utterance 66
+Start: 1242.00
+End: 1255.00
+Confidence: -0.1638
+Text: yem, yin, yad, yat, yan, yar, yos, yer, yag, yang, yak, yon, yor, za, ze, zi, zo, zu, zin.
+
+Utterance 67
+Start: 1256.00
+End: 1269.00
+Confidence: -0.1638
+Text: Ang, as, ak, ay, at, ar, an, am, ag, en, em, eng, ed, es, is, in, ing, im,
+
+Utterance 68
+Start: 1269.00
+End: 1296.00
+Confidence: -0.2058
+Text: bung, dang, dong, ging, gang, gong, hang, hing, hong, ging, kang, gong, kung, ming, mong, mung, ning, nong, nung, neng, ngun, ngin, pung, pong, ring, sang, song, sing, tang, teng, tung, chang, chong, ching, ying, yong, yung.
+
+Utterance 69
+Start: 1297.00
+End: 1321.00
+Confidence: -0.2194
+Text: Bab, bed, bem, bo, boa, bui, das, dai, del, den, dog, dos, gad, gag, gam, gap, far, fat, fel, fing, fo, hab, had, hat, hen, hid, hog, hung, jag, jak, jas, jas,
+
+Utterance 70
+Start: 1322.00
+End: 1348.00
+Confidence: -0.2059
+Text: ging, joy, gab, gad, gag, ken, gib, kog, kow, koy, kur, lab, lad, lay, log, lo, loy, luk, mal, mem, mip, mir, mow, mug, muk, nab, nad, nal, neg, nep, nip, nir, nos, nou,
+
+Utterance 71
+Start: 1348.00
+End: 1369.00
+Confidence: -0.2081
+Text: nus, ngas, ngek, ngik, ngop, pad, peng, pik, bo, puk, pus, rab, rad, rag, rak, rem, ren, ris, rou, sad, sat, sei, sou, sui, tad, tag, tem, ten, dog, dou,
+
+Utterance 72
+Start: 1370.00
+End: 1386.00
+Confidence: -0.2767
+Text: chap, check, ches, chok, choy, vak, val, ves, vin, vol, wal, war, wed, vol, yab, yap, yaw, ya, zam, zay, zig.
+
+Utterance 73
+Start: 1386.00
+End: 1407.00
+Confidence: -0.2024
+Text: aalis, aalis, ang, at, ay, ba, bagay, bago, baso, basong, binihag, binili, boy scout, buhay, buhay, bukas, bumabalik, buwan, Chinese, dahil, dahilan, dahon, dahong, daigdig, dapat, daw, di, diwata, dian, erig,
+
+Utterance 74
+Start: 1416.00
+End: 1445.00
+Confidence: -0.1857
+Text: redcell, embassy, employment, freeport, friday, galing, galing, ganda, gatas, gaya, ginhawa, gintong, hapon, hello, higaan, hilingin, hula, ihatid, ilagay, ilalagay, ilalim, inyong, isaisip, isang, ito, iyo, iyong, jack, Japanese, ka, kagandahan, kailan, kalangitan, kami,
+
+Utterance 75
+Start: 1446.00
+End: 1475.00
+Confidence: -0.0964
+Text: kang, kanino, kabatid, kasawian, kaugnayan, kaya, kaya, kayo, kinalalagyan, kompositor, korteng, kulay, kundi, kung, lagi, lalaking, lalaking, lamang, lang, langit, libing, maaaring, madarama, magagandang, magaling, magandang,
+
+Utterance 76
+Start: 1475.00
+End: 1503.00
+Confidence: -0.1152
+Text: magdasal, magkakaroon, mainit, makadama, makata, makita, man, mapapatingin, matulog, may, mga, mismo, mo, mong, muli, na, nagbigay, nagfishing, nagliliwanag, nagpapaligaya, nagsasabog, nagsasabog, nagtutulungan, nakagagawa,
+
+Utterance 77
+Start: 1503.00
+End: 1532.00
+Confidence: -0.1279
+Text: nakakapagtakang, naman, nasa, nating, nawawala, nang, ngayon, ninyo, noong, o, pa, bagibig, pagibig, pagkakataong, pagtimpla, pakiiwan, pala, pala, panaginip, pang, para, parang, pero, po, pumunta, puso, red, riko, ring, sa, saan,
+
+Utterance 78
+Start: 1533.00
+End: 1553.00
+Confidence: -0.1511
+Text: mait, salamat, sana, si, siguraduhin, sino, sia, sumisira, tao, tapat, tayo, tayo, tayo, tubig, tulad, ulo, usap, vase, wise, yung, zone, zoo.
+
+Utterance 79
+Start: 1563.00
+End: 1565.00
+Confidence: -0.9320
+Text: Thank you for watching!
+
