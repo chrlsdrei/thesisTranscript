@@ -23,6 +23,42 @@ MIN_AVG_DURATION = 2.0  # Minimum average utterance duration in seconds
 MIN_AVG_WORDS = 3  # Minimum average words per utterance
 MAX_SINGLE_WORD_RATIO = 0.3  # Maximum ratio of single-word utterances
 
+def split_word_segments(segments):
+    """Split segments containing multiple words into individual word utterances."""
+    new_segments = []
+    
+    for i, seg in enumerate(segments):
+        text = seg['text'].strip()
+        
+        # Check if this is likely the "isolated words" section
+        # (multiple comma-separated words, moderate duration)
+        if (',' in text and 
+            len(text.split(',')) > 3 and 
+            seg['end'] - seg['start'] > 10):  # Long segments with commas
+            
+            words = [w.strip() for w in text.split(',') if w.strip()]
+            duration = seg['end'] - seg['start']
+            word_duration = duration / len(words)
+            
+            print(f"  📝 Splitting utterance {i+1}: {len(words)} words")
+            
+            for j, word in enumerate(words):
+                new_start = seg['start'] + (j * word_duration)
+                new_end = seg['start'] + ((j + 1) * word_duration)
+                
+                new_seg = {
+                    'start': round(new_start, 2),
+                    'end': round(new_end, 2),
+                    'text': word,
+                    'avg_logprob': seg.get('avg_logprob', -0.2)
+                }
+                new_segments.append(new_seg)
+        else:
+            # Keep original segment (sentences, syllables, repeated words)
+            new_segments.append(seg)
+    
+    return new_segments
+
 def detect_speech_parts(segments):
     """Detect the 4 parts of the structured speech recording."""
     parts = {
@@ -48,58 +84,48 @@ def detect_speech_parts(segments):
         duration = seg['end'] - seg['start']
         char_count = len(text.replace(' ', ''))
         
-        # Detect transitions based on patterns
-        if current_part == "paragraphs":
-            # Look for transition to isolated words
-            # Check if we start getting short, single-word utterances consistently
-            if i < len(segments) - 5:  # Make sure we have enough segments to check
-                upcoming_pattern = []
-                for j in range(i, min(i + 5, len(segments))):
-                    next_seg = segments[j]
-                    next_text = next_seg['text'].strip()
-                    next_words = len(next_text.split())
-                    next_duration = next_seg['end'] - next_seg['start']
-                    upcoming_pattern.append({
-                        'words': next_words,
-                        'duration': next_duration,
-                        'is_short_single': next_words <= 2 and next_duration <= WORD_MAX_DURATION
-                    })
-                
-                # If most upcoming segments are short and single words
-                short_single_count = sum(1 for p in upcoming_pattern if p['is_short_single'])
-                if short_single_count >= 3:  # At least 3 out of 5 are short single words
-                    current_part = "isolated_words"
-                    part_transitions.append(("paragraphs_to_words", i))
-        
-        elif current_part == "isolated_words":
-            # Look for transition to syllables
-            # Syllables are very short, often single characters or short sounds
-            if i < len(segments) - 3:
-                upcoming_syllables = []
-                for j in range(i, min(i + 3, len(segments))):
-                    next_seg = segments[j]
-                    next_text = next_seg['text'].strip()
-                    next_duration = next_seg['end'] - next_seg['start']
-                    next_chars = len(next_text.replace(' ', ''))
-                    is_syllable_like = (next_duration <= SYLLABLE_MAX_DURATION and 
-                                       next_chars <= SYLLABLE_MAX_CHARS)
-                    upcoming_syllables.append(is_syllable_like)
-                
-                if sum(upcoming_syllables) >= 2:  # At least 2 out of 3 are syllable-like
+        # Improved classification based on characteristics
+        if duration > 3 and word_count > 5:
+            # Long utterances with multiple words = paragraphs/sentences
+            if current_part != "paragraphs":
+                current_part = "paragraphs"
+                part_transitions.append(("to_paragraphs", i))
+            parts["paragraphs"].append((i, seg))
+            
+        elif duration < 3 and word_count == 1 and len(text) <= 15:
+            # Short single words or syllables
+            if len(text) <= 4 and duration < SYLLABLE_MAX_DURATION:
+                # Very short, likely syllables
+                if current_part != "syllables":
                     current_part = "syllables"
-                    part_transitions.append(("words_to_syllables", i))
-        
-        elif current_part == "syllables":
-            # Look for transition to repeated words
-            # These would be longer than syllables, similar to isolated words
-            if (duration > SYLLABLE_MAX_DURATION or 
-                word_count > 1 or 
-                char_count > SYLLABLE_MAX_CHARS):
-                current_part = "repeated_words"
-                part_transitions.append(("syllables_to_repeated", i))
-        
-        # Assign segment to current part
-        parts[current_part].append((i, seg))
+                    part_transitions.append(("to_syllables", i))
+                parts["syllables"].append((i, seg))
+            else:
+                # Regular single words
+                if current_part != "isolated_words":
+                    current_part = "isolated_words"
+                    part_transitions.append(("to_isolated_words", i))
+                parts["isolated_words"].append((i, seg))
+                
+        elif word_count >= 1:
+            # Default classification based on position and characteristics
+            total_segments = len(segments)
+            
+            # Last 20% of segments likely repeated words
+            if i > total_segments * 0.8:
+                if current_part != "repeated_words":
+                    current_part = "repeated_words"
+                    part_transitions.append(("to_repeated_words", i))
+                parts["repeated_words"].append((i, seg))
+            else:
+                # Earlier segments with single words = isolated words
+                if current_part != "isolated_words":
+                    current_part = "isolated_words"
+                    part_transitions.append(("to_isolated_words", i))
+                parts["isolated_words"].append((i, seg))
+        else:
+            # Fallback - assign to current part
+            parts[current_part].append((i, seg))
     
     return parts, part_transitions
 
@@ -112,7 +138,25 @@ def analyze_transcription_quality(json_file):
     if not segments:
         return {"quality": "poor", "reason": "No segments found"}
     
-    # Detect speech parts
+    # Apply word-level splitting
+    print("🔄 Processing word-level segmentation...")
+    original_count = len(segments)
+    segments = split_word_segments(segments)
+    new_count = len(segments)
+    
+    if new_count > original_count:
+        print(f"✅ Segmentation complete: {original_count} → {new_count} utterances")
+        
+        # Update the data with new segments
+        data["segments"] = segments
+        
+        # Save the updated JSON with proper word segmentation
+        with open(json_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+    else:
+        print(f"✅ No additional splitting needed: {original_count} utterances")
+    
+    # Detect speech parts with updated segments
     parts, transitions = detect_speech_parts(segments)
     
     # Calculate metrics for each part
@@ -189,7 +233,10 @@ def transcribe_audio(audio_file):
         "--language", "tl",
         "--task", "transcribe",
         "--output_format", "json",
-        "--output_dir", TRANSCRIPT_DIR
+        "--output_dir", TRANSCRIPT_DIR,
+        "--no_speech_threshold", "0.3",  # Adjust as needed (silence detection)
+        "--logprob_threshold", "-0.5",   # Split on lower confidence
+        "--compression_ratio_threshold", "1.8"  # More aggressive splitting
     ])
     return json_out
 
@@ -200,13 +247,16 @@ def generate_outputs(json_file):
 
     base_name = os.path.splitext(os.path.basename(json_file))[0]
     
+    # Use the updated segments (already processed for word-level splitting)
+    segments = data["segments"]
+    
     # Detect speech parts for analysis (but don't generate separate files)
-    parts, transitions = detect_speech_parts(data["segments"])
+    parts, transitions = detect_speech_parts(segments)
 
     # Generate full transcription file
     full_trans_path = os.path.join(TRANSCRIPT_DIR, base_name + "_full_transcription.txt")
     with open(full_trans_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(data["segments"], start=1):
+        for i, seg in enumerate(segments, start=1):
             f.write(f"Utterance {i}\n")
             f.write(f"Start: {seg['start']:.2f}\n")
             f.write(f"End: {seg['end']:.2f}\n")
@@ -216,14 +266,14 @@ def generate_outputs(json_file):
     # Generate segments file (Kaldi style)
     segments_path = os.path.join(SEGMENTS_DIR, base_name + "_segments.txt")
     with open(segments_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(data["segments"], start=1):
+        for i, seg in enumerate(segments, start=1):
             seg_id = f"{base_name}_{i:04d}"
             f.write(f"{seg_id} {base_name} {seg['start']:.2f} {seg['end']:.2f}\n")
 
     # Generate text file (Kaldi style)
     text_path = os.path.join(TEXT_DIR, base_name + "_text.txt")
     with open(text_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(data["segments"], start=1):
+        for i, seg in enumerate(segments, start=1):
             seg_id = f"{base_name}_{i:04d}"
             f.write(f"{seg_id} {seg['text'].strip()}\n")
 
