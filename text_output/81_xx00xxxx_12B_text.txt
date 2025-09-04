@@ -1,0 +1,973 @@
+81_xx00xxxx_12B_0001 Maraming pagkakataong manalo.
+81_xx00xxxx_12B_0002 Ang sampung buwanang bola ay may 6 na premio bawat bola.
+81_xx00xxxx_12B_0003 At sa huling bola ay may 10 namang premio kaya tandaan mas maraming lahok mas maraming pagkakataong manalo.
+81_xx00xxxx_12B_0004 Para makasali sa buwanan at huling bola,
+81_xx00xxxx_12B_0005 kailangan matanggap ang mga lahok isang araw bago ang takdang petsa.
+81_xx00xxxx_12B_0006 Hindi imposibleng maabot ang mga pangarap.
+81_xx00xxxx_12B_0007 Kung magiging maabilidad, magsikap ka at ipagpatuloy ang paggawa ng mabuti at maganda sa kapwa uunlad ka din.
+81_xx00xxxx_12B_0008 Ang bahay namin ay isang munting tahanan sa itaas ng gulod.
+81_xx00xxxx_12B_0009 Doon ay sarili ng aming mga paningin ang kalangitan,
+81_xx00xxxx_12B_0010 ang kalawakan sarili namin ang nalalanghap na hangin,
+81_xx00xxxx_12B_0011 sarili namin ang aming buhay, ang buong kalayaan sa pagkabuhat,
+81_xx00xxxx_12B_0012 at sarili namin ang lahat ng sandali, ang lahat ng panahon aming ganap na kalikasan.
+81_xx00xxxx_12B_0013 Saan galing iyan?
+81_xx00xxxx_12B_0014 Kailangan natin magtulungan, di ba?
+81_xx00xxxx_12B_0015 Sinong mga kaibigan?
+81_xx00xxxx_12B_0016 Kailan ang lakad nyo?
+81_xx00xxxx_12B_0017 Mahahanap ba natin siya?
+81_xx00xxxx_12B_0018 Umuwi ka na.
+81_xx00xxxx_12B_0019 Tumayo ko ng tweed.
+81_xx00xxxx_12B_0020 Bilhan mo naman ako ng makakain.
+81_xx00xxxx_12B_0021 Pakiayos naman yung kwarto mo.
+81_xx00xxxx_12B_0022 Nasugatan ako.
+81_xx00xxxx_12B_0023 Magandang tanghali po.
+81_xx00xxxx_12B_0024 Malagayang Pasko.
+81_xx00xxxx_12B_0025 Sa okasyon para sa araw na ito, sinasabi ni Jesus kay Pedro kung paano niya pangangalagaan ang kawa ni Jesus.
+81_xx00xxxx_12B_0026 Ulit.
+81_xx00xxxx_12B_0027 Sa okasyon para sa araw na ito, sinasabi ni Jesus kay Pedro kung paano niya pangangalagaan ang kawa ni Jesus.
+81_xx00xxxx_12B_0028 Ang programa sa TV na Knowledge Power ay tumalakay ng ultraviolet rays.
+81_xx00xxxx_12B_0029 Ang coach ng team na si Gabriel ay bumiteo sa pagkakahawak sa Entablado.
+81_xx00xxxx_12B_0030 Si Zsa Zsa ay umawit ng First Love Never Dies at Woman in Love sa Senado.
+81_xx00xxxx_12B_0031 Si Jeffrey pati si Jack ay nagpunta sa PLDT Fairview isang Sabado ng Enero.
+81_xx00xxxx_12B_0032 Takbo.
+81_xx00xxxx_12B_0033 Nagtutulungan.
+81_xx00xxxx_12B_0034 Takbo.
+81_xx00xxxx_12B_0035 Dinanas.
+81_xx00xxxx_12B_0036 Kompositor.
+81_xx00xxxx_12B_0037 Nagtuturo.
+81_xx00xxxx_12B_0038 Takdang.
+81_xx00xxxx_12B_0039 Dinasal.
+81_xx00xxxx_12B_0040 Kong.
+81_xx00xxxx_12B_0041 Nahiga.
+81_xx00xxxx_12B_0042 Takot.
+81_xx00xxxx_12B_0043 Dingin.
+81_xx00xxxx_12B_0044 Konstruksyon.
+81_xx00xxxx_12B_0045 Nahuhule.
+81_xx00xxxx_12B_0046 Taxi.
+81_xx00xxxx_12B_0047 Dinig.
+81_xx00xxxx_12B_0048 Kotse.
+81_xx00xxxx_12B_0049 Naintindihan.
+81_xx00xxxx_12B_0050 Talaga.
+81_xx00xxxx_12B_0051 Dinilaan.
+81_xx00xxxx_12B_0052 Krimen.
+81_xx00xxxx_12B_0053 Naisahan.
+81_xx00xxxx_12B_0054 Talampakan.
+81_xx00xxxx_12B_0055 Direksyon.
+81_xx00xxxx_12B_0056 Kukuha.
+81_xx00xxxx_12B_0057 Nakagagawa.
+81_xx00xxxx_12B_0058 Tali.
+81_xx00xxxx_12B_0059 Diretso.
+81_xx00xxxx_12B_0060 Kulang.
+81_xx00xxxx_12B_0061 Nakakapagtakang.
+81_xx00xxxx_12B_0062 Kulay.
+81_xx00xxxx_12B_0063 Nakakasilaw.
+81_xx00xxxx_12B_0064 Talon.
+81_xx00xxxx_12B_0065 Jogging.
+81_xx00xxxx_12B_0066 Maamong.
+81_xx00xxxx_12B_0067 Naarestong.
+81_xx00xxxx_12B_0068 Nakatakdang.
+81_xx00xxxx_12B_0069 Kilong.
+81_xx00xxxx_12B_0070 Kakulangan.
+81_xx00xxxx_12B_0071 Dito.
+81_xx00xxxx_12B_0072 Kulit.
+81_xx00xxxx_12B_0073 Nakakita.
+81_xx00xxxx_12B_0074 Diwata.
+81_xx00xxxx_12B_0075 Kulitin.
+81_xx00xxxx_12B_0076 Dis.
+81_xx00xxxx_12B_0077 Jan.
+81_xx00xxxx_12B_0078 Kulog.
+81_xx00xxxx_12B_0079 Nakapagtapos.
+81_xx00xxxx_12B_0080 Tama.
+81_xx00xxxx_12B_0081 Diyos.
+81_xx00xxxx_12B_0082 Kumain.
+81_xx00xxxx_12B_0083 Nakatira.
+81_xx00xxxx_12B_0084 Tamad.
+81_xx00xxxx_12B_0085 Doktor.
+81_xx00xxxx_12B_0086 Kumanta.
+81_xx00xxxx_12B_0087 Nakatulog.
+81_xx00xxxx_12B_0088 Tambakan.
+81_xx00xxxx_12B_0089 Dokumento.
+81_xx00xxxx_12B_0090 Nakausap.
+81_xx00xxxx_12B_0091 Tanawin.
+81_xx00xxxx_12B_0092 Drama.
+81_xx00xxxx_12B_0093 Kumilos.
+81_xx00xxxx_12B_0094 Nakausli.
+81_xx00xxxx_12B_0095 Tanga.
+81_xx00xxxx_12B_0096 Dugo.
+81_xx00xxxx_12B_0097 Kundi.
+81_xx00xxxx_12B_0098 Nakaw.
+81_xx00xxxx_12B_0099 Tanghali.
+81_xx00xxxx_12B_0100 Dugtong.
+81_xx00xxxx_12B_0101 Kung.
+81_xx00xxxx_12B_0102 Nakawan.
+81_xx00xxxx_12B_0103 Tanim.
+81_xx00xxxx_12B_0104 Taniman.
+81_xx00xxxx_12B_0105 Dumaan.
+81_xx00xxxx_12B_0106 Kontento.
+81_xx00xxxx_12B_0107 Nakita.
+81_xx00xxxx_12B_0108 Tao.
+81_xx00xxxx_12B_0109 Dumalo.
+81_xx00xxxx_12B_0110 Kusa.
+81_xx00xxxx_12B_0111 Nalalanghap.
+81_xx00xxxx_12B_0112 Taon.
+81_xx00xxxx_12B_0113 Dumamay.
+81_xx00xxxx_12B_0114 Kuarto.
+81_xx00xxxx_12B_0115 Nalasing.
+81_xx00xxxx_12B_0116 Taong.
+81_xx00xxxx_12B_0117 Dumamba.
+81_xx00xxxx_12B_0118 Nalito.
+81_xx00xxxx_12B_0119 Tapakan.
+81_xx00xxxx_12B_0120 Dumame.
+81_xx00xxxx_12B_0121 Labi.
+81_xx00xxxx_12B_0122 Nalulugi.
+81_xx00xxxx_12B_0123 Tapat.
+81_xx00xxxx_12B_0124 Dumapa.
+81_xx00xxxx_12B_0125 Labing.
+81_xx00xxxx_12B_0126 Naman.
+81_xx00xxxx_12B_0127 Tapon.
+81_xx00xxxx_12B_0128 Dumarami.
+81_xx00xxxx_12B_0129 Labis.
+81_xx00xxxx_12B_0130 Namatay.
+81_xx00xxxx_12B_0131 Tapos.
+81_xx00xxxx_12B_0132 Dating.
+81_xx00xxxx_12B_0133 Lagay.
+81_xx00xxxx_12B_0134 Namin.
+81_xx00xxxx_12B_0135 Tapusin.
+81_xx00xxxx_12B_0136 Dume.
+81_xx00xxxx_12B_0137 Lagi.
+81_xx00xxxx_12B_0138 Namumunga.
+81_xx00xxxx_12B_0139 Tara.
+81_xx00xxxx_12B_0140 Dumidinig.
+81_xx00xxxx_12B_0141 Laging.
+81_xx00xxxx_12B_0142 Nanalangin.
+81_xx00xxxx_12B_0143 Tatag.
+81_xx00xxxx_12B_0144 Dumilat.
+81_xx00xxxx_12B_0145 Laglag.
+81_xx00xxxx_12B_0146 Nanay.
+81_xx00xxxx_12B_0147 Tatagbo.
+81_xx00xxxx_12B_0148 Doon.
+81_xx00xxxx_12B_0149 Lagpas.
+81_xx00xxxx_12B_0150 Nandito.
+81_xx00xxxx_12B_0151 Tauhan.
+81_xx00xxxx_12B_0152 Edad.
+81_xx00xxxx_12B_0153 Lagpasan.
+81_xx00xxxx_12B_0154 Nandiyan.
+81_xx00xxxx_12B_0155 Tawad.
+81_xx00xxxx_12B_0156 E. Lagyan.
+81_xx00xxxx_12B_0157 Nang. Tawag.
+81_xx00xxxx_12B_0158 Exam.
+81_xx00xxxx_12B_0159 Lahat.
+81_xx00xxxx_12B_0160 Naninirahan.
+81_xx00xxxx_12B_0161 Tawagan.
+81_xx00xxxx_12B_0162 Elementaria.
+81_xx00xxxx_12B_0163 Lahok.
+81_xx00xxxx_12B_0164 Naliligaw.
+81_xx00xxxx_12B_0165 Tawiran.
+81_xx00xxxx_12B_0166 Enero.
+81_xx00xxxx_12B_0167 Lakad.
+81_xx00xxxx_12B_0168 Napag-i-iwanan.
+81_xx00xxxx_12B_0169 Tay.
+81_xx00xxxx_12B_0170 Entablado.
+81_xx00xxxx_12B_0171 Lakas.
+81_xx00xxxx_12B_0172 Napansin.
+81_xx00xxxx_12B_0173 Lalaki.
+81_xx00xxxx_12B_0174 Napatingin.
+81_xx00xxxx_12B_0175 Tayaan.
+81_xx00xxxx_12B_0176 Eto.
+81_xx00xxxx_12B_0177 Lalaking.
+81_xx00xxxx_12B_0178 Narito.
+81_xx00xxxx_12B_0179 Tayo.
+81_xx00xxxx_12B_0180 Ewan.
+81_xx00xxxx_12B_0181 Lalapit.
+81_xx00xxxx_12B_0182 Narian.
+81_xx00xxxx_12B_0183 Tayo.
+81_xx00xxxx_12B_0184 Faksyon.
+81_xx00xxxx_12B_0185 Lalo.
+81_xx00xxxx_12B_0186 Nars.
+81_xx00xxxx_12B_0187 Teka.
+81_xx00xxxx_12B_0188 Familiar.
+81_xx00xxxx_12B_0189 Lamang.
+81_xx00xxxx_12B_0190 Nasa.
+81_xx00xxxx_12B_0191 Telepono.
+81_xx00xxxx_12B_0192 Fanatik.
+81_xx00xxxx_12B_0193 Lamangan.
+81_xx00xxxx_12B_0194 Nasaan.
+81_xx00xxxx_12B_0195 Tigil.
+81_xx00xxxx_12B_0196 Fantastik.
+81_xx00xxxx_12B_0197 Lambing.
+81_xx00xxxx_12B_0198 Nasagasaan.
+81_xx00xxxx_12B_0199 Tigilan.
+81_xx00xxxx_12B_0200 Federasyon.
+81_xx00xxxx_12B_0201 Lambingan.
+81_xx00xxxx_12B_0202 Nasira.
+81_xx00xxxx_12B_0203 Tigilin.
+81_xx00xxxx_12B_0204 Feminist.
+81_xx00xxxx_12B_0205 Lamok.
+81_xx00xxxx_12B_0206 Nasiraan.
+81_xx00xxxx_12B_0207 Tikim.
+81_xx00xxxx_12B_0208 Fever.
+81_xx00xxxx_12B_0209 Lang.
+81_xx00xxxx_12B_0210 Nasugatan.
+81_xx00xxxx_12B_0211 Tikman.
+81_xx00xxxx_12B_0212 Fake.
+81_xx00xxxx_12B_0213 Langit.
+81_xx00xxxx_12B_0214 Natataniman.
+81_xx00xxxx_12B_0215 Tila.
+81_xx00xxxx_12B_0216 Fair.
+81_xx00xxxx_12B_0217 Lansa.
+81_xx00xxxx_12B_0218 Natin.
+81_xx00xxxx_12B_0219 Timpla.
+81_xx00xxxx_12B_0220 Face towel.
+81_xx00xxxx_12B_0221 Lantaran.
+81_xx00xxxx_12B_0222 Nating.
+81_xx00xxxx_12B_0223 Timplahan.
+81_xx00xxxx_12B_0224 Figurin.
+81_xx00xxxx_12B_0225 Laos.
+81_xx00xxxx_12B_0226 Natira.
+81_xx00xxxx_12B_0227 Tinamad.
+81_xx00xxxx_12B_0228 Fiesta.
+81_xx00xxxx_12B_0229 Lapit.
+81_xx00xxxx_12B_0230 Nauunahan.
+81_xx00xxxx_12B_0231 Tinambakan.
+81_xx00xxxx_12B_0232 Gaan.
+81_xx00xxxx_12B_0233 Lapitan.
+81_xx00xxxx_12B_0234 Nawala.
+81_xx00xxxx_12B_0235 Tinapon.
+81_xx00xxxx_12B_0236 Gaano.
+81_xx00xxxx_12B_0237 Lara.
+81_xx00xxxx_12B_0238 Nawalan.
+81_xx00xxxx_12B_0239 Tinatangkilik.
+81_xx00xxxx_12B_0240 Gabi.
+81_xx00xxxx_12B_0241 Larangan.
+81_xx00xxxx_12B_0242 Nawawala.
+81_xx00xxxx_12B_0243 Supporter.
+81_xx00xxxx_12B_0244 Gagawa.
+81_xx00xxxx_12B_0245 Laro.
+81_xx00xxxx_12B_0246 Negosyo.
+81_xx00xxxx_12B_0247 Sitcom.
+81_xx00xxxx_12B_0248 Tinis.
+81_xx00xxxx_12B_0249 Galangin.
+81_xx00xxxx_12B_0250 Laruan.
+81_xx00xxxx_12B_0251 Nanita.
+81_xx00xxxx_12B_0252 Tinirahan.
+81_xx00xxxx_12B_0253 Galing.
+81_xx00xxxx_12B_0254 Laruin.
+81_xx00xxxx_12B_0255 Nang tinutukoy.
+81_xx00xxxx_12B_0256 Galing.
+81_xx00xxxx_12B_0257 Lasahan.
+81_xx00xxxx_12B_0258 Ngang tiwala.
+81_xx00xxxx_12B_0259 Gamit.
+81_xx00xxxx_12B_0260 Lasengo ngayon.
+81_xx00xxxx_12B_0261 Chak.
+81_xx00xxxx_12B_0262 Gamitin.
+81_xx00xxxx_12B_0263 Laseng.
+81_xx00xxxx_12B_0264 Ngipin.
+81_xx00xxxx_12B_0265 Chan.
+81_xx00xxxx_12B_0266 Gamot.
+81_xx00xxxx_12B_0267 Laya.
+81_xx00xxxx_12B_0268 Ngunit.
+81_xx00xxxx_12B_0269 Toto.
+81_xx00xxxx_12B_0270 Ganap.
+81_xx00xxxx_12B_0271 Layasan.
+81_xx00xxxx_12B_0272 Nila.
+81_xx00xxxx_12B_0273 Trahedya.
+81_xx00xxxx_12B_0274 Gandahan.
+81_xx00xxxx_12B_0275 Layo.
+81_xx00xxxx_12B_0276 Nilagay.
+81_xx00xxxx_12B_0277 Chek.
+81_xx00xxxx_12B_0278 Ganito.
+81_xx00xxxx_12B_0279 Layuan.
+81_xx00xxxx_12B_0280 Nilakbay.
+81_xx00xxxx_12B_0281 Cheke.
+81_xx00xxxx_12B_0282 Ganoon.
+81_xx00xxxx_12B_0283 Layuin.
+81_xx00xxxx_12B_0284 Lismis.
+81_xx00xxxx_12B_0285 Gas.
+81_xx00xxxx_12B_0286 Libangan.
+81_xx00xxxx_12B_0287 Nilapitan.
+81_xx00xxxx_12B_0288 Tubig.
+81_xx00xxxx_12B_0289 Gasgasan.
+81_xx00xxxx_12B_0290 Libing.
+81_xx00xxxx_12B_0291 Nilasing.
+81_xx00xxxx_12B_0292 Tula.
+81_xx00xxxx_12B_0293 Gastos.
+81_xx00xxxx_12B_0294 Liblib.
+81_xx00xxxx_12B_0295 Nilusob.
+81_xx00xxxx_12B_0296 Tulad.
+81_xx00xxxx_12B_0297 Gastusan.
+81_xx00xxxx_12B_0298 Mino.
+81_xx00xxxx_12B_0299 Tulungan.
+81_xx00xxxx_12B_0300 Gatas.
+81_xx00xxxx_12B_0301 Ligawan.
+81_xx00xxxx_12B_0302 Ninyo.
+81_xx00xxxx_12B_0303 Tumakas.
+81_xx00xxxx_12B_0304 Gatong.
+81_xx00xxxx_12B_0305 Ligaya.
+81_xx00xxxx_12B_0306 Nitung.
+81_xx00xxxx_12B_0307 Tumakbo.
+81_xx00xxxx_12B_0308 Gaya.
+81_xx00xxxx_12B_0309 Ligo.
+81_xx00xxxx_12B_0310 Nya.
+81_xx00xxxx_12B_0311 Tumalon.
+81_xx00xxxx_12B_0312 Nyang.
+81_xx00xxxx_12B_0313 Tumatawag.
+81_xx00xxxx_12B_0314 Gigil.
+81_xx00xxxx_12B_0315 Lihim.
+81_xx00xxxx_12B_0316 Nyo.
+81_xx00xxxx_12B_0317 Tumawag.
+81_xx00xxxx_12B_0318 Gilid.
+81_xx00xxxx_12B_0319 Liko.
+81_xx00xxxx_12B_0320 Nobyembre.
+81_xx00xxxx_12B_0321 Tumawid.
+81_xx00xxxx_12B_0322 Giling.
+81_xx00xxxx_12B_0323 Likot.
+81_xx00xxxx_12B_0324 Noong.
+81_xx00xxxx_12B_0325 Tumayo.
+81_xx00xxxx_12B_0326 Giliw.
+81_xx00xxxx_12B_0327 Lima.
+81_xx00xxxx_12B_0328 Nung.
+81_xx00xxxx_12B_0329 Gimik.
+81_xx00xxxx_12B_0330 Limos.
+81_xx00xxxx_12B_0331 Nood.
+81_xx00xxxx_12B_0332 Tunay.
+81_xx00xxxx_12B_0333 Ginang.
+81_xx00xxxx_12B_0334 Lindol.
+81_xx00xxxx_12B_0335 Ok.
+81_xx00xxxx_12B_0336 Tungkol.
+81_xx00xxxx_12B_0337 Ginhawa.
+81_xx00xxxx_12B_0338 Lingong.
+81_xx00xxxx_12B_0339 Okra.
+81_xx00xxxx_12B_0340 O.
+81_xx00xxxx_12B_0341 Tuid.
+81_xx00xxxx_12B_0342 Ginto.
+81_xx00xxxx_12B_0343 Linis.
+81_xx00xxxx_12B_0344 Upisina.
+81_xx00xxxx_12B_0345 Ube.
+81_xx00xxxx_12B_0346 Gintong.
+81_xx00xxxx_12B_0347 Linisin.
+81_xx00xxxx_12B_0348 Upisinang.
+81_xx00xxxx_12B_0349 Ubo.
+81_xx00xxxx_12B_0350 Gising.
+81_xx00xxxx_12B_0351 Linlang.
+81_xx00xxxx_12B_0352 Opo.
+81_xx00xxxx_12B_0353 Ubuhin.
+81_xx00xxxx_12B_0354 Nanin.
+81_xx00xxxx_12B_0355 Orasan.
+81_xx00xxxx_12B_0356 Ugali.
+81_xx00xxxx_12B_0357 Gubat.
+81_xx00xxxx_12B_0358 Litaw.
+81_xx00xxxx_12B_0359 Oso.
+81_xx00xxxx_12B_0360 Ugat.
+81_xx00xxxx_12B_0361 Gulang.
+81_xx00xxxx_12B_0362 Lito.
+81_xx00xxxx_12B_0363 Oto.
+81_xx00xxxx_12B_0364 Uhao.
+81_xx00xxxx_12B_0365 Gulangan.
+81_xx00xxxx_12B_0366 Lituhin.
+81_xx00xxxx_12B_0367 Pa.
+81_xx00xxxx_12B_0368 Ulan.
+81_xx00xxxx_12B_0369 Gulatin.
+81_xx00xxxx_12B_0370 Lokohin.
+81_xx00xxxx_12B_0371 Paakyat.
+81_xx00xxxx_12B_0372 Ulanan.
+81_xx00xxxx_12B_0373 Gulay.
+81_xx00xxxx_12B_0374 Paalis.
+81_xx00xxxx_12B_0375 Ulang.
+81_xx00xxxx_12B_0376 Gulo.
+81_xx00xxxx_12B_0377 Paano.
+81_xx00xxxx_12B_0378 Uli.
+81_xx00xxxx_12B_0379 Gulod.
+81_xx00xxxx_12B_0380 Paaralan.
+81_xx00xxxx_12B_0381 Ulit.
+81_xx00xxxx_12B_0382 Paborito.
+81_xx00xxxx_12B_0383 Ulitin.
+81_xx00xxxx_12B_0384 Guluhin.
+81_xx00xxxx_12B_0385 Padamdam.
+81_xx00xxxx_12B_0386 Ulo.
+81_xx00xxxx_12B_0387 Gumamit.
+81_xx00xxxx_12B_0388 Pader.
+81_xx00xxxx_12B_0389 Rosario.
+81_xx00xxxx_12B_0390 Restaurant.
+81_xx00xxxx_12B_0391 Records.
+81_xx00xxxx_12B_0392 Limang.
+81_xx00xxxx_12B_0393 Nailangan.
+81_xx00xxxx_12B_0394 Pinangyarihan.
+81_xx00xxxx_12B_0395 Umabot.
+81_xx00xxxx_12B_0396 Gumiling.
+81_xx00xxxx_12B_0397 Lupang.
+81_xx00xxxx_12B_0398 Pagbate.
+81_xx00xxxx_12B_0399 Umaga.
+81_xx00xxxx_12B_0400 Gumising.
+81_xx00xxxx_12B_0401 Maaare.
+81_xx00xxxx_12B_0402 Pagbibigay.
+81_xx00xxxx_12B_0403 Umales.
+81_xx00xxxx_12B_0404 Gunting.
+81_xx00xxxx_12B_0405 Maaaring.
+81_xx00xxxx_12B_0406 Pagdame.
+81_xx00xxxx_12B_0407 Umihih.
+81_xx00xxxx_12B_0408 Gupitan.
+81_xx00xxxx_12B_0409 Maabot.
+81_xx00xxxx_12B_0410 Paggawa.
+81_xx00xxxx_12B_0411 Umiyak.
+81_xx00xxxx_12B_0412 Gupitin.
+81_xx00xxxx_12B_0413 Maaga.
+81_xx00xxxx_12B_0414 Paghaharapin.
+81_xx00xxxx_12B_0415 Gusali.
+81_xx00xxxx_12B_0416 Maagang.
+81_xx00xxxx_12B_0417 Paghandaan.
+81_xx00xxxx_12B_0418 Gusto.
+81_xx00xxxx_12B_0419 Maalat.
+81_xx00xxxx_12B_0420 Maaliwalas.
+81_xx00xxxx_12B_0421 Pagibig.
+81_xx00xxxx_12B_0422 Maasim.
+81_xx00xxxx_12B_0423 Pagiging.
+81_xx00xxxx_12B_0424 Haba.
+81_xx00xxxx_12B_0425 Mabagal.
+81_xx00xxxx_12B_0426 Pagkabigla.
+81_xx00xxxx_12B_0427 Una.
+81_xx00xxxx_12B_0428 Habaan.
+81_xx00xxxx_12B_0429 Mabaho.
+81_xx00xxxx_12B_0430 Nakilalang.
+81_xx00xxxx_12B_0431 Magpipitong.
+81_xx00xxxx_12B_0432 Nasabing.
+81_xx00xxxx_12B_0433 Parangal.
+81_xx00xxxx_12B_0434 Pagkabuhat.
+81_xx00xxxx_12B_0435 Unahan.
+81_xx00xxxx_12B_0436 Habang.
+81_xx00xxxx_12B_0437 Mabaet.
+81_xx00xxxx_12B_0438 Pagkain.
+81_xx00xxxx_12B_0439 Unang.
+81_xx00xxxx_12B_0440 Hagdanan.
+81_xx00xxxx_12B_0441 Mabango.
+81_xx00xxxx_12B_0442 Pagkakakilala.
+81_xx00xxxx_12B_0443 Universidad.
+81_xx00xxxx_12B_0444 Haharapin.
+81_xx00xxxx_12B_0445 Mabayaran.
+81_xx00xxxx_12B_0446 Pagkakataong.
+81_xx00xxxx_12B_0447 Uod.
+81_xx00xxxx_12B_0448 Pagkakautang.
+81_xx00xxxx_12B_0449 Upang halaman.
+81_xx00xxxx_12B_0450 Mabuhay.
+81_xx00xxxx_12B_0451 Pagkakuha.
+81_xx00xxxx_12B_0452 Upo.
+81_xx00xxxx_12B_0453 Halain.
+81_xx00xxxx_12B_0454 Mabuo.
+81_xx00xxxx_12B_0455 Pagkatalo.
+81_xx00xxxx_12B_0456 Upuan.
+81_xx00xxxx_12B_0457 Halika.
+81_xx00xxxx_12B_0458 Mabuti.
+81_xx00xxxx_12B_0459 Pagkatapos.
+81_xx00xxxx_12B_0460 Ure.
+81_xx00xxxx_12B_0461 Halina.
+81_xx00xxxx_12B_0462 Hala.
+81_xx00xxxx_12B_0463 Usapan.
+81_xx00xxxx_12B_0464 Halos.
+81_xx00xxxx_12B_0465 Madalas.
+81_xx00xxxx_12B_0466 Pagkuha.
+81_xx00xxxx_12B_0467 Utang.
+81_xx00xxxx_12B_0468 Hambing.
+81_xx00xxxx_12B_0469 Madali.
+81_xx00xxxx_12B_0470 Pagod.
+81_xx00xxxx_12B_0471 Uunlad.
+81_xx00xxxx_12B_0472 Handa.
+81_xx00xxxx_12B_0473 Madami.
+81_xx00xxxx_12B_0474 Pagpapabaya.
+81_xx00xxxx_12B_0475 Uwe.
+81_xx00xxxx_12B_0476 Pagsubmit.
+81_xx00xxxx_12B_0477 Valedictorian.
+81_xx00xxxx_12B_0478 Hanggang madidilat.
+81_xx00xxxx_12B_0479 Pagsubok.
+81_xx00xxxx_12B_0480 Valible.
+81_xx00xxxx_12B_0481 Hanging.
+81_xx00xxxx_12B_0482 Madidilaw.
+81_xx00xxxx_12B_0483 Pagulan.
+81_xx00xxxx_12B_0484 Vanilla.
+81_xx00xxxx_12B_0485 Hapag.
+81_xx00xxxx_12B_0486 Magagandang.
+81_xx00xxxx_12B_0487 Pakialam.
+81_xx00xxxx_12B_0488 Vibes.
+81_xx00xxxx_12B_0489 Hapon.
+81_xx00xxxx_12B_0490 Magaling.
+81_xx00xxxx_12B_0491 Pakibukas.
+81_xx00xxxx_12B_0492 Violet.
+81_xx00xxxx_12B_0493 Harap.
+81_xx00xxxx_12B_0494 Maganda.
+81_xx00xxxx_12B_0495 Pakigamot.
+81_xx00xxxx_12B_0496 Vice versa.
+81_xx00xxxx_12B_0497 Ginawang.
+81_xx00xxxx_12B_0498 Pangyayaring.
+81_xx00xxxx_12B_0499 Anyang.
+81_xx00xxxx_12B_0500 Pambansang.
+81_xx00xxxx_12B_0501 Mabigyang.
+81_xx00xxxx_12B_0502 Panunungkulang.
+81_xx00xxxx_12B_0503 Kataas-taasang.
+81_xx00xxxx_12B_0504 Magsawalang kibo.
+81_xx00xxxx_12B_0505 Kasamahan.
+81_xx00xxxx_12B_0506 Ibang.
+81_xx00xxxx_12B_0507 Mapayapang.
+81_xx00xxxx_12B_0508 Harapan.
+81_xx00xxxx_12B_0509 Magandang.
+81_xx00xxxx_12B_0510 Pakigawa.
+81_xx00xxxx_12B_0511 Vendo.
+81_xx00xxxx_12B_0512 Harapin.
+81_xx00xxxx_12B_0513 Mag-aral.
+81_xx00xxxx_12B_0514 Pakihugas.
+81_xx00xxxx_12B_0515 Veranda.
+81_xx00xxxx_12B_0516 Hasa.
+81_xx00xxxx_12B_0517 Mag-asawa.
+81_xx00xxxx_12B_0518 Hasaen.
+81_xx00xxxx_12B_0519 Mag-asawang.
+81_xx00xxxx_12B_0520 Pakikanta.
+81_xx00xxxx_12B_0521 Versus.
+81_xx00xxxx_12B_0522 Hataw.
+81_xx00xxxx_12B_0523 Magawa.
+81_xx00xxxx_12B_0524 Pakikuha.
+81_xx00xxxx_12B_0525 Vigilante.
+81_xx00xxxx_12B_0526 Hatawin.
+81_xx00xxxx_12B_0527 Magbago.
+81_xx00xxxx_12B_0528 Wagi.
+81_xx00xxxx_12B_0529 Hatid.
+81_xx00xxxx_12B_0530 Magbantay.
+81_xx00xxxx_12B_0531 Pakinabang.
+81_xx00xxxx_12B_0532 Magbasa.
+81_xx00xxxx_12B_0533 Pakiusap.
+81_xx00xxxx_12B_0534 Wala.
+81_xx00xxxx_12B_0535 Hawakan.
+81_xx00xxxx_12B_0536 Magbasag.
+81_xx00xxxx_12B_0537 Pakiusapan.
+81_xx00xxxx_12B_0538 Walang.
+81_xx00xxxx_12B_0539 Hayag.
+81_xx00xxxx_12B_0540 Magbawas.
+81_xx00xxxx_12B_0541 Paksa.
+81_xx00xxxx_12B_0542 Walis.
+81_xx00xxxx_12B_0543 Hayop.
+81_xx00xxxx_12B_0544 Magbayad.
+81_xx00xxxx_12B_0545 Pala.
+81_xx00xxxx_12B_0546 High school.
+81_xx00xxxx_12B_0547 Magbenta.
+81_xx00xxxx_12B_0548 Palabas.
+81_xx00xxxx_12B_0549 Walong.
+81_xx00xxxx_12B_0550 General.
+81_xx00xxxx_12B_0551 Magbigayan.
+81_xx00xxxx_12B_0552 Palad.
+81_xx00xxxx_12B_0553 Warat.
+81_xx00xxxx_12B_0554 Higaan.
+81_xx00xxxx_12B_0555 Magbilang.
+81_xx00xxxx_12B_0556 Palawakin.
+81_xx00xxxx_12B_0557 Wasak.
+81_xx00xxxx_12B_0558 Hila.
+81_xx00xxxx_12B_0559 Magbubuked.
+81_xx00xxxx_12B_0560 Hilahan.
+81_xx00xxxx_12B_0561 Magdala.
+81_xx00xxxx_12B_0562 Palibhasa.
+81_xx00xxxx_12B_0563 Yaman.
+81_xx00xxxx_12B_0564 Hilain.
+81_xx00xxxx_12B_0565 Magdasal.
+81_xx00xxxx_12B_0566 Paliwanagan.
+81_xx00xxxx_12B_0567 Yan.
+81_xx00xxxx_12B_0568 Hilingin.
+81_xx00xxxx_12B_0569 Maghanda.
+81_xx00xxxx_12B_0570 Pambihira.
+81_xx00xxxx_12B_0571 Yare.
+81_xx00xxxx_12B_0572 Recreation.
+81_xx00xxxx_12B_0573 Kongreso.
+81_xx00xxxx_12B_0574 Senate.
+81_xx00xxxx_12B_0575 Secretary.
+81_xx00xxxx_12B_0576 Abalang.
+81_xx00xxxx_12B_0577 Alamang.
+81_xx00xxxx_12B_0578 Manggugulo.
+81_xx00xxxx_12B_0579 Manggulo.
+81_xx00xxxx_12B_0580 Nangyari.
+81_xx00xxxx_12B_0581 Darating.
+81_xx00xxxx_12B_0582 Humihingi.
+81_xx00xxxx_12B_0583 Dalawampung.
+81_xx00xxxx_12B_0584 Narsing.
+81_xx00xxxx_12B_0585 Himbing.
+81_xx00xxxx_12B_0586 Maghapon.
+81_xx00xxxx_12B_0587 Pamilya.
+81_xx00xxxx_12B_0588 Hina.
+81_xx00xxxx_12B_0589 Maghihintay.
+81_xx00xxxx_12B_0590 Yayain.
+81_xx00xxxx_12B_0591 Hinayang.
+81_xx00xxxx_12B_0592 Maghintay-hintay.
+81_xx00xxxx_12B_0593 Panaginip.
+81_xx00xxxx_12B_0594 Yelo.
+81_xx00xxxx_12B_0595 Hindi.
+81_xx00xxxx_12B_0596 Magiging.
+81_xx00xxxx_12B_0597 Panahon.
+81_xx00xxxx_12B_0598 Yero.
+81_xx00xxxx_12B_0599 Hiningan.
+81_xx00xxxx_12B_0600 Maging pananim.
+81_xx00xxxx_12B_0601 Magisa.
+81_xx00xxxx_12B_0602 Pandak.
+81_xx00xxxx_12B_0603 Yumao.
+81_xx00xxxx_12B_0604 Hinipuan.
+81_xx00xxxx_12B_0605 Magkaibigan.
+81_xx00xxxx_12B_0606 Pang.
+81_xx00xxxx_12B_0607 Yung.
+81_xx00xxxx_12B_0608 Hintay.
+81_xx00xxxx_12B_0609 Magkakabisa.
+81_xx00xxxx_12B_0610 Pangalan.
+81_xx00xxxx_12B_0611 Zero.
+81_xx00xxxx_12B_0612 Hintayin.
+81_xx00xxxx_12B_0613 Magkakaibigan.
+81_xx00xxxx_12B_0614 Panganim.
+81_xx00xxxx_12B_0615 Hinto.
+81_xx00xxxx_12B_0616 Magkakapatid.
+81_xx00xxxx_12B_0617 Pangarap.
+81_xx00xxxx_12B_0618 Zinya.
+81_xx00xxxx_12B_0619 Hintong.
+81_xx00xxxx_12B_0620 Magkakaroon.
+81_xx00xxxx_12B_0621 Pangit.
+81_xx00xxxx_12B_0622 Zipper.
+81_xx00xxxx_12B_0623 Hintuan.
+81_xx00xxxx_12B_0624 Panglima.
+81_xx00xxxx_12B_0625 Hipan.
+81_xx00xxxx_12B_0626 Maggamay.
+81_xx00xxxx_12B_0627 Pangyayari.
+81_xx00xxxx_12B_0628 Hipanin.
+81_xx00xxxx_12B_0629 Hipuan.
+81_xx00xxxx_12B_0630 Maglagay.
+81_xx00xxxx_12B_0631 Papel.
+81_xx00xxxx_12B_0632 Hirap.
+81_xx00xxxx_12B_0633 Maglita.
+81_xx00xxxx_12B_0634 Para.
+81_xx00xxxx_12B_0635 Host.
+81_xx00xxxx_12B_0636 Parang.
+81_xx00xxxx_12B_0637 Hotel.
+81_xx00xxxx_12B_0638 Pasahin.
+81_xx00xxxx_12B_0639 Hugasan.
+81_xx00xxxx_12B_0640 Magnanakaw.
+81_xx00xxxx_12B_0641 Pasko.
+81_xx00xxxx_12B_0642 Nakakulong sessions.
+81_xx00xxxx_12B_0643 Ba.
+81_xx00xxxx_12B_0644 Be. Bi. Bo. Bu.
+81_xx00xxxx_12B_0645 Bad. Bag.
+81_xx00xxxx_12B_0646 Bak. Bal. Bam.
+81_xx00xxxx_12B_0647 Bin.
+81_xx00xxxx_12B_0648 Bang. Bap.
+81_xx00xxxx_12B_0649 Bar. Bas. Bat.
+81_xx00xxxx_12B_0650 Bau. Bay.
+81_xx00xxxx_12B_0651 Ben. Bid.
+81_xx00xxxx_12B_0652 Big. Bik. Bill.
+81_xx00xxxx_12B_0653 Bin. Bim.
+81_xx00xxxx_12B_0654 Bing. Bis.
+81_xx00xxxx_12B_0655 Bit. Bog.
+81_xx00xxxx_12B_0656 Bon. Bong.
+81_xx00xxxx_12B_0657 Bot. Boy.
+81_xx00xxxx_12B_0658 Bug.
+81_xx00xxxx_12B_0659 Bur. Bok.
+81_xx00xxxx_12B_0660 Bol. Brill.
+81_xx00xxxx_12B_0661 Blue. Bre.
+81_xx00xxxx_12B_0662 Bax. Bre.
+81_xx00xxxx_12B_0663 Bul. Ber. Bra.
+81_xx00xxxx_12B_0664 Da. De.
+81_xx00xxxx_12B_0665 Di. Do.
+81_xx00xxxx_12B_0666 Du. Dag. Dal.
+81_xx00xxxx_12B_0667 Dik. Dra. Dad.
+81_xx00xxxx_12B_0668 Dug. Dak. Dal.
+81_xx00xxxx_12B_0669 Dib. Dam.
+81_xx00xxxx_12B_0670 Dey. Dan.
+81_xx00xxxx_12B_0671 Big. Ding.
+81_xx00xxxx_12B_0672 Ga. Ge. Gi. Go.
+81_xx00xxxx_12B_0673 Gu. God.
+81_xx00xxxx_12B_0674 Gua. Gaw.
+81_xx00xxxx_12B_0675 Gin. Giw. Gos.
+81_xx00xxxx_12B_0676 Gas. Gay. Gan.
+81_xx00xxxx_12B_0677 Gil. Git.
+81_xx00xxxx_12B_0678 Gul. Gun. Gal.
+81_xx00xxxx_12B_0679 Gus. Gat. Gab.
+81_xx00xxxx_12B_0680 Fa. Fe. Fi.
+81_xx00xxxx_12B_0681 Fo. Fu.
+81_xx00xxxx_12B_0682 Feis. Fan. Fies.
+81_xx00xxxx_12B_0683 Fig. Ha. He.
+81_xx00xxxx_12B_0684 Hi. Ho.
+81_xx00xxxx_12B_0685 Hu. Hin.
+81_xx00xxxx_12B_0686 Hao. Han.
+81_xx00xxxx_12B_0687 Hai. Hit. Hoy.
+81_xx00xxxx_12B_0688 Has. Hil. Him.
+81_xx00xxxx_12B_0689 Hag. Hul.
+81_xx00xxxx_12B_0690 Ham.
+81_xx00xxxx_12B_0691 Ja. Je. Ji.
+81_xx00xxxx_12B_0692 Jo. Ju. Jit.
+81_xx00xxxx_12B_0693 Juk. Jun.
+81_xx00xxxx_12B_0694 Ka. Ke. Ki.
+81_xx00xxxx_12B_0695 Go. Ku.
+81_xx00xxxx_12B_0696 Kid. Kin. Kot.
+81_xx00xxxx_12B_0697 Kit. Kum. Kun.
+81_xx00xxxx_12B_0698 Kas. Kam.
+81_xx00xxxx_12B_0699 Kal. Kan.
+81_xx00xxxx_12B_0700 Get. Kat.
+81_xx00xxxx_12B_0701 Kao. Kim. Kip.
+81_xx00xxxx_12B_0702 La. Le.
+81_xx00xxxx_12B_0703 Li. Lo.
+81_xx00xxxx_12B_0704 Lu. Lok. Los.
+81_xx00xxxx_12B_0705 Lam. Lin.
+81_xx00xxxx_12B_0706 Ling. Lit. Lik.
+81_xx00xxxx_12B_0707 Lung. Lang. Lan.
+81_xx00xxxx_12B_0708 Lat. Lid. Liu.
+81_xx00xxxx_12B_0709 Lau. Long.
+81_xx00xxxx_12B_0710 Leng. Lis. Las.
+81_xx00xxxx_12B_0711 Las. Les.
+81_xx00xxxx_12B_0712 Lag. Lam. Lun.
+81_xx00xxxx_12B_0713 Lon. Lis.
+81_xx00xxxx_12B_0714 Ma. Me. Mi. Mo.
+81_xx00xxxx_12B_0715 Mu. Mag. Mar.
+81_xx00xxxx_12B_0716 Mis. Min. Mil.
+81_xx00xxxx_12B_0717 Mok. Men.
+81_xx00xxxx_12B_0718 Mang. Mai. Mit.
+81_xx00xxxx_12B_0719 Mik. Man. Mun.
+81_xx00xxxx_12B_0720 Mad. Mak. Mat.
+81_xx00xxxx_12B_0721 Na. Ne.
+81_xx00xxxx_12B_0722 Ni. No. Nu.
+81_xx00xxxx_12B_0723 Nag. Nai. Nib.
+81_xx00xxxx_12B_0724 Nau. Nen.
+81_xx00xxxx_12B_0725 Nok. Nan. Nig.
+81_xx00xxxx_12B_0726 Nin. Nang. Nog.
+81_xx00xxxx_12B_0727 Nak. Nim. Nas.
+81_xx00xxxx_12B_0728 Nag. Nob. Nam.
+81_xx00xxxx_12B_0729 Nil.
+81_xx00xxxx_12B_0730 Nga. Nge. Ni.
+81_xx00xxxx_12B_0731 Ngo. Ngu. Ngan.
+81_xx00xxxx_12B_0732 Nog. Nin.
+81_xx00xxxx_12B_0733 Ngay. Nye. Nin.
+81_xx00xxxx_12B_0734 Ngon.
+81_xx00xxxx_12B_0735 Pa. Pe.
+81_xx00xxxx_12B_0736 Pi. Po.
+81_xx00xxxx_12B_0737 Hu. Pag. Pak.
+81_xx00xxxx_12B_0738 Pas. Pat. Pet.
+81_xx00xxxx_12B_0739 Pon. Poy.
+81_xx00xxxx_12B_0740 Pin. Pan. Pit.
+81_xx00xxxx_12B_0741 Pla. Pang.
+81_xx00xxxx_12B_0742 Ping. Pir. Peb.
+81_xx00xxxx_12B_0743 Pos. Pun. Per.
+81_xx00xxxx_12B_0744 Ra. Re.
+81_xx00xxxx_12B_0745 Li. Ro. Ru.
+81_xx00xxxx_12B_0746 Ras. Ral. Rang.
+81_xx00xxxx_12B_0747 Rat. Ran. Rau.
+81_xx00xxxx_12B_0748 Rin. Ret. Rap.
+81_xx00xxxx_12B_0749 Rong.
+81_xx00xxxx_12B_0750 Sa. Se. Si. So.
+81_xx00xxxx_12B_0751 Su. Syem. Sin.
+81_xx00xxxx_12B_0752 Sak. Syon.
+81_xx00xxxx_12B_0753 San. Sip.
+81_xx00xxxx_12B_0754 Sul. Sog. Skwe.
+81_xx00xxxx_12B_0755 Sal. Sim. Sing.
+81_xx00xxxx_12B_0756 Sag. Sig.
+81_xx00xxxx_12B_0757 Sog. Sep.
+81_xx00xxxx_12B_0758 Sil. Sis.
+81_xx00xxxx_12B_0759 Suk. Sul.
+81_xx00xxxx_12B_0760 Sol. Sum.
+81_xx00xxxx_12B_0761 Sun.
+81_xx00xxxx_12B_0762 Sung. Sus.
+81_xx00xxxx_12B_0763 Swe.
+81_xx00xxxx_12B_0764 Ta. Te.
+81_xx00xxxx_12B_0765 Ti. To.
+81_xx00xxxx_12B_0766 Tu. Tan.
+81_xx00xxxx_12B_0767 Tay. Tas. Tor.
+81_xx00xxxx_12B_0768 Tik. Tes. Tok.
+81_xx00xxxx_12B_0769 Tau. Tin.
+81_xx00xxxx_12B_0770 Tab. Tik.
+81_xx00xxxx_12B_0771 Tel. Tos. Tong.
+81_xx00xxxx_12B_0772 Tid. Ten.
+81_xx00xxxx_12B_0773 Ting. Tak. Tam.
+81_xx00xxxx_12B_0774 Tim. Til.
+81_xx00xxxx_12B_0775 Ta. Te. Ti. To.
+81_xx00xxxx_12B_0776 Sis.
+81_xx00xxxx_12B_0777 Va. Ve. Vi.
+81_xx00xxxx_12B_0778 Vo. Vu. Ven.
+81_xx00xxxx_12B_0779 Ver. Vais.
+81_xx00xxxx_12B_0780 Wa. We. We.
+81_xx00xxxx_12B_0781 Wo. Wu. Wid.
+81_xx00xxxx_12B_0782 Wad. Wag.
+81_xx00xxxx_12B_0783 Wai. Wel.
+81_xx00xxxx_12B_0784 Wan. Wak.
+81_xx00xxxx_12B_0785 Was. Wat.
+81_xx00xxxx_12B_0786 Win. Wang. Wing.
+81_xx00xxxx_12B_0787 Wong.
+81_xx00xxxx_12B_0788 Ya. Ye.
+81_xx00xxxx_12B_0789 Ni. Yo. Yu.
+81_xx00xxxx_12B_0790 Yem. Yin. Yad.
+81_xx00xxxx_12B_0791 Yat. Yan.
+81_xx00xxxx_12B_0792 Yar. Yos.
+81_xx00xxxx_12B_0793 Yer. Yag.
+81_xx00xxxx_12B_0794 Yang. Zak. Yon.
+81_xx00xxxx_12B_0795 Yor.
+81_xx00xxxx_12B_0796 Yak. Yon. Yor.
+81_xx00xxxx_12B_0797 Za. Ze. Zee.
+81_xx00xxxx_12B_0798 Zo. Zu. Zin.
+81_xx00xxxx_12B_0799 Ang. As. Ak.
+81_xx00xxxx_12B_0800 Ay. At.
+81_xx00xxxx_12B_0801 Ar. An. Em.
+81_xx00xxxx_12B_0802 Nag.
+81_xx00xxxx_12B_0803 N. Em.
+81_xx00xxxx_12B_0804 Eng. Ed.
+81_xx00xxxx_12B_0805 Es. Is.
+81_xx00xxxx_12B_0806 In. Ing. Im.
+81_xx00xxxx_12B_0807 Bung. Dang. Dong.
+81_xx00xxxx_12B_0808 Ging. Gang.
+81_xx00xxxx_12B_0809 Gong. Hang.
+81_xx00xxxx_12B_0810 Hing. Hong. King.
+81_xx00xxxx_12B_0811 Kang. Kong.
+81_xx00xxxx_12B_0812 Kung. Ming. Mong.
+81_xx00xxxx_12B_0813 Mung. Ning. Nong.
+81_xx00xxxx_12B_0814 Nung. Neng.
+81_xx00xxxx_12B_0815 Ngun. Ngin.
+81_xx00xxxx_12B_0816 Pung. Pong.
+81_xx00xxxx_12B_0817 Ring. Sang. Song.
+81_xx00xxxx_12B_0818 Sing. Tang.
+81_xx00xxxx_12B_0819 Tang. Tung.
+81_xx00xxxx_12B_0820 Chang. Chong. Ching.
+81_xx00xxxx_12B_0821 Ying. Yong. Yung.
+81_xx00xxxx_12B_0822 Bab. Bed.
+81_xx00xxxx_12B_0823 Bem. Bow.
+81_xx00xxxx_12B_0824 Boa. Boy.
+81_xx00xxxx_12B_0825 Das. Day.
+81_xx00xxxx_12B_0826 Del. Den. Dog.
+81_xx00xxxx_12B_0827 Dos. Gad.
+81_xx00xxxx_12B_0828 Gak. Gam. Gap.
+81_xx00xxxx_12B_0829 Far. Fat.
+81_xx00xxxx_12B_0830 Fel. Fing. Fo.
+81_xx00xxxx_12B_0831 Hab. Had.
+81_xx00xxxx_12B_0832 Hat. Hen. Hid.
+81_xx00xxxx_12B_0833 Hog. Hung.
+81_xx00xxxx_12B_0834 Jag. Jack.
+81_xx00xxxx_12B_0835 Jas. Jazz.
+81_xx00xxxx_12B_0836 Jing. Joy.
+81_xx00xxxx_12B_0837 Kab. Cad.
+81_xx00xxxx_12B_0838 Kag. Ken. Kib.
+81_xx00xxxx_12B_0839 Kog. Kow.
+81_xx00xxxx_12B_0840 Koy. Kur.
+81_xx00xxxx_12B_0841 Lab. Lad.
+81_xx00xxxx_12B_0842 Lai. Log.
+81_xx00xxxx_12B_0843 Law. Loy. Luk.
+81_xx00xxxx_12B_0844 Mal. Mem. Mip.
+81_xx00xxxx_12B_0845 Mir. Mau.
+81_xx00xxxx_12B_0846 Mug. Muk.
+81_xx00xxxx_12B_0847 Nab. Nad.
+81_xx00xxxx_12B_0848 Nal.
+81_xx00xxxx_12B_0849 Neg. Nep.
+81_xx00xxxx_12B_0850 Nip. Nir.
+81_xx00xxxx_12B_0851 Nos. Nau.
+81_xx00xxxx_12B_0852 Nus. Ngas.
+81_xx00xxxx_12B_0853 Ngek.
+81_xx00xxxx_12B_0854 Ngik. Ngop.
+81_xx00xxxx_12B_0855 Teng. Pik.
+81_xx00xxxx_12B_0856 Pou. Puk.
+81_xx00xxxx_12B_0857 Pus. Rab.
+81_xx00xxxx_12B_0858 Rad. Rag.
+81_xx00xxxx_12B_0859 Rak. Trem. Ren.
+81_xx00xxxx_12B_0860 Ris. Ro.
+81_xx00xxxx_12B_0861 Sad.
+81_xx00xxxx_12B_0862 Sat. Say.
+81_xx00xxxx_12B_0863 So. Suy.
+81_xx00xxxx_12B_0864 Tad. Tag.
+81_xx00xxxx_12B_0865 Tem. Ten.
+81_xx00xxxx_12B_0866 Tog. To. Chap.
+81_xx00xxxx_12B_0867 Check. Ches.
+81_xx00xxxx_12B_0868 Chok. Choy.
+81_xx00xxxx_12B_0869 Vak. Val.
+81_xx00xxxx_12B_0870 Ves. Vin.
+81_xx00xxxx_12B_0871 Vol. Wal.
+81_xx00xxxx_12B_0872 War. Wed.
+81_xx00xxxx_12B_0873 Wol. Yab.
+81_xx00xxxx_12B_0874 Yap. Yaw.
+81_xx00xxxx_12B_0875 Zam. Zay.
+81_xx00xxxx_12B_0876 Zig.
+81_xx00xxxx_12B_0877 Ako aming
+81_xx00xxxx_12B_0878 ang anim
+81_xx00xxxx_12B_0879 araw at ay
+81_xx00xxxx_12B_0880 ba
+81_xx00xxxx_12B_0881 bago. Bahay.
+81_xx00xxxx_12B_0882 Bawat. Bilhan.
+81_xx00xxxx_12B_0883 Bola. Buhay.
+81_xx00xxxx_12B_0884 Bumitiw. Buong.
+81_xx00xxxx_12B_0885 Buwanan.
+81_xx00xxxx_12B_0886 Buwanang. Coach.
+81_xx00xxxx_12B_0887 Di. Jes.
+81_xx00xxxx_12B_0888 Din. Doon.
+81_xx00xxxx_12B_0889 Enero.
+81_xx00xxxx_12B_0890 Intablado. Fairview.
+81_xx00xxxx_12B_0891 First. Gabriel.
+81_xx00xxxx_12B_0892 Galing.
+81_xx00xxxx_12B_0893 Ganap. Gulod.
+81_xx00xxxx_12B_0894 Hanging.
+81_xx00xxxx_12B_0895 Hindi. Huling.
+81_xx00xxxx_12B_0896 Impusibling.
+81_xx00xxxx_12B_0897 Ipagpatuloy.
+81_xx00xxxx_12B_0898 Isang itaas.
+81_xx00xxxx_12B_0899 Ito.
+81_xx00xxxx_12B_0900 Ian. Jack.
+81_xx00xxxx_12B_0901 Jeffrey. Jesus.
+81_xx00xxxx_12B_0902 Ka. Kaibigan.
+81_xx00xxxx_12B_0903 Kailan.
+81_xx00xxxx_12B_0904 Kailangan.
+81_xx00xxxx_12B_0905 Kalangitan. Kalawakan.
+81_xx00xxxx_12B_0906 Kalayaan.
+81_xx00xxxx_12B_0907 Kalikasan. Kapwa.
+81_xx00xxxx_12B_0908 Kawan.
+81_xx00xxxx_12B_0909 Kay. Kayat.
+81_xx00xxxx_12B_0910 Knowledge.
+81_xx00xxxx_12B_0911 Kung. Kuarto.
+81_xx00xxxx_12B_0912 Lahat. Lahok.
+81_xx00xxxx_12B_0913 Lakad.
+81_xx00xxxx_12B_0914 Love. Maabilidad.
+81_xx00xxxx_12B_0915 Maabot.
+81_xx00xxxx_12B_0916 Mabuti. Maganda.
+81_xx00xxxx_12B_0917 Magandang.
+81_xx00xxxx_12B_0918 Magiging.
+81_xx00xxxx_12B_0919 Magsikap. Magtulungan.
+81_xx00xxxx_12B_0920 Mahahanap.
+81_xx00xxxx_12B_0921 Makakain.
+81_xx00xxxx_12B_0922 Makasali.
+81_xx00xxxx_12B_0923 Maligayang. Manalo.
+81_xx00xxxx_12B_0924 Maraming. Mas.
+81_xx00xxxx_12B_0925 Matanggap.
+81_xx00xxxx_12B_0926 May. Manga.
+81_xx00xxxx_12B_0927 Mo. Mo.
+81_xx00xxxx_12B_0928 Munting. Na.
+81_xx00xxxx_12B_0929 Nagpunta.
+81_xx00xxxx_12B_0930 Nalalanghap. Naman.
+81_xx00xxxx_12B_0931 Namang. Namin.
+81_xx00xxxx_12B_0932 Nasugatan. Natin.
+81_xx00xxxx_12B_0933 Nating. Never.
+81_xx00xxxx_12B_0934 Nang. Ni.
+81_xx00xxxx_12B_0935 Ni. Nya.
+81_xx00xxxx_12B_0936 Nyo. Okasyon.
+81_xx00xxxx_12B_0937 Paano. Pagawa.
+81_xx00xxxx_12B_0938 Pagkabuhat.
+81_xx00xxxx_12B_0939 Pagkakahawak.
+81_xx00xxxx_12B_0940 Pagkakataong. Pakiayos.
+81_xx00xxxx_12B_0941 Panahon.
+81_xx00xxxx_12B_0942 Pangangalagaan.
+81_xx00xxxx_12B_0943 Pangarap. Panigin.
+81_xx00xxxx_12B_0944 Para.
+81_xx00xxxx_12B_0945 Pasko.
+81_xx00xxxx_12B_0946 Pati. Pedro.
+81_xx00xxxx_12B_0947 Petsa.
+81_xx00xxxx_12B_0948 PLDT. Po.
+81_xx00xxxx_12B_0949 Power.
+81_xx00xxxx_12B_0950 Premio. Programa.
+81_xx00xxxx_12B_0951 Rise. Sa.
+81_xx00xxxx_12B_0952 Saan. Sabado.
+81_xx00xxxx_12B_0953 Sampu.
+81_xx00xxxx_12B_0954 Sampung. Sandali.
+81_xx00xxxx_12B_0955 Sarili.
+81_xx00xxxx_12B_0956 Sinado. Si.
+81_xx00xxxx_12B_0957 Sinasabi.
+81_xx00xxxx_12B_0958 Sinong. Siya.
+81_xx00xxxx_12B_0959 Tahanan.
+81_xx00xxxx_12B_0960 Takdang. Tandaan.
+81_xx00xxxx_12B_0961 Tanghali.
+81_xx00xxxx_12B_0962 Tim.
+81_xx00xxxx_12B_0963 Tumalakay. Tumayo.
+81_xx00xxxx_12B_0964 Twid.
+81_xx00xxxx_12B_0965 TV. Ultra.
+81_xx00xxxx_12B_0966 Umawet. Umuwe.
+81_xx00xxxx_12B_0967 Uunlad.
+81_xx00xxxx_12B_0968 Violet.
+81_xx00xxxx_12B_0969 Woman. Yung.
+81_xx00xxxx_12B_0970 Zaza.
+81_xx00xxxx_12B_0971 The end.
+81_xx00xxxx_12B_0972 Thank you for watching!
+81_xx00xxxx_12B_0973 Thank you for watching!

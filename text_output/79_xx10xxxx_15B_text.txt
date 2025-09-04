@@ -1,0 +1,133 @@
+79_xx10xxxx_15B_0001 Bago pa lamang makuha ang hinihili mong dokumento, kailangan pumila ka muna para makakuha ka ng numero.
+79_xx10xxxx_15B_0002 Pagkakuha mo ng numero, pipila ka na naman kung saan ibigay mo pa lamang ang aplikasyon mo.
+79_xx10xxxx_15B_0003 Sa pagkuha ng numero, halos buong araw ka pipila. Halos maghapon din naman ang pag-submit lamang ng iyong aplikasyon.
+79_xx10xxxx_15B_0004 Kung minsan may mga pangyayaring mahirap ipaliwanag, may pagkakataong maswerte at may pagkakataong malas.
+79_xx10xxxx_15B_0005 May luma nga ang kasabihan ang kapalaran mo ay hindi mo man hanapin, magkukusang lalapit kung talagang aking.
+79_xx10xxxx_15B_0006 Ang buong pangalan niya ay Sancho Pancho, pero ang tawag sa kanya ng buong barangay ay Doy.
+79_xx10xxxx_15B_0007 Pandak si Doy, apat na talampakan at sampung pulgada ang taas.
+79_xx10xxxx_15B_0008 Maitim, matipuno ang katawan, nakausli ang mga buto sa mukha, malago ang kilay, madilat ang mga matang may kakatawang ningning,
+79_xx10xxxx_15B_0009 makapal ang mga labing na pinagdalagyan ng patong-patong, malalaki at madilaw ng ngipin, may pilad siya sa dalawang kaliwang tagiliran.
+79_xx10xxxx_15B_0010 Saan kayo pupunta? Kailan ka makakatapos sa episode na iyon? Sino ang nagsabi sa iyo? Magkakaraon ba kayo ngayon?
+79_xx10xxxx_15B_0011 Kainin mo itong hopia. Ubusin mo yan. Pagkanta naman ang paborito ko. Pakigawa na ninyo ang daan.
+79_xx10xxxx_15B_0012 Nasagasaan yung aso. Huwag ka dyan. Magandang hapon po. May shampoo at face towel sa lababo. Sa Nueva Vizcaya siya nagtinda ng chicharon.
+79_xx10xxxx_15B_0013 Hello? Nandyan ba si Fay Villaluz?
+79_xx10xxxx_15B_0014 Nasatugatog na ako ng tagumpay. Empleyado ka lang rito.
+79_xx10xxxx_15B_0015 Tagpuan, din, kinwento, nagtrabaho, tahanan, kita, nagtatrabaho, takas, dinamay, ko, nagtutulungan
+79_xx10xxxx_15B_0016 Takbo, dinanas, kompositor, nagtuturo, takdang, dinasal, kong, nahiga, takot, dingin, konstruksyon, nahuhuli, taxi, dinig
+79_xx10xxxx_15B_0017 Parche, naintindihan, talaga, dinilaan, krimen, naisahan, talampakan, direksyon, kukuha, nakagagawa, tali, direcho, kulang, nakakapagtakang
+79_xx10xxxx_15B_0018 Talo, disyembre, kulay, nakakasilaw, talon, jaging, maamong, naarestong, nakatakdang, kilong, kakulangan
+79_xx10xxxx_15B_0019 Dito, kulit, nakakita, diwata, kulitin, nakalabas, dyan, kulog, nakapagtapos, tama, dios, kumain, nakatira, tamad
+79_xx10xxxx_15B_0020 Doktor, kumanta, nakatulog, tambakan, dokumento, kumbento, nakausap, tanawin, drama, kumilos, nakausli, tanga, dugo, kundi, nakaw, tanghali
+79_xx10xxxx_15B_0021 Dugtong, kung, nakawan, tanim, dugtungan, kunin, nakikipagusap, taniman, dumaan, kontento, nakita
+79_xx10xxxx_15B_0022 Tao, dumalo, kusa, nalalanghap, taon, dumamay, kwarto, nalasing, taong, dumamba, kwento, nalito, tapakan, dumami, labi, nalulugi
+79_xx10xxxx_15B_0023 Tapat, dumapa, labing, naman, tapon, dumarami, labis, namatay, tapos, dumating, lagay, namin, tapusin, dumi, lagi
+79_xx10xxxx_15B_0024 Namumunga, tara, dumidinig, laging, nanalangin, tatag, dumilat, laglag, nanay, tatakbo, duon, lagpas, nandito, tauhan, edad, lagpasan
+79_xx10xxxx_15B_0025 Nanjan, tawad, eh, lagyan, nang, tawag, eksam, lahat, naninirahan, tawagan, elementaria, lahok, nanliligaw
+79_xx10xxxx_15B_0026 Tawiran, enero, lakad, napag-iiwanan, tay, entablado, lakas, napansin, taya, eskwela, lalaki, napatingin, tayaan
+79_xx10xxxx_15B_0027 Eto, lalaking, narito, tayo, ewan, lalapit, narian, tayo, faction, lalo, nars, tayuan, familia, laman, naroon
+79_xx10xxxx_15B_0028 Teka, familiar, lamang, nasa, telepono, fanatik, lamangan, nasaan, tigil, fantastic, lambing, nasagasaan, tigilan, federasyon
+79_xx10xxxx_15B_0029 Lambingan, nasira, tigilin, feminist, lamok, nasiraan, tikim, fibor, lang, nasugatan, tikman, fake, langit
+79_xx10xxxx_15B_0030 Natataniman, tila, fair, lansa, natin, timpla, face towel, lantaran, nating, timplahan
+79_xx10xxxx_15B_0031 Figurin, laos, natira, tinamad, fiesta, lapit, nauunahan, tinambakan, gaan, lapitan, nawala, tinapon, gaano, lara
+79_xx10xxxx_15B_0032 Nawalan, tinatangkilik, gabi, larangan, nawawala, tindi, supporter, gagawa, laro, negosyo, sitcom, tiniis, galangin, laruan, nanita
+79_xx10xxxx_15B_0033 Tinirhan, galing, laruin, nang, tinutukoy, galing, lasa, nga, tira, galingan, lasahan, ngang, tiwala, gamit, lasengo, ngayon, tiak, gamitin
+79_xx10xxxx_15B_0034 Lasing, ngipin, tiyan, gamot, laya, ngunit, totoo, ganap, layas, ni, trabaho, ganda, layasan, nila, trahedya, gandahan, layo, nilagay, check
+79_xx10xxxx_15B_0035 Ganito, layoan, nilakbay, check, ganoon, layuin, nilang, chinelas, ganyan, langwahe, nilapit, chismis, gas, libangan, nilapitan, tubig
+79_xx10xxxx_15B_0036 Gasgasan, libing, nilasing, tula, gastos, liblib, nilusob, tulad, gastusan, libro, ningning, tulo, gastusin, ligaw, nino, tulungan, gatas, ligawan
+79_xx10xxxx_15B_0037 Ninyo, tumakas, gatong, ligaya, nitong, tumakbo, gaya, ligo, nia, tumalon, gayahin, ligpitin, nian, tumatanda, gate, liham, niyang, tumatawag, gigil
+79_xx10xxxx_15B_0038 Lihim, niyo, tumawag, gilid, liko, nobyembre, tumawid, giling, likot, noong, tumayo, gilingin, likuan, numiro, giliw, lima, nung, gimik, limos
+79_xx10xxxx_15B_0039 Nuod, tunay, ginang, lindol, okey, tungkol, ginhawa, linggong, okra, tunog, ginisa
+79_xx10xxxx_15B_0040 Lingo, oktubre, turo, ginoo, lingon, oo, tuwid, ginto, linis, opisina, ube, gintong, linisin, opisinang, ubo, gising, lindlang, opo
+79_xx10xxxx_15B_0041 Ubuhin, gisingin, linta, oras, ubusin, gitna, lisanin, orasan, ugali, gubad, litaw, oso, ugat, gulang, lito, otto, uhaw, gulangan, lituhin
+79_xx10xxxx_15B_0042 Pa, ulam, gulat, loko, lokohan, paa, ulan, gulatin, lokohin, paakyat, ulanan, gulay, paalis
+79_xx10xxxx_15B_0043 Ulang, gulo, paano, uli, gulod, paaralan, ulit, gulpi, pabalik, ulitan, gulpihin, paborito, ulitin, guluhin, padamdam
+79_xx10xxxx_15B_0044 Ulo, gumamit, pader, rosario, restaurant, records, limang, inusenting, pangangailangan, pinangyarihan, umabot, gumiling, lupang, pagbati, umaga, gumising
+79_xx10xxxx_15B_0045 Maaari, pagbibigay, umalis, gunting, maaaring, pagdami, umarte, gupit, maabilidad, pagdating, umihi, gupitan, maabot, paggawa, umiyak, gupitin, maaga, pagaharapin
+79_xx10xxxx_15B_0046 Gusali, maagang, paghandaan, gusto, maalat, paghina, gustuhin, maaliwalas, pagibig, maasim, pagiging, haba, mabagal, pagkabigla
+79_xx10xxxx_15B_0047 Una, habaan, mabaho, nakilalang, magpipitong, nasabing, parangal, karangalan, dating, planong, pagkabuhat, unahan
+79_xx10xxxx_15B_0048 Habang, mabait, pagkain, unang, hagdanan, mabango, pagkakilala, universidad, haharapin, mabayaran, pagkakatao, uod, halaga, mabilis, pagkakautang, upang, halaman, mabuhay, pagkakuha, upo
+79_xx10xxxx_15B_0049 halayin, mabuo, pagkatalo, upuan, halika, mabuti, pagkatapos, uri, halina, madaanan, pagkawala, usapan, halos, madalas, pagkuha, utang, hambing, madali, pagod, unlad, handa
+79_xx10xxxx_15B_0050 umi, pagpapabaya, uwe, handaan, madarama, pagsummit, valdiktorian, hanggang, madidilad, pagsubok, volleyball, hangin, madidilaw, pagulan, vanilia, hapag, magagandang
+79_xx10xxxx_15B_0051 Pakialam, vibes, hapon, magaling, pakibukas, violet, harap, maganda, pakigamot, vice versa, ginawang, pangyayaring, aniyang, pambansang, mabigyang, panunungkulang, kataas-taasang,
+79_xx10xxxx_15B_0052 tayong, magsabong, magsawalang kibo, kasamahan, ibang, mapayapang, harapan, magandang, pakigawa, vendo, harapin, mag-aral, pakihugas, veranda, hasa, mag-asawa, pakiiwan,
+79_xx10xxxx_15B_0053 versatil, hasain, mag-asawang, pakikanta, versus, hataw, magawa, pakikuha, vigilante, hatawin, magbago, wagi, hatid, magbantay, pakinabang, wakas, hawaan, magbasa, pakiusap,
+79_xx10xxxx_15B_0054 wala, hawakan, magbasag, pakiusapan, walang, hayag, magbawas, paksa, walis, hayop, magbayad, pala, walo, high school, magbenta,
+79_xx10xxxx_15B_0055 palabas, walong, heneral, magbigayan, palad, warat, higaan, magbilang, palawakin, wasak, hila, magbubukid, palayasin, wika, hilahan, magdala, palibhasa, yaman, hilain,
+79_xx10xxxx_15B_0056 magdasal, paliwanagan, yan, hilingin, maghanda, pambihira, yari, recreation, kongreso, pagmamahal, namayapang, magsasalita,
+79_xx10xxxx_15B_0057 senet, sekretary, abalang, alamang, mangugulo, mangulo, nangyari, darating, humuhingi, dalawampong, narsing, himbing, maghapon, pamilya,
+79_xx10xxxx_15B_0058 yaya, hina, maghihintay, yayain, hinayang, maghintay-hintay, panaginip, yelo, hindi, magiging, panahon, yero, hiningan, maging, pananim, yoyo,
+79_xx10xxxx_15B_0059 hinintay, magisa, pandak, yumao, hinipuan, magkaibigan, pang, yung, hintay, magkakabisa, pangalan, zero, hintayin, magkakaibigan,
+79_xx10xxxx_15B_0060 panganim, sigsag, hinto, magkakapatid, pangarap, zinya, hintong, magkakaroon, pangit, zipper, hintuan,
+79_xx10xxxx_15B_0061 panglima, hipan, magkamay, pangyayari, hipanin, magkapamilya, paningin, hipo, magkasama, pantalon, hipuan, maglagay, papel, hirap, maglita,
+79_xx10xxxx_15B_0062 para, hos, parang, hotel, pasahin, hugasan, magnakaw, pasko, nakakulong, sessions,
+79_xx10xxxx_15B_0063 ba, be, bi, bo, bu, bad, bag, bak, bal, bam, bank, bang, bap, bar, bas, bat, bau, bay, ben, bid, big,
+79_xx10xxxx_15B_0064 big, bil, bin, bim, bing, bis, bit, bog, bon, bong, bot, boy, bug, bur, bok, bol, bril, blue, bre, box, bre, bull, bear, bra.
+79_xx10xxxx_15B_0065 Da, de, di, do, du.
+79_xx10xxxx_15B_0066 Dag, dal, dik, dra, dad, dug, dak, dal, dib, dam, dei, dan, dig, ding.
+79_xx10xxxx_15B_0067 Ga, ge, gi, go, gu.
+79_xx10xxxx_15B_0068 Gud, gua, gaw, gin, giw, gos, gas, gay, gan, gil, git, gul, gun, gal, gus, gat, gab.
+79_xx10xxxx_15B_0069 Fa, fe, fi, fo, fu.
+79_xx10xxxx_15B_0070 Feis, fan, fies, fig.
+79_xx10xxxx_15B_0071 Ha, he, hi, ho, hu.
+79_xx10xxxx_15B_0072 Hin, hau, han, hai, hit, hoy, has, hil, him.
+79_xx10xxxx_15B_0073 Hag, hul, ham.
+79_xx10xxxx_15B_0074 Ja, je, ji, jo, ju.
+79_xx10xxxx_15B_0075 Jit, juq, jun.
+79_xx10xxxx_15B_0076 Ga, ge, gi, go, gu.
+79_xx10xxxx_15B_0077 Gid, gin, kot, kit, kum, kun, kas, kam.
+79_xx10xxxx_15B_0078 Kal, kan, ket, kat, kaw, kim, kip.
+79_xx10xxxx_15B_0079 La, le, li, lo, lu.
+79_xx10xxxx_15B_0080 Lok, los, lam, lin, ling, lit, lik, lung, lang, lan, lat, lid, liw, lau.
+79_xx10xxxx_15B_0081 Long, leng, lis, las, les, lag, lam, lun, lon, lis.
+79_xx10xxxx_15B_0082 Ma, me, mi, mo, mu.
+79_xx10xxxx_15B_0083 Mag, mar, mis, min, mil, mok, men, mang, mai, nit, mik, man, mun, mad, mak, mat.
+79_xx10xxxx_15B_0084 Na, ne, ni, no, nu.
+79_xx10xxxx_15B_0085 Nag, nai, nib, nau, nen, nok, nan, nig, nin, nang, nog, nak, nim, nas, nig, nob, nam, nil.
+79_xx10xxxx_15B_0086 Ga, ge, gi, go, gu.
+79_xx10xxxx_15B_0087 Ngan, nog, gin, ngay, nye, nin, ngon.
+79_xx10xxxx_15B_0088 Pa, pe, pi, po, pu.
+79_xx10xxxx_15B_0089 Pag, pak, pas, pat, pet, pon, poy, tin, pan, pit, pla, pang, ting, tir, peb, pos, pun, per.
+79_xx10xxxx_15B_0090 Ra, re, ti, ro, ru.
+79_xx10xxxx_15B_0091 Ras, ral, rang, rat, ran, raw, rin, ret, rap, rong.
+79_xx10xxxx_15B_0092 Sa, se, si, so, su.
+79_xx10xxxx_15B_0093 Shem, sin, saq, shon, san, sip, sul, sog, skwe.
+79_xx10xxxx_15B_0094 Sal, sim, sing, sag, sig, sok, sep, zil.
+79_xx10xxxx_15B_0095 Sis, suq, sul, sol, sum, sun, sung, sus, suwe.
+79_xx10xxxx_15B_0096 Ta, te, ti, to, tu.
+79_xx10xxxx_15B_0097 Tan, tai, tas, tor, tik, tes.
+79_xx10xxxx_15B_0098 Tok, tau, tin, tab, tik, tel.
+79_xx10xxxx_15B_0099 Tos, tong, ten, ting, tak, tam, tim, til.
+79_xx10xxxx_15B_0100 Bab, bed, bem, bow, bua, buy, das, dai, del, den, dog, dose.
+79_xx10xxxx_15B_0101 Gad, gag, gam, gap, far, fat, fel, fing, fo.
+79_xx10xxxx_15B_0102 Hab, had, hat, hen, hid, hog, hun.
+79_xx10xxxx_15B_0103 Jag, jak, jas, jaz, jing, joy.
+79_xx10xxxx_15B_0104 Kab, kad, kag, ken, kib, kog, kow, koy, kur.
+79_xx10xxxx_15B_0105 Lab, lad, lay, log, low, loy, luk, mal, mem, nip, mir, mow, mug, muk.
+79_xx10xxxx_15B_0106 Nab, dab, nal, neg, nep, nip, mir, nos, nou, nus, nas, ngek, ngik, ngop.
+79_xx10xxxx_15B_0107 Pad, peng, pik, po, puk, pus, rab, rad, rag, rak.
+79_xx10xxxx_15B_0108 Rem, ren, ris, ro, sad, sat, sei, sow, suy.
+79_xx10xxxx_15B_0109 Tad, tag, tem, ten, tog, tow, chap, check, ches, chok, chuy.
+79_xx10xxxx_15B_0110 Vak, val, ves, vin, bol.
+79_xx10xxxx_15B_0111 Wal, war, wed, wal.
+79_xx10xxxx_15B_0112 Yab, yap, yaw, zam, zay, zig.
+79_xx10xxxx_15B_0113 Bab, bed, bem, bow, bua, buy.
+79_xx10xxxx_15B_0114 Das, day, del, den, dog, dose, gad, gaq, gam, gap.
+79_xx10xxxx_15B_0115 Far, fat, fel, fing, fo.
+79_xx10xxxx_15B_0116 Hab, had, hat, hen, hid, hog, hum.
+79_xx10xxxx_15B_0117 Jag, jak, jas, jaz, jing, joy, kab, kad, kag, ken, kib, kog, kaw, koy, kur.
+79_xx10xxxx_15B_0118 Lab, lad, lay, log, low, loy, luk.
+79_xx10xxxx_15B_0119 Mal, mem, nip, nir, mow, mug, muk.
+79_xx10xxxx_15B_0120 Nab, nad, nal, neg, nep, nip, nir, nos, nou, nus, ngas, ngekt, ngik, ngop.
+79_xx10xxxx_15B_0121 Pad, peng, pik, po, buk, pus, rab, rad, rag, rak, rem, ren, ris, ro, sad, sat, sei, sou, suy.
+79_xx10xxxx_15B_0122 Tad, tag, tem, ten, tog, tow, chap, check, ches, chok, choy.
+79_xx10xxxx_15B_0123 Vak, val, bes, vin, vol.
+79_xx10xxxx_15B_0124 Wal, war, wed, vol.
+79_xx10xxxx_15B_0125 Yab, yap, yaw, zam, zay, zig.
+79_xx10xxxx_15B_0126 Akin, ako, ang, apat, aplikasyon, aplikasyon, araw, aso, at, ay, ba, bago, barangay, buong, buto, chicharon.
+79_xx10xxxx_15B_0127 Daan, dalawang, din, dokumento, doy, jan, empleyado, episode, fe, face, halos, hanapin.
+79_xx10xxxx_15B_0128 Hapon, hello, hindi, hinihiling, hopya, huwag, ibibigay, ipaliwanag, itong, iyong, ka, kailan, kailangang, kainin, kakatwang, kaliwang, kanya, kapalaran, kasabihan, katawan, kayo,
+79_xx10xxxx_15B_0129 kilay, ko, kung, lababo, labing, lalapit, lamang, lang, luma, madilat, madilaw, magandang, maghapon, magkakaroon, magkukusang, mahirap, maitim, makakatapos, makakuha, makapal, makuha,
+79_xx10xxxx_15B_0130 malago, malalaki, malas, man, maswerte, matang, matipuno, may, mga, mga, minsan, mo, mong, mukha, muna, na, nagsabi,
+79_xx10xxxx_15B_0131 nagtinda, nakausli, naman, nandyan, nasa, nasagasaan, nang, ngang, ngayon, ngipin, ningning, ninyo, niya, nueva, numero, pa, paborito, pagkakataong, pagkakuha, pagkuha,
+79_xx10xxxx_15B_0132 pagsubmit, pakigawa, pakikanta, pancho, pandak, pangalan, pangyayaring, para, patong-patong, pero, pilat, pinaglalagyan, pipila, po, pulgada, pumila, pupunta, rito, sa, saan,
+79_xx10xxxx_15B_0133 sampong, sancho, sayo, sampu, si, sino, siya, siya, taas, tagiliran, tagumpay, talagang, talampakan, tawag, tawel, tugatog, ubusin, villaluz, viskaya, yan, yun, yung,

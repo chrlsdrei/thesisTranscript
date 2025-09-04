@@ -1,0 +1,178 @@
+81_xx00xxxx_12A_0001 Magandang umaga. Ako si Lara. Ako ay 27 años. Wala pang asawa ngunit gusto nang magkapamilya. Sa ngayon ay wala pa akong boyfriend. Pero marami na rin ang naliligaw sa akin.
+81_xx00xxxx_12A_0002 Paalis na ang babae ng biglang umulan kaya nahiga muna siya sa sofa at hinintay ang paghinan ng ulan. Nakatulog ang dalaga.
+81_xx00xxxx_12A_0003 Maya-maya ay biglang tumunog ang telepono. Ang kaibigan niya ang tumawag. Naalala ang usapan nilang magkakaibigan. Nagmamadaling lumabas ang dalaga.
+81_xx00xxxx_12A_0004 Maaliwalas na ang kalangitan ngunit nagdidilimnan ng mga sandaling ion. Patungo na sa gate ang babae ng madaanan niya ang katulong. Nag-aalis ng mga laglag na dahon sa damo. Napatingin ang dalaga sa halamang nasa paso. Napansin niyang hugis puso ang mga dahon nito.
+81_xx00xxxx_12A_0005 Nung unang panahon, sa isang malayong bayan ay may matalik na magkaibigan. Wala silang ibang trabaho kung di ang magpalimos araw-araw. Palibhasa ay masagana ang pamumuhay ng mga mamamayan sa bayang ion kung kaya laging bukas ang kanilang mga palad sa pagbibigay ng limos ng magkaibigan. Sa magkaibigan.
+81_xx00xxxx_12A_0006 Paano niya masisigurado na makikita ninyo siya rito? Bakit kailangan pang may dahon at tubig? Sigurado ka ba na pet sa labing tatlo ngayon? Gumising ka na. Magluto ka mamaya.
+81_xx00xxxx_12A_0007 Bigan mo ako niyang kinakain mo. Kantahin mo naman kami. Kantahan mo naman kami. Pakigamot ang sugat ko. Ang pangit ng binili mo. Magkalimutan na tayo.
+81_xx00xxxx_12A_0008 67 kilo ng shabu ang gagamiteng ibedensya ng PNP laban sa anaarestong pusyer sa kolehayo sa San Jose del Monte.
+81_xx00xxxx_12A_0009 Si Nalui at JM ay dapat bigyan atensyon dahil hiwalay ang mga magulang.
+81_xx00xxxx_12A_0010 Si Vilma ang star for all season. Walang zebra at MNLF sa zoo at jungle ng Washington.
+81_xx00xxxx_12A_0011 Pangulo, magnanakaw, lungsod, kasalukuyang, aabutan, hugis, magpalimos, paso, aalis, huling, magpipitong, pasok, aba, magsabong, showing, ngayong, patak,
+81_xx00xxxx_12A_0012 humahataw, magsama, masyadong, patay, humanda, magsanay, masamang, agad, humihingi, pangalagaan, magsanib, patungo, awing, kawawang,
+81_xx00xxxx_12A_0013 agahan, junyo, dalawang, magsasaka, patong-patong, agaw, husgahan, magsawa, agawin, wag, kinauukulang, magsawalang kibo, pautos,
+81_xx00xxxx_12A_0014 agawin, wag, kinauukulang, magsawalang kibo, pautos, mapapakinabangang, agyo, huwebes, magsaya, pebrero, hating gabi, akayin, magsikap, pera, akin, swimming, magtagumpay, pero, aking ibagsak.
+81_xx00xxxx_12A_0015 Magtanim, petsa, ako, magtanong, akong, ibang, magtulungan, aksayahin, magulang, tilat, senatorial, aktibong, magusap, pili, akyat, magutos, alagaan, ibigin, mahabang, piliin, alalayan,
+81_xx00xxxx_12A_0016 idiin, spokesman, tatanggapin, mahal, pinag iba, alam, idikit, mahalin, pinaglalagyan, alisin, ihatid, pinagpuputol, ihayag, mahirap, pinagsabihan, alokin, iisa, mahuli, pinalawak,
+81_xx00xxxx_12A_0017 ama, ikalat, maibabalik, pinanonood, ikanta, maingay, pinatakbo, aming, ikapitong, anak, ikasa, maintindihan, pinto, ang, maipaliwanag, pintura, anim, maipapayo, anino, ikaw, mais,
+81_xx00xxxx_12A_0018 piraso, ano, ilagay, maitatangge, pirasong, antay, ilalagay, makaabot, firma, antain, makadama.
+81_xx00xxxx_12A_0019 Pisa, antok, nangangahulugan, makakalimot, pisain, antukin, ilang, makakatapos, pisngi, anumang, makakuha, piso, años, makapaggalat, apat,
+81_xx00xxxx_12A_0020 ilibing, makapagsasabing, po, ilito, makapal, posporo, balitang, yong, apoy, makarating, premyo, ilong, makasali,
+81_xx00xxxx_12A_0021 probinsya, makata, araw, imposibling, makatulog, aray, ina, makiangkas, pumasok, asa, inaasahan, makikita, asahan, inay, makita, pumunta, asarin, ingay, makited, punas,
+81_xx00xxxx_12A_0022 regulasyons, asawa, inhinyero, makuha, puno, aso, punong, at, ininsulto, punta, atin, inis, puntahan, agosto, inisin, malaking, pupunta, awang, iniwan, malalaki, pusa,
+81_xx00xxxx_12A_0023 away, insulto, record, pusang, awayan, interesado, rekomendasyon, krimeng, malamang, puso, awayin, intindihin, pwede, ay, inurong, pwedeng, ayoko, inyo, rajo,
+81_xx00xxxx_12A_0024 ayos, inyong, malawak, raketa, ayusin, ipabawas, rayuma, ba, ipagpatuloy, reaksyon, baba, ipagtimpla, siwang, ganitong, malayong, babaan, ipainom, rebulto,
+81_xx00xxxx_12A_0025 bababa, maligayang, babae, ipasa, babalik, ipinatutupad, relasyon, bagay, malikse, bago, isa, malinaw, rin, bagong, isahan, maliwanag, ring, bagsak, isaisip, maliwanagan, rito,
+81_xx00xxxx_12A_0026 bagsakan, isang, malungkot, roon, bagsakin, mangyari, kasong, pautang, isara, mama, sa,
+81_xx00xxxx_12A_0027 Bagyo, isda, mamamayan, saan, baha, masang, panunungkulan, isigaw, mamaya, saan man, bahala, negosasyong, linggo, isilang, sabado, bahay, isip, man, isigaw,
+81_xx00xxxx_12A_0028 sabay, baka, mana, sabayan, bakit, isipin, manalangin, sabe, bakla, itaas, sabihan, balang, showbiz, bang, bagong, matanggap, malaking, itinatali,
+81_xx00xxxx_12A_0029 mangahoy, sabungan, bansa, itinuring, manganib, saglit, bantay, mangasar, ingay, barangay, makiangkas, sahod, labingsyam, jamming, among, bantayan, ito,
+81_xx00xxxx_12A_0030 mangaway, saka, barangay, shopping, itong, mangagamot, basa, iurong, manggulo, saktu, basa, iusog, mangingisda, sako na, basahin, namamaya pang ang kas, notoriosong, iuwi,
+81_xx00xxxx_12A_0031 manlinlang, salamat, baso, iwan, manok, basong, iwanan, manood, successful, basura, iwas, mapaliwanagan, basurahan, iwasan, mapapakinabangan, samahan, bata, iak, sandwich, mapapatingin, batang, iyan,
+81_xx00xxxx_12A_0032 marami, batiin, iyo, maraming, sambayanan, bato, iyon, sampu, batuhin, iyong, marso, sampung, bawas, magtanong, iyong, martes, sana, bawasan, jacket, marshal, sandal, bawasin,
+81_xx00xxxx_12A_0033 jalusi, mas, subject, rescue, sandalan, bawat, janitor, masagana, sandali, bayaan, japan, masaganang, sapagkat, bayad, general, masahe, sapakan, bayan, jeep, masakit,
+81_xx00xxxx_12A_0034 sarah, benta, jujitsu, masaklap, sarahan, birthday, jukebox, masama, sarap, bibig, makapagsasabing, makarating, maingay, gawang, lang, junior, masamain, bigas, ka,
+81_xx00xxxx_12A_0035 masamang, semifinals, sariling, bigay, kaarawan, masarap, sarisaring, bigla, kaaway, masaya, sasamahan, biglang, kabalikat, masigla, sawa,
+81_xx00xxxx_12A_0036 kabalyero, masira, saya, biguin, kabayo, masisigurado, segundo, bigyan, kabuhayan, masisiguro, cemento, biktima, kabundukan, masukal, septiembre,
+81_xx00xxxx_12A_0037 biglang, tanong, nasasabing, kagandahan, masunog, si, ipinanganak, ikinulong, bilhan, kahapon, maswerte, sibak, bili, kaharian, masyado, reliable, sibakin, binata, kahit, mata, siga,
+81_xx00xxxx_12A_0038 binate, kahoy, matalik, sigaw, pwedeng, lutang, lumutang, nang, binato, kaibigan, matalino, sigawan, binawasan, kailan, matames, sige, binaybay,
+81_xx00xxxx_12A_0039 kailangan, matamlay, sigla, binenta, kailangang, matanda, siguraduhin, binibini, kailanman, matanggap, sikat, binigay, kainan, matapos, sikip, binihag, kainin, materiales, sikipan, binili,
+81_xx00xxxx_12A_0040 kakampe, matinde, sila, binisita, kakatwang, matino, silang, bintana, kalagayan, matipuno, silbe, binuhusan, kalaliman, matulog, silbihan, binuksan, kalangitan, mauna, silya, biniyag,
+81_xx00xxxx_12A_0041 kalat, may, simbahan, bisak, kalawakan, maya, simple, bisita, kalayaan, mayabang, pwedeng, praning, ngayon, sinama, bituin, kalikasan, mayaman, sinamahan, biaya, kalimutan,
+81_xx00xxxx_12A_0042 maynila, sindak, biernes, kaliwang, mayo, sindi, blackboard, kalsada, mayroon, sindihan, bobo, kalungkutan, maysakit, singket, bola, kalye, mensaje, sinilang, bolahan, kama,
+81_xx00xxxx_12A_0043 meron, sino, bote, kamay, mesa, sinuman, boyfriend, kamayan, mga, sinungaling, bugbog, kami, minsan, sinunog, bugbogin, kaming, sinuot, buhay,
+81_xx00xxxx_12A_0044 kamo, sipag, masasamang, nagtanong, bukas, kampihan, mismong, sipagin, buked, kamusta, miherkules, sipain, buksan, kang, mo, sipunin, sipunin,
+81_xx00xxxx_12A_0045 bumaba, kanila, mong, sira, bumati, kanilang, mukha, sirain, bumenta, kanino, sisinuhin, bumigay, kanta, muling, magtulungan, magulang, aking, akong, sistema, bumili, kantahan,
+81_xx00xxxx_12A_0046 siya, bumisita, kanto, siyang, kanya, sobra, bundok, kanyang, munting, sobre, bunso, kapag, sofa, buong, kapahamakan, na, subok, buto, kapalaran, naalala,
+81_xx00xxxx_12A_0047 subukan, buwan, kapalarang, nabanga, sugal, buwanang, kapatagang, nabasa, sugat, daan, kapatawaran, nadinig, sukat, daanan, kapatid, naga, sukli, daga, kapitbahay, nagaalaga, suklian,
+81_xx00xxxx_12A_0048 dagat, noong, abangan, seconds, suspect, shop, regulation, aktibong, kapwa, nag-aalis, suko, dagdag, karanasan, nag-away, sulat, dagdagan, carpintero, nag-basa, sulatan, dahas,
+81_xx00xxxx_12A_0049 kasabay, nagbibigay, sulatin, dahil, kasabihan, nagbigay, suliranin, dahilan, kasama, nagbubungkal, sulit, dahon, kasamahan, nagdidilim, sulitin, dahong, show, kasawian,
+81_xx00xxxx_12A_0050 naghinagbis, sulsol, daigdig, kasya, naghirap, sulsulan, dalaga, katawan, naging dalampasigan, katulong, naging sumbong, dalawa, kaugnayan, naging sumisira,
+81_xx00xxxx_12A_0051 dalawin, payapang, sangayon, tatlong, buwang, mapanghe, maluang, pangulong, kaukulang, nagkaayusan, sundalo, dalidaling, kaunlaran, nagkakaingin, sundan, dambahin, kaunti, nagkamay, sundo,
+81_xx00xxxx_12A_0052 nagdami, kaya, nagkukwento, sunduin, damit, kayo, naglalarawan, sunggab, damo, kayong, nagliliwanag, sunggaban, dapat, kibo, nagmamadaling, sungkit, dasal, kidlat,
+81_xx00xxxx_12A_0053 sunog, dasalan, kilabot, nagpalambot, suot, dati, kilabutan, nagpapakilala, sustento, daw, kilala, nagpapaligaya, sweldo, daya, kilay, nagpapayo, taas, dayaan,
+81_xx00xxxx_12A_0054 kilos, nagsabi, taasan, dayain, kinain, nagsalita, taba, di, kinakailangan, patungong, ginoong, nangyaring, mangyayari, paputok, kusehong, aligasyong, nagsasabog, tabih, dibdib,
+81_xx00xxxx_12A_0055 kinakaen, nagsasalaysay, tabihan, dikit, kinalalagyan, nagsasalita, tabo, dikitan, kinalat, nagsawa, tae, dikitin, kinantahan, nagtaka, taga, dilaan, kinatatayuan, nagtalo, tagiliran,
+81_xx00xxxx_12A_0056 dilikado, kinuha, nagtatanong, ba, be, bi, bo, bu, bad, bag, bak, bal, bam, bank, bang, bap, bar, bas, bat, bau, bay, ben, bid,
+81_xx00xxxx_12A_0057 big, bik, bil, bin, bim, bing, bis, bit, bog, bon, bong, bot, boi, bug, bur, bok, bol, bril, blue, bre, box, bre,
+81_xx00xxxx_12A_0058 bull, bear, bra, da, de, di, do, du, dag, dal, dik, dra, dad, dug, dak, dal, dib, dam, dei, dan, dig, ding.
+81_xx00xxxx_12A_0059 Ga, ge, gi, go, gu, god, gua, gao, gin, giu, gos, gas, gay, gan, gil, git, gul, gun, gal, gos, gat, gab.
+81_xx00xxxx_12A_0060 Fa, fe, fi, fo, fu, feis, fan, fies, fig.
+81_xx00xxxx_12A_0061 Ha, he, hi, ho, hu, hin, hau, han, hai, hit, hoi, has, hil, him, hag, hul, ham.
+81_xx00xxxx_12A_0062 Ja, je, ji, jo, ju, jit, juk, jun.
+81_xx00xxxx_12A_0063 Ga, ge, gi, go, gu, kid, gin, kot, kit, kom, kum, kun, kas, kam, kal, kan, ket, gat, kaw, kim, kip.
+81_xx00xxxx_12A_0064 La, le, li, lo, lu, lok, los, lam, lin, ling, lit, lik, lung, lang, lan, lat, lid, liu, lau, long, leng, lis, las, les, lag, lam, lun, lon.
+81_xx00xxxx_12A_0065 Ma, me, mi, mo, mu, mag, mar, mis, min, mil, mok, men, mang, mai, mit, mik, man, mun, mad, mak, mat.
+81_xx00xxxx_12A_0066 Na, ne, ni, no, nu, nag, nai, nib, nau, nen, nok, nan, nig, nin, nang, nog, nak, nim, nas, nig, nob, nam, nil.
+81_xx00xxxx_12A_0067 Nga, nge, ni, ngo, ngu, ngan, nog, ngin, ngay, nye, nin, nun.
+81_xx00xxxx_12A_0068 Pa, pe, pi, po, pu, pag, pak, pas, pat, pet, pon, poi, pin, pan, pit, pla, pang, ping, pir, peb, pos, pun, per.
+81_xx00xxxx_12A_0069 Ra, re, ri, ro, ru, ras, ral, rang, rat, ran, rau, rin, ret, rap, rong.
+81_xx00xxxx_12A_0070 Sa, se, si, so, su, siyem, sin, sak, siyon, san, sip, sul, sog, skwe, sal, sim, sing, sag, sig, suk, sep, sil, sis, suk, sul, sol, sum, sun.
+81_xx00xxxx_12A_0071 Tung, sus, suwe, ta, te, ti, to, tu, tan, tai, tas, tor, tik, tes, tok, tau, tin, tab, tik, tel, tus, tong, tid, ten, ting, tak, tam, tim, til.
+81_xx00xxxx_12A_0072 Cha, che, chi, cho, chu, chis, va, ve, vi, vo, vu, ven, ver, vais.
+81_xx00xxxx_12A_0073 Va, ve, vi, vo, vu, vid, vad, vag, vay, well, wan, wak, was, wat, win, wang, wing, wong.
+81_xx00xxxx_12A_0074 Ya, ye, ye, yo, yu, yem, yin, yad, yat, yan, yar, yos, yer, yag, yang, yak, yon, yor, za, ze, zi, zo, zu, zin.
+81_xx00xxxx_12A_0075 Ang, as, ak, ay, at, ar, an, am, ag, en, em, eng, ed, es, is, in, ing, im.
+81_xx00xxxx_12A_0076 Bung, dang, dong, ging, gang, gong, hang, hing, hong, king, kang, kong, kung, ming, mong, mung, ning, nong, nung, neng, ngun, ngin, pung, pong, ring, sang, song, sing, tang, ten,
+81_xx00xxxx_12A_0077 neng, tung, chang, chong, ching, ying, yong, yung.
+81_xx00xxxx_12A_0078 Bab, bed, bem, bow, bua, bui, das, dai, del, den, dog, dos, gad, gak, gam, gap, far, fat, fel, fing, fo, hab, had, hat, hen, hid, hog,
+81_xx00xxxx_12A_0079 who, jag, jak, jas, jas, jing, joy, cab, kad, kag, ken, kib, kog, koo, koo, koi, kur.
+81_xx00xxxx_12A_0080 JAG, JAG, JAZ, JAZ, JING, JOY
+81_xx00xxxx_12A_0081 KAB, KAD, KAG, KEN, KIB, KOG, KO, KOI, KUR
+81_xx00xxxx_12A_0082 LAB, LAD, LAY, LOG, LO, LUY, LUK
+81_xx00xxxx_12A_0083 MAL, MEM, MIP, MIR, MO
+81_xx00xxxx_12A_0084 MUG, MUK, NAB, NAD, NAL, NEG
+81_xx00xxxx_12A_0085 NEP, NIP, NIR, NOS, NOW
+81_xx00xxxx_12A_0086 NUS, NGAS, NGIK, NGIK, NGUP
+81_xx00xxxx_12A_0087 PAD, PENG, PIK, PO
+81_xx00xxxx_12A_0088 PUK, PUS, RAB, RAD
+81_xx00xxxx_12A_0089 RAG, RAK, REM, REN
+81_xx00xxxx_12A_0090 RIS, ROW, SAD, SAT
+81_xx00xxxx_12A_0091 SAY, SOW, SUY, TAD
+81_xx00xxxx_12A_0092 TAG, TEM, TEN, TUG
+81_xx00xxxx_12A_0093 TOG, TOW, CHAP, CHEK
+81_xx00xxxx_12A_0094 CHES, CHOK, CHOY
+81_xx00xxxx_12A_0095 VAK, VAL, VAS
+81_xx00xxxx_12A_0096 VIN, VOL, WAL
+81_xx00xxxx_12A_0097 WAR, WED, WOL
+81_xx00xxxx_12A_0098 YAB, YAP, YAU
+81_xx00xxxx_12A_0099 ZAM, ZAI, ZIG
+81_xx00xxxx_12A_0100 67
+81_xx00xxxx_12A_0101 AKIN, AKO, AKONG
+81_xx00xxxx_12A_0102 ALL, ANG, ANONG
+81_xx00xxxx_12A_0103 ANYOS, ARO-ARO
+81_xx00xxxx_12A_0104 ASAWA, AT ATENTION
+81_xx00xxxx_12A_0105 AI, BA, BA
+81_xx00xxxx_12A_0106 BABAE, BAKIT, BAYAN
+81_xx00xxxx_12A_0107 BAYANG, BIGLANG, BIGYAN
+81_xx00xxxx_12A_0108 BIGYANG, BINILI
+81_xx00xxxx_12A_0109 BOYFRIEND, BUKAS
+81_xx00xxxx_12A_0110 DAHIL, DAHON
+81_xx00xxxx_12A_0111 DAHON, DALAGA
+81_xx00xxxx_12A_0112 DALUAMPUT, DAMO
+81_xx00xxxx_12A_0113 DAPAT, DEL, DI
+81_xx00xxxx_12A_0114 IBIDENCIA, FOUR
+81_xx00xxxx_12A_0115 GAGAMITING, GATE, GUMISING
+81_xx00xxxx_12A_0116 GUSTO, HALAMANG, HININTAY
+81_xx00xxxx_12A_0117 HIWALAY, HUGIS
+81_xx00xxxx_12A_0118 IBANG, ISANG, IYON
+81_xx00xxxx_12A_0119 JM, JOSE
+81_xx00xxxx_12A_0120 JUNGLE, KA, KAIBIGAN
+81_xx00xxxx_12A_0121 KAILANGAN, KALANGITAN
+81_xx00xxxx_12A_0122 KAME, KANILANG, KANTAHAN
+81_xx00xxxx_12A_0123 KATULONG, KAYA
+81_xx00xxxx_12A_0124 KILO, KINAKAIN, KO
+81_xx00xxxx_12A_0125 KULIHEYO, KUNDI
+81_xx00xxxx_12A_0126 KUNG, LABAN, LABING
+81_xx00xxxx_12A_0127 LAGING, LAGLAG
+81_xx00xxxx_12A_0128 LARA, LIMOS
+81_xx00xxxx_12A_0129 LOWI, LUMABAS, MAALIWALAS
+81_xx00xxxx_12A_0130 MADAANAN, MAGANDANG
+81_xx00xxxx_12A_0131 MAGKAIBIGAN, MAGKAIBIGAN
+81_xx00xxxx_12A_0132 MAGKAKAIBIGAN
+81_xx00xxxx_12A_0133 MAGKALIMUTAN, MAGKAPAMILIA
+81_xx00xxxx_12A_0134 MAGLUTO, MAGPALIMOS
+81_xx00xxxx_12A_0135 MAGULANG
+81_xx00xxxx_12A_0136 MAKIKITA, MALAYONG
+81_xx00xxxx_12A_0137 MAMAYAN, MAMAMAYAN
+81_xx00xxxx_12A_0138 MARAMI, MASAGANA
+81_xx00xxxx_12A_0139 Masisigurado, matalik
+81_xx00xxxx_12A_0140 may maya-maya
+81_xx00xxxx_12A_0141 mga MNLF
+81_xx00xxxx_12A_0142 MO, MO
+81_xx00xxxx_12A_0143 MONTE, MUNA
+81_xx00xxxx_12A_0144 NA, NA, NAALALA
+81_xx00xxxx_12A_0145 NAARESTONG, NAGAALIS
+81_xx00xxxx_12A_0146 NAGDIDILIM, NAGMAMADALING
+81_xx00xxxx_12A_0147 NAHIGA, NAKATULOG NAMAN
+81_xx00xxxx_12A_0148 NANG, NANLILIGAW
+81_xx00xxxx_12A_0149 NAPANSEN, NAPATINGIN
+81_xx00xxxx_12A_0150 NASA, NANG, NGAYON
+81_xx00xxxx_12A_0151 NGAYON, NGUNIT
+81_xx00xxxx_12A_0152 NILANG, NINYO, NITO
+81_xx00xxxx_12A_0153 NYA, NIANG
+81_xx00xxxx_12A_0154 NYO, NUONG
+81_xx00xxxx_12A_0155 PA, PAALES, PAANO
+81_xx00xxxx_12A_0156 PAGBIBIGAY, PAGHINA
+81_xx00xxxx_12A_0157 PAKIGAMOT, PALAD
+81_xx00xxxx_12A_0158 PALIBHASA, PAMUMUHAI
+81_xx00xxxx_12A_0159 PANAHON, PANG, PANGIT
+81_xx00xxxx_12A_0160 PASO, PATUNGO
+81_xx00xxxx_12A_0161 PERA, PETSA
+81_xx00xxxx_12A_0162 PITONG, PNP
+81_xx00xxxx_12A_0163 PUSHER, PUSO, RIN
+81_xx00xxxx_12A_0164 RITO, SA, SAN
+81_xx00xxxx_12A_0165 SANDALING, SISON
+81_xx00xxxx_12A_0166 SHABU, SI, SIGURADO
+81_xx00xxxx_12A_0167 SILANG, SINA
+81_xx00xxxx_12A_0168 SHA, SOFA
+81_xx00xxxx_12A_0169 STAR, SUGAT
+81_xx00xxxx_12A_0170 TATLO, TAYO
+81_xx00xxxx_12A_0171 TELEPONO, TINUTUKOY
+81_xx00xxxx_12A_0172 TRABAHO, TUBIG
+81_xx00xxxx_12A_0173 TULA, TUMAWAG
+81_xx00xxxx_12A_0174 TUMUNOG, ULAN
+81_xx00xxxx_12A_0175 UMULAN, UNANG
+81_xx00xxxx_12A_0176 USAPAN, VILMA
+81_xx00xxxx_12A_0177 WALANG, WASHINGTON
+81_xx00xxxx_12A_0178 ZEBRA, ZU

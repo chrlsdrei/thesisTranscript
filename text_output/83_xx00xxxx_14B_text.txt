@@ -1,0 +1,789 @@
+83_xx00xxxx_14B_0001 Maaari mong ipabawa sa sweldo ng iyong asawa ang sustento para sa inyong pamilya.
+83_xx00xxxx_14B_0002 Magtanong ka sa opisina ng Provost Marshal General.
+83_xx00xxxx_14B_0003 Ang opisinang ito ang dumidinig sa mga problema mo o reklamo sa mga aktibong sundalo kinakailangan mong magpadala ng mga kaukulang dokumento paghaharapin kayong mag-asawa upang ayusin ang inyong problema.
+83_xx00xxxx_14B_0004 Maaaring ang mismong opisinang ito ang mag-utos sa iyong asawa na bawasin sa sahod ang sustento para sa inyong.
+83_xx00xxxx_14B_0005 Hindi natin dapat itanim sa isipan ang kahapon at mabuhay ng para sa kahapon lamang.
+83_xx00xxxx_14B_0006 Tapos na iyon at di na muling maibabalik pa.
+83_xx00xxxx_14B_0007 Bakit hindi na lang natin tanawin ang bukas at paghandaan ang anumang pagsubok na maaaring dumating pa?
+83_xx00xxxx_14B_0008 Kung may suliranin, harapin ito ng buong tatag.
+83_xx00xxxx_14B_0009 Huwag magmukmok at magsawalang kibun na lamang.
+83_xx00xxxx_14B_0010 Sa pagkakakilala ko sa kanya, hindi naman siya masamang tao.
+83_xx00xxxx_14B_0011 Madalas nga ay wala siyang kibo.
+83_xx00xxxx_14B_0012 Pero nakikipagusap siya sa akin noong mga panahon na malapit pa ang kanilang buhay sa amin.
+83_xx00xxxx_14B_0013 Marami siyang kwentos akin tungkol sa dati niyang buhay noong nasa probinsya pa siya.
+83_xx00xxxx_14B_0014 Saan ka nakatira?
+83_xx00xxxx_14B_0015 Mali ang magnakaw, di ba?
+83_xx00xxxx_14B_0016 Sino kasama mo lumabas?
+83_xx00xxxx_14B_0017 Kailan ang birthday mo?
+83_xx00xxxx_14B_0018 Kukuha ka ba ng exam?
+83_xx00xxxx_14B_0019 Bumaba ka rito.
+83_xx00xxxx_14B_0020 Palayasin mo siya.
+83_xx00xxxx_14B_0021 Pakiluto itong isda.
+83_xx00xxxx_14B_0022 Magandang araw po.
+83_xx00xxxx_14B_0023 Maligayang kaarawan.
+83_xx00xxxx_14B_0024 Iwan mo na ang mga withdrawals.
+83_xx00xxxx_14B_0025 Ang mga zebra ay lumalakad sa apat na paa.
+83_xx00xxxx_14B_0026 Ang unggoy ay nakita noong Friday.
+83_xx00xxxx_14B_0027 Siya ay isang imahe ng dalagang Pilipina.
+83_xx00xxxx_14B_0028 Isuot mo ang chinelas.
+83_xx00xxxx_14B_0029 Siya ay tumutugtog ng violin at flute sa Valenzuela.
+83_xx00xxxx_14B_0030 Jogging ang mabisang exercise.
+83_xx00xxxx_14B_0031 Tagpuan.
+83_xx00xxxx_14B_0032 Din.
+83_xx00xxxx_14B_0033 Kinawento.
+83_xx00xxxx_14B_0034 Nagtrabaho.
+83_xx00xxxx_14B_0035 Tahanan.
+83_xx00xxxx_14B_0036 Kita.
+83_xx00xxxx_14B_0037 Nagtra-trabaho.
+83_xx00xxxx_14B_0038 Takas.
+83_xx00xxxx_14B_0039 Dinamay.
+83_xx00xxxx_14B_0040 Ko.
+83_xx00xxxx_14B_0041 Nagtutulungan.
+83_xx00xxxx_14B_0042 Takbo.
+83_xx00xxxx_14B_0043 Dinanas.
+83_xx00xxxx_14B_0044 Mahiga.
+83_xx00xxxx_14B_0045 Takot.
+83_xx00xxxx_14B_0046 Dingin.
+83_xx00xxxx_14B_0047 Konstruksyon.
+83_xx00xxxx_14B_0048 Nahuhuli.
+83_xx00xxxx_14B_0049 Taksi.
+83_xx00xxxx_14B_0050 Dinig.
+83_xx00xxxx_14B_0051 Kotse.
+83_xx00xxxx_14B_0052 Naintindihan.
+83_xx00xxxx_14B_0053 Talaga.
+83_xx00xxxx_14B_0054 Tinilaan.
+83_xx00xxxx_14B_0055 Krimen.
+83_xx00xxxx_14B_0056 Naisahan.
+83_xx00xxxx_14B_0057 Talampakan.
+83_xx00xxxx_14B_0058 Tali.
+83_xx00xxxx_14B_0059 Diretso.
+83_xx00xxxx_14B_0060 Kulang.
+83_xx00xxxx_14B_0061 Nakakapagtakang.
+83_xx00xxxx_14B_0062 Talo.
+83_xx00xxxx_14B_0063 Disyembre.
+83_xx00xxxx_14B_0064 Kulay.
+83_xx00xxxx_14B_0065 Nakakasilaw.
+83_xx00xxxx_14B_0066 Talon.
+83_xx00xxxx_14B_0067 Jogging.
+83_xx00xxxx_14B_0068 Maamong.
+83_xx00xxxx_14B_0069 Naarestong.
+83_xx00xxxx_14B_0070 Nakatakdang.
+83_xx00xxxx_14B_0071 Kilong.
+83_xx00xxxx_14B_0072 Yan.
+83_xx00xxxx_14B_0073 Kulog.
+83_xx00xxxx_14B_0074 Nakapagtapos.
+83_xx00xxxx_14B_0075 Tama.
+83_xx00xxxx_14B_0076 Diyos.
+83_xx00xxxx_14B_0077 Kumain.
+83_xx00xxxx_14B_0078 Nakatira.
+83_xx00xxxx_14B_0079 Tamad.
+83_xx00xxxx_14B_0080 Doktor.
+83_xx00xxxx_14B_0081 Kumanta.
+83_xx00xxxx_14B_0082 Nakatulog.
+83_xx00xxxx_14B_0083 Tambakan.
+83_xx00xxxx_14B_0084 Dokumento.
+83_xx00xxxx_14B_0085 Kumbento.
+83_xx00xxxx_14B_0086 Kundi.
+83_xx00xxxx_14B_0087 Nakaw.
+83_xx00xxxx_14B_0088 Tanghali.
+83_xx00xxxx_14B_0089 Dugtong.
+83_xx00xxxx_14B_0090 Kung.
+83_xx00xxxx_14B_0091 Nakawan.
+83_xx00xxxx_14B_0092 Tanim.
+83_xx00xxxx_14B_0093 Dugtongan.
+83_xx00xxxx_14B_0094 Kunin.
+83_xx00xxxx_14B_0095 Nakikipagusap.
+83_xx00xxxx_14B_0096 Taniman.
+83_xx00xxxx_14B_0097 Dumaan.
+83_xx00xxxx_14B_0098 Kontento.
+83_xx00xxxx_14B_0099 Nakita.
+83_xx00xxxx_14B_0100 Dumamba.
+83_xx00xxxx_14B_0101 Kuento.
+83_xx00xxxx_14B_0102 Nalito.
+83_xx00xxxx_14B_0103 Tapakan.
+83_xx00xxxx_14B_0104 Dumami.
+83_xx00xxxx_14B_0105 Labi.
+83_xx00xxxx_14B_0106 Nalulugi.
+83_xx00xxxx_14B_0107 Tapat.
+83_xx00xxxx_14B_0108 Dumapa.
+83_xx00xxxx_14B_0109 Labing.
+83_xx00xxxx_14B_0110 Naman.
+83_xx00xxxx_14B_0111 Tapon.
+83_xx00xxxx_14B_0112 Dumarami.
+83_xx00xxxx_14B_0113 Labis.
+83_xx00xxxx_14B_0114 Dumi.
+83_xx00xxxx_14B_0115 Lagi.
+83_xx00xxxx_14B_0116 Namumunga.
+83_xx00xxxx_14B_0117 Tara.
+83_xx00xxxx_14B_0118 Dumidinig.
+83_xx00xxxx_14B_0119 Laging nanalangin.
+83_xx00xxxx_14B_0120 Tatag.
+83_xx00xxxx_14B_0121 Dumilap.
+83_xx00xxxx_14B_0122 Laglag.
+83_xx00xxxx_14B_0123 Nanay.
+83_xx00xxxx_14B_0124 Tatakbo.
+83_xx00xxxx_14B_0125 Duon.
+83_xx00xxxx_14B_0126 Lagpas.
+83_xx00xxxx_14B_0127 Nandito.
+83_xx00xxxx_14B_0128 Lagyan.
+83_xx00xxxx_14B_0129 Nang. Tawag.
+83_xx00xxxx_14B_0130 Exam. Lahat.
+83_xx00xxxx_14B_0131 Naninirahan. Tawagan.
+83_xx00xxxx_14B_0132 Elementaria. Lahok.
+83_xx00xxxx_14B_0133 Nangliligaw.
+83_xx00xxxx_14B_0134 Tawiran. Enero.
+83_xx00xxxx_14B_0135 Lakad. Napag-iwanan.
+83_xx00xxxx_14B_0136 Tay. Entablado.
+83_xx00xxxx_14B_0137 Lakas.
+83_xx00xxxx_14B_0138 Napansin.
+83_xx00xxxx_14B_0139 Taya. Eskwela.
+83_xx00xxxx_14B_0140 Lalaki. Napatingin.
+83_xx00xxxx_14B_0141 Tayaan.
+83_xx00xxxx_14B_0142 Eto.
+83_xx00xxxx_14B_0143 Lalaking. Narito.
+83_xx00xxxx_14B_0144 Tayo. Ewan.
+83_xx00xxxx_14B_0145 Lalapit. Narian.
+83_xx00xxxx_14B_0146 Tayo. Faksyon.
+83_xx00xxxx_14B_0147 Lalo. Nars.
+83_xx00xxxx_14B_0148 Tayuan.
+83_xx00xxxx_14B_0149 Familia. Laman.
+83_xx00xxxx_14B_0150 Naroon.
+83_xx00xxxx_14B_0151 Teka. Familiar.
+83_xx00xxxx_14B_0152 Lamang. Nasa.
+83_xx00xxxx_14B_0153 Telepono.
+83_xx00xxxx_14B_0154 Fanatik.
+83_xx00xxxx_14B_0155 Lamangan.
+83_xx00xxxx_14B_0156 Nasaan.
+83_xx00xxxx_14B_0157 Tigil. Fantastik.
+83_xx00xxxx_14B_0158 Lambing. Nasagasaan.
+83_xx00xxxx_14B_0159 Tigilan.
+83_xx00xxxx_14B_0160 Federasyon.
+83_xx00xxxx_14B_0161 Lambingan. Nasira.
+83_xx00xxxx_14B_0162 Tigilin.
+83_xx00xxxx_14B_0163 Feminist. Lamok.
+83_xx00xxxx_14B_0164 Nasiraan. Tikim.
+83_xx00xxxx_14B_0165 Fever.
+83_xx00xxxx_14B_0166 Lang.
+83_xx00xxxx_14B_0167 Nasugatan.
+83_xx00xxxx_14B_0168 Tikman. Fake.
+83_xx00xxxx_14B_0169 Langit. Natataniman.
+83_xx00xxxx_14B_0170 Tila.
+83_xx00xxxx_14B_0171 Fair.
+83_xx00xxxx_14B_0172 Lansa. Natin.
+83_xx00xxxx_14B_0173 Timpla.
+83_xx00xxxx_14B_0174 Face towel.
+83_xx00xxxx_14B_0175 Lantaran. Lantaran.
+83_xx00xxxx_14B_0176 Nating.
+83_xx00xxxx_14B_0177 Timplahan.
+83_xx00xxxx_14B_0178 Figuring. Laos.
+83_xx00xxxx_14B_0179 Natira. Tinamad.
+83_xx00xxxx_14B_0180 Fiesta. Lapit.
+83_xx00xxxx_14B_0181 Nauunahan.
+83_xx00xxxx_14B_0182 Tinambakan. Gaan.
+83_xx00xxxx_14B_0183 Lapitan. Nawala.
+83_xx00xxxx_14B_0184 Tinapon. Gaano.
+83_xx00xxxx_14B_0185 Lara.
+83_xx00xxxx_14B_0186 Nawalan.
+83_xx00xxxx_14B_0187 Tinatangkilik.
+83_xx00xxxx_14B_0188 Gabi.
+83_xx00xxxx_14B_0189 Larangan. Nawawala.
+83_xx00xxxx_14B_0190 Tinde. Supporter.
+83_xx00xxxx_14B_0191 Gagawa. Laro.
+83_xx00xxxx_14B_0192 Negosyo.
+83_xx00xxxx_14B_0193 Sitcom. Tiniis.
+83_xx00xxxx_14B_0194 Galangin.
+83_xx00xxxx_14B_0195 Laruan.
+83_xx00xxxx_14B_0196 Nenita. Tinirhan.
+83_xx00xxxx_14B_0197 Galing. Laruin.
+83_xx00xxxx_14B_0198 Nang. Tinutukoy.
+83_xx00xxxx_14B_0199 Galing. Lasa.
+83_xx00xxxx_14B_0200 Ngatira.
+83_xx00xxxx_14B_0201 Galingan. Lasahan.
+83_xx00xxxx_14B_0202 Ngang. Tiwala.
+83_xx00xxxx_14B_0203 Gamit. Lasengo.
+83_xx00xxxx_14B_0204 Ngayon. Tiyak.
+83_xx00xxxx_14B_0205 Gamitin. Lasing.
+83_xx00xxxx_14B_0206 Ngipin. Chan.
+83_xx00xxxx_14B_0207 Gamot. Laya.
+83_xx00xxxx_14B_0208 Ngunit. Toto.
+83_xx00xxxx_14B_0209 Ganap. Layas.
+83_xx00xxxx_14B_0210 Ni. Trabaho. Ganda.
+83_xx00xxxx_14B_0211 Layasan.
+83_xx00xxxx_14B_0212 Nila. Trahedya.
+83_xx00xxxx_14B_0213 Gandahan. Laro.
+83_xx00xxxx_14B_0214 Layo.
+83_xx00xxxx_14B_0215 Nilagay. Chek. Ganito.
+83_xx00xxxx_14B_0216 Layuan.
+83_xx00xxxx_14B_0217 Nilakbay.
+83_xx00xxxx_14B_0218 Cheke. Ganoon.
+83_xx00xxxx_14B_0219 Layuin.
+83_xx00xxxx_14B_0220 Nilang.
+83_xx00xxxx_14B_0221 Chinelas.
+83_xx00xxxx_14B_0222 Ganyan. Lengguahe.
+83_xx00xxxx_14B_0223 Nilapit.
+83_xx00xxxx_14B_0224 Chismis. Gas.
+83_xx00xxxx_14B_0225 Libangan.
+83_xx00xxxx_14B_0226 Nilapitan.
+83_xx00xxxx_14B_0227 Tubig.
+83_xx00xxxx_14B_0228 Gaskasan. Libing.
+83_xx00xxxx_14B_0229 Nilasing. Tula.
+83_xx00xxxx_14B_0230 Gastos. Liblib.
+83_xx00xxxx_14B_0231 Nilusob. Tulad.
+83_xx00xxxx_14B_0232 Gastusan.
+83_xx00xxxx_14B_0233 Libro. Ningning.
+83_xx00xxxx_14B_0234 Tulo. Gastusin.
+83_xx00xxxx_14B_0235 Ligaw. Nino.
+83_xx00xxxx_14B_0236 Tulungan.
+83_xx00xxxx_14B_0237 Gatas. Ligawan.
+83_xx00xxxx_14B_0238 Ninyo.
+83_xx00xxxx_14B_0239 Tumakas. Gatong.
+83_xx00xxxx_14B_0240 Ligaya.
+83_xx00xxxx_14B_0241 Nitong. Tumakbo.
+83_xx00xxxx_14B_0242 Gaya. Ligo.
+83_xx00xxxx_14B_0243 Nya. Tumalon.
+83_xx00xxxx_14B_0244 Gayahin. Ligpitin.
+83_xx00xxxx_14B_0245 Nyan. Tumatanda.
+83_xx00xxxx_14B_0246 Gate. Liham.
+83_xx00xxxx_14B_0247 Niang. Tumatawag.
+83_xx00xxxx_14B_0248 Gigil. Lihim.
+83_xx00xxxx_14B_0249 Nyo. Tumawag.
+83_xx00xxxx_14B_0250 Gilid. Liko.
+83_xx00xxxx_14B_0251 Nobyembre. Tumawid.
+83_xx00xxxx_14B_0252 Giling. Likot.
+83_xx00xxxx_14B_0253 Likot. Noong.
+83_xx00xxxx_14B_0254 Tumayo. Gilingin.
+83_xx00xxxx_14B_0255 Likoan.
+83_xx00xxxx_14B_0256 Numiro. Giliw.
+83_xx00xxxx_14B_0257 Lima. Nung.
+83_xx00xxxx_14B_0258 Gimik. Limos.
+83_xx00xxxx_14B_0259 Nood. Tunay.
+83_xx00xxxx_14B_0260 Ginang. Lindol.
+83_xx00xxxx_14B_0261 Ok.
+83_xx00xxxx_14B_0262 Tungkol. Ginhawa.
+83_xx00xxxx_14B_0263 Linggong. Okra.
+83_xx00xxxx_14B_0264 Tunog. Ginisa.
+83_xx00xxxx_14B_0265 Lingo.
+83_xx00xxxx_14B_0266 Oktober.
+83_xx00xxxx_14B_0267 Turo.
+83_xx00xxxx_14B_0268 Ginoo. Lingon.
+83_xx00xxxx_14B_0269 Oo. Tuwid.
+83_xx00xxxx_14B_0270 Ginto. Linis.
+83_xx00xxxx_14B_0271 Opisina. Ube.
+83_xx00xxxx_14B_0272 Gintong. Linisin.
+83_xx00xxxx_14B_0273 Opisinang.
+83_xx00xxxx_14B_0274 Ubo. Gising.
+83_xx00xxxx_14B_0275 Lindlang. Opo.
+83_xx00xxxx_14B_0276 Ubuhin. Gisingin.
+83_xx00xxxx_14B_0277 Linta.
+83_xx00xxxx_14B_0278 Oras. Ubusin.
+83_xx00xxxx_14B_0279 Gitna. Lisanin.
+83_xx00xxxx_14B_0280 Orasan.
+83_xx00xxxx_14B_0281 Ugali. Gubat.
+83_xx00xxxx_14B_0282 Litaw. Oso.
+83_xx00xxxx_14B_0283 Ugat. Gulang.
+83_xx00xxxx_14B_0284 Lito. Oto.
+83_xx00xxxx_14B_0285 Uhaw.
+83_xx00xxxx_14B_0286 Gulangan.
+83_xx00xxxx_14B_0287 Lituhin.
+83_xx00xxxx_14B_0288 Pa. Ulam.
+83_xx00xxxx_14B_0289 Gulat. Lokohan.
+83_xx00xxxx_14B_0290 Paa. Ulan.
+83_xx00xxxx_14B_0291 Gulatin. Lokohin.
+83_xx00xxxx_14B_0292 Paakyat.
+83_xx00xxxx_14B_0293 Ulanan.
+83_xx00xxxx_14B_0294 Gulay. Paalis.
+83_xx00xxxx_14B_0295 Ulang.
+83_xx00xxxx_14B_0296 Gulo.
+83_xx00xxxx_14B_0297 Paano. Ule.
+83_xx00xxxx_14B_0298 Uli.
+83_xx00xxxx_14B_0299 Gulod. Paaralan.
+83_xx00xxxx_14B_0300 Ulit. Gulpi.
+83_xx00xxxx_14B_0301 Pabalik.
+83_xx00xxxx_14B_0302 Ulitan.
+83_xx00xxxx_14B_0303 Gulpihin.
+83_xx00xxxx_14B_0304 Paborito.
+83_xx00xxxx_14B_0305 Ulitin. Guluhin.
+83_xx00xxxx_14B_0306 Padamdam. Ulo.
+83_xx00xxxx_14B_0307 Gumamit. Pader. Rosario.
+83_xx00xxxx_14B_0308 Restaurant.
+83_xx00xxxx_14B_0309 Records. Limang.
+83_xx00xxxx_14B_0310 Inosenting.
+83_xx00xxxx_14B_0311 Pangangilangan.
+83_xx00xxxx_14B_0312 Pinangyarihan.
+83_xx00xxxx_14B_0313 Umabot. Gumiling.
+83_xx00xxxx_14B_0314 Lupang.
+83_xx00xxxx_14B_0315 Pagbate.
+83_xx00xxxx_14B_0316 Umaga. Gumising.
+83_xx00xxxx_14B_0317 Maari. Pagbibigay.
+83_xx00xxxx_14B_0318 Umalis.
+83_xx00xxxx_14B_0319 Gunting. Maaring.
+83_xx00xxxx_14B_0320 Pagdami.
+83_xx00xxxx_14B_0321 Umarte. Gupit.
+83_xx00xxxx_14B_0322 Maabilidad.
+83_xx00xxxx_14B_0323 Pagdating. Umihi.
+83_xx00xxxx_14B_0324 Gupitan.
+83_xx00xxxx_14B_0325 Maabot. Paggawa.
+83_xx00xxxx_14B_0326 Umiyak.
+83_xx00xxxx_14B_0327 Gupitin. Maaga.
+83_xx00xxxx_14B_0328 Paghaharapin. Gusali.
+83_xx00xxxx_14B_0329 Maagang. Paghandaan.
+83_xx00xxxx_14B_0330 Gusto.
+83_xx00xxxx_14B_0331 Maalat. Paghina.
+83_xx00xxxx_14B_0332 Gustuhin. Maaliwalas.
+83_xx00xxxx_14B_0333 Pagibig.
+83_xx00xxxx_14B_0334 Maasim. Pagiging.
+83_xx00xxxx_14B_0335 Haba. Mabagal.
+83_xx00xxxx_14B_0336 Madigla. Una.
+83_xx00xxxx_14B_0337 Habaan. Mabaho.
+83_xx00xxxx_14B_0338 Nakilalang.
+83_xx00xxxx_14B_0339 Magpipitong.
+83_xx00xxxx_14B_0340 Nasabing.
+83_xx00xxxx_14B_0341 Parangal. Karangalan.
+83_xx00xxxx_14B_0342 Dating.
+83_xx00xxxx_14B_0343 Plano. Pagkabuhat.
+83_xx00xxxx_14B_0344 Unahan.
+83_xx00xxxx_14B_0345 Habang.
+83_xx00xxxx_14B_0346 Mabait. Pagkain.
+83_xx00xxxx_14B_0347 Unang. Hagdanan.
+83_xx00xxxx_14B_0348 Mabango.
+83_xx00xxxx_14B_0349 Pagkakilala.
+83_xx00xxxx_14B_0350 Mabayaran.
+83_xx00xxxx_14B_0351 Pagkakataong.
+83_xx00xxxx_14B_0352 Uod. Halaga.
+83_xx00xxxx_14B_0353 Mabilis. Pagkakautang.
+83_xx00xxxx_14B_0354 Upang. Halaman.
+83_xx00xxxx_14B_0355 Mabuhay.
+83_xx00xxxx_14B_0356 Pagkakuha.
+83_xx00xxxx_14B_0357 Upo. Halayin.
+83_xx00xxxx_14B_0358 Mabuo. Pagkatalo.
+83_xx00xxxx_14B_0359 Upuan. Halika.
+83_xx00xxxx_14B_0360 Mabuti. Pagkatapos.
+83_xx00xxxx_14B_0361 Uri.
+83_xx00xxxx_14B_0362 Halina.
+83_xx00xxxx_14B_0363 Madaanan. Pagkawala.
+83_xx00xxxx_14B_0364 Usapan. Halos.
+83_xx00xxxx_14B_0365 Madalas. Pagkuha.
+83_xx00xxxx_14B_0366 Utang. Hambing.
+83_xx00xxxx_14B_0367 Madali. Pagod.
+83_xx00xxxx_14B_0368 Uunlad.
+83_xx00xxxx_14B_0369 Handa. Madami.
+83_xx00xxxx_14B_0370 Pagpapabaya.
+83_xx00xxxx_14B_0371 Uwi. Handaan.
+83_xx00xxxx_14B_0372 Madarama.
+83_xx00xxxx_14B_0373 Pagsubmit. Valedictorian.
+83_xx00xxxx_14B_0374 Hanggang.
+83_xx00xxxx_14B_0375 Madidilat.
+83_xx00xxxx_14B_0376 Pagsubok.
+83_xx00xxxx_14B_0377 Valibol. Hangin.
+83_xx00xxxx_14B_0378 Madidilaw.
+83_xx00xxxx_14B_0379 Pagulan.
+83_xx00xxxx_14B_0380 Vanilla.
+83_xx00xxxx_14B_0381 Hapag.
+83_xx00xxxx_14B_0382 Magagandang. Pakialam.
+83_xx00xxxx_14B_0383 Vibes. Hapon.
+83_xx00xxxx_14B_0384 Magaling. Pakibukas.
+83_xx00xxxx_14B_0385 Violet. Harap.
+83_xx00xxxx_14B_0386 Maganda. Pakigamot.
+83_xx00xxxx_14B_0387 Vice versa. Ginawang.
+83_xx00xxxx_14B_0388 Pangyayaring. Anyang. Pambansang.
+83_xx00xxxx_14B_0389 Mabigyang. Panunungkulang.
+83_xx00xxxx_14B_0390 Kataas-taasang.
+83_xx00xxxx_14B_0391 Tayong. Magsabong.
+83_xx00xxxx_14B_0392 Magsawalangkibo. Kasamahan.
+83_xx00xxxx_14B_0393 Kasamahan. Ibang.
+83_xx00xxxx_14B_0394 Mapayapang. Harapan.
+83_xx00xxxx_14B_0395 Magandang. Pakigawa.
+83_xx00xxxx_14B_0396 Vendo. Harapin.
+83_xx00xxxx_14B_0397 Magaral. Pakihugas.
+83_xx00xxxx_14B_0398 Veranda. Hasa.
+83_xx00xxxx_14B_0399 Magasawa. Pakiiwan.
+83_xx00xxxx_14B_0400 Versatil. Hasain.
+83_xx00xxxx_14B_0401 Magasawang. Pakikanta.
+83_xx00xxxx_14B_0402 Versus. Hataw.
+83_xx00xxxx_14B_0403 Magawa. Pakikuha. Vigilante.
+83_xx00xxxx_14B_0404 Hatawin.
+83_xx00xxxx_14B_0405 Magbago. Wagihatid.
+83_xx00xxxx_14B_0406 Magbantay. Pakinabang.
+83_xx00xxxx_14B_0407 Wakas. Hawaan.
+83_xx00xxxx_14B_0408 Magbasa. Pakiusap. Wala.
+83_xx00xxxx_14B_0409 Hawakan.
+83_xx00xxxx_14B_0410 Magbasag. Pakiusapan.
+83_xx00xxxx_14B_0411 Walang. Hayag. Magbawas.
+83_xx00xxxx_14B_0412 Paksa. Walis.
+83_xx00xxxx_14B_0413 Hayop. Magbayad. Pala.
+83_xx00xxxx_14B_0414 Walo. High school.
+83_xx00xxxx_14B_0415 Magbenta. Palabas. Walong.
+83_xx00xxxx_14B_0416 General.
+83_xx00xxxx_14B_0417 Magbigayan. Palad. Warat.
+83_xx00xxxx_14B_0418 Higaan. Magbilang.
+83_xx00xxxx_14B_0419 Palawakin. Wasak.
+83_xx00xxxx_14B_0420 Hila. Magbubukid.
+83_xx00xxxx_14B_0421 Palayasin. Wika.
+83_xx00xxxx_14B_0422 Hilahan. Magdala. Palibhasa.
+83_xx00xxxx_14B_0423 Iaman. Hilain.
+83_xx00xxxx_14B_0424 Magdasal. Paliwanagan.
+83_xx00xxxx_14B_0425 Yan. Hilingin.
+83_xx00xxxx_14B_0426 Maghanda. Pambihira.
+83_xx00xxxx_14B_0427 Yari. Creation. Kongreso.
+83_xx00xxxx_14B_0428 Pagmamahat.
+83_xx00xxxx_14B_0429 Namaya pang magsasalita
+83_xx00xxxx_14B_0430 Senate. Secretary.
+83_xx00xxxx_14B_0431 Abalang. Alamang.
+83_xx00xxxx_14B_0432 Angugulo. Manggulo.
+83_xx00xxxx_14B_0433 Nangyari. Darating.
+83_xx00xxxx_14B_0434 Umihingi. Dalawampung.
+83_xx00xxxx_14B_0435 Nursing. Himbing. Maghapon.
+83_xx00xxxx_14B_0436 Familia. Yaya.
+83_xx00xxxx_14B_0437 Hina. Maghihintay.
+83_xx00xxxx_14B_0438 Yayain. Hinayang.
+83_xx00xxxx_14B_0439 Maghintay-hintay.
+83_xx00xxxx_14B_0440 Panaginip. Yellow. Hindi.
+83_xx00xxxx_14B_0441 Magiging. Panahon.
+83_xx00xxxx_14B_0442 Yero. Hiningan.
+83_xx00xxxx_14B_0443 Maging. Pananim. Yoyo.
+83_xx00xxxx_14B_0444 Hinintay. Magisa.
+83_xx00xxxx_14B_0445 Pandak. Yumao.
+83_xx00xxxx_14B_0446 Hinipuan. Magkaibigan.
+83_xx00xxxx_14B_0447 Pang. Yung. Hintay.
+83_xx00xxxx_14B_0448 Magkakabisa.
+83_xx00xxxx_14B_0449 Pangalan. Zero.
+83_xx00xxxx_14B_0450 Hintayin. Magkakaibigan.
+83_xx00xxxx_14B_0451 Panganim. Zigzag.
+83_xx00xxxx_14B_0452 Hinto. Magkakapatid.
+83_xx00xxxx_14B_0453 Pangarap. Zinya.
+83_xx00xxxx_14B_0454 Hintong. Magkakaraon.
+83_xx00xxxx_14B_0455 Panget. Zipper.
+83_xx00xxxx_14B_0456 Hintuan. Panglima.
+83_xx00xxxx_14B_0457 Hipan. Maggamay.
+83_xx00xxxx_14B_0458 Pangyayari.
+83_xx00xxxx_14B_0459 Hipanin. Magkapamilya.
+83_xx00xxxx_14B_0460 Paningin. Hipo.
+83_xx00xxxx_14B_0461 Magkasama. Pantalon.
+83_xx00xxxx_14B_0462 Hipuan.
+83_xx00xxxx_14B_0463 Hipuan. Maglagay.
+83_xx00xxxx_14B_0464 Papel. Hirap.
+83_xx00xxxx_14B_0465 Maglita. Para.
+83_xx00xxxx_14B_0466 Hos. Parang
+83_xx00xxxx_14B_0467 hotel.
+83_xx00xxxx_14B_0468 Pasahin.
+83_xx00xxxx_14B_0469 Hugasan. Magnakaw.
+83_xx00xxxx_14B_0470 Pasko.
+83_xx00xxxx_14B_0471 Nakakulong. Sessions.
+83_xx00xxxx_14B_0472 Ba. Be. Bi.
+83_xx00xxxx_14B_0473 Bo. Bu.
+83_xx00xxxx_14B_0474 Bad. Bag. Bak.
+83_xx00xxxx_14B_0475 Bal. Bam. Ben.
+83_xx00xxxx_14B_0476 Bang. Bap.
+83_xx00xxxx_14B_0477 Bar. Bas. Bat.
+83_xx00xxxx_14B_0478 Bau. Bay. Ben.
+83_xx00xxxx_14B_0479 Bid. Big. Bik.
+83_xx00xxxx_14B_0480 Bil. Bin.
+83_xx00xxxx_14B_0481 Bim. Bing. Bis.
+83_xx00xxxx_14B_0482 Bit. Bog.
+83_xx00xxxx_14B_0483 Bon. Bong. Bot. Boy.
+83_xx00xxxx_14B_0484 Bag.
+83_xx00xxxx_14B_0485 Bur. Bok.
+83_xx00xxxx_14B_0486 Bul. Bril. Blue.
+83_xx00xxxx_14B_0487 Bre. Box. Bre.
+83_xx00xxxx_14B_0488 Bul. Ber. Bra.
+83_xx00xxxx_14B_0489 Da. De.
+83_xx00xxxx_14B_0490 Di. Do. Du.
+83_xx00xxxx_14B_0491 Dag. Dal.
+83_xx00xxxx_14B_0492 Dik. Dra.
+83_xx00xxxx_14B_0493 Dad. Dag.
+83_xx00xxxx_14B_0494 Dag. Dal.
+83_xx00xxxx_14B_0495 Dib. Dam. De. Dan.
+83_xx00xxxx_14B_0496 Dig. Ding.
+83_xx00xxxx_14B_0497 Ga. Ge. Gi.
+83_xx00xxxx_14B_0498 Go. Gu. Gad.
+83_xx00xxxx_14B_0499 Gua. Go.
+83_xx00xxxx_14B_0500 Jin. Gi.
+83_xx00xxxx_14B_0501 Guos. Gas.
+83_xx00xxxx_14B_0502 Gey. Gan.
+83_xx00xxxx_14B_0503 Gil.
+83_xx00xxxx_14B_0504 Git. Gul.
+83_xx00xxxx_14B_0505 Gan. Gal.
+83_xx00xxxx_14B_0506 Gas. Gad. Gab.
+83_xx00xxxx_14B_0507 Fa. Fe. Fi.
+83_xx00xxxx_14B_0508 Fo. Fu.
+83_xx00xxxx_14B_0509 Feis. Fan.
+83_xx00xxxx_14B_0510 Fig.
+83_xx00xxxx_14B_0511 Ha. He.
+83_xx00xxxx_14B_0512 Ki. Ho. Hu.
+83_xx00xxxx_14B_0513 Hen. Hao. Han.
+83_xx00xxxx_14B_0514 Hai.
+83_xx00xxxx_14B_0515 Hit. Hoy.
+83_xx00xxxx_14B_0516 Has.
+83_xx00xxxx_14B_0517 Hil. Him.
+83_xx00xxxx_14B_0518 Hag. Hul. Ham.
+83_xx00xxxx_14B_0519 Ja. Je. Ji.
+83_xx00xxxx_14B_0520 Jo. Ju.
+83_xx00xxxx_14B_0521 Jit. Juk.
+83_xx00xxxx_14B_0522 Jun.
+83_xx00xxxx_14B_0523 Ka. Ke.
+83_xx00xxxx_14B_0524 Gi. Go.
+83_xx00xxxx_14B_0525 Gu. Kid.
+83_xx00xxxx_14B_0526 Kin. Kot. Kit.
+83_xx00xxxx_14B_0527 Kam. Kun.
+83_xx00xxxx_14B_0528 Kas. Kam.
+83_xx00xxxx_14B_0529 Kal. Kan.
+83_xx00xxxx_14B_0530 Kit. Kat.
+83_xx00xxxx_14B_0531 Kao. Kim.
+83_xx00xxxx_14B_0532 Kip. La.
+83_xx00xxxx_14B_0533 Le. Li.
+83_xx00xxxx_14B_0534 Lo. Lu. Lok.
+83_xx00xxxx_14B_0535 Los. Lam. Lin.
+83_xx00xxxx_14B_0536 Ling. Lit.
+83_xx00xxxx_14B_0537 Lik. Lung. Lang.
+83_xx00xxxx_14B_0538 Lan. Lat. Lid.
+83_xx00xxxx_14B_0539 Liu.
+83_xx00xxxx_14B_0540 Lau. Long.
+83_xx00xxxx_14B_0541 Leng. Lis.
+83_xx00xxxx_14B_0542 Las. Les.
+83_xx00xxxx_14B_0543 Lag. Lam. Lun.
+83_xx00xxxx_14B_0544 Lon. Lis.
+83_xx00xxxx_14B_0545 Ma. Me.
+83_xx00xxxx_14B_0546 Mi. Mo.
+83_xx00xxxx_14B_0547 Mu. Mag.
+83_xx00xxxx_14B_0548 Mar. Mis. Min.
+83_xx00xxxx_14B_0549 Mil. Mok.
+83_xx00xxxx_14B_0550 Men. Mang.
+83_xx00xxxx_14B_0551 May. Mit. Mik.
+83_xx00xxxx_14B_0552 Man. Mun.
+83_xx00xxxx_14B_0553 Mad. Mak. Mat.
+83_xx00xxxx_14B_0554 Na. Ne.
+83_xx00xxxx_14B_0555 Ni. No.
+83_xx00xxxx_14B_0556 Nu. Nag.
+83_xx00xxxx_14B_0557 Nai. Nib.
+83_xx00xxxx_14B_0558 Nau. Ne. Nok.
+83_xx00xxxx_14B_0559 Nan. Nig. Nin.
+83_xx00xxxx_14B_0560 Nang. Nog.
+83_xx00xxxx_14B_0561 Nak. Nim. Nas.
+83_xx00xxxx_14B_0562 Nig. Nob. Nam. Nil.
+83_xx00xxxx_14B_0563 Nga. Nge.
+83_xx00xxxx_14B_0564 Nghi. Ngo. Ngu.
+83_xx00xxxx_14B_0565 Ngan. Nog.
+83_xx00xxxx_14B_0566 Ngin. Ngay. Nge.
+83_xx00xxxx_14B_0567 Nin. Ngon.
+83_xx00xxxx_14B_0568 Pa. Pe.
+83_xx00xxxx_14B_0569 Pe. Pi. Po.
+83_xx00xxxx_14B_0570 Pu. Bag. Pak.
+83_xx00xxxx_14B_0571 Pas. Pat.
+83_xx00xxxx_14B_0572 Pet. Pon. Poy.
+83_xx00xxxx_14B_0573 Pin. Pan.
+83_xx00xxxx_14B_0574 Pit. Pla. Pang.
+83_xx00xxxx_14B_0575 Ping. Pir.
+83_xx00xxxx_14B_0576 Pe. Pos. Pun. Per.
+83_xx00xxxx_14B_0577 Ra. Re.
+83_xx00xxxx_14B_0578 Li. Ro.
+83_xx00xxxx_14B_0579 Ru. Ras.
+83_xx00xxxx_14B_0580 Ral. Rang. Rat.
+83_xx00xxxx_14B_0581 Ran. Rau.
+83_xx00xxxx_14B_0582 Rin. Ret. Rap.
+83_xx00xxxx_14B_0583 Rong.
+83_xx00xxxx_14B_0584 Sa. Se. Si. So. Su.
+83_xx00xxxx_14B_0585 Shem. Sin.
+83_xx00xxxx_14B_0586 Sak. Shon.
+83_xx00xxxx_14B_0587 San. Sip.
+83_xx00xxxx_14B_0588 Sul. Sog.
+83_xx00xxxx_14B_0589 Skwe. Sal. Sim.
+83_xx00xxxx_14B_0590 Sing. Sag.
+83_xx00xxxx_14B_0591 Sig. Sog.
+83_xx00xxxx_14B_0592 Sep. Sil.
+83_xx00xxxx_14B_0593 Sis. Sul.
+83_xx00xxxx_14B_0594 Sol.
+83_xx00xxxx_14B_0595 Sam. San.
+83_xx00xxxx_14B_0596 Sung. Sus. Suwe.
+83_xx00xxxx_14B_0597 Ta. Te. Ti.
+83_xx00xxxx_14B_0598 To. Tu. Tan.
+83_xx00xxxx_14B_0599 Tay.
+83_xx00xxxx_14B_0600 Tas. Tor.
+83_xx00xxxx_14B_0601 Tik. Tes. Tok.
+83_xx00xxxx_14B_0602 Tau. Tin.
+83_xx00xxxx_14B_0603 Tab. Tay.
+83_xx00xxxx_14B_0604 Tel. Tos.
+83_xx00xxxx_14B_0605 Tong. Tid. Ten.
+83_xx00xxxx_14B_0606 Ting. Tak.
+83_xx00xxxx_14B_0607 Tam. Tim. Til.
+83_xx00xxxx_14B_0608 Cha. Che. Chi.
+83_xx00xxxx_14B_0609 Va. Be. Vi.
+83_xx00xxxx_14B_0610 Vo. Vu.
+83_xx00xxxx_14B_0611 Ven. Ver. Vais.
+83_xx00xxxx_14B_0612 Wa. We.
+83_xx00xxxx_14B_0613 Wi. Wo.
+83_xx00xxxx_14B_0614 Wu.
+83_xx00xxxx_14B_0615 Wid. Wad.
+83_xx00xxxx_14B_0616 Wag. Wai.
+83_xx00xxxx_14B_0617 Wel. Wan.
+83_xx00xxxx_14B_0618 Wak. Was.
+83_xx00xxxx_14B_0619 Wat. Win.
+83_xx00xxxx_14B_0620 Wang. Wing. Wong.
+83_xx00xxxx_14B_0621 Ya. Ye.
+83_xx00xxxx_14B_0622 Yi. Yo.
+83_xx00xxxx_14B_0623 Yu. Yem. Yin.
+83_xx00xxxx_14B_0624 Yag. Yat.
+83_xx00xxxx_14B_0625 Yan. Yar.
+83_xx00xxxx_14B_0626 Yos. Yer.
+83_xx00xxxx_14B_0627 Yag. Yang.
+83_xx00xxxx_14B_0628 Yak. Yon. Yor.
+83_xx00xxxx_14B_0629 Za. Ze.
+83_xx00xxxx_14B_0630 Zi. Zo.
+83_xx00xxxx_14B_0631 Zu. Zin.
+83_xx00xxxx_14B_0632 Ang. As.
+83_xx00xxxx_14B_0633 Ak. Ay.
+83_xx00xxxx_14B_0634 At. Ar. An.
+83_xx00xxxx_14B_0635 Am. Ag.
+83_xx00xxxx_14B_0636 En. Em.
+83_xx00xxxx_14B_0637 Neng. Ed. Es.
+83_xx00xxxx_14B_0638 Is. In.
+83_xx00xxxx_14B_0639 Ing. Im.
+83_xx00xxxx_14B_0640 Bung. Bang. Dong.
+83_xx00xxxx_14B_0641 Ging. Gang. Gong.
+83_xx00xxxx_14B_0642 Hang. Hing. Hong.
+83_xx00xxxx_14B_0643 King. Kang.
+83_xx00xxxx_14B_0644 Kong. Kung.
+83_xx00xxxx_14B_0645 Ming. Mong.
+83_xx00xxxx_14B_0646 Mung. Ning. Nung.
+83_xx00xxxx_14B_0647 Nung. Neng.
+83_xx00xxxx_14B_0648 Ngun. Ngin.
+83_xx00xxxx_14B_0649 Pung. Pong.
+83_xx00xxxx_14B_0650 Ching. Sang. Sung.
+83_xx00xxxx_14B_0651 Sing. Tang.
+83_xx00xxxx_14B_0652 Teng. Tung.
+83_xx00xxxx_14B_0653 Chang. Chong.
+83_xx00xxxx_14B_0654 Ching. Ying. Yong.
+83_xx00xxxx_14B_0655 Yang.
+83_xx00xxxx_14B_0656 Bab. Bed. Bem.
+83_xx00xxxx_14B_0657 Bao. Boa.
+83_xx00xxxx_14B_0658 Bui. Das. Dai.
+83_xx00xxxx_14B_0659 Del. Den.
+83_xx00xxxx_14B_0660 Dog. Dos.
+83_xx00xxxx_14B_0661 Gad. Gak.
+83_xx00xxxx_14B_0662 Gam. Gap. Far.
+83_xx00xxxx_14B_0663 Fat. Fel. Fing.
+83_xx00xxxx_14B_0664 Faw. Hab.
+83_xx00xxxx_14B_0665 Had. Hat.
+83_xx00xxxx_14B_0666 Hen. Hid.
+83_xx00xxxx_14B_0667 Hog.
+83_xx00xxxx_14B_0668 Hang. Jag.
+83_xx00xxxx_14B_0669 Jak.
+83_xx00xxxx_14B_0670 Jas. Jazz.
+83_xx00xxxx_14B_0671 Jing. Joy.
+83_xx00xxxx_14B_0672 Kab. Kad.
+83_xx00xxxx_14B_0673 Kag. Ken.
+83_xx00xxxx_14B_0674 Kib. Kong. Kong.
+83_xx00xxxx_14B_0675 Hoy. Kur.
+83_xx00xxxx_14B_0676 Lab. Lad. Ley.
+83_xx00xxxx_14B_0677 Log.
+83_xx00xxxx_14B_0678 Low. Loy.
+83_xx00xxxx_14B_0679 Lok. Mal.
+83_xx00xxxx_14B_0680 Mem. Mip. Mir.
+83_xx00xxxx_14B_0681 Mau. Mag.
+83_xx00xxxx_14B_0682 Muk. Nab. Nad.
+83_xx00xxxx_14B_0683 Nal. Neg. Nep.
+83_xx00xxxx_14B_0684 Nip. Nir. Nos.
+83_xx00xxxx_14B_0685 Nau. Nus.
+83_xx00xxxx_14B_0686 Ngas. Ngek.
+83_xx00xxxx_14B_0687 Ngik. Ngop.
+83_xx00xxxx_14B_0688 Pad. Beng. Pik.
+83_xx00xxxx_14B_0689 Po. Puk.
+83_xx00xxxx_14B_0690 Pus. Rab. Rad.
+83_xx00xxxx_14B_0691 Rag. Rak. Rem.
+83_xx00xxxx_14B_0692 Rin. Ris. Ro.
+83_xx00xxxx_14B_0693 Sad.
+83_xx00xxxx_14B_0694 Sat. Say.
+83_xx00xxxx_14B_0695 So. Suy.
+83_xx00xxxx_14B_0696 Tad. Tag.
+83_xx00xxxx_14B_0697 Tem. Ten. Tog.
+83_xx00xxxx_14B_0698 To. Chap. Check.
+83_xx00xxxx_14B_0699 Ches. Chok.
+83_xx00xxxx_14B_0700 Choy. Vak. Val.
+83_xx00xxxx_14B_0701 Ves. Bin.
+83_xx00xxxx_14B_0702 Vol. Wal. War.
+83_xx00xxxx_14B_0703 Wed. Wal. Yab. Yab.
+83_xx00xxxx_14B_0704 Yo.
+83_xx00xxxx_14B_0705 Zam. Zay.
+83_xx00xxxx_14B_0706 Zig.
+83_xx00xxxx_14B_0707 Akin ito
+83_xx00xxxx_14B_0708 Marshal.
+83_xx00xxxx_14B_0709 Aktibong itong masamang.
+83_xx00xxxx_14B_0710 Amin. Iwan.
+83_xx00xxxx_14B_0711 May. Mai.
+83_xx00xxxx_14B_0712 Ang iyong mga
+83_xx00xxxx_14B_0713 anumang iyong mismong.
+83_xx00xxxx_14B_0714 Apat general
+83_xx00xxxx_14B_0715 mo.
+83_xx00xxxx_14B_0716 Araw jaging mo.
+83_xx00xxxx_14B_0717 Asawa ka
+83_xx00xxxx_14B_0718 mong at
+83_xx00xxxx_14B_0719 kaarawan muling.
+83_xx00xxxx_14B_0720 Ay kahapon na
+83_xx00xxxx_14B_0721 ayusin kailan
+83_xx00xxxx_14B_0722 nakatira ba
+83_xx00xxxx_14B_0723 kanilang
+83_xx00xxxx_14B_0724 nakikipagusap ba
+83_xx00xxxx_14B_0725 kanya nakita.
+83_xx00xxxx_14B_0726 Bahay kasama
+83_xx00xxxx_14B_0727 naman. Bakit
+83_xx00xxxx_14B_0728 kaokulang nasa.
+83_xx00xxxx_14B_0729 Bawasin
+83_xx00xxxx_14B_0730 kayong natin.
+83_xx00xxxx_14B_0731 Birthday kibo natin.
+83_xx00xxxx_14B_0732 Buhay
+83_xx00xxxx_14B_0733 kinakailangan ng bukas.
+83_xx00xxxx_14B_0734 Kinuwento
+83_xx00xxxx_14B_0735 nga bumaba
+83_xx00xxxx_14B_0736 ko kanyang buong
+83_xx00xxxx_14B_0737 kukuha nuong
+83_xx00xxxx_14B_0738 dalagang kung
+83_xx00xxxx_14B_0739 nuong dapat
+83_xx00xxxx_14B_0740 lamang o
+83_xx00xxxx_14B_0741 dati lang
+83_xx00xxxx_14B_0742 sa opisina.
+83_xx00xxxx_14B_0743 Di lumabas
+83_xx00xxxx_14B_0744 opisinang dokumento
+83_xx00xxxx_14B_0745 lumalakad pa
+83_xx00xxxx_14B_0746 dumating maaari
+83_xx00xxxx_14B_0747 paa. Dumidinig
+83_xx00xxxx_14B_0748 maaaring paghaharapin.
+83_xx00xxxx_14B_0749 Eksam
+83_xx00xxxx_14B_0750 mabisang paghandaan.
+83_xx00xxxx_14B_0751 Eksercise mabuhay
+83_xx00xxxx_14B_0752 pagkakakilala.
+83_xx00xxxx_14B_0753 Flute madalas pagsubok
+83_xx00xxxx_14B_0754 Friday magandang
+83_xx00xxxx_14B_0755 pakiluto.
+83_xx00xxxx_14B_0756 Harapin mag-asawa.
+83_xx00xxxx_14B_0757 Palayasin
+83_xx00xxxx_14B_0758 hindi magdala
+83_xx00xxxx_14B_0759 pamilya. Wag magmukmok
+83_xx00xxxx_14B_0760 panahon imahe.
+83_xx00xxxx_14B_0761 Magnakaw
+83_xx00xxxx_14B_0762 para inyo
+83_xx00xxxx_14B_0763 magsawalang kibo pero
+83_xx00xxxx_14B_0764 inyong magtanong
+83_xx00xxxx_14B_0765 Pilipina ipabawas.
+83_xx00xxxx_14B_0766 Mag-utos
+83_xx00xxxx_14B_0767 po isang
+83_xx00xxxx_14B_0768 maibabalik
+83_xx00xxxx_14B_0769 probinsya isda malapit
+83_xx00xxxx_14B_0770 problema.
+83_xx00xxxx_14B_0771 Isipan mali
+83_xx00xxxx_14B_0772 probost.
+83_xx00xxxx_14B_0773 Isaot maligayang reklamo
+83_xx00xxxx_14B_0774 itanim marami rito.
+83_xx00xxxx_14B_0775 Sa
+83_xx00xxxx_14B_0776 saan sahod
+83_xx00xxxx_14B_0777 sino siya
+83_xx00xxxx_14B_0778 siya siyang suliranin
+83_xx00xxxx_14B_0779 sundalo
+83_xx00xxxx_14B_0780 sustento sueldo
+83_xx00xxxx_14B_0781 tanawin
+83_xx00xxxx_14B_0782 tao tapos
+83_xx00xxxx_14B_0783 tatag
+83_xx00xxxx_14B_0784 chinelas
+83_xx00xxxx_14B_0785 tumutugtog tungkol ungoy
+83_xx00xxxx_14B_0786 upang
+83_xx00xxxx_14B_0787 belensuela
+83_xx00xxxx_14B_0788 vayulin walang
+83_xx00xxxx_14B_0789 withdrawals zebra.

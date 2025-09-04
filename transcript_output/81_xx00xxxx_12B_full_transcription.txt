@@ -1,0 +1,5838 @@
+Utterance 1
+Start: 0.00
+End: 5.00
+Confidence: -0.1692
+Text: Maraming pagkakataong manalo.
+
+Utterance 2
+Start: 5.00
+End: 9.00
+Confidence: -0.1692
+Text: Ang sampung buwanang bola ay may 6 na premio bawat bola.
+
+Utterance 3
+Start: 9.00
+End: 16.00
+Confidence: -0.1692
+Text: At sa huling bola ay may 10 namang premio kaya tandaan mas maraming lahok mas maraming pagkakataong manalo.
+
+Utterance 4
+Start: 16.00
+End: 19.00
+Confidence: -0.1692
+Text: Para makasali sa buwanan at huling bola,
+
+Utterance 5
+Start: 19.00
+End: 23.00
+Confidence: -0.1692
+Text: kailangan matanggap ang mga lahok isang araw bago ang takdang petsa.
+
+Utterance 6
+Start: 23.00
+End: 28.00
+Confidence: -0.1692
+Text: Hindi imposibleng maabot ang mga pangarap.
+
+Utterance 7
+Start: 29.00
+End: 37.00
+Confidence: -0.1142
+Text: Kung magiging maabilidad, magsikap ka at ipagpatuloy ang paggawa ng mabuti at maganda sa kapwa uunlad ka din.
+
+Utterance 8
+Start: 37.00
+End: 41.00
+Confidence: -0.1142
+Text: Ang bahay namin ay isang munting tahanan sa itaas ng gulod.
+
+Utterance 9
+Start: 41.00
+End: 46.00
+Confidence: -0.1142
+Text: Doon ay sarili ng aming mga paningin ang kalangitan,
+
+Utterance 10
+Start: 46.00
+End: 50.00
+Confidence: -0.1142
+Text: ang kalawakan sarili namin ang nalalanghap na hangin,
+
+Utterance 11
+Start: 50.00
+End: 55.00
+Confidence: -0.1172
+Text: sarili namin ang aming buhay, ang buong kalayaan sa pagkabuhat,
+
+Utterance 12
+Start: 55.00
+End: 61.00
+Confidence: -0.1172
+Text: at sarili namin ang lahat ng sandali, ang lahat ng panahon aming ganap na kalikasan.
+
+Utterance 13
+Start: 64.00
+End: 66.00
+Confidence: -0.1172
+Text: Saan galing iyan?
+
+Utterance 14
+Start: 66.00
+End: 69.00
+Confidence: -0.1172
+Text: Kailangan natin magtulungan, di ba?
+
+Utterance 15
+Start: 69.00
+End: 71.00
+Confidence: -0.1172
+Text: Sinong mga kaibigan?
+
+Utterance 16
+Start: 71.00
+End: 74.00
+Confidence: -0.1172
+Text: Kailan ang lakad nyo?
+
+Utterance 17
+Start: 74.00
+End: 77.00
+Confidence: -0.1172
+Text: Mahahanap ba natin siya?
+
+Utterance 18
+Start: 77.00
+End: 79.00
+Confidence: -0.1172
+Text: Umuwi ka na.
+
+Utterance 19
+Start: 79.00
+End: 82.00
+Confidence: -0.1596
+Text: Tumayo ko ng tweed.
+
+Utterance 20
+Start: 82.00
+End: 85.00
+Confidence: -0.1596
+Text: Bilhan mo naman ako ng makakain.
+
+Utterance 21
+Start: 85.00
+End: 88.00
+Confidence: -0.1596
+Text: Pakiayos naman yung kwarto mo.
+
+Utterance 22
+Start: 88.00
+End: 90.00
+Confidence: -0.1596
+Text: Nasugatan ako.
+
+Utterance 23
+Start: 90.00
+End: 92.00
+Confidence: -0.1596
+Text: Magandang tanghali po.
+
+Utterance 24
+Start: 92.00
+End: 94.00
+Confidence: -0.1596
+Text: Malagayang Pasko.
+
+Utterance 25
+Start: 94.00
+End: 103.00
+Confidence: -0.1596
+Text: Sa okasyon para sa araw na ito, sinasabi ni Jesus kay Pedro kung paano niya pangangalagaan ang kawa ni Jesus.
+
+Utterance 26
+Start: 106.00
+End: 107.00
+Confidence: -0.1596
+Text: Ulit.
+
+Utterance 27
+Start: 107.00
+End: 115.00
+Confidence: -0.1403
+Text: Sa okasyon para sa araw na ito, sinasabi ni Jesus kay Pedro kung paano niya pangangalagaan ang kawa ni Jesus.
+
+Utterance 28
+Start: 116.00
+End: 123.00
+Confidence: -0.1403
+Text: Ang programa sa TV na Knowledge Power ay tumalakay ng ultraviolet rays.
+
+Utterance 29
+Start: 125.00
+End: 131.00
+Confidence: -0.1403
+Text: Ang coach ng team na si Gabriel ay bumiteo sa pagkakahawak sa Entablado.
+
+Utterance 30
+Start: 132.00
+End: 137.00
+Confidence: -0.1591
+Text: Si Zsa Zsa ay umawit ng First Love Never Dies at Woman in Love sa Senado.
+
+Utterance 31
+Start: 138.00
+End: 144.00
+Confidence: -0.1591
+Text: Si Jeffrey pati si Jack ay nagpunta sa PLDT Fairview isang Sabado ng Enero.
+
+Utterance 32
+Start: 161.00
+End: 162.00
+Confidence: -0.1531
+Text: Takbo.
+
+Utterance 33
+Start: 162.00
+End: 164.00
+Confidence: -0.1531
+Text: Nagtutulungan.
+
+Utterance 34
+Start: 164.00
+End: 166.00
+Confidence: -0.1531
+Text: Takbo.
+
+Utterance 35
+Start: 166.00
+End: 167.00
+Confidence: -0.1531
+Text: Dinanas.
+
+Utterance 36
+Start: 167.00
+End: 169.00
+Confidence: -0.1531
+Text: Kompositor.
+
+Utterance 37
+Start: 169.00
+End: 171.00
+Confidence: -0.1531
+Text: Nagtuturo.
+
+Utterance 38
+Start: 171.00
+End: 173.00
+Confidence: -0.1531
+Text: Takdang.
+
+Utterance 39
+Start: 173.00
+End: 175.00
+Confidence: -0.1531
+Text: Dinasal.
+
+Utterance 40
+Start: 175.00
+End: 176.00
+Confidence: -0.1531
+Text: Kong.
+
+Utterance 41
+Start: 176.00
+End: 178.00
+Confidence: -0.1531
+Text: Nahiga.
+
+Utterance 42
+Start: 178.00
+End: 180.00
+Confidence: -0.1531
+Text: Takot.
+
+Utterance 43
+Start: 180.00
+End: 181.00
+Confidence: -0.1531
+Text: Dingin.
+
+Utterance 44
+Start: 181.00
+End: 183.00
+Confidence: -0.1531
+Text: Konstruksyon.
+
+Utterance 45
+Start: 183.00
+End: 185.00
+Confidence: -0.1531
+Text: Nahuhule.
+
+Utterance 46
+Start: 185.00
+End: 187.00
+Confidence: -0.1531
+Text: Taxi.
+
+Utterance 47
+Start: 187.00
+End: 189.00
+Confidence: -0.1531
+Text: Dinig.
+
+Utterance 48
+Start: 189.00
+End: 191.00
+Confidence: -0.0968
+Text: Kotse.
+
+Utterance 49
+Start: 191.00
+End: 193.00
+Confidence: -0.0968
+Text: Naintindihan.
+
+Utterance 50
+Start: 193.00
+End: 195.00
+Confidence: -0.0968
+Text: Talaga.
+
+Utterance 51
+Start: 195.00
+End: 197.00
+Confidence: -0.0968
+Text: Dinilaan.
+
+Utterance 52
+Start: 197.00
+End: 199.00
+Confidence: -0.0968
+Text: Krimen.
+
+Utterance 53
+Start: 199.00
+End: 201.00
+Confidence: -0.0968
+Text: Naisahan.
+
+Utterance 54
+Start: 201.00
+End: 203.00
+Confidence: -0.0968
+Text: Talampakan.
+
+Utterance 55
+Start: 203.00
+End: 205.00
+Confidence: -0.0968
+Text: Direksyon.
+
+Utterance 56
+Start: 205.00
+End: 207.00
+Confidence: -0.0968
+Text: Kukuha.
+
+Utterance 57
+Start: 207.00
+End: 209.00
+Confidence: -0.0968
+Text: Nakagagawa.
+
+Utterance 58
+Start: 209.00
+End: 211.00
+Confidence: -0.0968
+Text: Tali.
+
+Utterance 59
+Start: 211.00
+End: 213.00
+Confidence: -0.0968
+Text: Diretso.
+
+Utterance 60
+Start: 213.00
+End: 215.00
+Confidence: -0.0968
+Text: Kulang.
+
+Utterance 61
+Start: 215.00
+End: 217.00
+Confidence: -0.0968
+Text: Nakakapagtakang.
+
+Utterance 62
+Start: 218.00
+End: 220.00
+Confidence: -0.0922
+Text: Kulay.
+
+Utterance 63
+Start: 220.00
+End: 222.00
+Confidence: -0.0922
+Text: Nakakasilaw.
+
+Utterance 64
+Start: 222.00
+End: 224.00
+Confidence: -0.0922
+Text: Talon.
+
+Utterance 65
+Start: 224.00
+End: 226.00
+Confidence: -0.0922
+Text: Jogging.
+
+Utterance 66
+Start: 226.00
+End: 228.00
+Confidence: -0.0922
+Text: Maamong.
+
+Utterance 67
+Start: 228.00
+End: 230.00
+Confidence: -0.0922
+Text: Naarestong.
+
+Utterance 68
+Start: 230.00
+End: 232.00
+Confidence: -0.0922
+Text: Nakatakdang.
+
+Utterance 69
+Start: 232.00
+End: 234.00
+Confidence: -0.0922
+Text: Kilong.
+
+Utterance 70
+Start: 234.00
+End: 236.00
+Confidence: -0.0922
+Text: Kakulangan.
+
+Utterance 71
+Start: 236.00
+End: 238.00
+Confidence: -0.0922
+Text: Dito.
+
+Utterance 72
+Start: 238.00
+End: 240.00
+Confidence: -0.0922
+Text: Kulit.
+
+Utterance 73
+Start: 240.00
+End: 242.00
+Confidence: -0.0922
+Text: Nakakita.
+
+Utterance 74
+Start: 242.00
+End: 244.00
+Confidence: -0.0922
+Text: Diwata.
+
+Utterance 75
+Start: 244.00
+End: 246.00
+Confidence: -0.0922
+Text: Kulitin.
+
+Utterance 76
+Start: 246.00
+End: 248.00
+Confidence: -0.0858
+Text: Dis.
+
+Utterance 77
+Start: 248.00
+End: 250.00
+Confidence: -0.0858
+Text: Jan.
+
+Utterance 78
+Start: 250.00
+End: 252.00
+Confidence: -0.0858
+Text: Kulog.
+
+Utterance 79
+Start: 252.00
+End: 254.00
+Confidence: -0.0858
+Text: Nakapagtapos.
+
+Utterance 80
+Start: 254.00
+End: 256.00
+Confidence: -0.0858
+Text: Tama.
+
+Utterance 81
+Start: 256.00
+End: 258.00
+Confidence: -0.0858
+Text: Diyos.
+
+Utterance 82
+Start: 258.00
+End: 260.00
+Confidence: -0.0858
+Text: Kumain.
+
+Utterance 83
+Start: 260.00
+End: 262.00
+Confidence: -0.0858
+Text: Nakatira.
+
+Utterance 84
+Start: 262.00
+End: 264.00
+Confidence: -0.0858
+Text: Tamad.
+
+Utterance 85
+Start: 264.00
+End: 266.00
+Confidence: -0.0858
+Text: Doktor.
+
+Utterance 86
+Start: 266.00
+End: 268.00
+Confidence: -0.0858
+Text: Kumanta.
+
+Utterance 87
+Start: 268.00
+End: 270.00
+Confidence: -0.0858
+Text: Nakatulog.
+
+Utterance 88
+Start: 270.00
+End: 272.00
+Confidence: -0.0858
+Text: Tambakan.
+
+Utterance 89
+Start: 272.00
+End: 274.00
+Confidence: -0.0858
+Text: Dokumento.
+
+Utterance 90
+Start: 274.00
+End: 276.00
+Confidence: -0.0719
+Text: Nakausap.
+
+Utterance 91
+Start: 276.00
+End: 278.00
+Confidence: -0.0719
+Text: Tanawin.
+
+Utterance 92
+Start: 278.00
+End: 280.00
+Confidence: -0.0719
+Text: Drama.
+
+Utterance 93
+Start: 280.00
+End: 282.00
+Confidence: -0.0719
+Text: Kumilos.
+
+Utterance 94
+Start: 282.00
+End: 284.00
+Confidence: -0.0719
+Text: Nakausli.
+
+Utterance 95
+Start: 284.00
+End: 286.00
+Confidence: -0.0719
+Text: Tanga.
+
+Utterance 96
+Start: 286.00
+End: 288.00
+Confidence: -0.0719
+Text: Dugo.
+
+Utterance 97
+Start: 288.00
+End: 290.00
+Confidence: -0.0719
+Text: Kundi.
+
+Utterance 98
+Start: 290.00
+End: 292.00
+Confidence: -0.0719
+Text: Nakaw.
+
+Utterance 99
+Start: 292.00
+End: 294.00
+Confidence: -0.0719
+Text: Tanghali.
+
+Utterance 100
+Start: 294.00
+End: 296.00
+Confidence: -0.0719
+Text: Dugtong.
+
+Utterance 101
+Start: 296.00
+End: 298.00
+Confidence: -0.0719
+Text: Kung.
+
+Utterance 102
+Start: 298.00
+End: 300.00
+Confidence: -0.0719
+Text: Nakawan.
+
+Utterance 103
+Start: 300.00
+End: 302.00
+Confidence: -0.0719
+Text: Tanim.
+
+Utterance 104
+Start: 302.00
+End: 304.00
+Confidence: -0.0696
+Text: Taniman.
+
+Utterance 105
+Start: 304.00
+End: 306.00
+Confidence: -0.0696
+Text: Dumaan.
+
+Utterance 106
+Start: 306.00
+End: 308.00
+Confidence: -0.0696
+Text: Kontento.
+
+Utterance 107
+Start: 308.00
+End: 310.00
+Confidence: -0.0696
+Text: Nakita.
+
+Utterance 108
+Start: 310.00
+End: 312.00
+Confidence: -0.0696
+Text: Tao.
+
+Utterance 109
+Start: 312.00
+End: 314.00
+Confidence: -0.0696
+Text: Dumalo.
+
+Utterance 110
+Start: 314.00
+End: 316.00
+Confidence: -0.0696
+Text: Kusa.
+
+Utterance 111
+Start: 316.00
+End: 318.00
+Confidence: -0.0696
+Text: Nalalanghap.
+
+Utterance 112
+Start: 318.00
+End: 320.00
+Confidence: -0.0696
+Text: Taon.
+
+Utterance 113
+Start: 320.00
+End: 322.00
+Confidence: -0.0696
+Text: Dumamay.
+
+Utterance 114
+Start: 322.00
+End: 324.00
+Confidence: -0.0696
+Text: Kuarto.
+
+Utterance 115
+Start: 324.00
+End: 326.00
+Confidence: -0.0696
+Text: Nalasing.
+
+Utterance 116
+Start: 326.00
+End: 328.00
+Confidence: -0.0696
+Text: Taong.
+
+Utterance 117
+Start: 328.00
+End: 330.00
+Confidence: -0.0696
+Text: Dumamba.
+
+Utterance 118
+Start: 330.00
+End: 332.00
+Confidence: -0.0863
+Text: Nalito.
+
+Utterance 119
+Start: 332.00
+End: 334.00
+Confidence: -0.0863
+Text: Tapakan.
+
+Utterance 120
+Start: 334.00
+End: 336.00
+Confidence: -0.0863
+Text: Dumame.
+
+Utterance 121
+Start: 336.00
+End: 338.00
+Confidence: -0.0863
+Text: Labi.
+
+Utterance 122
+Start: 338.00
+End: 340.00
+Confidence: -0.0863
+Text: Nalulugi.
+
+Utterance 123
+Start: 340.00
+End: 342.00
+Confidence: -0.0863
+Text: Tapat.
+
+Utterance 124
+Start: 342.00
+End: 344.00
+Confidence: -0.0863
+Text: Dumapa.
+
+Utterance 125
+Start: 344.00
+End: 346.00
+Confidence: -0.0863
+Text: Labing.
+
+Utterance 126
+Start: 346.00
+End: 348.00
+Confidence: -0.0863
+Text: Naman.
+
+Utterance 127
+Start: 348.00
+End: 350.00
+Confidence: -0.0863
+Text: Tapon.
+
+Utterance 128
+Start: 350.00
+End: 352.00
+Confidence: -0.0863
+Text: Dumarami.
+
+Utterance 129
+Start: 352.00
+End: 354.00
+Confidence: -0.0863
+Text: Labis.
+
+Utterance 130
+Start: 354.00
+End: 356.00
+Confidence: -0.0863
+Text: Namatay.
+
+Utterance 131
+Start: 356.00
+End: 358.00
+Confidence: -0.0863
+Text: Tapos.
+
+Utterance 132
+Start: 358.00
+End: 360.00
+Confidence: -0.1069
+Text: Dating.
+
+Utterance 133
+Start: 360.00
+End: 362.00
+Confidence: -0.1069
+Text: Lagay.
+
+Utterance 134
+Start: 362.00
+End: 364.00
+Confidence: -0.1069
+Text: Namin.
+
+Utterance 135
+Start: 364.00
+End: 366.00
+Confidence: -0.1069
+Text: Tapusin.
+
+Utterance 136
+Start: 366.00
+End: 368.00
+Confidence: -0.1069
+Text: Dume.
+
+Utterance 137
+Start: 368.00
+End: 370.00
+Confidence: -0.1069
+Text: Lagi.
+
+Utterance 138
+Start: 370.00
+End: 372.00
+Confidence: -0.1069
+Text: Namumunga.
+
+Utterance 139
+Start: 372.00
+End: 374.00
+Confidence: -0.1069
+Text: Tara.
+
+Utterance 140
+Start: 374.00
+End: 376.00
+Confidence: -0.1069
+Text: Dumidinig.
+
+Utterance 141
+Start: 376.00
+End: 378.00
+Confidence: -0.1069
+Text: Laging.
+
+Utterance 142
+Start: 378.00
+End: 380.00
+Confidence: -0.1069
+Text: Nanalangin.
+
+Utterance 143
+Start: 380.00
+End: 382.00
+Confidence: -0.1069
+Text: Tatag.
+
+Utterance 144
+Start: 382.00
+End: 384.00
+Confidence: -0.1069
+Text: Dumilat.
+
+Utterance 145
+Start: 384.00
+End: 386.00
+Confidence: -0.1069
+Text: Laglag.
+
+Utterance 146
+Start: 386.00
+End: 388.00
+Confidence: -0.1030
+Text: Nanay.
+
+Utterance 147
+Start: 388.00
+End: 390.00
+Confidence: -0.1030
+Text: Tatagbo.
+
+Utterance 148
+Start: 390.00
+End: 392.00
+Confidence: -0.1030
+Text: Doon.
+
+Utterance 149
+Start: 392.00
+End: 394.00
+Confidence: -0.1030
+Text: Lagpas.
+
+Utterance 150
+Start: 394.00
+End: 396.00
+Confidence: -0.1030
+Text: Nandito.
+
+Utterance 151
+Start: 396.00
+End: 398.00
+Confidence: -0.1030
+Text: Tauhan.
+
+Utterance 152
+Start: 398.00
+End: 400.00
+Confidence: -0.1030
+Text: Edad.
+
+Utterance 153
+Start: 400.00
+End: 402.00
+Confidence: -0.1030
+Text: Lagpasan.
+
+Utterance 154
+Start: 404.00
+End: 406.00
+Confidence: -0.1030
+Text: Nandiyan.
+
+Utterance 155
+Start: 406.00
+End: 408.00
+Confidence: -0.1030
+Text: Tawad.
+
+Utterance 156
+Start: 408.00
+End: 410.00
+Confidence: -0.1030
+Text: E. Lagyan.
+
+Utterance 157
+Start: 410.00
+End: 412.00
+Confidence: -0.1030
+Text: Nang. Tawag.
+
+Utterance 158
+Start: 412.00
+End: 414.00
+Confidence: -0.1030
+Text: Exam.
+
+Utterance 159
+Start: 414.00
+End: 416.00
+Confidence: -0.0970
+Text: Lahat.
+
+Utterance 160
+Start: 416.00
+End: 418.00
+Confidence: -0.0970
+Text: Naninirahan.
+
+Utterance 161
+Start: 418.00
+End: 420.00
+Confidence: -0.0970
+Text: Tawagan.
+
+Utterance 162
+Start: 420.00
+End: 422.00
+Confidence: -0.0970
+Text: Elementaria.
+
+Utterance 163
+Start: 422.00
+End: 424.00
+Confidence: -0.0970
+Text: Lahok.
+
+Utterance 164
+Start: 424.00
+End: 426.00
+Confidence: -0.0970
+Text: Naliligaw.
+
+Utterance 165
+Start: 426.00
+End: 428.00
+Confidence: -0.0970
+Text: Tawiran.
+
+Utterance 166
+Start: 428.00
+End: 430.00
+Confidence: -0.0970
+Text: Enero.
+
+Utterance 167
+Start: 430.00
+End: 432.00
+Confidence: -0.0970
+Text: Lakad.
+
+Utterance 168
+Start: 432.00
+End: 434.00
+Confidence: -0.0970
+Text: Napag-i-iwanan.
+
+Utterance 169
+Start: 434.00
+End: 436.00
+Confidence: -0.0970
+Text: Tay.
+
+Utterance 170
+Start: 436.00
+End: 438.00
+Confidence: -0.0970
+Text: Entablado.
+
+Utterance 171
+Start: 438.00
+End: 440.00
+Confidence: -0.0970
+Text: Lakas.
+
+Utterance 172
+Start: 440.00
+End: 442.00
+Confidence: -0.0970
+Text: Napansin.
+
+Utterance 173
+Start: 442.00
+End: 444.00
+Confidence: -0.0702
+Text: Lalaki.
+
+Utterance 174
+Start: 444.00
+End: 446.00
+Confidence: -0.0702
+Text: Napatingin.
+
+Utterance 175
+Start: 446.00
+End: 448.00
+Confidence: -0.0702
+Text: Tayaan.
+
+Utterance 176
+Start: 448.00
+End: 450.00
+Confidence: -0.0702
+Text: Eto.
+
+Utterance 177
+Start: 450.00
+End: 452.00
+Confidence: -0.0702
+Text: Lalaking.
+
+Utterance 178
+Start: 452.00
+End: 454.00
+Confidence: -0.0702
+Text: Narito.
+
+Utterance 179
+Start: 454.00
+End: 456.00
+Confidence: -0.0702
+Text: Tayo.
+
+Utterance 180
+Start: 456.00
+End: 458.00
+Confidence: -0.0702
+Text: Ewan.
+
+Utterance 181
+Start: 458.00
+End: 460.00
+Confidence: -0.0702
+Text: Lalapit.
+
+Utterance 182
+Start: 460.00
+End: 462.00
+Confidence: -0.0702
+Text: Narian.
+
+Utterance 183
+Start: 462.00
+End: 464.00
+Confidence: -0.0702
+Text: Tayo.
+
+Utterance 184
+Start: 464.00
+End: 466.00
+Confidence: -0.0702
+Text: Faksyon.
+
+Utterance 185
+Start: 466.00
+End: 468.00
+Confidence: -0.0702
+Text: Lalo.
+
+Utterance 186
+Start: 468.00
+End: 470.00
+Confidence: -0.0702
+Text: Nars.
+
+Utterance 187
+Start: 470.00
+End: 472.00
+Confidence: -0.0759
+Text: Teka.
+
+Utterance 188
+Start: 472.00
+End: 474.00
+Confidence: -0.0759
+Text: Familiar.
+
+Utterance 189
+Start: 474.00
+End: 476.00
+Confidence: -0.0759
+Text: Lamang.
+
+Utterance 190
+Start: 476.00
+End: 478.00
+Confidence: -0.0759
+Text: Nasa.
+
+Utterance 191
+Start: 478.00
+End: 480.00
+Confidence: -0.0759
+Text: Telepono.
+
+Utterance 192
+Start: 480.00
+End: 482.00
+Confidence: -0.0759
+Text: Fanatik.
+
+Utterance 193
+Start: 482.00
+End: 484.00
+Confidence: -0.0759
+Text: Lamangan.
+
+Utterance 194
+Start: 484.00
+End: 486.00
+Confidence: -0.0759
+Text: Nasaan.
+
+Utterance 195
+Start: 486.00
+End: 488.00
+Confidence: -0.0759
+Text: Tigil.
+
+Utterance 196
+Start: 488.00
+End: 490.00
+Confidence: -0.0759
+Text: Fantastik.
+
+Utterance 197
+Start: 490.00
+End: 492.00
+Confidence: -0.0759
+Text: Lambing.
+
+Utterance 198
+Start: 492.00
+End: 494.00
+Confidence: -0.0759
+Text: Nasagasaan.
+
+Utterance 199
+Start: 494.00
+End: 496.00
+Confidence: -0.0759
+Text: Tigilan.
+
+Utterance 200
+Start: 496.00
+End: 498.00
+Confidence: -0.0759
+Text: Federasyon.
+
+Utterance 201
+Start: 498.00
+End: 500.00
+Confidence: -0.0491
+Text: Lambingan.
+
+Utterance 202
+Start: 500.00
+End: 502.00
+Confidence: -0.0491
+Text: Nasira.
+
+Utterance 203
+Start: 502.00
+End: 504.00
+Confidence: -0.0491
+Text: Tigilin.
+
+Utterance 204
+Start: 504.00
+End: 506.00
+Confidence: -0.0491
+Text: Feminist.
+
+Utterance 205
+Start: 506.00
+End: 508.00
+Confidence: -0.0491
+Text: Lamok.
+
+Utterance 206
+Start: 508.00
+End: 510.00
+Confidence: -0.0491
+Text: Nasiraan.
+
+Utterance 207
+Start: 510.00
+End: 512.00
+Confidence: -0.0491
+Text: Tikim.
+
+Utterance 208
+Start: 512.00
+End: 514.00
+Confidence: -0.0491
+Text: Fever.
+
+Utterance 209
+Start: 514.00
+End: 516.00
+Confidence: -0.0491
+Text: Lang.
+
+Utterance 210
+Start: 516.00
+End: 518.00
+Confidence: -0.0491
+Text: Nasugatan.
+
+Utterance 211
+Start: 518.00
+End: 520.00
+Confidence: -0.0491
+Text: Tikman.
+
+Utterance 212
+Start: 520.00
+End: 522.00
+Confidence: -0.0491
+Text: Fake.
+
+Utterance 213
+Start: 522.00
+End: 524.00
+Confidence: -0.0491
+Text: Langit.
+
+Utterance 214
+Start: 524.00
+End: 526.00
+Confidence: -0.0491
+Text: Natataniman.
+
+Utterance 215
+Start: 526.00
+End: 528.00
+Confidence: -0.0683
+Text: Tila.
+
+Utterance 216
+Start: 528.00
+End: 530.00
+Confidence: -0.0683
+Text: Fair.
+
+Utterance 217
+Start: 530.00
+End: 532.00
+Confidence: -0.0683
+Text: Lansa.
+
+Utterance 218
+Start: 532.00
+End: 534.00
+Confidence: -0.0683
+Text: Natin.
+
+Utterance 219
+Start: 534.00
+End: 536.00
+Confidence: -0.0683
+Text: Timpla.
+
+Utterance 220
+Start: 536.00
+End: 538.00
+Confidence: -0.0683
+Text: Face towel.
+
+Utterance 221
+Start: 538.00
+End: 540.00
+Confidence: -0.0683
+Text: Lantaran.
+
+Utterance 222
+Start: 540.00
+End: 542.00
+Confidence: -0.0683
+Text: Nating.
+
+Utterance 223
+Start: 542.00
+End: 544.00
+Confidence: -0.0683
+Text: Timplahan.
+
+Utterance 224
+Start: 544.00
+End: 546.00
+Confidence: -0.0683
+Text: Figurin.
+
+Utterance 225
+Start: 546.00
+End: 548.00
+Confidence: -0.0683
+Text: Laos.
+
+Utterance 226
+Start: 548.00
+End: 550.00
+Confidence: -0.0683
+Text: Natira.
+
+Utterance 227
+Start: 550.00
+End: 552.00
+Confidence: -0.0683
+Text: Tinamad.
+
+Utterance 228
+Start: 552.00
+End: 554.00
+Confidence: -0.0683
+Text: Fiesta.
+
+Utterance 229
+Start: 554.00
+End: 556.00
+Confidence: -0.0550
+Text: Lapit.
+
+Utterance 230
+Start: 556.00
+End: 558.00
+Confidence: -0.0550
+Text: Nauunahan.
+
+Utterance 231
+Start: 558.00
+End: 560.00
+Confidence: -0.0550
+Text: Tinambakan.
+
+Utterance 232
+Start: 560.00
+End: 562.00
+Confidence: -0.0550
+Text: Gaan.
+
+Utterance 233
+Start: 562.00
+End: 564.00
+Confidence: -0.0550
+Text: Lapitan.
+
+Utterance 234
+Start: 564.00
+End: 566.00
+Confidence: -0.0550
+Text: Nawala.
+
+Utterance 235
+Start: 566.00
+End: 568.00
+Confidence: -0.0550
+Text: Tinapon.
+
+Utterance 236
+Start: 568.00
+End: 570.00
+Confidence: -0.0550
+Text: Gaano.
+
+Utterance 237
+Start: 570.00
+End: 572.00
+Confidence: -0.0550
+Text: Lara.
+
+Utterance 238
+Start: 572.00
+End: 574.00
+Confidence: -0.0550
+Text: Nawalan.
+
+Utterance 239
+Start: 574.00
+End: 576.00
+Confidence: -0.0550
+Text: Tinatangkilik.
+
+Utterance 240
+Start: 576.00
+End: 578.00
+Confidence: -0.0550
+Text: Gabi.
+
+Utterance 241
+Start: 578.00
+End: 580.00
+Confidence: -0.0550
+Text: Larangan.
+
+Utterance 242
+Start: 580.00
+End: 582.00
+Confidence: -0.0550
+Text: Nawawala.
+
+Utterance 243
+Start: 582.00
+End: 584.00
+Confidence: -0.0946
+Text: Supporter.
+
+Utterance 244
+Start: 584.00
+End: 586.00
+Confidence: -0.0946
+Text: Gagawa.
+
+Utterance 245
+Start: 586.00
+End: 588.00
+Confidence: -0.0946
+Text: Laro.
+
+Utterance 246
+Start: 588.00
+End: 590.00
+Confidence: -0.0946
+Text: Negosyo.
+
+Utterance 247
+Start: 590.00
+End: 592.00
+Confidence: -0.0946
+Text: Sitcom.
+
+Utterance 248
+Start: 592.00
+End: 594.00
+Confidence: -0.0946
+Text: Tinis.
+
+Utterance 249
+Start: 594.00
+End: 596.00
+Confidence: -0.0946
+Text: Galangin.
+
+Utterance 250
+Start: 596.00
+End: 598.00
+Confidence: -0.0946
+Text: Laruan.
+
+Utterance 251
+Start: 598.00
+End: 600.00
+Confidence: -0.0946
+Text: Nanita.
+
+Utterance 252
+Start: 600.00
+End: 602.00
+Confidence: -0.0946
+Text: Tinirahan.
+
+Utterance 253
+Start: 602.00
+End: 604.00
+Confidence: -0.0946
+Text: Galing.
+
+Utterance 254
+Start: 604.00
+End: 606.00
+Confidence: -0.0946
+Text: Laruin.
+
+Utterance 255
+Start: 606.00
+End: 608.00
+Confidence: -0.0946
+Text: Nang tinutukoy.
+
+Utterance 256
+Start: 608.00
+End: 610.00
+Confidence: -0.0946
+Text: Galing.
+
+Utterance 257
+Start: 610.00
+End: 612.00
+Confidence: -0.1056
+Text: Lasahan.
+
+Utterance 258
+Start: 612.00
+End: 614.00
+Confidence: -0.1056
+Text: Ngang tiwala.
+
+Utterance 259
+Start: 614.00
+End: 616.00
+Confidence: -0.1056
+Text: Gamit.
+
+Utterance 260
+Start: 616.00
+End: 618.00
+Confidence: -0.1056
+Text: Lasengo ngayon.
+
+Utterance 261
+Start: 618.00
+End: 620.00
+Confidence: -0.1056
+Text: Chak.
+
+Utterance 262
+Start: 620.00
+End: 622.00
+Confidence: -0.1056
+Text: Gamitin.
+
+Utterance 263
+Start: 622.00
+End: 624.00
+Confidence: -0.1056
+Text: Laseng.
+
+Utterance 264
+Start: 624.00
+End: 626.00
+Confidence: -0.1056
+Text: Ngipin.
+
+Utterance 265
+Start: 626.00
+End: 628.00
+Confidence: -0.1056
+Text: Chan.
+
+Utterance 266
+Start: 628.00
+End: 630.00
+Confidence: -0.1056
+Text: Gamot.
+
+Utterance 267
+Start: 630.00
+End: 632.00
+Confidence: -0.1056
+Text: Laya.
+
+Utterance 268
+Start: 632.00
+End: 634.00
+Confidence: -0.1056
+Text: Ngunit.
+
+Utterance 269
+Start: 634.00
+End: 636.00
+Confidence: -0.1056
+Text: Toto.
+
+Utterance 270
+Start: 636.00
+End: 638.00
+Confidence: -0.1056
+Text: Ganap.
+
+Utterance 271
+Start: 638.00
+End: 640.00
+Confidence: -0.1370
+Text: Layasan.
+
+Utterance 272
+Start: 642.00
+End: 644.00
+Confidence: -0.1370
+Text: Nila.
+
+Utterance 273
+Start: 644.00
+End: 646.00
+Confidence: -0.1370
+Text: Trahedya.
+
+Utterance 274
+Start: 646.00
+End: 648.00
+Confidence: -0.1370
+Text: Gandahan.
+
+Utterance 275
+Start: 648.00
+End: 650.00
+Confidence: -0.1370
+Text: Layo.
+
+Utterance 276
+Start: 650.00
+End: 652.00
+Confidence: -0.1370
+Text: Nilagay.
+
+Utterance 277
+Start: 652.00
+End: 654.00
+Confidence: -0.1370
+Text: Chek.
+
+Utterance 278
+Start: 654.00
+End: 656.00
+Confidence: -0.1370
+Text: Ganito.
+
+Utterance 279
+Start: 656.00
+End: 658.00
+Confidence: -0.1370
+Text: Layuan.
+
+Utterance 280
+Start: 658.00
+End: 660.00
+Confidence: -0.1370
+Text: Nilakbay.
+
+Utterance 281
+Start: 660.00
+End: 662.00
+Confidence: -0.1370
+Text: Cheke.
+
+Utterance 282
+Start: 662.00
+End: 664.00
+Confidence: -0.1370
+Text: Ganoon.
+
+Utterance 283
+Start: 664.00
+End: 666.00
+Confidence: -0.1370
+Text: Layuin.
+
+Utterance 284
+Start: 666.00
+End: 668.00
+Confidence: -0.1167
+Text: Lismis.
+
+Utterance 285
+Start: 668.00
+End: 670.00
+Confidence: -0.1167
+Text: Gas.
+
+Utterance 286
+Start: 670.00
+End: 672.00
+Confidence: -0.1167
+Text: Libangan.
+
+Utterance 287
+Start: 672.00
+End: 674.00
+Confidence: -0.1167
+Text: Nilapitan.
+
+Utterance 288
+Start: 674.00
+End: 676.00
+Confidence: -0.1167
+Text: Tubig.
+
+Utterance 289
+Start: 676.00
+End: 678.00
+Confidence: -0.1167
+Text: Gasgasan.
+
+Utterance 290
+Start: 678.00
+End: 680.00
+Confidence: -0.1167
+Text: Libing.
+
+Utterance 291
+Start: 680.00
+End: 682.00
+Confidence: -0.1167
+Text: Nilasing.
+
+Utterance 292
+Start: 682.00
+End: 684.00
+Confidence: -0.1167
+Text: Tula.
+
+Utterance 293
+Start: 684.00
+End: 686.00
+Confidence: -0.1167
+Text: Gastos.
+
+Utterance 294
+Start: 686.00
+End: 688.00
+Confidence: -0.1167
+Text: Liblib.
+
+Utterance 295
+Start: 688.00
+End: 690.00
+Confidence: -0.1167
+Text: Nilusob.
+
+Utterance 296
+Start: 690.00
+End: 692.00
+Confidence: -0.1167
+Text: Tulad.
+
+Utterance 297
+Start: 692.00
+End: 694.00
+Confidence: -0.1167
+Text: Gastusan.
+
+Utterance 298
+Start: 694.00
+End: 696.00
+Confidence: -0.1075
+Text: Mino.
+
+Utterance 299
+Start: 696.00
+End: 698.00
+Confidence: -0.1075
+Text: Tulungan.
+
+Utterance 300
+Start: 698.00
+End: 700.00
+Confidence: -0.1075
+Text: Gatas.
+
+Utterance 301
+Start: 700.00
+End: 702.00
+Confidence: -0.1075
+Text: Ligawan.
+
+Utterance 302
+Start: 702.00
+End: 704.00
+Confidence: -0.1075
+Text: Ninyo.
+
+Utterance 303
+Start: 704.00
+End: 706.00
+Confidence: -0.1075
+Text: Tumakas.
+
+Utterance 304
+Start: 706.00
+End: 708.00
+Confidence: -0.1075
+Text: Gatong.
+
+Utterance 305
+Start: 708.00
+End: 710.00
+Confidence: -0.1075
+Text: Ligaya.
+
+Utterance 306
+Start: 710.00
+End: 712.00
+Confidence: -0.1075
+Text: Nitung.
+
+Utterance 307
+Start: 712.00
+End: 714.00
+Confidence: -0.1075
+Text: Tumakbo.
+
+Utterance 308
+Start: 714.00
+End: 716.00
+Confidence: -0.1075
+Text: Gaya.
+
+Utterance 309
+Start: 716.00
+End: 718.00
+Confidence: -0.1075
+Text: Ligo.
+
+Utterance 310
+Start: 718.00
+End: 720.00
+Confidence: -0.1075
+Text: Nya.
+
+Utterance 311
+Start: 720.00
+End: 722.00
+Confidence: -0.1075
+Text: Tumalon.
+
+Utterance 312
+Start: 722.00
+End: 724.00
+Confidence: -0.0961
+Text: Nyang.
+
+Utterance 313
+Start: 724.00
+End: 726.00
+Confidence: -0.0961
+Text: Tumatawag.
+
+Utterance 314
+Start: 726.00
+End: 728.00
+Confidence: -0.0961
+Text: Gigil.
+
+Utterance 315
+Start: 728.00
+End: 730.00
+Confidence: -0.0961
+Text: Lihim.
+
+Utterance 316
+Start: 730.00
+End: 732.00
+Confidence: -0.0961
+Text: Nyo.
+
+Utterance 317
+Start: 732.00
+End: 734.00
+Confidence: -0.0961
+Text: Tumawag.
+
+Utterance 318
+Start: 734.00
+End: 736.00
+Confidence: -0.0961
+Text: Gilid.
+
+Utterance 319
+Start: 736.00
+End: 738.00
+Confidence: -0.0961
+Text: Liko.
+
+Utterance 320
+Start: 738.00
+End: 740.00
+Confidence: -0.0961
+Text: Nobyembre.
+
+Utterance 321
+Start: 740.00
+End: 742.00
+Confidence: -0.0961
+Text: Tumawid.
+
+Utterance 322
+Start: 742.00
+End: 744.00
+Confidence: -0.0961
+Text: Giling.
+
+Utterance 323
+Start: 744.00
+End: 746.00
+Confidence: -0.0961
+Text: Likot.
+
+Utterance 324
+Start: 746.00
+End: 748.00
+Confidence: -0.0961
+Text: Noong.
+
+Utterance 325
+Start: 748.00
+End: 750.00
+Confidence: -0.0961
+Text: Tumayo.
+
+Utterance 326
+Start: 750.00
+End: 752.00
+Confidence: -0.1307
+Text: Giliw.
+
+Utterance 327
+Start: 752.00
+End: 754.00
+Confidence: -0.1307
+Text: Lima.
+
+Utterance 328
+Start: 754.00
+End: 756.00
+Confidence: -0.1307
+Text: Nung.
+
+Utterance 329
+Start: 756.00
+End: 758.00
+Confidence: -0.1307
+Text: Gimik.
+
+Utterance 330
+Start: 758.00
+End: 760.00
+Confidence: -0.1307
+Text: Limos.
+
+Utterance 331
+Start: 760.00
+End: 762.00
+Confidence: -0.1307
+Text: Nood.
+
+Utterance 332
+Start: 762.00
+End: 764.00
+Confidence: -0.1307
+Text: Tunay.
+
+Utterance 333
+Start: 764.00
+End: 766.00
+Confidence: -0.1307
+Text: Ginang.
+
+Utterance 334
+Start: 766.00
+End: 768.00
+Confidence: -0.1307
+Text: Lindol.
+
+Utterance 335
+Start: 768.00
+End: 770.00
+Confidence: -0.1307
+Text: Ok.
+
+Utterance 336
+Start: 770.00
+End: 772.00
+Confidence: -0.1307
+Text: Tungkol.
+
+Utterance 337
+Start: 772.00
+End: 774.00
+Confidence: -0.1307
+Text: Ginhawa.
+
+Utterance 338
+Start: 774.00
+End: 776.00
+Confidence: -0.1307
+Text: Lingong.
+
+Utterance 339
+Start: 776.00
+End: 778.00
+Confidence: -0.1307
+Text: Okra.
+
+Utterance 340
+Start: 778.00
+End: 780.00
+Confidence: -0.1601
+Text: O.
+
+Utterance 341
+Start: 780.00
+End: 782.00
+Confidence: -0.1601
+Text: Tuid.
+
+Utterance 342
+Start: 782.00
+End: 784.00
+Confidence: -0.1601
+Text: Ginto.
+
+Utterance 343
+Start: 784.00
+End: 786.00
+Confidence: -0.1601
+Text: Linis.
+
+Utterance 344
+Start: 786.00
+End: 788.00
+Confidence: -0.1601
+Text: Upisina.
+
+Utterance 345
+Start: 788.00
+End: 790.00
+Confidence: -0.1601
+Text: Ube.
+
+Utterance 346
+Start: 790.00
+End: 792.00
+Confidence: -0.1601
+Text: Gintong.
+
+Utterance 347
+Start: 792.00
+End: 794.00
+Confidence: -0.1601
+Text: Linisin.
+
+Utterance 348
+Start: 794.00
+End: 796.00
+Confidence: -0.1601
+Text: Upisinang.
+
+Utterance 349
+Start: 796.00
+End: 798.00
+Confidence: -0.1601
+Text: Ubo.
+
+Utterance 350
+Start: 798.00
+End: 800.00
+Confidence: -0.1601
+Text: Gising.
+
+Utterance 351
+Start: 800.00
+End: 802.00
+Confidence: -0.1601
+Text: Linlang.
+
+Utterance 352
+Start: 802.00
+End: 804.00
+Confidence: -0.1601
+Text: Opo.
+
+Utterance 353
+Start: 804.00
+End: 806.00
+Confidence: -0.1601
+Text: Ubuhin.
+
+Utterance 354
+Start: 806.00
+End: 808.00
+Confidence: -0.1353
+Text: Nanin.
+
+Utterance 355
+Start: 808.00
+End: 810.00
+Confidence: -0.1353
+Text: Orasan.
+
+Utterance 356
+Start: 810.00
+End: 812.00
+Confidence: -0.1353
+Text: Ugali.
+
+Utterance 357
+Start: 812.00
+End: 814.00
+Confidence: -0.1353
+Text: Gubat.
+
+Utterance 358
+Start: 814.00
+End: 816.00
+Confidence: -0.1353
+Text: Litaw.
+
+Utterance 359
+Start: 816.00
+End: 818.00
+Confidence: -0.1353
+Text: Oso.
+
+Utterance 360
+Start: 818.00
+End: 820.00
+Confidence: -0.1353
+Text: Ugat.
+
+Utterance 361
+Start: 820.00
+End: 822.00
+Confidence: -0.1353
+Text: Gulang.
+
+Utterance 362
+Start: 822.00
+End: 824.00
+Confidence: -0.1353
+Text: Lito.
+
+Utterance 363
+Start: 824.00
+End: 826.00
+Confidence: -0.1353
+Text: Oto.
+
+Utterance 364
+Start: 826.00
+End: 828.00
+Confidence: -0.1353
+Text: Uhao.
+
+Utterance 365
+Start: 828.00
+End: 830.00
+Confidence: -0.1353
+Text: Gulangan.
+
+Utterance 366
+Start: 830.00
+End: 832.00
+Confidence: -0.1353
+Text: Lituhin.
+
+Utterance 367
+Start: 832.00
+End: 834.00
+Confidence: -0.1353
+Text: Pa.
+
+Utterance 368
+Start: 834.00
+End: 836.00
+Confidence: -0.0766
+Text: Ulan.
+
+Utterance 369
+Start: 836.00
+End: 838.00
+Confidence: -0.0766
+Text: Gulatin.
+
+Utterance 370
+Start: 838.00
+End: 840.00
+Confidence: -0.0766
+Text: Lokohin.
+
+Utterance 371
+Start: 840.00
+End: 842.00
+Confidence: -0.0766
+Text: Paakyat.
+
+Utterance 372
+Start: 842.00
+End: 844.00
+Confidence: -0.0766
+Text: Ulanan.
+
+Utterance 373
+Start: 844.00
+End: 846.00
+Confidence: -0.0766
+Text: Gulay.
+
+Utterance 374
+Start: 846.00
+End: 848.00
+Confidence: -0.0766
+Text: Paalis.
+
+Utterance 375
+Start: 848.00
+End: 850.00
+Confidence: -0.0766
+Text: Ulang.
+
+Utterance 376
+Start: 850.00
+End: 852.00
+Confidence: -0.0766
+Text: Gulo.
+
+Utterance 377
+Start: 852.00
+End: 854.00
+Confidence: -0.0766
+Text: Paano.
+
+Utterance 378
+Start: 854.00
+End: 856.00
+Confidence: -0.0766
+Text: Uli.
+
+Utterance 379
+Start: 856.00
+End: 858.00
+Confidence: -0.0766
+Text: Gulod.
+
+Utterance 380
+Start: 858.00
+End: 860.00
+Confidence: -0.0766
+Text: Paaralan.
+
+Utterance 381
+Start: 860.00
+End: 862.00
+Confidence: -0.0766
+Text: Ulit.
+
+Utterance 382
+Start: 862.00
+End: 864.00
+Confidence: -0.0554
+Text: Paborito.
+
+Utterance 383
+Start: 868.00
+End: 870.00
+Confidence: -0.0554
+Text: Ulitin.
+
+Utterance 384
+Start: 870.00
+End: 872.00
+Confidence: -0.0554
+Text: Guluhin.
+
+Utterance 385
+Start: 872.00
+End: 874.00
+Confidence: -0.0554
+Text: Padamdam.
+
+Utterance 386
+Start: 874.00
+End: 876.00
+Confidence: -0.0554
+Text: Ulo.
+
+Utterance 387
+Start: 876.00
+End: 878.00
+Confidence: -0.0554
+Text: Gumamit.
+
+Utterance 388
+Start: 880.00
+End: 882.00
+Confidence: -0.0554
+Text: Pader.
+
+Utterance 389
+Start: 882.00
+End: 884.00
+Confidence: -0.0554
+Text: Rosario.
+
+Utterance 390
+Start: 884.00
+End: 886.00
+Confidence: -0.0554
+Text: Restaurant.
+
+Utterance 391
+Start: 886.00
+End: 888.00
+Confidence: -0.0554
+Text: Records.
+
+Utterance 392
+Start: 888.00
+End: 890.00
+Confidence: -0.0554
+Text: Limang.
+
+Utterance 393
+Start: 890.00
+End: 892.00
+Confidence: -0.0995
+Text: Nailangan.
+
+Utterance 394
+Start: 892.00
+End: 894.00
+Confidence: -0.0995
+Text: Pinangyarihan.
+
+Utterance 395
+Start: 894.00
+End: 896.00
+Confidence: -0.0995
+Text: Umabot.
+
+Utterance 396
+Start: 896.00
+End: 898.00
+Confidence: -0.0995
+Text: Gumiling.
+
+Utterance 397
+Start: 898.00
+End: 900.00
+Confidence: -0.0995
+Text: Lupang.
+
+Utterance 398
+Start: 900.00
+End: 902.00
+Confidence: -0.0995
+Text: Pagbate.
+
+Utterance 399
+Start: 902.00
+End: 904.00
+Confidence: -0.0995
+Text: Umaga.
+
+Utterance 400
+Start: 904.00
+End: 906.00
+Confidence: -0.0995
+Text: Gumising.
+
+Utterance 401
+Start: 906.00
+End: 908.00
+Confidence: -0.0995
+Text: Maaare.
+
+Utterance 402
+Start: 908.00
+End: 910.00
+Confidence: -0.0995
+Text: Pagbibigay.
+
+Utterance 403
+Start: 910.00
+End: 912.00
+Confidence: -0.0995
+Text: Umales.
+
+Utterance 404
+Start: 912.00
+End: 914.00
+Confidence: -0.0995
+Text: Gunting.
+
+Utterance 405
+Start: 914.00
+End: 916.00
+Confidence: -0.0995
+Text: Maaaring.
+
+Utterance 406
+Start: 916.00
+End: 918.00
+Confidence: -0.0995
+Text: Pagdame.
+
+Utterance 407
+Start: 918.00
+End: 920.00
+Confidence: -0.0783
+Text: Umihih.
+
+Utterance 408
+Start: 920.00
+End: 922.00
+Confidence: -0.0783
+Text: Gupitan.
+
+Utterance 409
+Start: 922.00
+End: 924.00
+Confidence: -0.0783
+Text: Maabot.
+
+Utterance 410
+Start: 924.00
+End: 926.00
+Confidence: -0.0783
+Text: Paggawa.
+
+Utterance 411
+Start: 926.00
+End: 928.00
+Confidence: -0.0783
+Text: Umiyak.
+
+Utterance 412
+Start: 930.00
+End: 932.00
+Confidence: -0.0783
+Text: Gupitin.
+
+Utterance 413
+Start: 932.00
+End: 934.00
+Confidence: -0.0783
+Text: Maaga.
+
+Utterance 414
+Start: 934.00
+End: 936.00
+Confidence: -0.0783
+Text: Paghaharapin.
+
+Utterance 415
+Start: 936.00
+End: 938.00
+Confidence: -0.0783
+Text: Gusali.
+
+Utterance 416
+Start: 938.00
+End: 940.00
+Confidence: -0.0783
+Text: Maagang.
+
+Utterance 417
+Start: 940.00
+End: 942.00
+Confidence: -0.0783
+Text: Paghandaan.
+
+Utterance 418
+Start: 942.00
+End: 944.00
+Confidence: -0.0783
+Text: Gusto.
+
+Utterance 419
+Start: 944.00
+End: 946.00
+Confidence: -0.0783
+Text: Maalat.
+
+Utterance 420
+Start: 946.00
+End: 948.00
+Confidence: -0.0448
+Text: Maaliwalas.
+
+Utterance 421
+Start: 948.00
+End: 950.00
+Confidence: -0.0448
+Text: Pagibig.
+
+Utterance 422
+Start: 950.00
+End: 952.00
+Confidence: -0.0448
+Text: Maasim.
+
+Utterance 423
+Start: 952.00
+End: 954.00
+Confidence: -0.0448
+Text: Pagiging.
+
+Utterance 424
+Start: 954.00
+End: 956.00
+Confidence: -0.0448
+Text: Haba.
+
+Utterance 425
+Start: 956.00
+End: 958.00
+Confidence: -0.0448
+Text: Mabagal.
+
+Utterance 426
+Start: 958.00
+End: 960.00
+Confidence: -0.0448
+Text: Pagkabigla.
+
+Utterance 427
+Start: 960.00
+End: 962.00
+Confidence: -0.0448
+Text: Una.
+
+Utterance 428
+Start: 962.00
+End: 964.00
+Confidence: -0.0448
+Text: Habaan.
+
+Utterance 429
+Start: 964.00
+End: 966.00
+Confidence: -0.0448
+Text: Mabaho.
+
+Utterance 430
+Start: 966.00
+End: 968.00
+Confidence: -0.0448
+Text: Nakilalang.
+
+Utterance 431
+Start: 968.00
+End: 970.00
+Confidence: -0.0448
+Text: Magpipitong.
+
+Utterance 432
+Start: 970.00
+End: 972.00
+Confidence: -0.0448
+Text: Nasabing.
+
+Utterance 433
+Start: 972.00
+End: 974.00
+Confidence: -0.0448
+Text: Parangal.
+
+Utterance 434
+Start: 974.00
+End: 976.00
+Confidence: -0.0780
+Text: Pagkabuhat.
+
+Utterance 435
+Start: 976.00
+End: 978.00
+Confidence: -0.0780
+Text: Unahan.
+
+Utterance 436
+Start: 978.00
+End: 980.00
+Confidence: -0.0780
+Text: Habang.
+
+Utterance 437
+Start: 980.00
+End: 982.00
+Confidence: -0.0780
+Text: Mabaet.
+
+Utterance 438
+Start: 982.00
+End: 984.00
+Confidence: -0.0780
+Text: Pagkain.
+
+Utterance 439
+Start: 984.00
+End: 986.00
+Confidence: -0.0780
+Text: Unang.
+
+Utterance 440
+Start: 986.00
+End: 988.00
+Confidence: -0.0780
+Text: Hagdanan.
+
+Utterance 441
+Start: 988.00
+End: 990.00
+Confidence: -0.0780
+Text: Mabango.
+
+Utterance 442
+Start: 990.00
+End: 992.00
+Confidence: -0.0780
+Text: Pagkakakilala.
+
+Utterance 443
+Start: 992.00
+End: 994.00
+Confidence: -0.0780
+Text: Universidad.
+
+Utterance 444
+Start: 994.00
+End: 996.00
+Confidence: -0.0780
+Text: Haharapin.
+
+Utterance 445
+Start: 996.00
+End: 998.00
+Confidence: -0.0780
+Text: Mabayaran.
+
+Utterance 446
+Start: 998.00
+End: 1000.00
+Confidence: -0.0780
+Text: Pagkakataong.
+
+Utterance 447
+Start: 1000.00
+End: 1002.00
+Confidence: -0.0780
+Text: Uod.
+
+Utterance 448
+Start: 1002.00
+End: 1004.00
+Confidence: -0.0868
+Text: Pagkakautang.
+
+Utterance 449
+Start: 1004.00
+End: 1006.00
+Confidence: -0.0868
+Text: Upang halaman.
+
+Utterance 450
+Start: 1006.00
+End: 1008.00
+Confidence: -0.0868
+Text: Mabuhay.
+
+Utterance 451
+Start: 1008.00
+End: 1010.00
+Confidence: -0.0868
+Text: Pagkakuha.
+
+Utterance 452
+Start: 1010.00
+End: 1012.00
+Confidence: -0.0868
+Text: Upo.
+
+Utterance 453
+Start: 1012.00
+End: 1014.00
+Confidence: -0.0868
+Text: Halain.
+
+Utterance 454
+Start: 1014.00
+End: 1016.00
+Confidence: -0.0868
+Text: Mabuo.
+
+Utterance 455
+Start: 1016.00
+End: 1018.00
+Confidence: -0.0868
+Text: Pagkatalo.
+
+Utterance 456
+Start: 1018.00
+End: 1020.00
+Confidence: -0.0868
+Text: Upuan.
+
+Utterance 457
+Start: 1020.00
+End: 1022.00
+Confidence: -0.0868
+Text: Halika.
+
+Utterance 458
+Start: 1022.00
+End: 1024.00
+Confidence: -0.0868
+Text: Mabuti.
+
+Utterance 459
+Start: 1024.00
+End: 1026.00
+Confidence: -0.0868
+Text: Pagkatapos.
+
+Utterance 460
+Start: 1026.00
+End: 1028.00
+Confidence: -0.0868
+Text: Ure.
+
+Utterance 461
+Start: 1028.00
+End: 1030.00
+Confidence: -0.0868
+Text: Halina.
+
+Utterance 462
+Start: 1030.00
+End: 1032.00
+Confidence: -0.1063
+Text: Hala.
+
+Utterance 463
+Start: 1032.00
+End: 1034.00
+Confidence: -0.1063
+Text: Usapan.
+
+Utterance 464
+Start: 1034.00
+End: 1036.00
+Confidence: -0.1063
+Text: Halos.
+
+Utterance 465
+Start: 1036.00
+End: 1038.00
+Confidence: -0.1063
+Text: Madalas.
+
+Utterance 466
+Start: 1038.00
+End: 1040.00
+Confidence: -0.1063
+Text: Pagkuha.
+
+Utterance 467
+Start: 1040.00
+End: 1042.00
+Confidence: -0.1063
+Text: Utang.
+
+Utterance 468
+Start: 1042.00
+End: 1044.00
+Confidence: -0.1063
+Text: Hambing.
+
+Utterance 469
+Start: 1044.00
+End: 1046.00
+Confidence: -0.1063
+Text: Madali.
+
+Utterance 470
+Start: 1046.00
+End: 1048.00
+Confidence: -0.1063
+Text: Pagod.
+
+Utterance 471
+Start: 1048.00
+End: 1050.00
+Confidence: -0.1063
+Text: Uunlad.
+
+Utterance 472
+Start: 1050.00
+End: 1052.00
+Confidence: -0.1063
+Text: Handa.
+
+Utterance 473
+Start: 1052.00
+End: 1054.00
+Confidence: -0.1063
+Text: Madami.
+
+Utterance 474
+Start: 1054.00
+End: 1056.00
+Confidence: -0.1063
+Text: Pagpapabaya.
+
+Utterance 475
+Start: 1056.00
+End: 1058.00
+Confidence: -0.1063
+Text: Uwe.
+
+Utterance 476
+Start: 1058.00
+End: 1060.00
+Confidence: -0.1394
+Text: Pagsubmit.
+
+Utterance 477
+Start: 1060.00
+End: 1062.00
+Confidence: -0.1394
+Text: Valedictorian.
+
+Utterance 478
+Start: 1062.00
+End: 1064.00
+Confidence: -0.1394
+Text: Hanggang madidilat.
+
+Utterance 479
+Start: 1064.00
+End: 1066.00
+Confidence: -0.1394
+Text: Pagsubok.
+
+Utterance 480
+Start: 1066.00
+End: 1068.00
+Confidence: -0.1394
+Text: Valible.
+
+Utterance 481
+Start: 1068.00
+End: 1070.00
+Confidence: -0.1394
+Text: Hanging.
+
+Utterance 482
+Start: 1070.00
+End: 1072.00
+Confidence: -0.1394
+Text: Madidilaw.
+
+Utterance 483
+Start: 1072.00
+End: 1074.00
+Confidence: -0.1394
+Text: Pagulan.
+
+Utterance 484
+Start: 1074.00
+End: 1076.00
+Confidence: -0.1394
+Text: Vanilla.
+
+Utterance 485
+Start: 1076.00
+End: 1078.00
+Confidence: -0.1394
+Text: Hapag.
+
+Utterance 486
+Start: 1078.00
+End: 1080.00
+Confidence: -0.1394
+Text: Magagandang.
+
+Utterance 487
+Start: 1080.00
+End: 1082.00
+Confidence: -0.1394
+Text: Pakialam.
+
+Utterance 488
+Start: 1082.00
+End: 1084.00
+Confidence: -0.1394
+Text: Vibes.
+
+Utterance 489
+Start: 1084.00
+End: 1086.00
+Confidence: -0.1394
+Text: Hapon.
+
+Utterance 490
+Start: 1086.00
+End: 1088.00
+Confidence: -0.0945
+Text: Magaling.
+
+Utterance 491
+Start: 1088.00
+End: 1090.00
+Confidence: -0.0945
+Text: Pakibukas.
+
+Utterance 492
+Start: 1090.00
+End: 1092.00
+Confidence: -0.0945
+Text: Violet.
+
+Utterance 493
+Start: 1092.00
+End: 1094.00
+Confidence: -0.0945
+Text: Harap.
+
+Utterance 494
+Start: 1094.00
+End: 1096.00
+Confidence: -0.0945
+Text: Maganda.
+
+Utterance 495
+Start: 1096.00
+End: 1098.00
+Confidence: -0.0945
+Text: Pakigamot.
+
+Utterance 496
+Start: 1098.00
+End: 1100.00
+Confidence: -0.0945
+Text: Vice versa.
+
+Utterance 497
+Start: 1100.00
+End: 1102.00
+Confidence: -0.0945
+Text: Ginawang.
+
+Utterance 498
+Start: 1102.00
+End: 1104.00
+Confidence: -0.0945
+Text: Pangyayaring.
+
+Utterance 499
+Start: 1104.00
+End: 1106.00
+Confidence: -0.0945
+Text: Anyang.
+
+Utterance 500
+Start: 1106.00
+End: 1108.00
+Confidence: -0.0945
+Text: Pambansang.
+
+Utterance 501
+Start: 1108.00
+End: 1110.00
+Confidence: -0.0945
+Text: Mabigyang.
+
+Utterance 502
+Start: 1110.00
+End: 1112.00
+Confidence: -0.0945
+Text: Panunungkulang.
+
+Utterance 503
+Start: 1112.00
+End: 1114.00
+Confidence: -0.0945
+Text: Kataas-taasang.
+
+Utterance 504
+Start: 1114.00
+End: 1116.00
+Confidence: -0.0758
+Text: Magsawalang kibo.
+
+Utterance 505
+Start: 1116.00
+End: 1118.00
+Confidence: -0.0758
+Text: Kasamahan.
+
+Utterance 506
+Start: 1118.00
+End: 1120.00
+Confidence: -0.0758
+Text: Ibang.
+
+Utterance 507
+Start: 1120.00
+End: 1122.00
+Confidence: -0.0758
+Text: Mapayapang.
+
+Utterance 508
+Start: 1122.00
+End: 1124.00
+Confidence: -0.0758
+Text: Harapan.
+
+Utterance 509
+Start: 1124.00
+End: 1126.00
+Confidence: -0.0758
+Text: Magandang.
+
+Utterance 510
+Start: 1126.00
+End: 1128.00
+Confidence: -0.0758
+Text: Pakigawa.
+
+Utterance 511
+Start: 1128.00
+End: 1130.00
+Confidence: -0.0758
+Text: Vendo.
+
+Utterance 512
+Start: 1130.00
+End: 1132.00
+Confidence: -0.0758
+Text: Harapin.
+
+Utterance 513
+Start: 1132.00
+End: 1134.00
+Confidence: -0.0758
+Text: Mag-aral.
+
+Utterance 514
+Start: 1134.00
+End: 1136.00
+Confidence: -0.0758
+Text: Pakihugas.
+
+Utterance 515
+Start: 1136.00
+End: 1138.00
+Confidence: -0.0758
+Text: Veranda.
+
+Utterance 516
+Start: 1138.00
+End: 1140.00
+Confidence: -0.0758
+Text: Hasa.
+
+Utterance 517
+Start: 1140.00
+End: 1142.00
+Confidence: -0.0758
+Text: Mag-asawa.
+
+Utterance 518
+Start: 1142.00
+End: 1144.00
+Confidence: -0.0809
+Text: Hasaen.
+
+Utterance 519
+Start: 1144.00
+End: 1146.00
+Confidence: -0.0809
+Text: Mag-asawang.
+
+Utterance 520
+Start: 1146.00
+End: 1148.00
+Confidence: -0.0809
+Text: Pakikanta.
+
+Utterance 521
+Start: 1148.00
+End: 1150.00
+Confidence: -0.0809
+Text: Versus.
+
+Utterance 522
+Start: 1150.00
+End: 1152.00
+Confidence: -0.0809
+Text: Hataw.
+
+Utterance 523
+Start: 1152.00
+End: 1154.00
+Confidence: -0.0809
+Text: Magawa.
+
+Utterance 524
+Start: 1154.00
+End: 1156.00
+Confidence: -0.0809
+Text: Pakikuha.
+
+Utterance 525
+Start: 1156.00
+End: 1158.00
+Confidence: -0.0809
+Text: Vigilante.
+
+Utterance 526
+Start: 1158.00
+End: 1160.00
+Confidence: -0.0809
+Text: Hatawin.
+
+Utterance 527
+Start: 1160.00
+End: 1162.00
+Confidence: -0.0809
+Text: Magbago.
+
+Utterance 528
+Start: 1162.00
+End: 1164.00
+Confidence: -0.0809
+Text: Wagi.
+
+Utterance 529
+Start: 1164.00
+End: 1166.00
+Confidence: -0.0809
+Text: Hatid.
+
+Utterance 530
+Start: 1166.00
+End: 1168.00
+Confidence: -0.0809
+Text: Magbantay.
+
+Utterance 531
+Start: 1168.00
+End: 1170.00
+Confidence: -0.0809
+Text: Pakinabang.
+
+Utterance 532
+Start: 1170.00
+End: 1172.00
+Confidence: -0.0484
+Text: Magbasa.
+
+Utterance 533
+Start: 1172.00
+End: 1174.00
+Confidence: -0.0484
+Text: Pakiusap.
+
+Utterance 534
+Start: 1174.00
+End: 1176.00
+Confidence: -0.0484
+Text: Wala.
+
+Utterance 535
+Start: 1176.00
+End: 1178.00
+Confidence: -0.0484
+Text: Hawakan.
+
+Utterance 536
+Start: 1178.00
+End: 1180.00
+Confidence: -0.0484
+Text: Magbasag.
+
+Utterance 537
+Start: 1180.00
+End: 1182.00
+Confidence: -0.0484
+Text: Pakiusapan.
+
+Utterance 538
+Start: 1182.00
+End: 1184.00
+Confidence: -0.0484
+Text: Walang.
+
+Utterance 539
+Start: 1184.00
+End: 1186.00
+Confidence: -0.0484
+Text: Hayag.
+
+Utterance 540
+Start: 1186.00
+End: 1188.00
+Confidence: -0.0484
+Text: Magbawas.
+
+Utterance 541
+Start: 1188.00
+End: 1190.00
+Confidence: -0.0484
+Text: Paksa.
+
+Utterance 542
+Start: 1190.00
+End: 1192.00
+Confidence: -0.0484
+Text: Walis.
+
+Utterance 543
+Start: 1192.00
+End: 1194.00
+Confidence: -0.0484
+Text: Hayop.
+
+Utterance 544
+Start: 1194.00
+End: 1196.00
+Confidence: -0.0484
+Text: Magbayad.
+
+Utterance 545
+Start: 1196.00
+End: 1198.00
+Confidence: -0.0484
+Text: Pala.
+
+Utterance 546
+Start: 1198.00
+End: 1200.00
+Confidence: -0.0683
+Text: High school.
+
+Utterance 547
+Start: 1200.00
+End: 1202.00
+Confidence: -0.0683
+Text: Magbenta.
+
+Utterance 548
+Start: 1202.00
+End: 1204.00
+Confidence: -0.0683
+Text: Palabas.
+
+Utterance 549
+Start: 1204.00
+End: 1206.00
+Confidence: -0.0683
+Text: Walong.
+
+Utterance 550
+Start: 1206.00
+End: 1208.00
+Confidence: -0.0683
+Text: General.
+
+Utterance 551
+Start: 1208.00
+End: 1210.00
+Confidence: -0.0683
+Text: Magbigayan.
+
+Utterance 552
+Start: 1210.00
+End: 1212.00
+Confidence: -0.0683
+Text: Palad.
+
+Utterance 553
+Start: 1212.00
+End: 1214.00
+Confidence: -0.0683
+Text: Warat.
+
+Utterance 554
+Start: 1214.00
+End: 1216.00
+Confidence: -0.0683
+Text: Higaan.
+
+Utterance 555
+Start: 1216.00
+End: 1218.00
+Confidence: -0.0683
+Text: Magbilang.
+
+Utterance 556
+Start: 1218.00
+End: 1220.00
+Confidence: -0.0683
+Text: Palawakin.
+
+Utterance 557
+Start: 1220.00
+End: 1222.00
+Confidence: -0.0683
+Text: Wasak.
+
+Utterance 558
+Start: 1222.00
+End: 1224.00
+Confidence: -0.0683
+Text: Hila.
+
+Utterance 559
+Start: 1224.00
+End: 1226.00
+Confidence: -0.0683
+Text: Magbubuked.
+
+Utterance 560
+Start: 1226.00
+End: 1228.00
+Confidence: -0.0642
+Text: Hilahan.
+
+Utterance 561
+Start: 1228.00
+End: 1230.00
+Confidence: -0.0642
+Text: Magdala.
+
+Utterance 562
+Start: 1230.00
+End: 1232.00
+Confidence: -0.0642
+Text: Palibhasa.
+
+Utterance 563
+Start: 1232.00
+End: 1234.00
+Confidence: -0.0642
+Text: Yaman.
+
+Utterance 564
+Start: 1234.00
+End: 1236.00
+Confidence: -0.0642
+Text: Hilain.
+
+Utterance 565
+Start: 1236.00
+End: 1238.00
+Confidence: -0.0642
+Text: Magdasal.
+
+Utterance 566
+Start: 1238.00
+End: 1240.00
+Confidence: -0.0642
+Text: Paliwanagan.
+
+Utterance 567
+Start: 1240.00
+End: 1242.00
+Confidence: -0.0642
+Text: Yan.
+
+Utterance 568
+Start: 1242.00
+End: 1244.00
+Confidence: -0.0642
+Text: Hilingin.
+
+Utterance 569
+Start: 1244.00
+End: 1246.00
+Confidence: -0.0642
+Text: Maghanda.
+
+Utterance 570
+Start: 1246.00
+End: 1248.00
+Confidence: -0.0642
+Text: Pambihira.
+
+Utterance 571
+Start: 1248.00
+End: 1250.00
+Confidence: -0.0642
+Text: Yare.
+
+Utterance 572
+Start: 1250.00
+End: 1252.00
+Confidence: -0.0642
+Text: Recreation.
+
+Utterance 573
+Start: 1252.00
+End: 1254.00
+Confidence: -0.0642
+Text: Kongreso.
+
+Utterance 574
+Start: 1254.00
+End: 1256.00
+Confidence: -0.1134
+Text: Senate.
+
+Utterance 575
+Start: 1256.00
+End: 1258.00
+Confidence: -0.1134
+Text: Secretary.
+
+Utterance 576
+Start: 1258.00
+End: 1260.00
+Confidence: -0.1134
+Text: Abalang.
+
+Utterance 577
+Start: 1260.00
+End: 1262.00
+Confidence: -0.1134
+Text: Alamang.
+
+Utterance 578
+Start: 1262.00
+End: 1264.00
+Confidence: -0.1134
+Text: Manggugulo.
+
+Utterance 579
+Start: 1264.00
+End: 1266.00
+Confidence: -0.1134
+Text: Manggulo.
+
+Utterance 580
+Start: 1266.00
+End: 1268.00
+Confidence: -0.1134
+Text: Nangyari.
+
+Utterance 581
+Start: 1268.00
+End: 1270.00
+Confidence: -0.1134
+Text: Darating.
+
+Utterance 582
+Start: 1270.00
+End: 1272.00
+Confidence: -0.1134
+Text: Humihingi.
+
+Utterance 583
+Start: 1272.00
+End: 1274.00
+Confidence: -0.1134
+Text: Dalawampung.
+
+Utterance 584
+Start: 1274.00
+End: 1276.00
+Confidence: -0.1134
+Text: Narsing.
+
+Utterance 585
+Start: 1276.00
+End: 1278.00
+Confidence: -0.1134
+Text: Himbing.
+
+Utterance 586
+Start: 1278.00
+End: 1280.00
+Confidence: -0.1134
+Text: Maghapon.
+
+Utterance 587
+Start: 1280.00
+End: 1282.00
+Confidence: -0.1134
+Text: Pamilya.
+
+Utterance 588
+Start: 1282.00
+End: 1284.00
+Confidence: -0.0928
+Text: Hina.
+
+Utterance 589
+Start: 1284.00
+End: 1286.00
+Confidence: -0.0928
+Text: Maghihintay.
+
+Utterance 590
+Start: 1286.00
+End: 1288.00
+Confidence: -0.0928
+Text: Yayain.
+
+Utterance 591
+Start: 1288.00
+End: 1290.00
+Confidence: -0.0928
+Text: Hinayang.
+
+Utterance 592
+Start: 1290.00
+End: 1292.00
+Confidence: -0.0928
+Text: Maghintay-hintay.
+
+Utterance 593
+Start: 1294.00
+End: 1296.00
+Confidence: -0.0928
+Text: Panaginip.
+
+Utterance 594
+Start: 1296.00
+End: 1298.00
+Confidence: -0.0928
+Text: Yelo.
+
+Utterance 595
+Start: 1298.00
+End: 1300.00
+Confidence: -0.0928
+Text: Hindi.
+
+Utterance 596
+Start: 1300.00
+End: 1302.00
+Confidence: -0.0928
+Text: Magiging.
+
+Utterance 597
+Start: 1302.00
+End: 1304.00
+Confidence: -0.0928
+Text: Panahon.
+
+Utterance 598
+Start: 1304.00
+End: 1306.00
+Confidence: -0.0928
+Text: Yero.
+
+Utterance 599
+Start: 1306.00
+End: 1308.00
+Confidence: -0.0928
+Text: Hiningan.
+
+Utterance 600
+Start: 1308.00
+End: 1310.00
+Confidence: -0.0928
+Text: Maging pananim.
+
+Utterance 601
+Start: 1310.00
+End: 1312.00
+Confidence: -0.0694
+Text: Magisa.
+
+Utterance 602
+Start: 1312.00
+End: 1314.00
+Confidence: -0.0694
+Text: Pandak.
+
+Utterance 603
+Start: 1314.00
+End: 1316.00
+Confidence: -0.0694
+Text: Yumao.
+
+Utterance 604
+Start: 1316.00
+End: 1318.00
+Confidence: -0.0694
+Text: Hinipuan.
+
+Utterance 605
+Start: 1318.00
+End: 1320.00
+Confidence: -0.0694
+Text: Magkaibigan.
+
+Utterance 606
+Start: 1320.00
+End: 1322.00
+Confidence: -0.0694
+Text: Pang.
+
+Utterance 607
+Start: 1322.00
+End: 1324.00
+Confidence: -0.0694
+Text: Yung.
+
+Utterance 608
+Start: 1324.00
+End: 1326.00
+Confidence: -0.0694
+Text: Hintay.
+
+Utterance 609
+Start: 1326.00
+End: 1328.00
+Confidence: -0.0694
+Text: Magkakabisa.
+
+Utterance 610
+Start: 1328.00
+End: 1330.00
+Confidence: -0.0694
+Text: Pangalan.
+
+Utterance 611
+Start: 1330.00
+End: 1332.00
+Confidence: -0.0694
+Text: Zero.
+
+Utterance 612
+Start: 1332.00
+End: 1334.00
+Confidence: -0.0694
+Text: Hintayin.
+
+Utterance 613
+Start: 1334.00
+End: 1336.00
+Confidence: -0.0694
+Text: Magkakaibigan.
+
+Utterance 614
+Start: 1336.00
+End: 1338.00
+Confidence: -0.0694
+Text: Panganim.
+
+Utterance 615
+Start: 1338.00
+End: 1340.00
+Confidence: -0.0994
+Text: Hinto.
+
+Utterance 616
+Start: 1340.00
+End: 1342.00
+Confidence: -0.0994
+Text: Magkakapatid.
+
+Utterance 617
+Start: 1342.00
+End: 1344.00
+Confidence: -0.0994
+Text: Pangarap.
+
+Utterance 618
+Start: 1344.00
+End: 1346.00
+Confidence: -0.0994
+Text: Zinya.
+
+Utterance 619
+Start: 1346.00
+End: 1348.00
+Confidence: -0.0994
+Text: Hintong.
+
+Utterance 620
+Start: 1348.00
+End: 1350.00
+Confidence: -0.0994
+Text: Magkakaroon.
+
+Utterance 621
+Start: 1350.00
+End: 1352.00
+Confidence: -0.0994
+Text: Pangit.
+
+Utterance 622
+Start: 1352.00
+End: 1354.00
+Confidence: -0.0994
+Text: Zipper.
+
+Utterance 623
+Start: 1354.00
+End: 1356.00
+Confidence: -0.0994
+Text: Hintuan.
+
+Utterance 624
+Start: 1356.00
+End: 1358.00
+Confidence: -0.0994
+Text: Panglima.
+
+Utterance 625
+Start: 1358.00
+End: 1360.00
+Confidence: -0.0994
+Text: Hipan.
+
+Utterance 626
+Start: 1360.00
+End: 1362.00
+Confidence: -0.0994
+Text: Maggamay.
+
+Utterance 627
+Start: 1362.00
+End: 1364.00
+Confidence: -0.0994
+Text: Pangyayari.
+
+Utterance 628
+Start: 1364.00
+End: 1366.00
+Confidence: -0.0994
+Text: Hipanin.
+
+Utterance 629
+Start: 1366.00
+End: 1368.00
+Confidence: -0.1077
+Text: Hipuan.
+
+Utterance 630
+Start: 1368.00
+End: 1370.00
+Confidence: -0.1077
+Text: Maglagay.
+
+Utterance 631
+Start: 1370.00
+End: 1372.00
+Confidence: -0.1077
+Text: Papel.
+
+Utterance 632
+Start: 1372.00
+End: 1374.00
+Confidence: -0.1077
+Text: Hirap.
+
+Utterance 633
+Start: 1374.00
+End: 1376.00
+Confidence: -0.1077
+Text: Maglita.
+
+Utterance 634
+Start: 1376.00
+End: 1378.00
+Confidence: -0.1077
+Text: Para.
+
+Utterance 635
+Start: 1378.00
+End: 1380.00
+Confidence: -0.1077
+Text: Host.
+
+Utterance 636
+Start: 1380.00
+End: 1382.00
+Confidence: -0.1077
+Text: Parang.
+
+Utterance 637
+Start: 1382.00
+End: 1384.00
+Confidence: -0.1077
+Text: Hotel.
+
+Utterance 638
+Start: 1384.00
+End: 1386.00
+Confidence: -0.1077
+Text: Pasahin.
+
+Utterance 639
+Start: 1386.00
+End: 1388.00
+Confidence: -0.1077
+Text: Hugasan.
+
+Utterance 640
+Start: 1388.00
+End: 1390.00
+Confidence: -0.1077
+Text: Magnanakaw.
+
+Utterance 641
+Start: 1390.00
+End: 1392.00
+Confidence: -0.1077
+Text: Pasko.
+
+Utterance 642
+Start: 1392.00
+End: 1394.00
+Confidence: -0.1077
+Text: Nakakulong sessions.
+
+Utterance 643
+Start: 1397.00
+End: 1399.00
+Confidence: -0.1350
+Text: Ba.
+
+Utterance 644
+Start: 1399.00
+End: 1401.00
+Confidence: -0.1350
+Text: Be. Bi. Bo. Bu.
+
+Utterance 645
+Start: 1401.00
+End: 1403.00
+Confidence: -0.1350
+Text: Bad. Bag.
+
+Utterance 646
+Start: 1403.00
+End: 1405.00
+Confidence: -0.1350
+Text: Bak. Bal. Bam.
+
+Utterance 647
+Start: 1405.00
+End: 1407.00
+Confidence: -0.1350
+Text: Bin.
+
+Utterance 648
+Start: 1407.00
+End: 1409.00
+Confidence: -0.1350
+Text: Bang. Bap.
+
+Utterance 649
+Start: 1409.00
+End: 1411.00
+Confidence: -0.1350
+Text: Bar. Bas. Bat.
+
+Utterance 650
+Start: 1411.00
+End: 1413.00
+Confidence: -0.1350
+Text: Bau. Bay.
+
+Utterance 651
+Start: 1413.00
+End: 1415.00
+Confidence: -0.1350
+Text: Ben. Bid.
+
+Utterance 652
+Start: 1415.00
+End: 1417.00
+Confidence: -0.1350
+Text: Big. Bik. Bill.
+
+Utterance 653
+Start: 1417.00
+End: 1419.00
+Confidence: -0.1350
+Text: Bin. Bim.
+
+Utterance 654
+Start: 1419.00
+End: 1421.00
+Confidence: -0.1350
+Text: Bing. Bis.
+
+Utterance 655
+Start: 1421.00
+End: 1423.00
+Confidence: -0.1350
+Text: Bit. Bog.
+
+Utterance 656
+Start: 1423.00
+End: 1425.00
+Confidence: -0.1350
+Text: Bon. Bong.
+
+Utterance 657
+Start: 1425.00
+End: 1427.00
+Confidence: -0.1180
+Text: Bot. Boy.
+
+Utterance 658
+Start: 1427.00
+End: 1429.00
+Confidence: -0.1180
+Text: Bug.
+
+Utterance 659
+Start: 1429.00
+End: 1431.00
+Confidence: -0.1180
+Text: Bur. Bok.
+
+Utterance 660
+Start: 1431.00
+End: 1433.00
+Confidence: -0.1180
+Text: Bol. Brill.
+
+Utterance 661
+Start: 1433.00
+End: 1435.00
+Confidence: -0.1180
+Text: Blue. Bre.
+
+Utterance 662
+Start: 1435.00
+End: 1437.00
+Confidence: -0.1180
+Text: Bax. Bre.
+
+Utterance 663
+Start: 1437.00
+End: 1439.00
+Confidence: -0.1180
+Text: Bul. Ber. Bra.
+
+Utterance 664
+Start: 1439.00
+End: 1441.00
+Confidence: -0.1180
+Text: Da. De.
+
+Utterance 665
+Start: 1441.00
+End: 1443.00
+Confidence: -0.1180
+Text: Di. Do.
+
+Utterance 666
+Start: 1443.00
+End: 1445.00
+Confidence: -0.1180
+Text: Du. Dag. Dal.
+
+Utterance 667
+Start: 1445.00
+End: 1447.00
+Confidence: -0.1180
+Text: Dik. Dra. Dad.
+
+Utterance 668
+Start: 1447.00
+End: 1449.00
+Confidence: -0.1180
+Text: Dug. Dak. Dal.
+
+Utterance 669
+Start: 1449.00
+End: 1451.00
+Confidence: -0.1180
+Text: Dib. Dam.
+
+Utterance 670
+Start: 1451.00
+End: 1453.00
+Confidence: -0.1180
+Text: Dey. Dan.
+
+Utterance 671
+Start: 1453.00
+End: 1455.00
+Confidence: -0.1498
+Text: Big. Ding.
+
+Utterance 672
+Start: 1455.00
+End: 1457.00
+Confidence: -0.1498
+Text: Ga. Ge. Gi. Go.
+
+Utterance 673
+Start: 1457.00
+End: 1459.00
+Confidence: -0.1498
+Text: Gu. God.
+
+Utterance 674
+Start: 1459.00
+End: 1461.00
+Confidence: -0.1498
+Text: Gua. Gaw.
+
+Utterance 675
+Start: 1461.00
+End: 1463.00
+Confidence: -0.1498
+Text: Gin. Giw. Gos.
+
+Utterance 676
+Start: 1463.00
+End: 1465.00
+Confidence: -0.1498
+Text: Gas. Gay. Gan.
+
+Utterance 677
+Start: 1465.00
+End: 1467.00
+Confidence: -0.1498
+Text: Gil. Git.
+
+Utterance 678
+Start: 1467.00
+End: 1469.00
+Confidence: -0.1498
+Text: Gul. Gun. Gal.
+
+Utterance 679
+Start: 1469.00
+End: 1471.00
+Confidence: -0.1498
+Text: Gus. Gat. Gab.
+
+Utterance 680
+Start: 1475.00
+End: 1477.00
+Confidence: -0.1498
+Text: Fa. Fe. Fi.
+
+Utterance 681
+Start: 1477.00
+End: 1479.00
+Confidence: -0.1498
+Text: Fo. Fu.
+
+Utterance 682
+Start: 1479.00
+End: 1481.00
+Confidence: -0.1498
+Text: Feis. Fan. Fies.
+
+Utterance 683
+Start: 1481.00
+End: 1483.00
+Confidence: -0.1509
+Text: Fig. Ha. He.
+
+Utterance 684
+Start: 1483.00
+End: 1485.00
+Confidence: -0.1509
+Text: Hi. Ho.
+
+Utterance 685
+Start: 1485.00
+End: 1487.00
+Confidence: -0.1509
+Text: Hu. Hin.
+
+Utterance 686
+Start: 1487.00
+End: 1489.00
+Confidence: -0.1509
+Text: Hao. Han.
+
+Utterance 687
+Start: 1489.00
+End: 1491.00
+Confidence: -0.1509
+Text: Hai. Hit. Hoy.
+
+Utterance 688
+Start: 1491.00
+End: 1493.00
+Confidence: -0.1509
+Text: Has. Hil. Him.
+
+Utterance 689
+Start: 1493.00
+End: 1495.00
+Confidence: -0.1509
+Text: Hag. Hul.
+
+Utterance 690
+Start: 1495.00
+End: 1497.00
+Confidence: -0.1509
+Text: Ham.
+
+Utterance 691
+Start: 1497.00
+End: 1499.00
+Confidence: -0.1509
+Text: Ja. Je. Ji.
+
+Utterance 692
+Start: 1499.00
+End: 1501.00
+Confidence: -0.1509
+Text: Jo. Ju. Jit.
+
+Utterance 693
+Start: 1501.00
+End: 1503.00
+Confidence: -0.1509
+Text: Juk. Jun.
+
+Utterance 694
+Start: 1503.00
+End: 1505.00
+Confidence: -0.1509
+Text: Ka. Ke. Ki.
+
+Utterance 695
+Start: 1505.00
+End: 1507.00
+Confidence: -0.1509
+Text: Go. Ku.
+
+Utterance 696
+Start: 1507.00
+End: 1509.00
+Confidence: -0.1509
+Text: Kid. Kin. Kot.
+
+Utterance 697
+Start: 1509.00
+End: 1511.00
+Confidence: -0.1116
+Text: Kit. Kum. Kun.
+
+Utterance 698
+Start: 1511.00
+End: 1513.00
+Confidence: -0.1116
+Text: Kas. Kam.
+
+Utterance 699
+Start: 1513.00
+End: 1515.00
+Confidence: -0.1116
+Text: Kal. Kan.
+
+Utterance 700
+Start: 1515.00
+End: 1517.00
+Confidence: -0.1116
+Text: Get. Kat.
+
+Utterance 701
+Start: 1517.00
+End: 1519.00
+Confidence: -0.1116
+Text: Kao. Kim. Kip.
+
+Utterance 702
+Start: 1519.00
+End: 1521.00
+Confidence: -0.1116
+Text: La. Le.
+
+Utterance 703
+Start: 1521.00
+End: 1523.00
+Confidence: -0.1116
+Text: Li. Lo.
+
+Utterance 704
+Start: 1523.00
+End: 1525.00
+Confidence: -0.1116
+Text: Lu. Lok. Los.
+
+Utterance 705
+Start: 1525.00
+End: 1527.00
+Confidence: -0.1116
+Text: Lam. Lin.
+
+Utterance 706
+Start: 1527.00
+End: 1529.00
+Confidence: -0.1116
+Text: Ling. Lit. Lik.
+
+Utterance 707
+Start: 1529.00
+End: 1531.00
+Confidence: -0.1116
+Text: Lung. Lang. Lan.
+
+Utterance 708
+Start: 1531.00
+End: 1533.00
+Confidence: -0.1116
+Text: Lat. Lid. Liu.
+
+Utterance 709
+Start: 1533.00
+End: 1535.00
+Confidence: -0.1116
+Text: Lau. Long.
+
+Utterance 710
+Start: 1535.00
+End: 1537.00
+Confidence: -0.1116
+Text: Leng. Lis. Las.
+
+Utterance 711
+Start: 1537.00
+End: 1539.00
+Confidence: -0.1078
+Text: Las. Les.
+
+Utterance 712
+Start: 1539.00
+End: 1541.00
+Confidence: -0.1078
+Text: Lag. Lam. Lun.
+
+Utterance 713
+Start: 1541.00
+End: 1543.00
+Confidence: -0.1078
+Text: Lon. Lis.
+
+Utterance 714
+Start: 1547.00
+End: 1549.00
+Confidence: -0.1078
+Text: Ma. Me. Mi. Mo.
+
+Utterance 715
+Start: 1549.00
+End: 1551.00
+Confidence: -0.1078
+Text: Mu. Mag. Mar.
+
+Utterance 716
+Start: 1551.00
+End: 1553.00
+Confidence: -0.1078
+Text: Mis. Min. Mil.
+
+Utterance 717
+Start: 1553.00
+End: 1555.00
+Confidence: -0.1078
+Text: Mok. Men.
+
+Utterance 718
+Start: 1555.00
+End: 1557.00
+Confidence: -0.1078
+Text: Mang. Mai. Mit.
+
+Utterance 719
+Start: 1557.00
+End: 1559.00
+Confidence: -0.1078
+Text: Mik. Man. Mun.
+
+Utterance 720
+Start: 1559.00
+End: 1561.00
+Confidence: -0.1078
+Text: Mad. Mak. Mat.
+
+Utterance 721
+Start: 1561.00
+End: 1563.00
+Confidence: -0.1078
+Text: Na. Ne.
+
+Utterance 722
+Start: 1563.00
+End: 1565.00
+Confidence: -0.1078
+Text: Ni. No. Nu.
+
+Utterance 723
+Start: 1565.00
+End: 1567.00
+Confidence: -0.1724
+Text: Nag. Nai. Nib.
+
+Utterance 724
+Start: 1567.00
+End: 1569.00
+Confidence: -0.1724
+Text: Nau. Nen.
+
+Utterance 725
+Start: 1569.00
+End: 1571.00
+Confidence: -0.1724
+Text: Nok. Nan. Nig.
+
+Utterance 726
+Start: 1571.00
+End: 1573.00
+Confidence: -0.1724
+Text: Nin. Nang. Nog.
+
+Utterance 727
+Start: 1573.00
+End: 1575.00
+Confidence: -0.1724
+Text: Nak. Nim. Nas.
+
+Utterance 728
+Start: 1575.00
+End: 1577.00
+Confidence: -0.1724
+Text: Nag. Nob. Nam.
+
+Utterance 729
+Start: 1577.00
+End: 1579.00
+Confidence: -0.1724
+Text: Nil.
+
+Utterance 730
+Start: 1579.00
+End: 1581.00
+Confidence: -0.1724
+Text: Nga. Nge. Ni.
+
+Utterance 731
+Start: 1581.00
+End: 1583.00
+Confidence: -0.1724
+Text: Ngo. Ngu. Ngan.
+
+Utterance 732
+Start: 1583.00
+End: 1585.00
+Confidence: -0.1724
+Text: Nog. Nin.
+
+Utterance 733
+Start: 1585.00
+End: 1587.00
+Confidence: -0.1724
+Text: Ngay. Nye. Nin.
+
+Utterance 734
+Start: 1587.00
+End: 1589.00
+Confidence: -0.1724
+Text: Ngon.
+
+Utterance 735
+Start: 1589.00
+End: 1591.00
+Confidence: -0.1724
+Text: Pa. Pe.
+
+Utterance 736
+Start: 1591.00
+End: 1593.00
+Confidence: -0.1724
+Text: Pi. Po.
+
+Utterance 737
+Start: 1593.00
+End: 1595.00
+Confidence: -0.1317
+Text: Hu. Pag. Pak.
+
+Utterance 738
+Start: 1595.00
+End: 1597.00
+Confidence: -0.1317
+Text: Pas. Pat. Pet.
+
+Utterance 739
+Start: 1597.00
+End: 1599.00
+Confidence: -0.1317
+Text: Pon. Poy.
+
+Utterance 740
+Start: 1599.00
+End: 1601.00
+Confidence: -0.1317
+Text: Pin. Pan. Pit.
+
+Utterance 741
+Start: 1601.00
+End: 1603.00
+Confidence: -0.1317
+Text: Pla. Pang.
+
+Utterance 742
+Start: 1603.00
+End: 1605.00
+Confidence: -0.1317
+Text: Ping. Pir. Peb.
+
+Utterance 743
+Start: 1605.00
+End: 1607.00
+Confidence: -0.1317
+Text: Pos. Pun. Per.
+
+Utterance 744
+Start: 1609.00
+End: 1611.00
+Confidence: -0.1317
+Text: Ra. Re.
+
+Utterance 745
+Start: 1611.00
+End: 1613.00
+Confidence: -0.1317
+Text: Li. Ro. Ru.
+
+Utterance 746
+Start: 1613.00
+End: 1615.00
+Confidence: -0.1317
+Text: Ras. Ral. Rang.
+
+Utterance 747
+Start: 1615.00
+End: 1617.00
+Confidence: -0.1317
+Text: Rat. Ran. Rau.
+
+Utterance 748
+Start: 1617.00
+End: 1619.00
+Confidence: -0.1317
+Text: Rin. Ret. Rap.
+
+Utterance 749
+Start: 1619.00
+End: 1621.00
+Confidence: -0.1317
+Text: Rong.
+
+Utterance 750
+Start: 1623.00
+End: 1625.00
+Confidence: -0.1599
+Text: Sa. Se. Si. So.
+
+Utterance 751
+Start: 1625.00
+End: 1627.00
+Confidence: -0.1599
+Text: Su. Syem. Sin.
+
+Utterance 752
+Start: 1627.00
+End: 1629.00
+Confidence: -0.1599
+Text: Sak. Syon.
+
+Utterance 753
+Start: 1629.00
+End: 1631.00
+Confidence: -0.1599
+Text: San. Sip.
+
+Utterance 754
+Start: 1631.00
+End: 1633.00
+Confidence: -0.1599
+Text: Sul. Sog. Skwe.
+
+Utterance 755
+Start: 1633.00
+End: 1635.00
+Confidence: -0.1599
+Text: Sal. Sim. Sing.
+
+Utterance 756
+Start: 1635.00
+End: 1637.00
+Confidence: -0.1599
+Text: Sag. Sig.
+
+Utterance 757
+Start: 1637.00
+End: 1639.00
+Confidence: -0.1599
+Text: Sog. Sep.
+
+Utterance 758
+Start: 1639.00
+End: 1641.00
+Confidence: -0.1599
+Text: Sil. Sis.
+
+Utterance 759
+Start: 1641.00
+End: 1643.00
+Confidence: -0.1599
+Text: Suk. Sul.
+
+Utterance 760
+Start: 1643.00
+End: 1645.00
+Confidence: -0.1599
+Text: Sol. Sum.
+
+Utterance 761
+Start: 1645.00
+End: 1647.00
+Confidence: -0.1599
+Text: Sun.
+
+Utterance 762
+Start: 1647.00
+End: 1649.00
+Confidence: -0.1599
+Text: Sung. Sus.
+
+Utterance 763
+Start: 1649.00
+End: 1651.00
+Confidence: -0.1599
+Text: Swe.
+
+Utterance 764
+Start: 1651.00
+End: 1653.00
+Confidence: -0.1162
+Text: Ta. Te.
+
+Utterance 765
+Start: 1653.00
+End: 1655.00
+Confidence: -0.1162
+Text: Ti. To.
+
+Utterance 766
+Start: 1655.00
+End: 1657.00
+Confidence: -0.1162
+Text: Tu. Tan.
+
+Utterance 767
+Start: 1657.00
+End: 1659.00
+Confidence: -0.1162
+Text: Tay. Tas. Tor.
+
+Utterance 768
+Start: 1659.00
+End: 1661.00
+Confidence: -0.1162
+Text: Tik. Tes. Tok.
+
+Utterance 769
+Start: 1661.00
+End: 1663.00
+Confidence: -0.1162
+Text: Tau. Tin.
+
+Utterance 770
+Start: 1663.00
+End: 1665.00
+Confidence: -0.1162
+Text: Tab. Tik.
+
+Utterance 771
+Start: 1665.00
+End: 1667.00
+Confidence: -0.1162
+Text: Tel. Tos. Tong.
+
+Utterance 772
+Start: 1671.00
+End: 1673.00
+Confidence: -0.1162
+Text: Tid. Ten.
+
+Utterance 773
+Start: 1673.00
+End: 1675.00
+Confidence: -0.1162
+Text: Ting. Tak. Tam.
+
+Utterance 774
+Start: 1675.00
+End: 1677.00
+Confidence: -0.1162
+Text: Tim. Til.
+
+Utterance 775
+Start: 1681.00
+End: 1683.00
+Confidence: -0.1685
+Text: Ta. Te. Ti. To.
+
+Utterance 776
+Start: 1683.00
+End: 1685.00
+Confidence: -0.1685
+Text: Sis.
+
+Utterance 777
+Start: 1685.00
+End: 1687.00
+Confidence: -0.1685
+Text: Va. Ve. Vi.
+
+Utterance 778
+Start: 1687.00
+End: 1689.00
+Confidence: -0.1685
+Text: Vo. Vu. Ven.
+
+Utterance 779
+Start: 1689.00
+End: 1691.00
+Confidence: -0.1685
+Text: Ver. Vais.
+
+Utterance 780
+Start: 1691.00
+End: 1693.00
+Confidence: -0.1685
+Text: Wa. We. We.
+
+Utterance 781
+Start: 1693.00
+End: 1695.00
+Confidence: -0.1685
+Text: Wo. Wu. Wid.
+
+Utterance 782
+Start: 1695.00
+End: 1697.00
+Confidence: -0.1685
+Text: Wad. Wag.
+
+Utterance 783
+Start: 1697.00
+End: 1699.00
+Confidence: -0.1685
+Text: Wai. Wel.
+
+Utterance 784
+Start: 1699.00
+End: 1701.00
+Confidence: -0.1685
+Text: Wan. Wak.
+
+Utterance 785
+Start: 1701.00
+End: 1703.00
+Confidence: -0.1685
+Text: Was. Wat.
+
+Utterance 786
+Start: 1703.00
+End: 1705.00
+Confidence: -0.1685
+Text: Win. Wang. Wing.
+
+Utterance 787
+Start: 1705.00
+End: 1707.00
+Confidence: -0.1685
+Text: Wong.
+
+Utterance 788
+Start: 1707.00
+End: 1709.00
+Confidence: -0.1685
+Text: Ya. Ye.
+
+Utterance 789
+Start: 1709.00
+End: 1711.00
+Confidence: -0.1116
+Text: Ni. Yo. Yu.
+
+Utterance 790
+Start: 1711.00
+End: 1713.00
+Confidence: -0.1116
+Text: Yem. Yin. Yad.
+
+Utterance 791
+Start: 1713.00
+End: 1715.00
+Confidence: -0.1116
+Text: Yat. Yan.
+
+Utterance 792
+Start: 1715.00
+End: 1717.00
+Confidence: -0.1116
+Text: Yar. Yos.
+
+Utterance 793
+Start: 1717.00
+End: 1719.00
+Confidence: -0.1116
+Text: Yer. Yag.
+
+Utterance 794
+Start: 1719.00
+End: 1721.00
+Confidence: -0.1116
+Text: Yang. Zak. Yon.
+
+Utterance 795
+Start: 1721.00
+End: 1723.00
+Confidence: -0.1116
+Text: Yor.
+
+Utterance 796
+Start: 1725.00
+End: 1727.00
+Confidence: -0.1116
+Text: Yak. Yon. Yor.
+
+Utterance 797
+Start: 1727.00
+End: 1729.00
+Confidence: -0.1116
+Text: Za. Ze. Zee.
+
+Utterance 798
+Start: 1729.00
+End: 1731.00
+Confidence: -0.1116
+Text: Zo. Zu. Zin.
+
+Utterance 799
+Start: 1731.00
+End: 1733.00
+Confidence: -0.1116
+Text: Ang. As. Ak.
+
+Utterance 800
+Start: 1733.00
+End: 1735.00
+Confidence: -0.1116
+Text: Ay. At.
+
+Utterance 801
+Start: 1735.00
+End: 1737.00
+Confidence: -0.1116
+Text: Ar. An. Em.
+
+Utterance 802
+Start: 1737.00
+End: 1739.00
+Confidence: -0.1584
+Text: Nag.
+
+Utterance 803
+Start: 1739.00
+End: 1741.00
+Confidence: -0.1584
+Text: N. Em.
+
+Utterance 804
+Start: 1741.00
+End: 1743.00
+Confidence: -0.1584
+Text: Eng. Ed.
+
+Utterance 805
+Start: 1743.00
+End: 1745.00
+Confidence: -0.1584
+Text: Es. Is.
+
+Utterance 806
+Start: 1745.00
+End: 1747.00
+Confidence: -0.1584
+Text: In. Ing. Im.
+
+Utterance 807
+Start: 1747.00
+End: 1749.00
+Confidence: -0.1584
+Text: Bung. Dang. Dong.
+
+Utterance 808
+Start: 1749.00
+End: 1751.00
+Confidence: -0.1584
+Text: Ging. Gang.
+
+Utterance 809
+Start: 1751.00
+End: 1753.00
+Confidence: -0.1584
+Text: Gong. Hang.
+
+Utterance 810
+Start: 1753.00
+End: 1755.00
+Confidence: -0.1584
+Text: Hing. Hong. King.
+
+Utterance 811
+Start: 1755.00
+End: 1757.00
+Confidence: -0.1584
+Text: Kang. Kong.
+
+Utterance 812
+Start: 1757.00
+End: 1759.00
+Confidence: -0.1584
+Text: Kung. Ming. Mong.
+
+Utterance 813
+Start: 1759.00
+End: 1761.00
+Confidence: -0.1584
+Text: Mung. Ning. Nong.
+
+Utterance 814
+Start: 1761.00
+End: 1763.00
+Confidence: -0.1584
+Text: Nung. Neng.
+
+Utterance 815
+Start: 1763.00
+End: 1765.00
+Confidence: -0.1584
+Text: Ngun. Ngin.
+
+Utterance 816
+Start: 1765.00
+End: 1767.00
+Confidence: -0.1225
+Text: Pung. Pong.
+
+Utterance 817
+Start: 1767.00
+End: 1769.00
+Confidence: -0.1225
+Text: Ring. Sang. Song.
+
+Utterance 818
+Start: 1769.00
+End: 1771.00
+Confidence: -0.1225
+Text: Sing. Tang.
+
+Utterance 819
+Start: 1771.00
+End: 1773.00
+Confidence: -0.1225
+Text: Tang. Tung.
+
+Utterance 820
+Start: 1773.00
+End: 1775.00
+Confidence: -0.1225
+Text: Chang. Chong. Ching.
+
+Utterance 821
+Start: 1775.00
+End: 1777.00
+Confidence: -0.1225
+Text: Ying. Yong. Yung.
+
+Utterance 822
+Start: 1783.00
+End: 1785.00
+Confidence: -0.1225
+Text: Bab. Bed.
+
+Utterance 823
+Start: 1785.00
+End: 1787.00
+Confidence: -0.1225
+Text: Bem. Bow.
+
+Utterance 824
+Start: 1787.00
+End: 1789.00
+Confidence: -0.1225
+Text: Boa. Boy.
+
+Utterance 825
+Start: 1789.00
+End: 1791.00
+Confidence: -0.1225
+Text: Das. Day.
+
+Utterance 826
+Start: 1791.00
+End: 1793.00
+Confidence: -0.1225
+Text: Del. Den. Dog.
+
+Utterance 827
+Start: 1793.00
+End: 1795.00
+Confidence: -0.1286
+Text: Dos. Gad.
+
+Utterance 828
+Start: 1795.00
+End: 1797.00
+Confidence: -0.1286
+Text: Gak. Gam. Gap.
+
+Utterance 829
+Start: 1797.00
+End: 1799.00
+Confidence: -0.1286
+Text: Far. Fat.
+
+Utterance 830
+Start: 1799.00
+End: 1801.00
+Confidence: -0.1286
+Text: Fel. Fing. Fo.
+
+Utterance 831
+Start: 1801.00
+End: 1803.00
+Confidence: -0.1286
+Text: Hab. Had.
+
+Utterance 832
+Start: 1803.00
+End: 1805.00
+Confidence: -0.1286
+Text: Hat. Hen. Hid.
+
+Utterance 833
+Start: 1805.00
+End: 1807.00
+Confidence: -0.1286
+Text: Hog. Hung.
+
+Utterance 834
+Start: 1807.00
+End: 1809.00
+Confidence: -0.1286
+Text: Jag. Jack.
+
+Utterance 835
+Start: 1809.00
+End: 1811.00
+Confidence: -0.1286
+Text: Jas. Jazz.
+
+Utterance 836
+Start: 1811.00
+End: 1813.00
+Confidence: -0.1286
+Text: Jing. Joy.
+
+Utterance 837
+Start: 1813.00
+End: 1815.00
+Confidence: -0.1286
+Text: Kab. Cad.
+
+Utterance 838
+Start: 1815.00
+End: 1817.00
+Confidence: -0.1286
+Text: Kag. Ken. Kib.
+
+Utterance 839
+Start: 1817.00
+End: 1819.00
+Confidence: -0.1286
+Text: Kog. Kow.
+
+Utterance 840
+Start: 1819.00
+End: 1821.00
+Confidence: -0.1286
+Text: Koy. Kur.
+
+Utterance 841
+Start: 1821.00
+End: 1823.00
+Confidence: -0.1301
+Text: Lab. Lad.
+
+Utterance 842
+Start: 1823.00
+End: 1825.00
+Confidence: -0.1301
+Text: Lai. Log.
+
+Utterance 843
+Start: 1825.00
+End: 1827.00
+Confidence: -0.1301
+Text: Law. Loy. Luk.
+
+Utterance 844
+Start: 1827.00
+End: 1829.00
+Confidence: -0.1301
+Text: Mal. Mem. Mip.
+
+Utterance 845
+Start: 1829.00
+End: 1831.00
+Confidence: -0.1301
+Text: Mir. Mau.
+
+Utterance 846
+Start: 1831.00
+End: 1833.00
+Confidence: -0.1301
+Text: Mug. Muk.
+
+Utterance 847
+Start: 1833.00
+End: 1835.00
+Confidence: -0.1301
+Text: Nab. Nad.
+
+Utterance 848
+Start: 1835.00
+End: 1837.00
+Confidence: -0.1301
+Text: Nal.
+
+Utterance 849
+Start: 1837.00
+End: 1839.00
+Confidence: -0.1301
+Text: Neg. Nep.
+
+Utterance 850
+Start: 1839.00
+End: 1841.00
+Confidence: -0.1301
+Text: Nip. Nir.
+
+Utterance 851
+Start: 1841.00
+End: 1843.00
+Confidence: -0.1301
+Text: Nos. Nau.
+
+Utterance 852
+Start: 1843.00
+End: 1845.00
+Confidence: -0.1301
+Text: Nus. Ngas.
+
+Utterance 853
+Start: 1845.00
+End: 1847.00
+Confidence: -0.1301
+Text: Ngek.
+
+Utterance 854
+Start: 1847.00
+End: 1849.00
+Confidence: -0.1301
+Text: Ngik. Ngop.
+
+Utterance 855
+Start: 1849.00
+End: 1851.00
+Confidence: -0.2094
+Text: Teng. Pik.
+
+Utterance 856
+Start: 1851.00
+End: 1853.00
+Confidence: -0.2094
+Text: Pou. Puk.
+
+Utterance 857
+Start: 1853.00
+End: 1855.00
+Confidence: -0.2094
+Text: Pus. Rab.
+
+Utterance 858
+Start: 1855.00
+End: 1857.00
+Confidence: -0.2094
+Text: Rad. Rag.
+
+Utterance 859
+Start: 1857.00
+End: 1859.00
+Confidence: -0.2094
+Text: Rak. Trem. Ren.
+
+Utterance 860
+Start: 1859.00
+End: 1861.00
+Confidence: -0.2094
+Text: Ris. Ro.
+
+Utterance 861
+Start: 1861.00
+End: 1863.00
+Confidence: -0.2094
+Text: Sad.
+
+Utterance 862
+Start: 1865.00
+End: 1867.00
+Confidence: -0.2094
+Text: Sat. Say.
+
+Utterance 863
+Start: 1867.00
+End: 1869.00
+Confidence: -0.2094
+Text: So. Suy.
+
+Utterance 864
+Start: 1869.00
+End: 1871.00
+Confidence: -0.2094
+Text: Tad. Tag.
+
+Utterance 865
+Start: 1871.00
+End: 1873.00
+Confidence: -0.2094
+Text: Tem. Ten.
+
+Utterance 866
+Start: 1873.00
+End: 1875.00
+Confidence: -0.2094
+Text: Tog. To. Chap.
+
+Utterance 867
+Start: 1875.00
+End: 1877.00
+Confidence: -0.2094
+Text: Check. Ches.
+
+Utterance 868
+Start: 1877.00
+End: 1879.00
+Confidence: -0.1308
+Text: Chok. Choy.
+
+Utterance 869
+Start: 1879.00
+End: 1881.00
+Confidence: -0.1308
+Text: Vak. Val.
+
+Utterance 870
+Start: 1881.00
+End: 1883.00
+Confidence: -0.1308
+Text: Ves. Vin.
+
+Utterance 871
+Start: 1883.00
+End: 1885.00
+Confidence: -0.1308
+Text: Vol. Wal.
+
+Utterance 872
+Start: 1885.00
+End: 1887.00
+Confidence: -0.1308
+Text: War. Wed.
+
+Utterance 873
+Start: 1887.00
+End: 1889.00
+Confidence: -0.1308
+Text: Wol. Yab.
+
+Utterance 874
+Start: 1889.00
+End: 1891.00
+Confidence: -0.1308
+Text: Yap. Yaw.
+
+Utterance 875
+Start: 1891.00
+End: 1893.00
+Confidence: -0.1308
+Text: Zam. Zay.
+
+Utterance 876
+Start: 1893.00
+End: 1895.00
+Confidence: -0.1308
+Text: Zig.
+
+Utterance 877
+Start: 1899.00
+End: 1901.00
+Confidence: -0.1308
+Text: Ako aming
+
+Utterance 878
+Start: 1901.00
+End: 1903.00
+Confidence: -0.1308
+Text: ang anim
+
+Utterance 879
+Start: 1903.00
+End: 1905.00
+Confidence: -0.1308
+Text: araw at ay
+
+Utterance 880
+Start: 1905.00
+End: 1907.00
+Confidence: -0.1386
+Text: ba
+
+Utterance 881
+Start: 1907.00
+End: 1909.00
+Confidence: -0.1386
+Text: bago. Bahay.
+
+Utterance 882
+Start: 1909.00
+End: 1911.00
+Confidence: -0.1386
+Text: Bawat. Bilhan.
+
+Utterance 883
+Start: 1911.00
+End: 1913.00
+Confidence: -0.1386
+Text: Bola. Buhay.
+
+Utterance 884
+Start: 1913.00
+End: 1915.00
+Confidence: -0.1386
+Text: Bumitiw. Buong.
+
+Utterance 885
+Start: 1915.00
+End: 1917.00
+Confidence: -0.1386
+Text: Buwanan.
+
+Utterance 886
+Start: 1917.00
+End: 1919.00
+Confidence: -0.1386
+Text: Buwanang. Coach.
+
+Utterance 887
+Start: 1919.00
+End: 1921.00
+Confidence: -0.1386
+Text: Di. Jes.
+
+Utterance 888
+Start: 1921.00
+End: 1923.00
+Confidence: -0.1386
+Text: Din. Doon.
+
+Utterance 889
+Start: 1923.00
+End: 1925.00
+Confidence: -0.1386
+Text: Enero.
+
+Utterance 890
+Start: 1925.00
+End: 1927.00
+Confidence: -0.1386
+Text: Intablado. Fairview.
+
+Utterance 891
+Start: 1927.00
+End: 1929.00
+Confidence: -0.1386
+Text: First. Gabriel.
+
+Utterance 892
+Start: 1929.00
+End: 1931.00
+Confidence: -0.1386
+Text: Galing.
+
+Utterance 893
+Start: 1931.00
+End: 1933.00
+Confidence: -0.1386
+Text: Ganap. Gulod.
+
+Utterance 894
+Start: 1933.00
+End: 1935.00
+Confidence: -0.0973
+Text: Hanging.
+
+Utterance 895
+Start: 1935.00
+End: 1937.00
+Confidence: -0.0973
+Text: Hindi. Huling.
+
+Utterance 896
+Start: 1937.00
+End: 1939.00
+Confidence: -0.0973
+Text: Impusibling.
+
+Utterance 897
+Start: 1939.00
+End: 1941.00
+Confidence: -0.0973
+Text: Ipagpatuloy.
+
+Utterance 898
+Start: 1941.00
+End: 1943.00
+Confidence: -0.0973
+Text: Isang itaas.
+
+Utterance 899
+Start: 1943.00
+End: 1945.00
+Confidence: -0.0973
+Text: Ito.
+
+Utterance 900
+Start: 1945.00
+End: 1947.00
+Confidence: -0.0973
+Text: Ian. Jack.
+
+Utterance 901
+Start: 1947.00
+End: 1949.00
+Confidence: -0.0973
+Text: Jeffrey. Jesus.
+
+Utterance 902
+Start: 1949.00
+End: 1951.00
+Confidence: -0.0973
+Text: Ka. Kaibigan.
+
+Utterance 903
+Start: 1951.00
+End: 1953.00
+Confidence: -0.0973
+Text: Kailan.
+
+Utterance 904
+Start: 1953.00
+End: 1955.00
+Confidence: -0.0973
+Text: Kailangan.
+
+Utterance 905
+Start: 1955.00
+End: 1957.00
+Confidence: -0.0973
+Text: Kalangitan. Kalawakan.
+
+Utterance 906
+Start: 1957.00
+End: 1959.00
+Confidence: -0.0973
+Text: Kalayaan.
+
+Utterance 907
+Start: 1959.00
+End: 1961.00
+Confidence: -0.0973
+Text: Kalikasan. Kapwa.
+
+Utterance 908
+Start: 1961.00
+End: 1963.00
+Confidence: -0.0756
+Text: Kawan.
+
+Utterance 909
+Start: 1963.00
+End: 1965.00
+Confidence: -0.0756
+Text: Kay. Kayat.
+
+Utterance 910
+Start: 1965.00
+End: 1967.00
+Confidence: -0.0756
+Text: Knowledge.
+
+Utterance 911
+Start: 1967.00
+End: 1969.00
+Confidence: -0.0756
+Text: Kung. Kuarto.
+
+Utterance 912
+Start: 1969.00
+End: 1971.00
+Confidence: -0.0756
+Text: Lahat. Lahok.
+
+Utterance 913
+Start: 1971.00
+End: 1973.00
+Confidence: -0.0756
+Text: Lakad.
+
+Utterance 914
+Start: 1973.00
+End: 1975.00
+Confidence: -0.0756
+Text: Love. Maabilidad.
+
+Utterance 915
+Start: 1975.00
+End: 1977.00
+Confidence: -0.0756
+Text: Maabot.
+
+Utterance 916
+Start: 1977.00
+End: 1979.00
+Confidence: -0.0756
+Text: Mabuti. Maganda.
+
+Utterance 917
+Start: 1981.00
+End: 1983.00
+Confidence: -0.0756
+Text: Magandang.
+
+Utterance 918
+Start: 1983.00
+End: 1985.00
+Confidence: -0.0756
+Text: Magiging.
+
+Utterance 919
+Start: 1985.00
+End: 1987.00
+Confidence: -0.0756
+Text: Magsikap. Magtulungan.
+
+Utterance 920
+Start: 1987.00
+End: 1989.00
+Confidence: -0.0756
+Text: Mahahanap.
+
+Utterance 921
+Start: 1989.00
+End: 1991.00
+Confidence: -0.1016
+Text: Makakain.
+
+Utterance 922
+Start: 1991.00
+End: 1993.00
+Confidence: -0.1016
+Text: Makasali.
+
+Utterance 923
+Start: 1993.00
+End: 1995.00
+Confidence: -0.1016
+Text: Maligayang. Manalo.
+
+Utterance 924
+Start: 1995.00
+End: 1997.00
+Confidence: -0.1016
+Text: Maraming. Mas.
+
+Utterance 925
+Start: 1997.00
+End: 1999.00
+Confidence: -0.1016
+Text: Matanggap.
+
+Utterance 926
+Start: 1999.00
+End: 2001.00
+Confidence: -0.1016
+Text: May. Manga.
+
+Utterance 927
+Start: 2001.00
+End: 2003.00
+Confidence: -0.1016
+Text: Mo. Mo.
+
+Utterance 928
+Start: 2003.00
+End: 2005.00
+Confidence: -0.1016
+Text: Munting. Na.
+
+Utterance 929
+Start: 2005.00
+End: 2007.00
+Confidence: -0.1016
+Text: Nagpunta.
+
+Utterance 930
+Start: 2007.00
+End: 2009.00
+Confidence: -0.1016
+Text: Nalalanghap. Naman.
+
+Utterance 931
+Start: 2009.00
+End: 2011.00
+Confidence: -0.1016
+Text: Namang. Namin.
+
+Utterance 932
+Start: 2011.00
+End: 2013.00
+Confidence: -0.1016
+Text: Nasugatan. Natin.
+
+Utterance 933
+Start: 2013.00
+End: 2015.00
+Confidence: -0.1016
+Text: Nating. Never.
+
+Utterance 934
+Start: 2015.00
+End: 2017.00
+Confidence: -0.1016
+Text: Nang. Ni.
+
+Utterance 935
+Start: 2017.00
+End: 2019.00
+Confidence: -0.1082
+Text: Ni. Nya.
+
+Utterance 936
+Start: 2019.00
+End: 2021.00
+Confidence: -0.1082
+Text: Nyo. Okasyon.
+
+Utterance 937
+Start: 2021.00
+End: 2023.00
+Confidence: -0.1082
+Text: Paano. Pagawa.
+
+Utterance 938
+Start: 2023.00
+End: 2025.00
+Confidence: -0.1082
+Text: Pagkabuhat.
+
+Utterance 939
+Start: 2025.00
+End: 2027.00
+Confidence: -0.1082
+Text: Pagkakahawak.
+
+Utterance 940
+Start: 2027.00
+End: 2029.00
+Confidence: -0.1082
+Text: Pagkakataong. Pakiayos.
+
+Utterance 941
+Start: 2029.00
+End: 2031.00
+Confidence: -0.1082
+Text: Panahon.
+
+Utterance 942
+Start: 2031.00
+End: 2033.00
+Confidence: -0.1082
+Text: Pangangalagaan.
+
+Utterance 943
+Start: 2033.00
+End: 2035.00
+Confidence: -0.1082
+Text: Pangarap. Panigin.
+
+Utterance 944
+Start: 2035.00
+End: 2037.00
+Confidence: -0.1082
+Text: Para.
+
+Utterance 945
+Start: 2037.00
+End: 2039.00
+Confidence: -0.1082
+Text: Pasko.
+
+Utterance 946
+Start: 2039.00
+End: 2041.00
+Confidence: -0.1082
+Text: Pati. Pedro.
+
+Utterance 947
+Start: 2041.00
+End: 2043.00
+Confidence: -0.1082
+Text: Petsa.
+
+Utterance 948
+Start: 2043.00
+End: 2045.00
+Confidence: -0.1082
+Text: PLDT. Po.
+
+Utterance 949
+Start: 2045.00
+End: 2047.00
+Confidence: -0.0962
+Text: Power.
+
+Utterance 950
+Start: 2047.00
+End: 2049.00
+Confidence: -0.0962
+Text: Premio. Programa.
+
+Utterance 951
+Start: 2049.00
+End: 2051.00
+Confidence: -0.0962
+Text: Rise. Sa.
+
+Utterance 952
+Start: 2051.00
+End: 2053.00
+Confidence: -0.0962
+Text: Saan. Sabado.
+
+Utterance 953
+Start: 2053.00
+End: 2055.00
+Confidence: -0.0962
+Text: Sampu.
+
+Utterance 954
+Start: 2055.00
+End: 2057.00
+Confidence: -0.0962
+Text: Sampung. Sandali.
+
+Utterance 955
+Start: 2057.00
+End: 2059.00
+Confidence: -0.0962
+Text: Sarili.
+
+Utterance 956
+Start: 2059.00
+End: 2061.00
+Confidence: -0.0962
+Text: Sinado. Si.
+
+Utterance 957
+Start: 2061.00
+End: 2063.00
+Confidence: -0.0962
+Text: Sinasabi.
+
+Utterance 958
+Start: 2063.00
+End: 2065.00
+Confidence: -0.0962
+Text: Sinong. Siya.
+
+Utterance 959
+Start: 2067.00
+End: 2069.00
+Confidence: -0.0962
+Text: Tahanan.
+
+Utterance 960
+Start: 2069.00
+End: 2071.00
+Confidence: -0.0962
+Text: Takdang. Tandaan.
+
+Utterance 961
+Start: 2071.00
+End: 2073.00
+Confidence: -0.0962
+Text: Tanghali.
+
+Utterance 962
+Start: 2073.00
+End: 2075.00
+Confidence: -0.1454
+Text: Tim.
+
+Utterance 963
+Start: 2075.00
+End: 2077.00
+Confidence: -0.1454
+Text: Tumalakay. Tumayo.
+
+Utterance 964
+Start: 2077.00
+End: 2079.00
+Confidence: -0.1454
+Text: Twid.
+
+Utterance 965
+Start: 2079.00
+End: 2081.00
+Confidence: -0.1454
+Text: TV. Ultra.
+
+Utterance 966
+Start: 2081.00
+End: 2083.00
+Confidence: -0.1454
+Text: Umawet. Umuwe.
+
+Utterance 967
+Start: 2083.00
+End: 2085.00
+Confidence: -0.1454
+Text: Uunlad.
+
+Utterance 968
+Start: 2085.00
+End: 2087.00
+Confidence: -0.1454
+Text: Violet.
+
+Utterance 969
+Start: 2087.00
+End: 2089.00
+Confidence: -0.1454
+Text: Woman. Yung.
+
+Utterance 970
+Start: 2089.00
+End: 2091.00
+Confidence: -0.1454
+Text: Zaza.
+
+Utterance 971
+Start: 2091.00
+End: 2093.00
+Confidence: -0.1454
+Text: The end.
+
+Utterance 972
+Start: 2103.00
+End: 2105.00
+Confidence: -0.9426
+Text: Thank you for watching!
+
+Utterance 973
+Start: 2133.00
+End: 2135.00
+Confidence: -0.7732
+Text: Thank you for watching!
+
