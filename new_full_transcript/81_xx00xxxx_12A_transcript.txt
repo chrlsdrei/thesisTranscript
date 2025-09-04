@@ -1,0 +1,8663 @@
+Transcription for: 81_xx00xxxx_12A
+Total utterances: 1237
+==================================================
+
+Utterance 1
+Start: 3.84
+End: 7.52
+Duration: 3.68s
+Confidence: 0.9445
+Text: Magandang umaga. Ako si Lara. Ako ay 27
+
+Utterance 2
+Start: 7.52
+End: 11.60
+Duration: 4.08s
+Confidence: 0.8334
+Text: años. Wala pang asawa ngunit gusto nang magkapamilya.
+
+Utterance 3
+Start: 11.80
+End: 14.14
+Duration: 2.34s
+Confidence: 0.9789
+Text: Sa ngayon ay wala pa akong boyfriend. Pero
+
+Utterance 4
+Start: 14.14
+End: 16.12
+Duration: 1.98s
+Confidence: 0.9596
+Text: marami na rin ang naliligaw sa akin.
+
+Utterance 5
+Start: 17.34
+End: 20.16
+Duration: 2.82s
+Confidence: 0.8944
+Text: Paalis na ang babae ng biglang umulan kaya
+
+Utterance 6
+Start: 20.16
+End: 22.90
+Duration: 2.74s
+Confidence: 0.9308
+Text: nahiga muna siya sa sofa at hinintay ang
+
+Utterance 7
+Start: 22.90
+End: 24.26
+Duration: 1.36s
+Confidence: 0.8691
+Text: paghinan ng ulan.
+
+Utterance 8
+Start: 24.48
+End: 26.08
+Duration: 1.60s
+Confidence: -0.1689
+Text: Nakatulog ang dalaga.
+
+Utterance 9
+Start: 26.36
+End: 28.12
+Duration: 1.76s
+Confidence: -0.1689
+Text: Mayamaya ay biglang tumunog ang telepono.
+
+Utterance 10
+Start: 29.22
+End: 31.14
+Duration: 1.92s
+Confidence: -0.1689
+Text: Ang kaibigan niya ang tumawag.
+
+Utterance 11
+Start: 31.46
+End: 35.46
+Duration: 4.00s
+Confidence: 0.9584
+Text: Naalala ang usapan nilang magkakaibigan, nagmamadaling lumabas ang
+
+Utterance 12
+Start: 35.46
+End: 36.02
+Duration: 0.56s
+Confidence: 0.9983
+Text: dalaga.
+
+Utterance 13
+Start: 36.58
+End: 40.02
+Duration: 3.44s
+Confidence: 0.9133
+Text: Maaliwalas na ang kalangitan, ngunit nagdidilimnan ng mga
+
+Utterance 14
+Start: 40.02
+End: 40.80
+Duration: 0.78s
+Confidence: 0.6755
+Text: sandaling ion.
+
+Utterance 15
+Start: 40.80
+End: 43.86
+Duration: 3.06s
+Confidence: 0.8713
+Text: Patungo na sa gate ang babae ng madaanan
+
+Utterance 16
+Start: 43.86
+End: 45.80
+Duration: 1.94s
+Confidence: 0.8986
+Text: niya ang katulong.
+
+Utterance 17
+Start: 46.68
+End: 48.80
+Duration: 2.12s
+Confidence: 0.9253
+Text: Nag -aalis ng mga laglag na dahon sa
+
+Utterance 18
+Start: 48.80
+End: 49.58
+Duration: 0.78s
+Confidence: 0.9639
+Text: damo.
+
+Utterance 19
+Start: 49.80
+End: 52.40
+Duration: 2.60s
+Confidence: -0.1256
+Text: Napatingin ang dalaga sa halamang nasa paso.
+
+Utterance 20
+Start: 53.32
+End: 56.30
+Duration: 2.98s
+Confidence: -0.1256
+Text: Napansin niyang hugis puso ang mga dahon nito.
+
+Utterance 21
+Start: 57.96
+End: 61.42
+Duration: 3.46s
+Confidence: 0.9286
+Text: Nung unang panahon, sa isang malayong bayan ay
+
+Utterance 22
+Start: 61.42
+End: 63.04
+Duration: 1.62s
+Confidence: 0.9564
+Text: may matalik na magkaibigan.
+
+Utterance 23
+Start: 63.68
+End: 66.02
+Duration: 2.34s
+Confidence: 0.9384
+Text: Wala silang ibang trabaho kundi ang magpalimaw sa
+
+Utterance 24
+Start: 66.02
+End: 67.04
+Duration: 1.02s
+Confidence: 0.9465
+Text: araw -araw.
+
+Utterance 25
+Start: 67.04
+End: 70.88
+Duration: 3.84s
+Confidence: 0.8775
+Text: Palibhasa ay masagana ang pamumuhay ng mga mamamayan
+
+Utterance 26
+Start: 70.88
+End: 72.16
+Duration: 1.28s
+Confidence: 0.7582
+Text: sa bayang ayon
+
+Utterance 27
+Start: 72.16
+End: 75.06
+Duration: 2.90s
+Confidence: 0.9463
+Text: kung kaya laging bukas ang kanilang mga palad
+
+Utterance 28
+Start: 75.06
+End: 77.88
+Duration: 2.82s
+Confidence: 0.9523
+Text: sa pagbibigay ng limos ng magkaibigan.
+
+Utterance 29
+Start: 79.08
+End: 79.18
+Duration: 0.10s
+Confidence: 0.8702
+Text: Sa
+
+Utterance 30
+Start: 79.18
+End: 80.48
+Duration: 1.30s
+Confidence: 0.9703
+Text: magkaibigan.
+
+Utterance 31
+Start: 82.50
+End: 84.42
+Duration: 1.92s
+Confidence: -0.2311
+Text: Anong panahon ang tinutukoy sa tula?
+
+Utterance 32
+Start: 85.72
+End: 86.78
+Duration: 1.06s
+Confidence: -0.2311
+Text: Maganda siya, di ba?
+
+Utterance 33
+Start: 88.36
+End: 92.98
+Duration: 4.62s
+Confidence: -0.2311
+Text: Paano niya masisigurado na makikita ninyo siya rito?
+
+Utterance 34
+Start: 94.30
+End: 96.98
+Duration: 2.68s
+Confidence: -0.1639
+Text: Bakit kailangan pang may dahon at tubig?
+
+Utterance 35
+Start: 98.34
+End: 101.12
+Duration: 2.78s
+Confidence: 0.8866
+Text: Sigurado ka ba na pe't sa labing tatlo
+
+Utterance 36
+Start: 101.12
+End: 101.96
+Duration: 0.84s
+Confidence: 0.9913
+Text: ngayon?
+
+Utterance 37
+Start: 102.32
+End: 105.32
+Duration: 3.00s
+Confidence: -0.1639
+Text: Gumising ka na. Magluto ka mamaya.
+
+Utterance 38
+Start: 105.92
+End: 108.12
+Duration: 2.20s
+Confidence: -0.1639
+Text: Bigan mo ako niyang kinakain mo.
+
+Utterance 39
+Start: 108.76
+End: 112.02
+Duration: 3.26s
+Confidence: -0.1639
+Text: Kantahin mo naman kami. Kantahan mo naman kami.
+
+Utterance 40
+Start: 113.32
+End: 114.80
+Duration: 1.48s
+Confidence: -0.1639
+Text: Pakigamot ang sugat ko.
+
+Utterance 41
+Start: 115.90
+End: 119.98
+Duration: 4.08s
+Confidence: -0.1639
+Text: Ang pangit ng binili mo. Magkalimutan na tayo.
+
+Utterance 42
+Start: 123.48
+End: 126.84
+Duration: 3.36s
+Confidence: 0.7270
+Text: 67 kilo ng shabu ang gagamiteng evidenciyan ng
+
+Utterance 43
+Start: 126.84
+End: 129.72
+Duration: 2.88s
+Confidence: 0.8230
+Text: PNP laban sa anaarestong pusyer sa Kolehayo sa
+
+Utterance 44
+Start: 129.72
+End: 131.28
+Duration: 1.56s
+Confidence: 0.8710
+Text: San Jose del Monte.
+
+Utterance 45
+Start: 132.36
+End: 135.44
+Duration: 3.08s
+Confidence: 0.7631
+Text: Si Naluwe at JM ay dapat bigyan atensyon
+
+Utterance 46
+Start: 135.44
+End: 137.54
+Duration: 2.10s
+Confidence: 0.9743
+Text: dahil hiwalay ang mga magulang.
+
+Utterance 47
+Start: 138.58
+End: 140.78
+Duration: 2.20s
+Confidence: -0.3507
+Text: Si Vilma ang star for all season.
+
+Utterance 48
+Start: 141.82
+End: 144.54
+Duration: 2.72s
+Confidence: 0.9306
+Text: Walang zebra at MNLF sa zoo at jungle
+
+Utterance 49
+Start: 144.54
+End: 145.52
+Duration: 0.98s
+Confidence: 0.9607
+Text: ng Washington.
+
+Utterance 50
+Start: 148.82
+End: 149.54
+Duration: 0.72s
+Confidence: 0.9619
+Text: Pangulo
+
+Utterance 51
+Start: 149.54
+End: 151.58
+Duration: 2.04s
+Confidence: 0.7195
+Text: Magnanakaw,
+
+Utterance 52
+Start: 151.78
+End: 152.70
+Duration: 0.92s
+Confidence: 0.5317
+Text: lungsod,
+
+Utterance 53
+Start: 153.00
+End: 154.12
+Duration: 1.12s
+Confidence: 0.9037
+Text: kasalukuyang,
+
+Utterance 54
+Start: 154.40
+End: 155.14
+Duration: 0.74s
+Confidence: 0.9307
+Text: aabutan,
+
+Utterance 55
+Start: 155.88
+End: 156.60
+Duration: 0.72s
+Confidence: 0.8899
+Text: hugis,
+
+Utterance 56
+Start: 156.92
+End: 157.68
+Duration: 0.76s
+Confidence: 0.8063
+Text: magpalimos,
+
+Utterance 57
+Start: 159.24
+End: 159.62
+Duration: 0.38s
+Confidence: 0.4649
+Text: paso,
+
+Utterance 58
+Start: 161.30
+End: 161.90
+Duration: 0.60s
+Confidence: 0.9684
+Text: aalis,
+
+Utterance 59
+Start: 163.06
+End: 164.06
+Duration: 1.00s
+Confidence: 0.9655
+Text: huling,
+
+Utterance 60
+Start: 164.34
+End: 165.50
+Duration: 1.16s
+Confidence: 0.9673
+Text: magpipitong,
+
+Utterance 61
+Start: 166.24
+End: 167.20
+Duration: 0.96s
+Confidence: 0.9162
+Text: pasok,
+
+Utterance 62
+Start: 167.52
+End: 168.20
+Duration: 0.68s
+Confidence: 0.5278
+Text: aba,
+
+Utterance 63
+Start: 169.48
+End: 170.72
+Duration: 1.24s
+Confidence: 0.9772
+Text: magsabong,
+
+Utterance 64
+Start: 171.14
+End: 171.44
+Duration: 0.30s
+Confidence: 0.9159
+Text: showing,
+
+Utterance 65
+Start: 172.38
+End: 173.42
+Duration: 1.04s
+Confidence: 0.9803
+Text: ngayong,
+
+Utterance 66
+Start: 173.76
+End: 174.48
+Duration: 0.72s
+Confidence: 0.9781
+Text: patak,
+
+Utterance 67
+Start: 175.10
+End: 176.30
+Duration: 1.20s
+Confidence: 0.9585
+Text: humahataw,
+
+Utterance 68
+Start: 176.76
+End: 177.34
+Duration: 0.58s
+Confidence: 0.7753
+Text: magsama,
+
+Utterance 69
+Start: 178.26
+End: 179.00
+Duration: 0.74s
+Confidence: 0.9637
+Text: masyadong,
+
+Utterance 70
+Start: 179.54
+End: 180.56
+Duration: 1.02s
+Confidence: 0.5472
+Text: Patay
+
+Utterance 71
+Start: 180.56
+End: 182.00
+Duration: 1.44s
+Confidence: 0.7311
+Text: Humanda
+
+Utterance 72
+Start: 182.00
+End: 183.58
+Duration: 1.58s
+Confidence: 0.8815
+Text: Magsanay
+
+Utterance 73
+Start: 183.58
+End: 184.54
+Duration: 0.96s
+Confidence: 0.9879
+Text: Masamang
+
+Utterance 74
+Start: 185.14
+End: 185.84
+Duration: 0.70s
+Confidence: 0.9627
+Text: Agad
+
+Utterance 75
+Start: 187.26
+End: 187.96
+Duration: 0.70s
+Confidence: 0.7596
+Text: Humihingi
+
+Utterance 76
+Start: 188.66
+End: 189.54
+Duration: 0.88s
+Confidence: 0.9644
+Text: Pangalagaan
+
+Utterance 77
+Start: 190.22
+End: 191.56
+Duration: 1.34s
+Confidence: 0.9734
+Text: Magsanib
+
+Utterance 78
+Start: 191.56
+End: 193.62
+Duration: 2.06s
+Confidence: 0.9651
+Text: Patungo
+
+Utterance 79
+Start: 193.62
+End: 194.94
+Duration: 1.32s
+Confidence: 0.7662
+Text: Awing
+
+Utterance 80
+Start: 194.94
+End: 196.50
+Duration: 1.56s
+Confidence: 0.9357
+Text: Kawawang
+
+Utterance 81
+Start: 196.50
+End: 197.68
+Duration: 1.18s
+Confidence: 0.9779
+Text: Agahan
+
+Utterance 82
+Start: 197.68
+End: 199.56
+Duration: 1.88s
+Confidence: 0.8542
+Text: Hunyo
+
+Utterance 83
+Start: 199.56
+End: 200.54
+Duration: 0.98s
+Confidence: 0.9409
+Text: Dalawang
+
+Utterance 84
+Start: 201.12
+End: 202.48
+Duration: 1.36s
+Confidence: 0.9009
+Text: Magsasaka
+
+Utterance 85
+Start: 202.48
+End: 203.46
+Duration: 0.98s
+Confidence: 0.9557
+Text: Patong
+
+Utterance 86
+Start: 203.46
+End: 204.54
+Duration: 1.08s
+Confidence: 0.8668
+Text: -patong
+
+Utterance 87
+Start: 204.54
+End: 205.78
+Duration: 1.24s
+Confidence: 0.9756
+Text: Agaw
+
+Utterance 88
+Start: 205.78
+End: 207.04
+Duration: 1.26s
+Confidence: 0.9124
+Text: Husgahan
+
+Utterance 89
+Start: 207.04
+End: 208.26
+Duration: 1.22s
+Confidence: 0.9307
+Text: Magsawa
+
+Utterance 90
+Start: 208.26
+End: 210.38
+Duration: 2.12s
+Confidence: 0.6936
+Text: Agawin,
+
+Utterance 91
+Start: 210.68
+End: 211.42
+Duration: 0.74s
+Confidence: 0.3862
+Text: wag,
+
+Utterance 92
+Start: 212.12
+End: 213.52
+Duration: 1.40s
+Confidence: 0.7646
+Text: kinauukulang
+
+Utterance 93
+Start: 213.52
+End: 214.56
+Duration: 1.04s
+Confidence: 0.6895
+Text: magsawalang
+
+Utterance 94
+Start: 214.56
+End: 215.22
+Duration: 0.66s
+Confidence: 0.9110
+Text: kibo,
+
+Utterance 95
+Start: 215.78
+End: 216.86
+Duration: 1.08s
+Confidence: 0.7609
+Text: pautos,
+
+Utterance 96
+Start: 217.36
+End: 219.20
+Duration: 1.84s
+Confidence: 0.8980
+Text: mapapakinabangang,
+
+Utterance 97
+Start: 219.56
+End: 220.36
+Duration: 0.80s
+Confidence: 0.4788
+Text: agyo,
+
+Utterance 98
+Start: 220.62
+End: 221.50
+Duration: 0.88s
+Confidence: 0.7425
+Text: huwebes,
+
+Utterance 99
+Start: 221.84
+End: 222.54
+Duration: 0.70s
+Confidence: 0.8752
+Text: magsaya,
+
+Utterance 100
+Start: 223.06
+End: 224.04
+Duration: 0.98s
+Confidence: 0.8625
+Text: febrero,
+
+Utterance 101
+Start: 224.44
+End: 224.76
+Duration: 0.32s
+Confidence: 0.9214
+Text: hating
+
+Utterance 102
+Start: 224.76
+End: 225.78
+Duration: 1.02s
+Confidence: 0.9800
+Text: gabi,
+
+Utterance 103
+Start: 226.14
+End: 227.68
+Duration: 1.54s
+Confidence: 0.7124
+Text: akayin,
+
+Utterance 104
+Start: 228.00
+End: 229.10
+Duration: 1.10s
+Confidence: 0.9773
+Text: magsikap,
+
+Utterance 105
+Start: 229.46
+End: 230.30
+Duration: 0.84s
+Confidence: 0.9673
+Text: pera,
+
+Utterance 106
+Start: 230.68
+End: 230.94
+Duration: 0.26s
+Confidence: 0.6324
+Text: akin,
+
+Utterance 107
+Start: 231.84
+End: 232.24
+Duration: 0.40s
+Confidence: 0.9201
+Text: swimming,
+
+Utterance 108
+Start: 233.18
+End: 234.40
+Duration: 1.22s
+Confidence: 0.9517
+Text: magtagumpay,
+
+Utterance 109
+Start: 234.74
+End: 235.16
+Duration: 0.42s
+Confidence: 0.9162
+Text: pero,
+
+Utterance 110
+Start: 236.08
+End: 236.70
+Duration: 0.62s
+Confidence: 0.9279
+Text: aking
+
+Utterance 111
+Start: 236.70
+End: 237.72
+Duration: 1.02s
+Confidence: 0.8101
+Text: ibagsak,
+
+Utterance 112
+Start: 238.26
+End: 239.48
+Duration: 1.22s
+Confidence: 0.7418
+Text: Magtanim,
+
+Utterance 113
+Start: 239.80
+End: 240.48
+Duration: 0.68s
+Confidence: 0.2099
+Text: peza,
+
+Utterance 114
+Start: 241.16
+End: 241.84
+Duration: 0.68s
+Confidence: 0.8554
+Text: ako,
+
+Utterance 115
+Start: 242.32
+End: 243.54
+Duration: 1.22s
+Confidence: 0.9771
+Text: magtanong,
+
+Utterance 116
+Start: 243.96
+End: 244.66
+Duration: 0.70s
+Confidence: 0.9881
+Text: akong,
+
+Utterance 117
+Start: 245.36
+End: 245.94
+Duration: 0.58s
+Confidence: 0.9378
+Text: ibang,
+
+Utterance 118
+Start: 246.56
+End: 247.76
+Duration: 1.20s
+Confidence: 0.9615
+Text: magtulungan,
+
+Utterance 119
+Start: 248.26
+End: 249.44
+Duration: 1.18s
+Confidence: 0.9492
+Text: aksayahin,
+
+Utterance 120
+Start: 249.76
+End: 251.00
+Duration: 1.24s
+Confidence: 0.9901
+Text: magulang,
+
+Utterance 121
+Start: 251.36
+End: 252.26
+Duration: 0.90s
+Confidence: 0.9108
+Text: tilat,
+
+Utterance 122
+Start: 252.56
+End: 253.34
+Duration: 0.78s
+Confidence: 0.8985
+Text: senatorial,
+
+Utterance 123
+Start: 254.06
+End: 254.94
+Duration: 0.88s
+Confidence: 0.8961
+Text: aktibong,
+
+Utterance 124
+Start: 255.36
+End: 256.68
+Duration: 1.32s
+Confidence: 0.9607
+Text: magusap,
+
+Utterance 125
+Start: 257.20
+End: 257.54
+Duration: 0.34s
+Confidence: 0.9899
+Text: pili,
+
+Utterance 126
+Start: 258.32
+End: 259.32
+Duration: 1.00s
+Confidence: 0.6035
+Text: akiat,
+
+Utterance 127
+Start: 259.82
+End: 260.56
+Duration: 0.74s
+Confidence: 0.7884
+Text: magutos,
+
+Utterance 128
+Start: 261.34
+End: 262.50
+Duration: 1.16s
+Confidence: 0.9510
+Text: alagaan,
+
+Utterance 129
+Start: 262.88
+End: 263.92
+Duration: 1.04s
+Confidence: 0.8757
+Text: ibigin,
+
+Utterance 130
+Start: 264.22
+End: 265.08
+Duration: 0.86s
+Confidence: 0.8656
+Text: mahabang,
+
+Utterance 131
+Start: 265.76
+End: 266.82
+Duration: 1.06s
+Confidence: 0.8280
+Text: piliin,
+
+Utterance 132
+Start: 267.22
+End: 267.86
+Duration: 0.64s
+Confidence: 0.8740
+Text: alalayan,
+
+Utterance 133
+Start: 300.08
+End: 301.34
+Duration: 1.26s
+Confidence: 0.6396
+Text: Ikalat,
+
+Utterance 134
+Start: 301.34
+End: 302.60
+Duration: 1.26s
+Confidence: 0.8311
+Text: maibabalik,
+
+Utterance 135
+Start: 303.02
+End: 304.04
+Duration: 1.02s
+Confidence: 0.7740
+Text: pinanonood,
+
+Utterance 136
+Start: 304.54
+End: 305.34
+Duration: 0.80s
+Confidence: 0.9781
+Text: ikanta,
+
+Utterance 137
+Start: 305.74
+End: 306.66
+Duration: 0.92s
+Confidence: 0.9738
+Text: maingay,
+
+Utterance 138
+Start: 306.94
+End: 308.14
+Duration: 1.20s
+Confidence: 0.9580
+Text: pinatakbo,
+
+Utterance 139
+Start: 308.52
+End: 309.28
+Duration: 0.76s
+Confidence: 0.8940
+Text: aming,
+
+Utterance 140
+Start: 309.54
+End: 310.60
+Duration: 1.06s
+Confidence: 0.9455
+Text: ikapitong,
+
+Utterance 141
+Start: 311.06
+End: 311.34
+Duration: 0.28s
+Confidence: 0.9144
+Text: anak,
+
+Utterance 142
+Start: 312.10
+End: 312.76
+Duration: 0.66s
+Confidence: 0.9756
+Text: ikasa,
+
+Utterance 143
+Start: 313.30
+End: 314.66
+Duration: 1.36s
+Confidence: 0.8148
+Text: maintindihan,
+
+Utterance 144
+Start: 314.92
+End: 315.82
+Duration: 0.90s
+Confidence: 0.9352
+Text: pinto,
+
+Utterance 145
+Start: 316.34
+End: 317.02
+Duration: 0.68s
+Confidence: 0.9846
+Text: ang,
+
+Utterance 146
+Start: 317.44
+End: 318.74
+Duration: 1.30s
+Confidence: 0.9257
+Text: maipaliwanag,
+
+Utterance 147
+Start: 319.06
+End: 319.88
+Duration: 0.82s
+Confidence: 0.9679
+Text: pintura,
+
+Utterance 148
+Start: 320.48
+End: 320.84
+Duration: 0.36s
+Confidence: 0.5529
+Text: anim,
+
+Utterance 149
+Start: 321.62
+End: 322.64
+Duration: 1.02s
+Confidence: 0.9642
+Text: maipapayo,
+
+Utterance 150
+Start: 323.34
+End: 323.96
+Duration: 0.62s
+Confidence: 0.9376
+Text: anino,
+
+Utterance 151
+Start: 324.42
+End: 325.06
+Duration: 0.64s
+Confidence: 0.9847
+Text: ikaw,
+
+Utterance 152
+Start: 325.44
+End: 326.22
+Duration: 0.78s
+Confidence: 0.7447
+Text: mais,
+
+Utterance 153
+Start: 326.64
+End: 327.22
+Duration: 0.58s
+Confidence: 0.9361
+Text: piraso,
+
+Utterance 154
+Start: 327.98
+End: 328.14
+Duration: 0.16s
+Confidence: 0.9039
+Text: ano,
+
+Utterance 155
+Start: 328.26
+End: 330.38
+Duration: 2.12s
+Confidence: 0.6743
+Text: ilagay,
+
+Utterance 156
+Start: 330.58
+End: 331.92
+Duration: 1.34s
+Confidence: 0.7189
+Text: maitatangge,
+
+Utterance 157
+Start: 332.26
+End: 333.40
+Duration: 1.14s
+Confidence: 0.9698
+Text: pirasong,
+
+Utterance 158
+Start: 333.98
+End: 335.12
+Duration: 1.14s
+Confidence: 0.6569
+Text: antay,
+
+Utterance 159
+Start: 335.54
+End: 337.12
+Duration: 1.58s
+Confidence: 0.9878
+Text: ilalagay,
+
+Utterance 160
+Start: 337.48
+End: 338.52
+Duration: 1.04s
+Confidence: 0.8809
+Text: makaabot,
+
+Utterance 161
+Start: 338.86
+End: 339.72
+Duration: 0.86s
+Confidence: 0.6930
+Text: firma,
+
+Utterance 162
+Start: 340.08
+End: 341.04
+Duration: 0.96s
+Confidence: 0.7328
+Text: antayin,
+
+Utterance 163
+Start: 341.14
+End: 342.46
+Duration: 1.32s
+Confidence: 0.9754
+Text: makadama.
+
+Utterance 164
+Start: 347.90
+End: 348.46
+Duration: 0.56s
+Confidence: 0.8002
+Text: Pisa,
+
+Utterance 165
+Start: 349.14
+End: 350.06
+Duration: 0.92s
+Confidence: 0.6980
+Text: antok,
+
+Utterance 166
+Start: 350.66
+End: 352.20
+Duration: 1.54s
+Confidence: 0.8465
+Text: nangangahulogan,
+
+Utterance 167
+Start: 352.64
+End: 354.06
+Duration: 1.42s
+Confidence: 0.9717
+Text: makakalimot,
+
+Utterance 168
+Start: 354.38
+End: 355.04
+Duration: 0.66s
+Confidence: 0.9751
+Text: pisain,
+
+Utterance 169
+Start: 355.84
+End: 356.76
+Duration: 0.92s
+Confidence: 0.9287
+Text: antukin,
+
+Utterance 170
+Start: 356.76
+End: 358.76
+Duration: 2.00s
+Confidence: 0.5502
+Text: Ilang
+
+Utterance 171
+Start: 359.42
+End: 360.76
+Duration: 1.34s
+Confidence: 0.7962
+Text: Makakatapos
+
+Utterance 172
+Start: 361.32
+End: 362.80
+Duration: 1.48s
+Confidence: 0.5623
+Text: Pisgih
+
+Utterance 173
+Start: 362.80
+End: 364.10
+Duration: 1.30s
+Confidence: 0.8525
+Text: Anumang
+
+Utterance 174
+Start: 364.76
+End: 366.34
+Duration: 1.58s
+Confidence: 0.8585
+Text: Makakuha
+
+Utterance 175
+Start: 366.34
+End: 367.84
+Duration: 1.50s
+Confidence: 0.9288
+Text: Piso
+
+Utterance 176
+Start: 368.76
+End: 369.46
+Duration: 0.70s
+Confidence: 0.7858
+Text: Años
+
+Utterance 177
+Start: 370.56
+End: 371.26
+Duration: 0.70s
+Confidence: 0.8318
+Text: Makapagkalat
+
+Utterance 178
+Start: 371.26
+End: 372.40
+Duration: 1.14s
+Confidence: 0.8821
+Text: Apat,
+
+Utterance 179
+Start: 372.54
+End: 374.16
+Duration: 1.62s
+Confidence: 0.7253
+Text: ilibing
+
+Utterance 180
+Start: 376.24
+End: 376.94
+Duration: 0.70s
+Confidence: 0.9417
+Text: Makapagsasabing
+
+Utterance 181
+Start: 377.64
+End: 378.26
+Duration: 0.62s
+Confidence: 0.6577
+Text: Po
+
+Utterance 182
+Start: 378.26
+End: 379.62
+Duration: 1.36s
+Confidence: 0.8295
+Text: Ilito
+
+Utterance 183
+Start: 380.38
+End: 381.08
+Duration: 0.70s
+Confidence: 0.9739
+Text: Makapal,
+
+Utterance 184
+Start: 381.26
+End: 382.38
+Duration: 1.12s
+Confidence: 0.6776
+Text: posporo
+
+Utterance 185
+Start: 382.38
+End: 383.70
+Duration: 1.32s
+Confidence: 0.9428
+Text: Balitang,
+
+Utterance 186
+Start: 384.02
+End: 384.76
+Duration: 0.74s
+Confidence: 0.7691
+Text: yong
+
+Utterance 187
+Start: 384.76
+End: 386.36
+Duration: 1.60s
+Confidence: 0.6701
+Text: Apoi,
+
+Utterance 188
+Start: 386.44
+End: 387.38
+Duration: 0.94s
+Confidence: 0.8731
+Text: makarating
+
+Utterance 189
+Start: 387.38
+End: 389.56
+Duration: 2.18s
+Confidence: 0.5093
+Text: Premio,
+
+Utterance 190
+Start: 389.96
+End: 390.66
+Duration: 0.70s
+Confidence: 0.7523
+Text: ilong
+
+Utterance 191
+Start: 391.08
+End: 392.58
+Duration: 1.50s
+Confidence: 0.7456
+Text: Makasali,
+
+Utterance 192
+Start: 393.24
+End: 394.18
+Duration: 0.94s
+Confidence: 0.5959
+Text: provincia
+
+Utterance 193
+Start: 394.18
+End: 395.54
+Duration: 1.36s
+Confidence: 0.9064
+Text: Makata,
+
+Utterance 194
+Start: 396.04
+End: 396.66
+Duration: 0.62s
+Confidence: 0.9686
+Text: araw
+
+Utterance 195
+Start: 396.66
+End: 398.32
+Duration: 1.66s
+Confidence: 0.6418
+Text: Impusibling,
+
+Utterance 196
+Start: 398.68
+End: 399.90
+Duration: 1.22s
+Confidence: 0.9927
+Text: makatulog
+
+Utterance 197
+Start: 399.90
+End: 401.16
+Duration: 1.26s
+Confidence: 0.8213
+Text: Aray,
+
+Utterance 198
+Start: 401.54
+End: 402.24
+Duration: 0.70s
+Confidence: 0.7640
+Text: ina
+
+Utterance 199
+Start: 402.72
+End: 404.08
+Duration: 1.36s
+Confidence: 0.6998
+Text: Makiangkas,
+
+Utterance 200
+Start: 404.64
+End: 405.90
+Duration: 1.26s
+Confidence: 0.9636
+Text: pumasok
+
+Utterance 201
+Start: 405.90
+End: 407.22
+Duration: 1.32s
+Confidence: 0.8952
+Text: Asa,
+
+Utterance 202
+Start: 407.62
+End: 409.00
+Duration: 1.38s
+Confidence: 0.9549
+Text: inaasahan
+
+Utterance 203
+Start: 409.00
+End: 410.18
+Duration: 1.18s
+Confidence: 0.9671
+Text: Makikita,
+
+Utterance 204
+Start: 410.86
+End: 412.02
+Duration: 1.16s
+Confidence: 0.9973
+Text: asahan
+
+Utterance 205
+Start: 412.02
+End: 413.98
+Duration: 1.96s
+Confidence: 0.6517
+Text: Inay,
+
+Utterance 206
+Start: 414.28
+End: 415.08
+Duration: 0.80s
+Confidence: 0.8602
+Text: makita,
+
+Utterance 207
+Start: 415.54
+End: 416.42
+Duration: 0.88s
+Confidence: 0.9762
+Text: pumunta,
+
+Utterance 208
+Start: 416.88
+End: 417.38
+Duration: 0.50s
+Confidence: 0.9293
+Text: asarin,
+
+Utterance 209
+Start: 418.24
+End: 419.30
+Duration: 1.06s
+Confidence: 0.9623
+Text: ingay,
+
+Utterance 210
+Start: 419.80
+End: 420.50
+Duration: 0.70s
+Confidence: 0.8254
+Text: makited,
+
+Utterance 211
+Start: 421.26
+End: 422.20
+Duration: 0.94s
+Confidence: 0.9910
+Text: punas,
+
+Utterance 212
+Start: 422.64
+End: 423.96
+Duration: 1.32s
+Confidence: 0.7717
+Text: regulasyons,
+
+Utterance 213
+Start: 424.56
+End: 425.18
+Duration: 0.62s
+Confidence: 0.9773
+Text: asawa,
+
+Utterance 214
+Start: 425.90
+End: 426.86
+Duration: 0.96s
+Confidence: 0.4000
+Text: inhiniero,
+
+Utterance 215
+Start: 427.56
+End: 428.68
+Duration: 1.12s
+Confidence: 0.9155
+Text: makuha,
+
+Utterance 216
+Start: 429.12
+End: 430.00
+Duration: 0.88s
+Confidence: 0.7425
+Text: puno,
+
+Utterance 217
+Start: 430.40
+End: 431.24
+Duration: 0.84s
+Confidence: 0.9714
+Text: aso,
+
+Utterance 218
+Start: 431.60
+End: 432.40
+Duration: 0.80s
+Confidence: 0.9906
+Text: punong,
+
+Utterance 219
+Start: 432.84
+End: 433.86
+Duration: 1.02s
+Confidence: 0.9717
+Text: at,
+
+Utterance 220
+Start: 434.22
+End: 435.60
+Duration: 1.38s
+Confidence: 0.9507
+Text: ininsulto,
+
+Utterance 221
+Start: 435.88
+End: 436.86
+Duration: 0.98s
+Confidence: 0.9810
+Text: punta,
+
+Utterance 222
+Start: 437.42
+End: 438.16
+Duration: 0.74s
+Confidence: 0.9599
+Text: atin,
+
+Utterance 223
+Start: 438.60
+End: 439.46
+Duration: 0.86s
+Confidence: 0.8726
+Text: inis,
+
+Utterance 224
+Start: 439.72
+End: 440.36
+Duration: 0.64s
+Confidence: 0.8165
+Text: puntahan,
+
+Utterance 225
+Start: 441.10
+End: 441.64
+Duration: 0.54s
+Confidence: 0.9132
+Text: agosto,
+
+Utterance 226
+Start: 441.64
+End: 443.54
+Duration: 1.90s
+Confidence: 0.5625
+Text: Inisin,
+
+Utterance 227
+Start: 443.94
+End: 445.00
+Duration: 1.06s
+Confidence: 0.8446
+Text: malaking,
+
+Utterance 228
+Start: 445.38
+End: 446.46
+Duration: 1.08s
+Confidence: 0.9686
+Text: pupunta,
+
+Utterance 229
+Start: 447.14
+End: 447.82
+Duration: 0.68s
+Confidence: 0.9217
+Text: awang,
+
+Utterance 230
+Start: 448.14
+End: 449.04
+Duration: 0.90s
+Confidence: 0.9054
+Text: iniwan,
+
+Utterance 231
+Start: 449.58
+End: 450.62
+Duration: 1.04s
+Confidence: 0.9271
+Text: malalaki,
+
+Utterance 232
+Start: 451.06
+End: 451.78
+Duration: 0.72s
+Confidence: 0.9202
+Text: pusa,
+
+Utterance 233
+Start: 452.50
+End: 453.26
+Duration: 0.76s
+Confidence: 0.9338
+Text: away,
+
+Utterance 234
+Start: 453.72
+End: 454.80
+Duration: 1.08s
+Confidence: 0.7788
+Text: insulto,
+
+Utterance 235
+Start: 455.22
+End: 455.84
+Duration: 0.62s
+Confidence: 0.9581
+Text: record,
+
+Utterance 236
+Start: 456.36
+End: 457.16
+Duration: 0.80s
+Confidence: 0.8799
+Text: pusang,
+
+Utterance 237
+Start: 457.50
+End: 457.98
+Duration: 0.48s
+Confidence: 0.9618
+Text: awayan,
+
+Utterance 238
+Start: 458.90
+End: 459.80
+Duration: 0.90s
+Confidence: 0.9584
+Text: interesado,
+
+Utterance 239
+Start: 460.38
+End: 461.96
+Duration: 1.58s
+Confidence: 0.9080
+Text: rekomendasyon,
+
+Utterance 240
+Start: 462.34
+End: 463.32
+Duration: 0.98s
+Confidence: 0.8946
+Text: krimeng,
+
+Utterance 241
+Start: 463.88
+End: 465.02
+Duration: 1.14s
+Confidence: 0.9524
+Text: malamang,
+
+Utterance 242
+Start: 465.38
+End: 466.02
+Duration: 0.64s
+Confidence: 0.9825
+Text: puso,
+
+Utterance 243
+Start: 466.58
+End: 467.30
+Duration: 0.72s
+Confidence: 0.7040
+Text: awain,
+
+Utterance 244
+Start: 467.92
+End: 468.94
+Duration: 1.02s
+Confidence: 0.7703
+Text: intindihin,
+
+Utterance 245
+Start: 469.48
+End: 470.12
+Duration: 0.64s
+Confidence: 0.8689
+Text: pwede,
+
+Utterance 246
+Start: 470.74
+End: 470.96
+Duration: 0.22s
+Confidence: 0.9869
+Text: ay,
+
+Utterance 247
+Start: 471.64
+End: 473.18
+Duration: 1.54s
+Confidence: 0.6841
+Text: Inurong,
+
+Utterance 248
+Start: 473.36
+End: 474.38
+Duration: 1.02s
+Confidence: 0.7620
+Text: pwedeng,
+
+Utterance 249
+Start: 474.62
+End: 475.60
+Duration: 0.98s
+Confidence: 0.9620
+Text: ayoko,
+
+Utterance 250
+Start: 476.08
+End: 477.06
+Duration: 0.98s
+Confidence: 0.8959
+Text: inyo,
+
+Utterance 251
+Start: 477.52
+End: 478.30
+Duration: 0.78s
+Confidence: 0.3992
+Text: rajo,
+
+Utterance 252
+Start: 479.04
+End: 479.84
+Duration: 0.80s
+Confidence: 0.9832
+Text: ayos,
+
+Utterance 253
+Start: 480.24
+End: 481.18
+Duration: 0.94s
+Confidence: 0.9487
+Text: inyong
+
+Utterance 254
+Start: 481.18
+End: 482.52
+Duration: 1.34s
+Confidence: 0.8140
+Text: malawak
+
+Utterance 255
+Start: 482.52
+End: 483.46
+Duration: 0.94s
+Confidence: 0.9424
+Text: raketa.
+
+Utterance 256
+Start: 485.36
+End: 486.42
+Duration: 1.06s
+Confidence: 0.9803
+Text: Ayusin,
+
+Utterance 257
+Start: 486.84
+End: 488.04
+Duration: 1.20s
+Confidence: 0.9682
+Text: ipabawas,
+
+Utterance 258
+Start: 488.42
+End: 489.20
+Duration: 0.78s
+Confidence: 0.8420
+Text: rayuma,
+
+Utterance 259
+Start: 489.84
+End: 490.30
+Duration: 0.46s
+Confidence: 0.5225
+Text: bah,
+
+Utterance 260
+Start: 490.90
+End: 492.22
+Duration: 1.32s
+Confidence: 0.9783
+Text: ipagpatuloy,
+
+Utterance 261
+Start: 492.58
+End: 493.76
+Duration: 1.18s
+Confidence: 0.6990
+Text: reaksyon,
+
+Utterance 262
+Start: 494.22
+End: 494.48
+Duration: 0.26s
+Confidence: 0.9736
+Text: baba,
+
+Utterance 263
+Start: 496.44
+End: 497.84
+Duration: 1.40s
+Confidence: 0.8161
+Text: Ipagtimpla,
+
+Utterance 264
+Start: 498.38
+End: 498.90
+Duration: 0.52s
+Confidence: 0.9302
+Text: siwang,
+
+Utterance 265
+Start: 499.54
+End: 500.38
+Duration: 0.84s
+Confidence: 0.9650
+Text: ganitong,
+
+Utterance 266
+Start: 500.86
+End: 501.92
+Duration: 1.06s
+Confidence: 0.9752
+Text: malayong,
+
+Utterance 267
+Start: 502.24
+End: 503.28
+Duration: 1.04s
+Confidence: 0.9824
+Text: babaan,
+
+Utterance 268
+Start: 503.54
+End: 504.68
+Duration: 1.14s
+Confidence: 0.9708
+Text: ipainom,
+
+Utterance 269
+Start: 505.08
+End: 507.30
+Duration: 2.22s
+Confidence: 0.7243
+Text: rebulto,
+
+Utterance 270
+Start: 507.86
+End: 508.52
+Duration: 0.66s
+Confidence: 0.9741
+Text: bababa,
+
+Utterance 271
+Start: 509.30
+End: 510.42
+Duration: 1.12s
+Confidence: 0.9882
+Text: maligayang,
+
+Utterance 272
+Start: 510.80
+End: 511.74
+Duration: 0.94s
+Confidence: 0.9864
+Text: babae,
+
+Utterance 273
+Start: 512.00
+End: 512.68
+Duration: 0.68s
+Confidence: 0.9706
+Text: ipasa,
+
+Utterance 274
+Start: 513.44
+End: 514.66
+Duration: 1.22s
+Confidence: 0.9864
+Text: babalik,
+
+Utterance 275
+Start: 515.72
+End: 517.10
+Duration: 1.38s
+Confidence: 0.9663
+Text: ipinatutupad,
+
+Utterance 276
+Start: 517.66
+End: 518.64
+Duration: 0.98s
+Confidence: 0.9603
+Text: relasyon,
+
+Utterance 277
+Start: 519.02
+End: 519.84
+Duration: 0.82s
+Confidence: 0.9906
+Text: bagay,
+
+Utterance 278
+Start: 520.10
+End: 520.64
+Duration: 0.54s
+Confidence: 0.7928
+Text: malikse,
+
+Utterance 279
+Start: 521.54
+End: 522.34
+Duration: 0.80s
+Confidence: 0.9255
+Text: bago,
+
+Utterance 280
+Start: 522.68
+End: 523.42
+Duration: 0.74s
+Confidence: 0.9500
+Text: isa,
+
+Utterance 281
+Start: 523.68
+End: 524.46
+Duration: 0.78s
+Confidence: 0.8600
+Text: malinaw,
+
+Utterance 282
+Start: 556.10
+End: 557.40
+Duration: 1.30s
+Confidence: 0.7618
+Text: Bagyo,
+
+Utterance 283
+Start: 557.72
+End: 558.84
+Duration: 1.12s
+Confidence: 0.7510
+Text: Isda,
+
+Utterance 284
+Start: 559.26
+End: 560.44
+Duration: 1.18s
+Confidence: 0.8984
+Text: Mamamayan,
+
+Utterance 285
+Start: 560.98
+End: 561.88
+Duration: 0.90s
+Confidence: 0.9483
+Text: Saan,
+
+Utterance 286
+Start: 562.26
+End: 562.66
+Duration: 0.40s
+Confidence: 0.7841
+Text: Baha,
+
+Utterance 287
+Start: 563.46
+End: 564.24
+Duration: 0.78s
+Confidence: 0.9848
+Text: Masang,
+
+Utterance 288
+Start: 564.66
+End: 565.68
+Duration: 1.02s
+Confidence: 0.8658
+Text: Panunungkulan,
+
+Utterance 289
+Start: 566.28
+End: 567.28
+Duration: 1.00s
+Confidence: 0.9731
+Text: Isigaw,
+
+Utterance 290
+Start: 567.62
+End: 568.28
+Duration: 0.66s
+Confidence: 0.9766
+Text: Mamaya,
+
+Utterance 291
+Start: 568.72
+End: 569.38
+Duration: 0.66s
+Confidence: 0.7895
+Text: Saanman,
+
+Utterance 292
+Start: 570.06
+End: 570.72
+Duration: 0.66s
+Confidence: 0.9677
+Text: Bahala,
+
+Utterance 293
+Start: 571.36
+End: 572.48
+Duration: 1.12s
+Confidence: 0.9763
+Text: Negosasyong,
+
+Utterance 294
+Start: 572.88
+End: 573.56
+Duration: 0.68s
+Confidence: 0.8055
+Text: Linggo,
+
+Utterance 295
+Start: 574.18
+End: 575.30
+Duration: 1.12s
+Confidence: 0.9711
+Text: Isilang,
+
+Utterance 296
+Start: 575.80
+End: 576.42
+Duration: 0.62s
+Confidence: 0.9841
+Text: Sabado,
+
+Utterance 297
+Start: 577.18
+End: 577.94
+Duration: 0.76s
+Confidence: 0.9000
+Text: Bahay,
+
+Utterance 298
+Start: 578.40
+End: 579.28
+Duration: 0.88s
+Confidence: 0.9780
+Text: Isip,
+
+Utterance 299
+Start: 579.70
+End: 579.96
+Duration: 0.26s
+Confidence: 0.9735
+Text: Man,
+
+Utterance 300
+Start: 580.80
+End: 581.68
+Duration: 0.88s
+Confidence: 0.9857
+Text: Sabay,
+
+Utterance 301
+Start: 582.16
+End: 582.74
+Duration: 0.58s
+Confidence: 0.9670
+Text: Baka,
+
+Utterance 302
+Start: 583.66
+End: 583.94
+Duration: 0.28s
+Confidence: 0.8726
+Text: Mana,
+
+Utterance 303
+Start: 584.48
+End: 585.90
+Duration: 1.42s
+Confidence: 0.6030
+Text: Sabayan,
+
+Utterance 304
+Start: 586.90
+End: 587.76
+Duration: 0.86s
+Confidence: 0.7359
+Text: bakit,
+
+Utterance 305
+Start: 588.10
+End: 589.18
+Duration: 1.08s
+Confidence: 0.9867
+Text: isipin,
+
+Utterance 306
+Start: 589.52
+End: 590.72
+Duration: 1.20s
+Confidence: 0.9290
+Text: manalangin,
+
+Utterance 307
+Start: 591.06
+End: 591.42
+Duration: 0.36s
+Confidence: 0.4809
+Text: sabe,
+
+Utterance 308
+Start: 592.18
+End: 593.00
+Duration: 0.82s
+Confidence: 0.9761
+Text: bakla,
+
+Utterance 309
+Start: 593.54
+End: 594.54
+Duration: 1.00s
+Confidence: 0.9423
+Text: itaas,
+
+Utterance 310
+Start: 594.88
+End: 595.96
+Duration: 1.08s
+Confidence: 0.9890
+Text: sabihan,
+
+Utterance 311
+Start: 596.42
+End: 597.34
+Duration: 0.92s
+Confidence: 0.9823
+Text: balang,
+
+Utterance 312
+Start: 598.28
+End: 599.34
+Duration: 1.06s
+Confidence: 0.9365
+Text: showbiz,
+
+Utterance 313
+Start: 599.74
+End: 600.08
+Duration: 0.34s
+Confidence: 0.9684
+Text: bang,
+
+Utterance 314
+Start: 601.10
+End: 601.96
+Duration: 0.86s
+Confidence: 0.9902
+Text: bagong,
+
+Utterance 315
+Start: 602.18
+End: 603.34
+Duration: 1.16s
+Confidence: 0.9900
+Text: matanggap,
+
+Utterance 316
+Start: 603.70
+End: 604.32
+Duration: 0.62s
+Confidence: 0.9880
+Text: malaking,
+
+Utterance 317
+Start: 605.08
+End: 605.96
+Duration: 0.88s
+Confidence: 0.8189
+Text: itinatali,
+
+Utterance 318
+Start: 606.70
+End: 607.02
+Duration: 0.32s
+Confidence: 0.6179
+Text: mga
+
+Utterance 319
+Start: 607.02
+End: 607.34
+Duration: 0.32s
+Confidence: 0.3990
+Text: hoy,
+
+Utterance 320
+Start: 608.04
+End: 609.16
+Duration: 1.12s
+Confidence: 0.9819
+Text: sabungan,
+
+Utterance 321
+Start: 609.54
+End: 609.98
+Duration: 0.44s
+Confidence: 0.9625
+Text: bansa,
+
+Utterance 322
+Start: 610.78
+End: 611.54
+Duration: 0.76s
+Confidence: 0.9550
+Text: itinuring,
+
+Utterance 323
+Start: 612.18
+End: 612.96
+Duration: 0.78s
+Confidence: 0.7993
+Text: manganib,
+
+Utterance 324
+Start: 613.32
+End: 613.76
+Duration: 0.44s
+Confidence: 0.9587
+Text: saglit,
+
+Utterance 325
+Start: 613.76
+End: 615.54
+Duration: 1.78s
+Confidence: 0.7318
+Text: Bantay,
+
+Utterance 326
+Start: 615.54
+End: 615.92
+Duration: 0.38s
+Confidence: 0.3361
+Text: mga
+
+Utterance 327
+Start: 615.92
+End: 617.04
+Duration: 1.12s
+Confidence: 0.8817
+Text: asar,
+
+Utterance 328
+Start: 617.48
+End: 618.20
+Duration: 0.72s
+Confidence: 0.8515
+Text: ingay,
+
+Utterance 329
+Start: 618.52
+End: 619.70
+Duration: 1.18s
+Confidence: 0.9731
+Text: barangay,
+
+Utterance 330
+Start: 620.18
+End: 621.16
+Duration: 0.98s
+Confidence: 0.8461
+Text: makiangkas,
+
+Utterance 331
+Start: 621.94
+End: 622.72
+Duration: 0.78s
+Confidence: 0.9158
+Text: sahod,
+
+Utterance 332
+Start: 623.06
+End: 623.44
+Duration: 0.38s
+Confidence: 0.7498
+Text: labing
+
+Utterance 333
+Start: 623.44
+End: 623.90
+Duration: 0.46s
+Confidence: 0.4275
+Text: sham,
+
+Utterance 334
+Start: 624.72
+End: 625.76
+Duration: 1.04s
+Confidence: 0.9459
+Text: jamming,
+
+Utterance 335
+Start: 627.04
+End: 628.22
+Duration: 1.18s
+Confidence: 0.8794
+Text: among,
+
+Utterance 336
+Start: 630.00
+End: 630.82
+Duration: 0.82s
+Confidence: 0.9068
+Text: bantayan,
+
+Utterance 337
+Start: 631.54
+End: 632.34
+Duration: 0.80s
+Confidence: 0.6974
+Text: ito,
+
+Utterance 338
+Start: 632.54
+End: 632.72
+Duration: 0.18s
+Confidence: 0.9227
+Text: mga
+
+Utterance 339
+Start: 632.72
+End: 633.94
+Duration: 1.22s
+Confidence: 0.9342
+Text: away,
+
+Utterance 340
+Start: 634.40
+End: 634.94
+Duration: 0.54s
+Confidence: 0.8474
+Text: saka,
+
+Utterance 341
+Start: 635.48
+End: 636.38
+Duration: 0.90s
+Confidence: 0.9970
+Text: barangay,
+
+Utterance 342
+Start: 636.94
+End: 637.50
+Duration: 0.56s
+Confidence: 0.9416
+Text: shopping,
+
+Utterance 343
+Start: 638.34
+End: 639.42
+Duration: 1.08s
+Confidence: 0.8776
+Text: itong
+
+Utterance 344
+Start: 639.42
+End: 639.82
+Duration: 0.40s
+Confidence: 0.6906
+Text: mga
+
+Utterance 345
+Start: 639.82
+End: 640.80
+Duration: 0.98s
+Confidence: 0.9905
+Text: gamot,
+
+Utterance 346
+Start: 641.14
+End: 641.78
+Duration: 0.64s
+Confidence: 0.7625
+Text: basa,
+
+Utterance 347
+Start: 642.42
+End: 643.08
+Duration: 0.66s
+Confidence: 0.9481
+Text: iurong,
+
+Utterance 348
+Start: 643.76
+End: 643.80
+Duration: 0.04s
+Confidence: 0.0904
+Text: Ang
+
+Utterance 349
+Start: 643.80
+End: 644.80
+Duration: 1.00s
+Confidence: 0.8101
+Text: gulo,
+
+Utterance 350
+Start: 645.16
+End: 646.02
+Duration: 0.86s
+Confidence: 0.5018
+Text: saakto,
+
+Utterance 351
+Start: 646.34
+End: 647.84
+Duration: 1.50s
+Confidence: 0.7656
+Text: basa,
+
+Utterance 352
+Start: 648.14
+End: 649.12
+Duration: 0.98s
+Confidence: 0.8588
+Text: iusog,
+
+Utterance 353
+Start: 649.44
+End: 650.66
+Duration: 1.22s
+Confidence: 0.7869
+Text: mangingisda,
+
+Utterance 354
+Start: 651.06
+End: 651.26
+Duration: 0.20s
+Confidence: 0.3777
+Text: sako
+
+Utterance 355
+Start: 651.26
+End: 651.96
+Duration: 0.70s
+Confidence: 0.9755
+Text: na,
+
+Utterance 356
+Start: 652.28
+End: 653.58
+Duration: 1.30s
+Confidence: 0.9700
+Text: basahin,
+
+Utterance 357
+Start: 653.92
+End: 654.08
+Duration: 0.16s
+Confidence: 0.7126
+Text: na
+
+Utterance 358
+Start: 654.08
+End: 654.60
+Duration: 0.52s
+Confidence: 0.7500
+Text: mamaya
+
+Utterance 359
+Start: 654.60
+End: 655.36
+Duration: 0.76s
+Confidence: 0.9653
+Text: pang
+
+Utterance 360
+Start: 655.36
+End: 656.34
+Duration: 0.98s
+Confidence: 0.7378
+Text: angkas,
+
+Utterance 361
+Start: 656.76
+End: 657.96
+Duration: 1.20s
+Confidence: 0.6906
+Text: notoriosong,
+
+Utterance 362
+Start: 658.20
+End: 658.98
+Duration: 0.78s
+Confidence: 0.9235
+Text: iuwi,
+
+Utterance 363
+Start: 659.64
+End: 660.66
+Duration: 1.02s
+Confidence: 0.6433
+Text: manlinlang,
+
+Utterance 364
+Start: 661.16
+End: 662.00
+Duration: 0.84s
+Confidence: 0.9797
+Text: salamat,
+
+Utterance 365
+Start: 662.50
+End: 663.60
+Duration: 1.10s
+Confidence: 0.8978
+Text: baso,
+
+Utterance 366
+Start: 663.96
+End: 664.38
+Duration: 0.42s
+Confidence: 0.9745
+Text: iwan,
+
+Utterance 367
+Start: 665.14
+End: 665.96
+Duration: 0.82s
+Confidence: 0.9863
+Text: manok,
+
+Utterance 368
+Start: 666.42
+End: 667.02
+Duration: 0.60s
+Confidence: 0.9816
+Text: basong,
+
+Utterance 369
+Start: 667.42
+End: 668.36
+Duration: 0.94s
+Confidence: 0.9837
+Text: iwanan,
+
+Utterance 370
+Start: 668.64
+End: 669.34
+Duration: 0.70s
+Confidence: 0.8725
+Text: manood,
+
+Utterance 371
+Start: 670.06
+End: 670.62
+Duration: 0.56s
+Confidence: 0.8548
+Text: successful,
+
+Utterance 372
+Start: 671.42
+End: 672.00
+Duration: 0.58s
+Confidence: 0.9948
+Text: basura,
+
+Utterance 373
+Start: 672.82
+End: 673.22
+Duration: 0.40s
+Confidence: 0.9885
+Text: iwas,
+
+Utterance 374
+Start: 673.76
+End: 675.06
+Duration: 1.30s
+Confidence: 0.8170
+Text: mapaliwanagan,
+
+Utterance 375
+Start: 675.50
+End: 676.46
+Duration: 0.96s
+Confidence: 0.9700
+Text: basurahan,
+
+Utterance 376
+Start: 676.98
+End: 677.96
+Duration: 0.98s
+Confidence: 0.9810
+Text: iwasan,
+
+Utterance 377
+Start: 678.18
+End: 679.60
+Duration: 1.42s
+Confidence: 0.9091
+Text: mapapakinabangan,
+
+Utterance 378
+Start: 679.92
+End: 681.06
+Duration: 1.14s
+Confidence: 0.8953
+Text: samahan,
+
+Utterance 379
+Start: 681.60
+End: 682.24
+Duration: 0.64s
+Confidence: 0.9455
+Text: bata,
+
+Utterance 380
+Start: 682.64
+End: 683.24
+Duration: 0.60s
+Confidence: 0.6345
+Text: iak,
+
+Utterance 381
+Start: 683.66
+End: 684.50
+Duration: 0.84s
+Confidence: 0.9600
+Text: sandwich,
+
+Utterance 382
+Start: 684.98
+End: 686.34
+Duration: 1.36s
+Confidence: 0.9332
+Text: mapapatingin,
+
+Utterance 383
+Start: 686.74
+End: 687.56
+Duration: 0.82s
+Confidence: 0.9900
+Text: batang,
+
+Utterance 384
+Start: 687.88
+End: 688.70
+Duration: 0.82s
+Confidence: 0.9131
+Text: iyan,
+
+Utterance 385
+Start: 689.24
+End: 690.10
+Duration: 0.86s
+Confidence: 0.9876
+Text: marami,
+
+Utterance 386
+Start: 690.58
+End: 691.28
+Duration: 0.70s
+Confidence: 0.7297
+Text: batiin,
+
+Utterance 387
+Start: 691.90
+End: 692.66
+Duration: 0.76s
+Confidence: 0.8536
+Text: iyo,
+
+Utterance 388
+Start: 693.04
+End: 693.58
+Duration: 0.54s
+Confidence: 0.9860
+Text: maraming,
+
+Utterance 389
+Start: 694.28
+End: 695.28
+Duration: 1.00s
+Confidence: 0.9784
+Text: sambayanan,
+
+Utterance 390
+Start: 695.88
+End: 696.34
+Duration: 0.46s
+Confidence: 0.8477
+Text: bato,
+
+Utterance 391
+Start: 697.04
+End: 697.66
+Duration: 0.62s
+Confidence: 0.7937
+Text: iyon,
+
+Utterance 392
+Start: 698.08
+End: 699.10
+Duration: 1.02s
+Confidence: 0.8792
+Text: sampu,
+
+Utterance 393
+Start: 699.36
+End: 700.34
+Duration: 0.98s
+Confidence: 0.9077
+Text: batuhin,
+
+Utterance 394
+Start: 700.68
+End: 701.28
+Duration: 0.60s
+Confidence: 0.9191
+Text: iyong,
+
+Utterance 395
+Start: 701.28
+End: 702.82
+Duration: 1.54s
+Confidence: 0.6502
+Text: Marso,
+
+Utterance 396
+Start: 702.90
+End: 703.94
+Duration: 1.04s
+Confidence: 0.7285
+Text: sampung,
+
+Utterance 397
+Start: 704.36
+End: 705.02
+Duration: 0.66s
+Confidence: 0.8867
+Text: bawas,
+
+Utterance 398
+Start: 705.26
+End: 706.34
+Duration: 1.08s
+Confidence: 0.9406
+Text: magtanong,
+
+Utterance 399
+Start: 706.70
+End: 707.56
+Duration: 0.86s
+Confidence: 0.8266
+Text: iyong,
+
+Utterance 400
+Start: 707.94
+End: 708.72
+Duration: 0.78s
+Confidence: 0.9095
+Text: martes,
+
+Utterance 401
+Start: 708.88
+End: 709.38
+Duration: 0.50s
+Confidence: 0.9633
+Text: sana,
+
+Utterance 402
+Start: 710.08
+End: 710.74
+Duration: 0.66s
+Confidence: 0.9257
+Text: bawasan,
+
+Utterance 403
+Start: 711.50
+End: 711.96
+Duration: 0.46s
+Confidence: 0.8738
+Text: jacket,
+
+Utterance 404
+Start: 712.60
+End: 713.36
+Duration: 0.76s
+Confidence: 0.8361
+Text: marshal,
+
+Utterance 405
+Start: 713.80
+End: 714.76
+Duration: 0.96s
+Confidence: 0.9950
+Text: sandal,
+
+Utterance 406
+Start: 715.18
+End: 716.52
+Duration: 1.34s
+Confidence: 0.9403
+Text: bawasin,
+
+Utterance 407
+Start: 716.98
+End: 717.74
+Duration: 0.76s
+Confidence: 0.5820
+Text: jalusi,
+
+Utterance 408
+Start: 718.32
+End: 718.68
+Duration: 0.36s
+Confidence: 0.6943
+Text: mas,
+
+Utterance 409
+Start: 719.32
+End: 719.84
+Duration: 0.52s
+Confidence: 0.8878
+Text: subject,
+
+Utterance 410
+Start: 720.70
+End: 721.10
+Duration: 0.40s
+Confidence: 0.9796
+Text: rescue,
+
+Utterance 411
+Start: 721.76
+End: 722.36
+Duration: 0.60s
+Confidence: 0.9915
+Text: sandalan,
+
+Utterance 412
+Start: 723.18
+End: 723.48
+Duration: 0.30s
+Confidence: 0.8836
+Text: bawat,
+
+Utterance 413
+Start: 724.28
+End: 724.92
+Duration: 0.64s
+Confidence: 0.9989
+Text: janitor,
+
+Utterance 414
+Start: 725.44
+End: 726.46
+Duration: 1.02s
+Confidence: 0.9644
+Text: masagana,
+
+Utterance 415
+Start: 726.92
+End: 727.58
+Duration: 0.66s
+Confidence: 0.9804
+Text: sandali,
+
+Utterance 416
+Start: 728.28
+End: 728.96
+Duration: 0.68s
+Confidence: 0.8324
+Text: bayaan,
+
+Utterance 417
+Start: 730.52
+End: 730.98
+Duration: 0.46s
+Confidence: 0.8914
+Text: japan,
+
+Utterance 418
+Start: 731.28
+End: 732.94
+Duration: 1.66s
+Confidence: 0.7805
+Text: Masaganang,
+
+Utterance 419
+Start: 733.06
+End: 733.96
+Duration: 0.90s
+Confidence: 0.9158
+Text: sapagkat,
+
+Utterance 420
+Start: 734.40
+End: 735.26
+Duration: 0.86s
+Confidence: 0.9515
+Text: bayad,
+
+Utterance 421
+Start: 735.92
+End: 736.34
+Duration: 0.42s
+Confidence: 0.9208
+Text: general,
+
+Utterance 422
+Start: 737.14
+End: 738.38
+Duration: 1.24s
+Confidence: 0.9059
+Text: masahe,
+
+Utterance 423
+Start: 738.80
+End: 739.46
+Duration: 0.66s
+Confidence: 0.9920
+Text: sapakan,
+
+Utterance 424
+Start: 740.48
+End: 741.44
+Duration: 0.96s
+Confidence: 0.9959
+Text: bayan,
+
+Utterance 425
+Start: 741.86
+End: 742.60
+Duration: 0.74s
+Confidence: 0.9329
+Text: jeep,
+
+Utterance 426
+Start: 742.88
+End: 743.98
+Duration: 1.10s
+Confidence: 0.9945
+Text: masakit,
+
+Utterance 427
+Start: 744.32
+End: 745.34
+Duration: 1.02s
+Confidence: 0.5397
+Text: sarah,
+
+Utterance 428
+Start: 745.70
+End: 746.20
+Duration: 0.50s
+Confidence: 0.7626
+Text: benta,
+
+Utterance 429
+Start: 747.50
+End: 748.16
+Duration: 0.66s
+Confidence: 0.9035
+Text: jujitsu,
+
+Utterance 430
+Start: 748.76
+End: 750.02
+Duration: 1.26s
+Confidence: 0.9287
+Text: masaklap,
+
+Utterance 431
+Start: 750.70
+End: 751.24
+Duration: 0.54s
+Confidence: 0.9923
+Text: sarahan,
+
+Utterance 432
+Start: 752.06
+End: 752.66
+Duration: 0.60s
+Confidence: 0.9752
+Text: birthday,
+
+Utterance 433
+Start: 753.44
+End: 754.16
+Duration: 0.72s
+Confidence: 0.9355
+Text: jukebox,
+
+Utterance 434
+Start: 754.88
+End: 755.38
+Duration: 0.50s
+Confidence: 0.9723
+Text: masama,
+
+Utterance 435
+Start: 756.40
+End: 757.30
+Duration: 0.90s
+Confidence: 0.9882
+Text: sarap,
+
+Utterance 436
+Start: 757.70
+End: 758.40
+Duration: 0.70s
+Confidence: 0.9935
+Text: bibig,
+
+Utterance 437
+Start: 760.22
+End: 761.62
+Duration: 1.40s
+Confidence: 0.8465
+Text: Makapagsasabing,
+
+Utterance 438
+Start: 761.76
+End: 762.84
+Duration: 1.08s
+Confidence: 0.9212
+Text: makarating,
+
+Utterance 439
+Start: 763.24
+End: 764.40
+Duration: 1.16s
+Confidence: 0.9065
+Text: maingay,
+
+Utterance 440
+Start: 764.78
+End: 765.74
+Duration: 0.96s
+Confidence: 0.9802
+Text: gawang,
+
+Utterance 441
+Start: 766.50
+End: 766.76
+Duration: 0.26s
+Confidence: 0.9688
+Text: lang,
+
+Utterance 442
+Start: 768.22
+End: 768.62
+Duration: 0.40s
+Confidence: 0.9028
+Text: junior,
+
+Utterance 443
+Start: 769.58
+End: 770.52
+Duration: 0.94s
+Confidence: 0.9383
+Text: masamain,
+
+Utterance 444
+Start: 771.20
+End: 772.32
+Duration: 1.12s
+Confidence: 0.9875
+Text: bigas,
+
+Utterance 445
+Start: 772.70
+End: 772.96
+Duration: 0.26s
+Confidence: 0.6705
+Text: kah,
+
+Utterance 446
+Start: 773.86
+End: 774.92
+Duration: 1.06s
+Confidence: 0.9787
+Text: masamang,
+
+Utterance 447
+Start: 775.36
+End: 775.60
+Duration: 0.24s
+Confidence: 0.5774
+Text: semi
+
+Utterance 448
+Start: 775.60
+End: 776.56
+Duration: 0.96s
+Confidence: 0.9307
+Text: -finals,
+
+Utterance 449
+Start: 776.98
+End: 777.54
+Duration: 0.56s
+Confidence: 0.9556
+Text: sariling,
+
+Utterance 450
+Start: 778.56
+End: 779.64
+Duration: 1.08s
+Confidence: 0.9837
+Text: bigay,
+
+Utterance 451
+Start: 780.96
+End: 782.24
+Duration: 1.28s
+Confidence: 0.9329
+Text: kaarawan,
+
+Utterance 452
+Start: 783.74
+End: 784.76
+Duration: 1.02s
+Confidence: 0.9838
+Text: masarap,
+
+Utterance 453
+Start: 785.14
+End: 785.44
+Duration: 0.30s
+Confidence: 0.7869
+Text: sari
+
+Utterance 454
+Start: 785.44
+End: 786.22
+Duration: 0.78s
+Confidence: 0.9680
+Text: -saring,
+
+Utterance 455
+Start: 787.42
+End: 787.82
+Duration: 0.40s
+Confidence: 0.9727
+Text: bigla,
+
+Utterance 456
+Start: 788.40
+End: 789.40
+Duration: 1.00s
+Confidence: 0.6810
+Text: Kaaway
+
+Utterance 457
+Start: 790.06
+End: 790.76
+Duration: 0.70s
+Confidence: 0.9232
+Text: Masaya
+
+Utterance 458
+Start: 791.06
+End: 792.40
+Duration: 1.34s
+Confidence: 0.9433
+Text: Sasamahan
+
+Utterance 459
+Start: 794.86
+End: 795.56
+Duration: 0.70s
+Confidence: 0.8868
+Text: Biglang
+
+Utterance 460
+Start: 796.84
+End: 797.54
+Duration: 0.70s
+Confidence: 0.8745
+Text: Kabalikat
+
+Utterance 461
+Start: 798.92
+End: 799.62
+Duration: 0.70s
+Confidence: 0.9694
+Text: Masigla
+
+Utterance 462
+Start: 800.32
+End: 801.40
+Duration: 1.08s
+Confidence: 0.9374
+Text: Sawa
+
+Utterance 463
+Start: 802.18
+End: 802.88
+Duration: 0.70s
+Confidence: 0.8841
+Text: Bigo
+
+Utterance 464
+Start: 803.60
+End: 804.40
+Duration: 0.80s
+Confidence: 0.5715
+Text: Kabaliro
+
+Utterance 465
+Start: 804.94
+End: 805.64
+Duration: 0.70s
+Confidence: 0.9884
+Text: Masira
+
+Utterance 466
+Start: 806.20
+End: 806.90
+Duration: 0.70s
+Confidence: 0.7630
+Text: Saya
+
+Utterance 467
+Start: 807.84
+End: 808.54
+Duration: 0.70s
+Confidence: 0.8912
+Text: Biguin
+
+Utterance 468
+Start: 808.98
+End: 809.68
+Duration: 0.70s
+Confidence: 0.9780
+Text: Kabayo
+
+Utterance 469
+Start: 811.18
+End: 811.88
+Duration: 0.70s
+Confidence: 0.9515
+Text: Masisigurado
+
+Utterance 470
+Start: 812.58
+End: 813.40
+Duration: 0.82s
+Confidence: 0.9701
+Text: Segundo
+
+Utterance 471
+Start: 813.94
+End: 814.64
+Duration: 0.70s
+Confidence: 0.8165
+Text: Bigyan
+
+Utterance 472
+Start: 815.30
+End: 816.00
+Duration: 0.70s
+Confidence: 0.9824
+Text: Kabuhayan
+
+Utterance 473
+Start: 816.70
+End: 817.40
+Duration: 0.70s
+Confidence: 0.9847
+Text: Masisiguro
+
+Utterance 474
+Start: 818.40
+End: 819.40
+Duration: 1.00s
+Confidence: 0.5500
+Text: Cemento,
+
+Utterance 475
+Start: 820.18
+End: 821.10
+Duration: 0.92s
+Confidence: 0.6331
+Text: Biktima,
+
+Utterance 476
+Start: 821.36
+End: 822.06
+Duration: 0.70s
+Confidence: 0.8616
+Text: Kabundukan,
+
+Utterance 477
+Start: 823.06
+End: 824.08
+Duration: 1.02s
+Confidence: 0.9380
+Text: Masukal,
+
+Utterance 478
+Start: 824.38
+End: 825.36
+Duration: 0.98s
+Confidence: 0.4162
+Text: September,
+
+Utterance 479
+Start: 826.70
+End: 827.44
+Duration: 0.74s
+Confidence: 0.8889
+Text: Biglang,
+
+Utterance 480
+Start: 828.06
+End: 829.04
+Duration: 0.98s
+Confidence: 0.9648
+Text: Tanong,
+
+Utterance 481
+Start: 829.36
+End: 830.06
+Duration: 0.70s
+Confidence: 0.9443
+Text: Nasasabing,
+
+Utterance 482
+Start: 830.72
+End: 831.58
+Duration: 0.86s
+Confidence: 0.9041
+Text: Kagandahan,
+
+Utterance 483
+Start: 832.26
+End: 833.26
+Duration: 1.00s
+Confidence: 0.9884
+Text: Masunog,
+
+Utterance 484
+Start: 833.78
+End: 834.12
+Duration: 0.34s
+Confidence: 0.5188
+Text: Si,
+
+Utterance 485
+Start: 834.78
+End: 835.48
+Duration: 0.70s
+Confidence: 0.9327
+Text: Ipinanganak,
+
+Utterance 486
+Start: 836.40
+End: 837.10
+Duration: 0.70s
+Confidence: 0.8755
+Text: Ikinulong,
+
+Utterance 487
+Start: 837.84
+End: 838.76
+Duration: 0.92s
+Confidence: 0.9570
+Text: Bilhan,
+
+Utterance 488
+Start: 839.24
+End: 840.14
+Duration: 0.90s
+Confidence: 0.9765
+Text: Kahapon,
+
+Utterance 489
+Start: 840.52
+End: 841.36
+Duration: 0.84s
+Confidence: 0.9109
+Text: Masuerte,
+
+Utterance 490
+Start: 842.14
+End: 842.82
+Duration: 0.68s
+Confidence: 0.8711
+Text: Sibak,
+
+Utterance 491
+Start: 843.50
+End: 844.28
+Duration: 0.78s
+Confidence: 0.9166
+Text: Bili,
+
+Utterance 492
+Start: 844.70
+End: 845.42
+Duration: 0.72s
+Confidence: 0.9092
+Text: Kaharian,
+
+Utterance 493
+Start: 846.24
+End: 846.98
+Duration: 0.74s
+Confidence: 0.9789
+Text: Masyado,
+
+Utterance 494
+Start: 846.98
+End: 850.28
+Duration: 3.30s
+Confidence: -0.2797
+Text: reliable si Bakin
+
+Utterance 495
+Start: 850.28
+End: 853.88
+Duration: 3.60s
+Confidence: -0.2797
+Text: binata kahit mata
+
+Utterance 496
+Start: 853.88
+End: 858.06
+Duration: 4.18s
+Confidence: -0.2797
+Text: siga binate kahoy
+
+Utterance 497
+Start: 858.06
+End: 859.40
+Duration: 1.34s
+Confidence: 0.9562
+Text: matalik
+
+Utterance 498
+Start: 859.40
+End: 860.10
+Duration: 0.70s
+Confidence: 0.9786
+Text: sigaw
+
+Utterance 499
+Start: 860.54
+End: 863.98
+Duration: 3.44s
+Confidence: -0.2797
+Text: pwedeng lutang lumutang
+
+Utterance 500
+Start: 864.90
+End: 868.36
+Duration: 3.46s
+Confidence: -0.2797
+Text: ng binato kaibigan
+
+Utterance 501
+Start: 868.36
+End: 872.92
+Duration: 4.56s
+Confidence: -0.2797
+Text: matalino sigawan binawasan
+
+Utterance 502
+Start: 872.92
+End: 874.44
+Duration: 1.52s
+Confidence: 0.8121
+Text: Kailan
+
+Utterance 503
+Start: 874.44
+End: 875.78
+Duration: 1.34s
+Confidence: 0.5569
+Text: matamis,
+
+Utterance 504
+Start: 876.38
+End: 876.96
+Duration: 0.58s
+Confidence: 0.7764
+Text: sige
+
+Utterance 505
+Start: 876.96
+End: 878.92
+Duration: 1.96s
+Confidence: 0.7283
+Text: binaybay,
+
+Utterance 506
+Start: 879.58
+End: 880.72
+Duration: 1.14s
+Confidence: 0.8525
+Text: kailangan
+
+Utterance 507
+Start: 880.72
+End: 882.12
+Duration: 1.40s
+Confidence: 0.9354
+Text: matamlay,
+
+Utterance 508
+Start: 882.60
+End: 883.34
+Duration: 0.74s
+Confidence: 0.8284
+Text: sigla,
+
+Utterance 509
+Start: 883.98
+End: 884.78
+Duration: 0.80s
+Confidence: 0.9346
+Text: binenta,
+
+Utterance 510
+Start: 885.38
+End: 886.80
+Duration: 1.42s
+Confidence: 0.9062
+Text: kailangang
+
+Utterance 511
+Start: 886.80
+End: 887.74
+Duration: 0.94s
+Confidence: 0.9871
+Text: matanda.
+
+Utterance 512
+Start: 888.42
+End: 889.82
+Duration: 1.40s
+Confidence: 0.9645
+Text: Siguraduhin,
+
+Utterance 513
+Start: 890.18
+End: 891.32
+Duration: 1.14s
+Confidence: 0.7603
+Text: binibini,
+
+Utterance 514
+Start: 891.60
+End: 892.54
+Duration: 0.94s
+Confidence: 0.8709
+Text: kailanman,
+
+Utterance 515
+Start: 893.22
+End: 894.50
+Duration: 1.28s
+Confidence: 0.9923
+Text: matanggap,
+
+Utterance 516
+Start: 895.02
+End: 895.54
+Duration: 0.52s
+Confidence: 0.9763
+Text: sikat,
+
+Utterance 517
+Start: 896.24
+End: 897.46
+Duration: 1.22s
+Confidence: 0.9910
+Text: binigay,
+
+Utterance 518
+Start: 897.74
+End: 898.84
+Duration: 1.10s
+Confidence: 0.9872
+Text: kainan,
+
+Utterance 519
+Start: 898.84
+End: 900.52
+Duration: 1.68s
+Confidence: 0.9091
+Text: Matapos,
+
+Utterance 520
+Start: 900.72
+End: 901.62
+Duration: 0.90s
+Confidence: 0.8791
+Text: sikip,
+
+Utterance 521
+Start: 902.00
+End: 902.88
+Duration: 0.88s
+Confidence: 0.7932
+Text: binihag,
+
+Utterance 522
+Start: 903.14
+End: 904.08
+Duration: 0.94s
+Confidence: 0.9462
+Text: kainin,
+
+Utterance 523
+Start: 904.52
+End: 905.54
+Duration: 1.02s
+Confidence: 0.9119
+Text: materiales,
+
+Utterance 524
+Start: 905.82
+End: 906.86
+Duration: 1.04s
+Confidence: 0.9723
+Text: sikipan,
+
+Utterance 525
+Start: 907.24
+End: 907.82
+Duration: 0.58s
+Confidence: 0.9796
+Text: binili,
+
+Utterance 526
+Start: 908.74
+End: 909.60
+Duration: 0.86s
+Confidence: 0.8493
+Text: kakampe,
+
+Utterance 527
+Start: 910.18
+End: 911.06
+Duration: 0.88s
+Confidence: 0.8100
+Text: matinde,
+
+Utterance 528
+Start: 911.76
+End: 912.86
+Duration: 1.10s
+Confidence: 0.9829
+Text: sila,
+
+Utterance 529
+Start: 913.12
+End: 914.04
+Duration: 0.92s
+Confidence: 0.9579
+Text: binisita,
+
+Utterance 530
+Start: 914.58
+End: 915.32
+Duration: 0.74s
+Confidence: 0.8766
+Text: kakatwang,
+
+Utterance 531
+Start: 916.16
+End: 916.66
+Duration: 0.50s
+Confidence: 0.8691
+Text: matino,
+
+Utterance 532
+Start: 917.62
+End: 918.44
+Duration: 0.82s
+Confidence: 0.9881
+Text: silang,
+
+Utterance 533
+Start: 918.86
+End: 919.66
+Duration: 0.80s
+Confidence: 0.9766
+Text: bintana,
+
+Utterance 534
+Start: 920.32
+End: 921.18
+Duration: 0.86s
+Confidence: 0.9834
+Text: kalagayan,
+
+Utterance 535
+Start: 921.92
+End: 922.74
+Duration: 0.82s
+Confidence: 0.8894
+Text: matipuno,
+
+Utterance 536
+Start: 923.48
+End: 924.08
+Duration: 0.60s
+Confidence: 0.9179
+Text: silbe,
+
+Utterance 537
+Start: 924.78
+End: 925.58
+Duration: 0.80s
+Confidence: 0.9495
+Text: binuhusan,
+
+Utterance 538
+Start: 926.30
+End: 927.12
+Duration: 0.82s
+Confidence: 0.8676
+Text: kalaliman,
+
+Utterance 539
+Start: 927.74
+End: 928.40
+Duration: 0.66s
+Confidence: 0.9968
+Text: matulog,
+
+Utterance 540
+Start: 928.84
+End: 930.36
+Duration: 1.52s
+Confidence: 0.5301
+Text: Silbihang,
+
+Utterance 541
+Start: 930.50
+End: 931.66
+Duration: 1.16s
+Confidence: 0.7953
+Text: binuksan,
+
+Utterance 542
+Start: 932.08
+End: 933.12
+Duration: 1.04s
+Confidence: 0.9764
+Text: kalangitan,
+
+Utterance 543
+Start: 933.70
+End: 934.42
+Duration: 0.72s
+Confidence: 0.8887
+Text: mauna,
+
+Utterance 544
+Start: 935.22
+End: 936.14
+Duration: 0.92s
+Confidence: 0.7623
+Text: silya,
+
+Utterance 545
+Start: 936.60
+End: 937.86
+Duration: 1.26s
+Confidence: 0.8548
+Text: binyag,
+
+Utterance 546
+Start: 938.44
+End: 939.78
+Duration: 1.34s
+Confidence: 0.9256
+Text: kalat,
+
+Utterance 547
+Start: 940.10
+End: 940.44
+Duration: 0.34s
+Confidence: 0.5587
+Text: may,
+
+Utterance 548
+Start: 941.22
+End: 942.26
+Duration: 1.04s
+Confidence: 0.9312
+Text: simbahan,
+
+Utterance 549
+Start: 942.82
+End: 943.72
+Duration: 0.90s
+Confidence: 0.5923
+Text: bisak,
+
+Utterance 550
+Start: 943.86
+End: 945.12
+Duration: 1.26s
+Confidence: 0.9844
+Text: kalawakan,
+
+Utterance 551
+Start: 945.52
+End: 946.34
+Duration: 0.82s
+Confidence: 0.9547
+Text: maya,
+
+Utterance 552
+Start: 946.76
+End: 947.18
+Duration: 0.42s
+Confidence: 0.8552
+Text: simple,
+
+Utterance 553
+Start: 948.32
+End: 949.04
+Duration: 0.72s
+Confidence: 0.9640
+Text: bisita,
+
+Utterance 554
+Start: 949.70
+End: 951.20
+Duration: 1.50s
+Confidence: 0.9695
+Text: kalayaan,
+
+Utterance 555
+Start: 951.52
+End: 952.52
+Duration: 1.00s
+Confidence: 0.9546
+Text: mayabang,
+
+Utterance 556
+Start: 953.06
+End: 954.08
+Duration: 1.02s
+Confidence: 0.9207
+Text: pwedeng,
+
+Utterance 557
+Start: 954.42
+End: 955.48
+Duration: 1.06s
+Confidence: 0.8946
+Text: praning,
+
+Utterance 558
+Start: 956.34
+End: 957.54
+Duration: 1.20s
+Confidence: 0.9884
+Text: ngayon,
+
+Utterance 559
+Start: 957.96
+End: 958.50
+Duration: 0.54s
+Confidence: 0.9755
+Text: sinama,
+
+Utterance 560
+Start: 958.84
+End: 960.76
+Duration: 1.92s
+Confidence: 0.5984
+Text: BITUWIN,
+
+Utterance 561
+Start: 960.94
+End: 962.18
+Duration: 1.24s
+Confidence: 0.8628
+Text: KALIKASAN,
+
+Utterance 562
+Start: 962.54
+End: 963.72
+Duration: 1.18s
+Confidence: 0.9389
+Text: MAYAMAN,
+
+Utterance 563
+Start: 964.08
+End: 965.16
+Duration: 1.08s
+Confidence: 0.8717
+Text: SINAMAHAN,
+
+Utterance 564
+Start: 965.60
+End: 966.78
+Duration: 1.18s
+Confidence: 0.8668
+Text: BIAYA,
+
+Utterance 565
+Start: 967.12
+End: 968.32
+Duration: 1.20s
+Confidence: 0.9139
+Text: KALIMUTAN,
+
+Utterance 566
+Start: 968.64
+End: 969.68
+Duration: 1.04s
+Confidence: 0.8247
+Text: MAYNILA,
+
+Utterance 567
+Start: 970.04
+End: 970.86
+Duration: 0.82s
+Confidence: 0.9138
+Text: SINDAK,
+
+Utterance 568
+Start: 971.54
+End: 972.60
+Duration: 1.06s
+Confidence: 0.9579
+Text: BIERNES,
+
+Utterance 569
+Start: 972.96
+End: 973.96
+Duration: 1.00s
+Confidence: 0.9359
+Text: KALIWANG,
+
+Utterance 570
+Start: 974.54
+End: 975.26
+Duration: 0.72s
+Confidence: 0.9448
+Text: MAYO,
+
+Utterance 571
+Start: 975.72
+End: 976.72
+Duration: 1.00s
+Confidence: 0.8121
+Text: SINDI,
+
+Utterance 572
+Start: 977.22
+End: 978.14
+Duration: 0.92s
+Confidence: 0.8664
+Text: BLACKBOARD,
+
+Utterance 573
+Start: 978.44
+End: 979.30
+Duration: 0.86s
+Confidence: 0.8778
+Text: KALSADA,
+
+Utterance 574
+Start: 979.96
+End: 980.66
+Duration: 0.70s
+Confidence: 0.8440
+Text: MAYROON,
+
+Utterance 575
+Start: 981.42
+End: 982.36
+Duration: 0.94s
+Confidence: 0.8869
+Text: SINDIHAN,
+
+Utterance 576
+Start: 983.00
+End: 983.58
+Duration: 0.58s
+Confidence: 0.9014
+Text: BOBO,
+
+Utterance 577
+Start: 984.06
+End: 985.22
+Duration: 1.16s
+Confidence: 0.9515
+Text: KALUNGKUTAN,
+
+Utterance 578
+Start: 985.54
+End: 986.44
+Duration: 0.90s
+Confidence: 0.8398
+Text: MAYSAKIT,
+
+Utterance 579
+Start: 986.96
+End: 987.70
+Duration: 0.74s
+Confidence: 0.7982
+Text: SINKIT,
+
+Utterance 580
+Start: 987.70
+End: 989.02
+Duration: 1.32s
+Confidence: 0.3337
+Text: bola
+
+Utterance 581
+Start: 989.70
+End: 991.02
+Duration: 1.32s
+Confidence: 0.5384
+Text: kalye
+
+Utterance 582
+Start: 991.02
+End: 991.72
+Duration: 0.70s
+Confidence: 0.8524
+Text: mensahe
+
+Utterance 583
+Start: 992.36
+End: 993.06
+Duration: 0.70s
+Confidence: 0.9766
+Text: sinilang
+
+Utterance 584
+Start: 993.66
+End: 995.08
+Duration: 1.42s
+Confidence: 0.9157
+Text: bolahan
+
+Utterance 585
+Start: 995.08
+End: 995.78
+Duration: 0.70s
+Confidence: 0.9327
+Text: kama
+
+Utterance 586
+Start: 996.34
+End: 997.04
+Duration: 0.70s
+Confidence: 0.8189
+Text: meron
+
+Utterance 587
+Start: 997.82
+End: 998.72
+Duration: 0.90s
+Confidence: 0.9803
+Text: sino
+
+Utterance 588
+Start: 998.72
+End: 999.70
+Duration: 0.98s
+Confidence: 0.9600
+Text: bote
+
+Utterance 589
+Start: 1000.24
+End: 1000.94
+Duration: 0.70s
+Confidence: 0.9790
+Text: kamay
+
+Utterance 590
+Start: 1001.76
+End: 1002.60
+Duration: 0.84s
+Confidence: 0.9567
+Text: mesa
+
+Utterance 591
+Start: 1002.60
+End: 1003.70
+Duration: 1.10s
+Confidence: 0.9820
+Text: sinuman
+
+Utterance 592
+Start: 1004.44
+End: 1005.80
+Duration: 1.36s
+Confidence: 0.9548
+Text: boyfriend
+
+Utterance 593
+Start: 1005.80
+End: 1006.70
+Duration: 0.90s
+Confidence: 0.9782
+Text: kamayan
+
+Utterance 594
+Start: 1007.34
+End: 1008.04
+Duration: 0.70s
+Confidence: 0.9244
+Text: mga
+
+Utterance 595
+Start: 1008.58
+End: 1009.96
+Duration: 1.38s
+Confidence: 0.9665
+Text: sinungaling
+
+Utterance 596
+Start: 1009.96
+End: 1010.70
+Duration: 0.74s
+Confidence: 0.8372
+Text: bugbog
+
+Utterance 597
+Start: 1011.22
+End: 1012.06
+Duration: 0.84s
+Confidence: 0.9553
+Text: kami
+
+Utterance 598
+Start: 1012.06
+End: 1012.76
+Duration: 0.70s
+Confidence: 0.9235
+Text: minsan
+
+Utterance 599
+Start: 1013.74
+End: 1015.04
+Duration: 1.30s
+Confidence: 0.9621
+Text: sinunog
+
+Utterance 600
+Start: 1015.04
+End: 1015.74
+Duration: 0.70s
+Confidence: 0.9210
+Text: bugbogin
+
+Utterance 601
+Start: 1016.36
+End: 1016.96
+Duration: 0.60s
+Confidence: 0.8731
+Text: kaming
+
+Utterance 602
+Start: 1016.96
+End: 1018.90
+Duration: 1.94s
+Confidence: 0.6884
+Text: sinuot
+
+Utterance 603
+Start: 1018.90
+End: 1019.96
+Duration: 1.06s
+Confidence: 0.8156
+Text: buhay
+
+Utterance 604
+Start: 1021.02
+End: 1024.96
+Duration: 3.94s
+Confidence: -0.2485
+Text: kamo sipag masasamang
+
+Utterance 605
+Start: 1025.48
+End: 1028.96
+Duration: 3.48s
+Confidence: -0.2485
+Text: nagtanong bukas kampihan
+
+Utterance 606
+Start: 1029.72
+End: 1033.24
+Duration: 3.52s
+Confidence: -0.2485
+Text: mismong sipagin buked
+
+Utterance 607
+Start: 1033.24
+End: 1037.96
+Duration: 4.72s
+Confidence: -0.2485
+Text: kamusta miyarkules sipain buksan
+
+Utterance 608
+Start: 1038.96
+End: 1043.96
+Duration: 5.00s
+Confidence: -0.2485
+Text: kang mo sipunin sipunin
+
+Utterance 609
+Start: 1043.96
+End: 1055.44
+Duration: 11.48s
+Confidence: 0.7857
+Text: Bumaba kanila mong sira bumati kanilang mukha sirain
+
+Utterance 610
+Start: 1055.44
+End: 1067.14
+Duration: 11.70s
+Confidence: 0.9083
+Text: bumenta kanino sisinuhin bumigay kanta muling magtulungan magulang
+
+Utterance 611
+Start: 1067.14
+End: 1073.94
+Duration: 6.80s
+Confidence: 0.9428
+Text: aking akong sistema bumili kantahan
+
+Utterance 612
+Start: 1073.96
+End: 1075.86
+Duration: 1.90s
+Confidence: 0.5787
+Text: Siya
+
+Utterance 613
+Start: 1075.86
+End: 1077.30
+Duration: 1.44s
+Confidence: 0.8553
+Text: bumisita
+
+Utterance 614
+Start: 1077.30
+End: 1083.96
+Duration: 6.66s
+Confidence: -0.3352
+Text: Kanto siyang kanya sobra bundok
+
+Utterance 615
+Start: 1083.96
+End: 1088.96
+Duration: 5.00s
+Confidence: -0.3352
+Text: Kanyang munting sobre bunso
+
+Utterance 616
+Start: 1089.90
+End: 1096.10
+Duration: 6.20s
+Confidence: -0.3352
+Text: Kapag sofa buong kapahamakan
+
+Utterance 617
+Start: 1096.10
+End: 1097.10
+Duration: 1.00s
+Confidence: 0.3184
+Text: na
+
+Utterance 618
+Start: 1097.62
+End: 1098.32
+Duration: 0.70s
+Confidence: 0.6700
+Text: subok
+
+Utterance 619
+Start: 1098.94
+End: 1099.64
+Duration: 0.70s
+Confidence: 0.8512
+Text: buto
+
+Utterance 620
+Start: 1100.02
+End: 1101.42
+Duration: 1.40s
+Confidence: 0.9413
+Text: kapalaran
+
+Utterance 621
+Start: 1101.42
+End: 1101.88
+Duration: 0.46s
+Confidence: 0.9648
+Text: na
+
+Utterance 622
+Start: 1101.88
+End: 1102.58
+Duration: 0.70s
+Confidence: 0.9675
+Text: alala
+
+Utterance 623
+Start: 1102.70
+End: 1103.40
+Duration: 0.70s
+Confidence: 0.8827
+Text: subukan
+
+Utterance 624
+Start: 1104.16
+End: 1105.10
+Duration: 0.94s
+Confidence: 0.9625
+Text: buwan
+
+Utterance 625
+Start: 1105.72
+End: 1106.42
+Duration: 0.70s
+Confidence: 0.9830
+Text: kapalarang
+
+Utterance 626
+Start: 1107.18
+End: 1108.02
+Duration: 0.84s
+Confidence: 0.6632
+Text: nabanga
+
+Utterance 627
+Start: 1108.02
+End: 1109.10
+Duration: 1.08s
+Confidence: 0.8675
+Text: sugal
+
+Utterance 628
+Start: 1109.98
+End: 1110.68
+Duration: 0.70s
+Confidence: 0.9804
+Text: buwanang
+
+Utterance 629
+Start: 1111.58
+End: 1112.28
+Duration: 0.70s
+Confidence: 0.9941
+Text: kapatagang
+
+Utterance 630
+Start: 1112.98
+End: 1113.68
+Duration: 0.70s
+Confidence: 0.9013
+Text: nabasa
+
+Utterance 631
+Start: 1114.18
+End: 1115.10
+Duration: 0.92s
+Confidence: 0.9686
+Text: sugat
+
+Utterance 632
+Start: 1115.64
+End: 1116.34
+Duration: 0.70s
+Confidence: 0.9942
+Text: daan
+
+Utterance 633
+Start: 1116.84
+End: 1118.52
+Duration: 1.68s
+Confidence: 0.9781
+Text: kapatawaran
+
+Utterance 634
+Start: 1118.52
+End: 1119.22
+Duration: 0.70s
+Confidence: 0.9050
+Text: nadinig
+
+Utterance 635
+Start: 1120.20
+End: 1121.28
+Duration: 1.08s
+Confidence: 0.6783
+Text: sukat
+
+Utterance 636
+Start: 1121.28
+End: 1122.54
+Duration: 1.26s
+Confidence: 0.9935
+Text: daanan
+
+Utterance 637
+Start: 1122.54
+End: 1123.24
+Duration: 0.70s
+Confidence: 0.9658
+Text: kapatid
+
+Utterance 638
+Start: 1124.16
+End: 1125.24
+Duration: 1.08s
+Confidence: 0.9152
+Text: naga
+
+Utterance 639
+Start: 1155.52
+End: 1156.24
+Duration: 0.72s
+Confidence: 0.8009
+Text: Carpintero
+
+Utterance 640
+Start: 1156.92
+End: 1157.74
+Duration: 0.82s
+Confidence: 0.7802
+Text: Nagbasa
+
+Utterance 641
+Start: 1158.48
+End: 1160.08
+Duration: 1.60s
+Confidence: 0.9468
+Text: Sulatan
+
+Utterance 642
+Start: 1160.08
+End: 1161.24
+Duration: 1.16s
+Confidence: 0.9776
+Text: Dahas
+
+Utterance 643
+Start: 1161.84
+End: 1162.74
+Duration: 0.90s
+Confidence: 0.9785
+Text: Kasabay
+
+Utterance 644
+Start: 1163.32
+End: 1164.24
+Duration: 0.92s
+Confidence: 0.9504
+Text: Nagbibigay
+
+Utterance 645
+Start: 1165.00
+End: 1166.18
+Duration: 1.18s
+Confidence: 0.9697
+Text: Sulatin
+
+Utterance 646
+Start: 1166.18
+End: 1167.24
+Duration: 1.06s
+Confidence: 0.9710
+Text: Dahil
+
+Utterance 647
+Start: 1167.96
+End: 1168.74
+Duration: 0.78s
+Confidence: 0.5736
+Text: Kasabahan
+
+Utterance 648
+Start: 1170.72
+End: 1171.42
+Duration: 0.70s
+Confidence: 0.9509
+Text: Nagbigay
+
+Utterance 649
+Start: 1172.74
+End: 1174.14
+Duration: 1.40s
+Confidence: 0.9131
+Text: Suliranin
+
+Utterance 650
+Start: 1174.14
+End: 1174.84
+Duration: 0.70s
+Confidence: 0.9761
+Text: Dahilan
+
+Utterance 651
+Start: 1175.38
+End: 1177.22
+Duration: 1.84s
+Confidence: 0.9852
+Text: Kasama
+
+Utterance 652
+Start: 1177.22
+End: 1179.20
+Duration: 1.98s
+Confidence: 0.9110
+Text: Nagbubungkal
+
+Utterance 653
+Start: 1179.20
+End: 1180.24
+Duration: 1.04s
+Confidence: 0.9775
+Text: Sulit
+
+Utterance 654
+Start: 1180.94
+End: 1181.74
+Duration: 0.80s
+Confidence: 0.9440
+Text: Dahon
+
+Utterance 655
+Start: 1182.34
+End: 1183.24
+Duration: 0.90s
+Confidence: 0.7997
+Text: Kasamahan
+
+Utterance 656
+Start: 1183.24
+End: 1185.36
+Duration: 2.12s
+Confidence: 0.3980
+Text: Nagdidilim,
+
+Utterance 657
+Start: 1185.94
+End: 1187.56
+Duration: 1.62s
+Confidence: 0.9589
+Text: sulitin,
+
+Utterance 658
+Start: 1187.94
+End: 1188.94
+Duration: 1.00s
+Confidence: 0.8914
+Text: dahong,
+
+Utterance 659
+Start: 1189.46
+End: 1189.88
+Duration: 0.42s
+Confidence: 0.8532
+Text: show,
+
+Utterance 660
+Start: 1190.66
+End: 1191.82
+Duration: 1.16s
+Confidence: 0.8509
+Text: kasawian,
+
+Utterance 661
+Start: 1192.40
+End: 1193.72
+Duration: 1.32s
+Confidence: 0.8396
+Text: naghinagbis,
+
+Utterance 662
+Start: 1194.10
+End: 1194.38
+Duration: 0.28s
+Confidence: 0.6038
+Text: sul
+
+Utterance 663
+Start: 1194.38
+End: 1195.02
+Duration: 0.64s
+Confidence: 0.6373
+Text: -sol,
+
+Utterance 664
+Start: 1196.76
+End: 1197.84
+Duration: 1.08s
+Confidence: 0.8748
+Text: daigdig,
+
+Utterance 665
+Start: 1198.42
+End: 1199.04
+Duration: 0.62s
+Confidence: 0.4283
+Text: kasha,
+
+Utterance 666
+Start: 1199.58
+End: 1200.94
+Duration: 1.36s
+Confidence: 0.9785
+Text: naghirap,
+
+Utterance 667
+Start: 1201.40
+End: 1201.64
+Duration: 0.24s
+Confidence: 0.7249
+Text: sul
+
+Utterance 668
+Start: 1201.64
+End: 1202.34
+Duration: 0.70s
+Confidence: 0.9846
+Text: -sulan,
+
+Utterance 669
+Start: 1203.36
+End: 1203.94
+Duration: 0.58s
+Confidence: 0.9921
+Text: dalaga,
+
+Utterance 670
+Start: 1204.68
+End: 1205.32
+Duration: 0.64s
+Confidence: 0.9898
+Text: katawan
+
+Utterance 671
+Start: 1207.10
+End: 1208.50
+Duration: 1.40s
+Confidence: 0.7625
+Text: Nagiging
+
+Utterance 672
+Start: 1208.50
+End: 1209.86
+Duration: 1.36s
+Confidence: 0.9446
+Text: dalampasigan,
+
+Utterance 673
+Start: 1210.40
+End: 1211.52
+Duration: 1.12s
+Confidence: 0.9542
+Text: katulong
+
+Utterance 674
+Start: 1211.52
+End: 1212.94
+Duration: 1.42s
+Confidence: 0.6991
+Text: naging
+
+Utterance 675
+Start: 1212.94
+End: 1214.30
+Duration: 1.36s
+Confidence: 0.8284
+Text: sumbong,
+
+Utterance 676
+Start: 1214.60
+End: 1215.48
+Duration: 0.88s
+Confidence: 0.9451
+Text: dalawa
+
+Utterance 677
+Start: 1215.48
+End: 1216.66
+Duration: 1.18s
+Confidence: 0.9177
+Text: kaugnayan,
+
+Utterance 678
+Start: 1217.36
+End: 1218.16
+Duration: 0.80s
+Confidence: 0.7386
+Text: nagising
+
+Utterance 679
+Start: 1218.16
+End: 1219.50
+Duration: 1.34s
+Confidence: 0.9228
+Text: sumisira,
+
+Utterance 680
+Start: 1220.14
+End: 1221.30
+Duration: 1.16s
+Confidence: 0.9865
+Text: dalawin,
+
+Utterance 681
+Start: 1221.48
+End: 1222.38
+Duration: 0.90s
+Confidence: 0.8937
+Text: payapang,
+
+Utterance 682
+Start: 1222.74
+End: 1223.92
+Duration: 1.18s
+Confidence: 0.7659
+Text: sangayon,
+
+Utterance 683
+Start: 1224.18
+End: 1225.20
+Duration: 1.02s
+Confidence: 0.9541
+Text: tatlong,
+
+Utterance 684
+Start: 1225.52
+End: 1226.24
+Duration: 0.72s
+Confidence: 0.8802
+Text: buwang,
+
+Utterance 685
+Start: 1226.84
+End: 1227.56
+Duration: 0.72s
+Confidence: 0.9343
+Text: mapanghe,
+
+Utterance 686
+Start: 1228.42
+End: 1229.34
+Duration: 0.92s
+Confidence: 0.7161
+Text: maluang,
+
+Utterance 687
+Start: 1229.86
+End: 1230.98
+Duration: 1.12s
+Confidence: 0.9864
+Text: pangulong,
+
+Utterance 688
+Start: 1231.14
+End: 1232.40
+Duration: 1.26s
+Confidence: 0.7531
+Text: kaukulang,
+
+Utterance 689
+Start: 1232.40
+End: 1234.64
+Duration: 2.24s
+Confidence: 0.7812
+Text: Nagkaayusan
+
+Utterance 690
+Start: 1234.64
+End: 1236.14
+Duration: 1.50s
+Confidence: 0.6235
+Text: sundalo
+
+Utterance 691
+Start: 1236.14
+End: 1237.56
+Duration: 1.42s
+Confidence: 0.7014
+Text: dalidaling
+
+Utterance 692
+Start: 1237.56
+End: 1239.32
+Duration: 1.76s
+Confidence: 0.8735
+Text: kaunlaran,
+
+Utterance 693
+Start: 1239.64
+End: 1241.10
+Duration: 1.46s
+Confidence: 0.8315
+Text: nagkakaingin
+
+Utterance 694
+Start: 1241.10
+End: 1242.60
+Duration: 1.50s
+Confidence: 0.8087
+Text: sundan,
+
+Utterance 695
+Start: 1243.00
+End: 1244.42
+Duration: 1.42s
+Confidence: 0.6739
+Text: dambahin
+
+Utterance 696
+Start: 1244.42
+End: 1245.90
+Duration: 1.48s
+Confidence: 0.6806
+Text: kaunti,
+
+Utterance 697
+Start: 1246.20
+End: 1247.48
+Duration: 1.28s
+Confidence: 0.9231
+Text: nagkamay
+
+Utterance 698
+Start: 1247.48
+End: 1248.76
+Duration: 1.28s
+Confidence: 0.6240
+Text: sundo,
+
+Utterance 699
+Start: 1249.06
+End: 1250.24
+Duration: 1.18s
+Confidence: 0.9156
+Text: dami
+
+Utterance 700
+Start: 1250.24
+End: 1251.50
+Duration: 1.26s
+Confidence: 0.7586
+Text: kaya
+
+Utterance 701
+Start: 1251.50
+End: 1253.10
+Duration: 1.60s
+Confidence: 0.7271
+Text: nagkukwento,
+
+Utterance 702
+Start: 1253.66
+End: 1254.66
+Duration: 1.00s
+Confidence: 0.9709
+Text: sunduin
+
+Utterance 703
+Start: 1254.66
+End: 1256.40
+Duration: 1.74s
+Confidence: 0.6674
+Text: damit.
+
+Utterance 704
+Start: 1256.40
+End: 1258.48
+Duration: 2.08s
+Confidence: 0.7208
+Text: Kayo,
+
+Utterance 705
+Start: 1258.74
+End: 1260.62
+Duration: 1.88s
+Confidence: 0.7750
+Text: naglalarawan,
+
+Utterance 706
+Start: 1261.82
+End: 1262.94
+Duration: 1.12s
+Confidence: 0.6823
+Text: sunggab,
+
+Utterance 707
+Start: 1263.30
+End: 1264.18
+Duration: 0.88s
+Confidence: 0.9273
+Text: damo,
+
+Utterance 708
+Start: 1264.50
+End: 1265.42
+Duration: 0.92s
+Confidence: 0.8895
+Text: kayong,
+
+Utterance 709
+Start: 1265.74
+End: 1267.36
+Duration: 1.62s
+Confidence: 0.8931
+Text: nagliliwanag,
+
+Utterance 710
+Start: 1267.66
+End: 1268.34
+Duration: 0.68s
+Confidence: 0.9573
+Text: sunggaban,
+
+Utterance 711
+Start: 1269.26
+End: 1269.66
+Duration: 0.40s
+Confidence: 0.8809
+Text: dapat,
+
+Utterance 712
+Start: 1270.56
+End: 1271.28
+Duration: 0.72s
+Confidence: 0.9228
+Text: kibo,
+
+Utterance 713
+Start: 1271.74
+End: 1272.72
+Duration: 0.98s
+Confidence: 0.9654
+Text: nagmamadaling,
+
+Utterance 714
+Start: 1273.36
+End: 1274.30
+Duration: 0.94s
+Confidence: 0.7737
+Text: sungkit,
+
+Utterance 715
+Start: 1274.80
+End: 1275.60
+Duration: 0.80s
+Confidence: 0.9753
+Text: dasal,
+
+Utterance 716
+Start: 1276.16
+End: 1276.78
+Duration: 0.62s
+Confidence: 0.7633
+Text: kidlat,
+
+Utterance 717
+Start: 1277.38
+End: 1278.28
+Duration: 0.90s
+Confidence: 0.9711
+Text: nagpahinga,
+
+Utterance 718
+Start: 1278.92
+End: 1279.70
+Duration: 0.78s
+Confidence: 0.9775
+Text: sunog,
+
+Utterance 719
+Start: 1280.00
+End: 1280.58
+Duration: 0.58s
+Confidence: 0.9848
+Text: dasalan,
+
+Utterance 720
+Start: 1281.50
+End: 1282.30
+Duration: 0.80s
+Confidence: 0.9692
+Text: kilabot,
+
+Utterance 721
+Start: 1282.84
+End: 1283.90
+Duration: 1.06s
+Confidence: 0.9524
+Text: nagpalambot,
+
+Utterance 722
+Start: 1284.40
+End: 1284.98
+Duration: 0.58s
+Confidence: 0.7001
+Text: suot,
+
+Utterance 723
+Start: 1285.52
+End: 1286.00
+Duration: 0.48s
+Confidence: 0.9514
+Text: dati,
+
+Utterance 724
+Start: 1286.00
+End: 1288.02
+Duration: 2.02s
+Confidence: 0.6496
+Text: kilabutan,
+
+Utterance 725
+Start: 1288.36
+End: 1289.62
+Duration: 1.26s
+Confidence: 0.9234
+Text: nagpapakilala,
+
+Utterance 726
+Start: 1290.12
+End: 1291.02
+Duration: 0.90s
+Confidence: 0.9895
+Text: sustento,
+
+Utterance 727
+Start: 1291.46
+End: 1291.76
+Duration: 0.30s
+Confidence: 0.6898
+Text: daw,
+
+Utterance 728
+Start: 1292.64
+End: 1293.36
+Duration: 0.72s
+Confidence: 0.9962
+Text: kilala,
+
+Utterance 729
+Start: 1293.96
+End: 1295.20
+Duration: 1.24s
+Confidence: 0.9634
+Text: nagpapaligaya,
+
+Utterance 730
+Start: 1295.56
+End: 1296.80
+Duration: 1.24s
+Confidence: 0.9340
+Text: sweldo,
+
+Utterance 731
+Start: 1297.24
+End: 1297.92
+Duration: 0.68s
+Confidence: 0.7656
+Text: daya,
+
+Utterance 732
+Start: 1298.24
+End: 1299.14
+Duration: 0.90s
+Confidence: 0.9824
+Text: kilay,
+
+Utterance 733
+Start: 1299.28
+End: 1300.18
+Duration: 0.90s
+Confidence: 0.9720
+Text: nagpapayo,
+
+Utterance 734
+Start: 1300.74
+End: 1301.94
+Duration: 1.20s
+Confidence: 0.9915
+Text: taas,
+
+Utterance 735
+Start: 1302.24
+End: 1302.94
+Duration: 0.70s
+Confidence: 0.8161
+Text: dayaan,
+
+Utterance 736
+Start: 1303.70
+End: 1304.24
+Duration: 0.54s
+Confidence: 0.6708
+Text: kilos,
+
+Utterance 737
+Start: 1304.64
+End: 1305.54
+Duration: 0.90s
+Confidence: 0.8312
+Text: nagsabe,
+
+Utterance 738
+Start: 1305.98
+End: 1306.54
+Duration: 0.56s
+Confidence: 0.9854
+Text: taasan,
+
+Utterance 739
+Start: 1307.32
+End: 1307.96
+Duration: 0.64s
+Confidence: 0.9271
+Text: dayain,
+
+Utterance 740
+Start: 1308.52
+End: 1309.40
+Duration: 0.88s
+Confidence: 0.9808
+Text: kinain,
+
+Utterance 741
+Start: 1309.80
+End: 1310.68
+Duration: 0.88s
+Confidence: 0.9433
+Text: nagsalita,
+
+Utterance 742
+Start: 1311.26
+End: 1311.94
+Duration: 0.68s
+Confidence: 0.9299
+Text: taba,
+
+Utterance 743
+Start: 1312.52
+End: 1313.16
+Duration: 0.64s
+Confidence: 0.9581
+Text: di,
+
+Utterance 744
+Start: 1313.56
+End: 1314.58
+Duration: 1.02s
+Confidence: 0.8688
+Text: kinakailangan,
+
+Utterance 745
+Start: 1314.58
+End: 1316.56
+Duration: 1.98s
+Confidence: 0.7233
+Text: Patungong,
+
+Utterance 746
+Start: 1316.88
+End: 1318.04
+Duration: 1.16s
+Confidence: 0.5944
+Text: ginaong,
+
+Utterance 747
+Start: 1318.30
+End: 1319.32
+Duration: 1.02s
+Confidence: 0.9428
+Text: nangyaring,
+
+Utterance 748
+Start: 1319.86
+End: 1320.62
+Duration: 0.76s
+Confidence: 0.8557
+Text: mangyayari,
+
+Utterance 749
+Start: 1321.52
+End: 1322.76
+Duration: 1.24s
+Confidence: 0.9180
+Text: paputok,
+
+Utterance 750
+Start: 1323.94
+End: 1324.90
+Duration: 0.96s
+Confidence: 0.8358
+Text: kusehong,
+
+Utterance 751
+Start: 1325.54
+End: 1327.00
+Duration: 1.46s
+Confidence: 0.9296
+Text: aligasyong,
+
+Utterance 752
+Start: 1327.24
+End: 1328.76
+Duration: 1.52s
+Confidence: 0.9750
+Text: nagsasabog,
+
+Utterance 753
+Start: 1329.06
+End: 1330.04
+Duration: 0.98s
+Confidence: 0.6555
+Text: tabih,
+
+Utterance 754
+Start: 1330.34
+End: 1331.38
+Duration: 1.04s
+Confidence: 0.7616
+Text: dibdib,
+
+Utterance 755
+Start: 1331.78
+End: 1332.80
+Duration: 1.02s
+Confidence: 0.8130
+Text: kinakain,
+
+Utterance 756
+Start: 1333.24
+End: 1334.76
+Duration: 1.52s
+Confidence: 0.8928
+Text: nagsasalaysay,
+
+Utterance 757
+Start: 1335.20
+End: 1336.30
+Duration: 1.10s
+Confidence: 0.9520
+Text: tabihan,
+
+Utterance 758
+Start: 1336.76
+End: 1337.28
+Duration: 0.52s
+Confidence: 0.9601
+Text: dikit,
+
+Utterance 759
+Start: 1338.00
+End: 1339.28
+Duration: 1.28s
+Confidence: 0.8520
+Text: kinalalagyan,
+
+Utterance 760
+Start: 1339.68
+End: 1340.68
+Duration: 1.00s
+Confidence: 0.9951
+Text: nagsasalita,
+
+Utterance 761
+Start: 1341.92
+End: 1342.54
+Duration: 0.62s
+Confidence: 0.9356
+Text: tabo,
+
+Utterance 762
+Start: 1343.10
+End: 1343.66
+Duration: 0.56s
+Confidence: 0.8153
+Text: dikitan,
+
+Utterance 763
+Start: 1344.52
+End: 1344.56
+Duration: 0.04s
+Confidence: 0.5473
+Text: kinakain,
+
+Utterance 764
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.6666
+Text: tabihan,
+
+Utterance 765
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.7352
+Text: dikit,
+
+Utterance 766
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8117
+Text: kinalalagyan,
+
+Utterance 767
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9787
+Text: nagsasalita,
+
+Utterance 768
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9584
+Text: tabo,
+
+Utterance 769
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8054
+Text: dikitan,
+
+Utterance 770
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9148
+Text: kinalalagyan,
+
+Utterance 771
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9617
+Text: nagsasalita,
+
+Utterance 772
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9122
+Text: tabo,
+
+Utterance 773
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.7492
+Text: dikit,
+
+Utterance 774
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.7933
+Text: kinalalagyan,
+
+Utterance 775
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9678
+Text: nagsasalita,
+
+Utterance 776
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8742
+Text: tabo,
+
+Utterance 777
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8623
+Text: dikit,
+
+Utterance 778
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8303
+Text: kinalalagyan,
+
+Utterance 779
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9755
+Text: nagsasalita,
+
+Utterance 780
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8437
+Text: tabo,
+
+Utterance 781
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8933
+Text: dikit,
+
+Utterance 782
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8754
+Text: kinalalagyan,
+
+Utterance 783
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9793
+Text: nagsasalita,
+
+Utterance 784
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.8612
+Text: nagsasalita,
+
+Utterance 785
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9292
+Text: nagsasalita,
+
+Utterance 786
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9609
+Text: nagsasalita,
+
+Utterance 787
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9707
+Text: nagsasalita,
+
+Utterance 788
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9760
+Text: nagsasalita,
+
+Utterance 789
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9785
+Text: nagsasalita,
+
+Utterance 790
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9812
+Text: nagsasalita,
+
+Utterance 791
+Start: 1344.56
+End: 1344.56
+Duration: 0.00s
+Confidence: 0.9792
+Text: nagsasalita
+
+Utterance 792
+Start: 1344.56
+End: 1345.70
+Duration: 1.14s
+Confidence: 0.6061
+Text: Inalat,
+
+Utterance 793
+Start: 1345.90
+End: 1346.62
+Duration: 0.72s
+Confidence: 0.8738
+Text: nagsawa,
+
+Utterance 794
+Start: 1347.46
+End: 1348.32
+Duration: 0.86s
+Confidence: 0.8300
+Text: tae,
+
+Utterance 795
+Start: 1348.54
+End: 1349.66
+Duration: 1.12s
+Confidence: 0.9223
+Text: dikitin,
+
+Utterance 796
+Start: 1349.92
+End: 1351.16
+Duration: 1.24s
+Confidence: 0.9582
+Text: kinantahan,
+
+Utterance 797
+Start: 1351.62
+End: 1352.68
+Duration: 1.06s
+Confidence: 0.8990
+Text: nagtaka,
+
+Utterance 798
+Start: 1353.18
+End: 1354.18
+Duration: 1.00s
+Confidence: 0.8952
+Text: taga,
+
+Utterance 799
+Start: 1354.56
+End: 1355.68
+Duration: 1.12s
+Confidence: 0.8988
+Text: dilaan,
+
+Utterance 800
+Start: 1356.08
+End: 1357.28
+Duration: 1.20s
+Confidence: 0.9049
+Text: kinatatayuan,
+
+Utterance 801
+Start: 1357.74
+End: 1358.62
+Duration: 0.88s
+Confidence: 0.9747
+Text: nagtalo,
+
+Utterance 802
+Start: 1358.96
+End: 1359.76
+Duration: 0.80s
+Confidence: 0.9434
+Text: tagiliran,
+
+Utterance 803
+Start: 1360.34
+End: 1361.32
+Duration: 0.98s
+Confidence: 0.9691
+Text: delikado,
+
+Utterance 804
+Start: 1361.76
+End: 1362.68
+Duration: 0.92s
+Confidence: 0.9739
+Text: kinuha,
+
+Utterance 805
+Start: 1362.96
+End: 1364.44
+Duration: 1.48s
+Confidence: 0.9836
+Text: nagtatanong,
+
+Utterance 806
+Start: 1365.10
+End: 1365.50
+Duration: 0.40s
+Confidence: 0.7635
+Text: ba,
+
+Utterance 807
+Start: 1365.94
+End: 1366.46
+Duration: 0.52s
+Confidence: 0.8483
+Text: be,
+
+Utterance 808
+Start: 1367.28
+End: 1367.56
+Duration: 0.28s
+Confidence: 0.9842
+Text: bi,
+
+Utterance 809
+Start: 1368.18
+End: 1368.48
+Duration: 0.30s
+Confidence: 0.9509
+Text: bo,
+
+Utterance 810
+Start: 1369.26
+End: 1369.76
+Duration: 0.50s
+Confidence: 0.9838
+Text: bu,
+
+Utterance 811
+Start: 1370.82
+End: 1371.10
+Duration: 0.28s
+Confidence: 0.9321
+Text: bad,
+
+Utterance 812
+Start: 1372.00
+End: 1372.54
+Duration: 0.54s
+Confidence: 0.9915
+Text: bag,
+
+Utterance 813
+Start: 1373.86
+End: 1374.16
+Duration: 0.30s
+Confidence: 0.0549
+Text: back,
+
+Utterance 814
+Start: 1435.02
+End: 1436.30
+Duration: 1.28s
+Confidence: 0.1425
+Text: Dug,
+
+Utterance 815
+Start: 1436.64
+End: 1437.16
+Duration: 0.52s
+Confidence: 0.5518
+Text: dak,
+
+Utterance 816
+Start: 1437.84
+End: 1438.52
+Duration: 0.68s
+Confidence: 0.9820
+Text: dal,
+
+Utterance 817
+Start: 1439.16
+End: 1439.44
+Duration: 0.28s
+Confidence: 0.9356
+Text: dib,
+
+Utterance 818
+Start: 1440.20
+End: 1440.74
+Duration: 0.54s
+Confidence: 0.9394
+Text: dam,
+
+Utterance 819
+Start: 1441.46
+End: 1441.86
+Duration: 0.40s
+Confidence: 0.1625
+Text: day,
+
+Utterance 820
+Start: 1442.58
+End: 1443.12
+Duration: 0.54s
+Confidence: 0.9402
+Text: dan,
+
+Utterance 821
+Start: 1443.78
+End: 1444.18
+Duration: 0.40s
+Confidence: 0.9915
+Text: dig,
+
+Utterance 822
+Start: 1446.22
+End: 1446.22
+Duration: 0.00s
+Confidence: 0.9897
+Text: ding
+
+Utterance 823
+Start: 1446.22
+End: 1447.18
+Duration: 0.96s
+Confidence: 0.4487
+Text: Ga,
+
+Utterance 824
+Start: 1447.74
+End: 1448.22
+Duration: 0.48s
+Confidence: 0.8356
+Text: ge,
+
+Utterance 825
+Start: 1448.88
+End: 1449.26
+Duration: 0.38s
+Confidence: 0.9677
+Text: gi,
+
+Utterance 826
+Start: 1449.84
+End: 1450.20
+Duration: 0.36s
+Confidence: 0.8817
+Text: go,
+
+Utterance 827
+Start: 1450.84
+End: 1451.38
+Duration: 0.54s
+Confidence: 0.9199
+Text: gu,
+
+Utterance 828
+Start: 1452.20
+End: 1452.70
+Duration: 0.50s
+Confidence: 0.9080
+Text: god,
+
+Utterance 829
+Start: 1453.34
+End: 1453.98
+Duration: 0.64s
+Confidence: 0.6267
+Text: gua
+
+Utterance 830
+Start: 1455.34
+End: 1456.54
+Duration: 1.20s
+Confidence: 0.4260
+Text: Gaw,
+
+Utterance 831
+Start: 1456.90
+End: 1457.36
+Duration: 0.46s
+Confidence: 0.6698
+Text: gin,
+
+Utterance 832
+Start: 1458.16
+End: 1458.78
+Duration: 0.62s
+Confidence: 0.3402
+Text: gaw,
+
+Utterance 833
+Start: 1459.38
+End: 1459.82
+Duration: 0.44s
+Confidence: 0.9069
+Text: gos,
+
+Utterance 834
+Start: 1460.42
+End: 1461.06
+Duration: 0.64s
+Confidence: 0.9175
+Text: gas,
+
+Utterance 835
+Start: 1461.66
+End: 1462.42
+Duration: 0.76s
+Confidence: 0.5515
+Text: gai,
+
+Utterance 836
+Start: 1462.86
+End: 1463.22
+Duration: 0.36s
+Confidence: 0.9155
+Text: gan,
+
+Utterance 837
+Start: 1464.14
+End: 1464.88
+Duration: 0.74s
+Confidence: 0.8933
+Text: gil,
+
+Utterance 838
+Start: 1465.20
+End: 1465.84
+Duration: 0.64s
+Confidence: 0.9693
+Text: git,
+
+Utterance 839
+Start: 1466.44
+End: 1467.24
+Duration: 0.80s
+Confidence: 0.8516
+Text: gul,
+
+Utterance 840
+Start: 1467.62
+End: 1468.16
+Duration: 0.54s
+Confidence: 0.9525
+Text: gun,
+
+Utterance 841
+Start: 1468.92
+End: 1469.36
+Duration: 0.44s
+Confidence: 0.9792
+Text: gal,
+
+Utterance 842
+Start: 1470.12
+End: 1470.78
+Duration: 0.66s
+Confidence: 0.7506
+Text: gus,
+
+Utterance 843
+Start: 1471.36
+End: 1471.66
+Duration: 0.30s
+Confidence: 0.9526
+Text: gat,
+
+Utterance 844
+Start: 1472.48
+End: 1473.00
+Duration: 0.52s
+Confidence: 0.9953
+Text: gab
+
+Utterance 845
+Start: 1473.00
+End: 1482.24
+Duration: 9.24s
+Confidence: 0.7128
+Text: Fa fe fi fo fu feis fan fies
+
+Utterance 846
+Start: 1482.24
+End: 1483.32
+Duration: 1.08s
+Confidence: 0.9808
+Text: fig
+
+Utterance 847
+Start: 1483.32
+End: 1491.62
+Duration: 8.30s
+Confidence: 0.7566
+Text: Ha he hi ho hu hin hau han
+
+Utterance 848
+Start: 1491.62
+End: 1500.66
+Duration: 9.04s
+Confidence: 0.8175
+Text: hai hit hoi has hil him hag hul
+
+Utterance 849
+Start: 1500.66
+End: 1501.04
+Duration: 0.38s
+Confidence: 0.8386
+Text: ham
+
+Utterance 850
+Start: 1561.20
+End: 1562.32
+Duration: 1.12s
+Confidence: 0.3287
+Text: Loon,
+
+Utterance 851
+Start: 1562.32
+End: 1563.08
+Duration: 0.76s
+Confidence: 0.6756
+Text: lon,
+
+Utterance 852
+Start: 1563.56
+End: 1564.12
+Duration: 0.56s
+Confidence: 0.7872
+Text: lis
+
+Utterance 853
+Start: 1564.72
+End: 1565.82
+Duration: 1.10s
+Confidence: 0.4403
+Text: Ma,
+
+Utterance 854
+Start: 1566.26
+End: 1566.58
+Duration: 0.32s
+Confidence: 0.7582
+Text: me,
+
+Utterance 855
+Start: 1567.24
+End: 1567.80
+Duration: 0.56s
+Confidence: 0.7531
+Text: mi,
+
+Utterance 856
+Start: 1568.18
+End: 1568.78
+Duration: 0.60s
+Confidence: 0.9863
+Text: mo,
+
+Utterance 857
+Start: 1569.22
+End: 1569.66
+Duration: 0.44s
+Confidence: 0.9599
+Text: mu,
+
+Utterance 858
+Start: 1570.18
+End: 1570.44
+Duration: 0.26s
+Confidence: 0.9882
+Text: mag,
+
+Utterance 859
+Start: 1571.24
+End: 1571.82
+Duration: 0.58s
+Confidence: 0.9576
+Text: mar,
+
+Utterance 860
+Start: 1572.48
+End: 1572.82
+Duration: 0.34s
+Confidence: 0.7862
+Text: mis,
+
+Utterance 861
+Start: 1573.54
+End: 1573.96
+Duration: 0.42s
+Confidence: 0.9792
+Text: min,
+
+Utterance 862
+Start: 1574.62
+End: 1575.18
+Duration: 0.56s
+Confidence: 0.9025
+Text: mil
+
+Utterance 863
+Start: 1575.60
+End: 1576.74
+Duration: 1.14s
+Confidence: 0.7155
+Text: Mok,
+
+Utterance 864
+Start: 1577.52
+End: 1577.84
+Duration: 0.32s
+Confidence: 0.8672
+Text: men,
+
+Utterance 865
+Start: 1578.36
+End: 1578.70
+Duration: 0.34s
+Confidence: 0.8305
+Text: mang,
+
+Utterance 866
+Start: 1579.38
+End: 1579.70
+Duration: 0.32s
+Confidence: 0.5260
+Text: mai,
+
+Utterance 867
+Start: 1580.54
+End: 1580.72
+Duration: 0.18s
+Confidence: 0.9398
+Text: mit,
+
+Utterance 868
+Start: 1581.40
+End: 1581.86
+Duration: 0.46s
+Confidence: 0.7658
+Text: mik,
+
+Utterance 869
+Start: 1582.52
+End: 1582.92
+Duration: 0.40s
+Confidence: 0.9886
+Text: man,
+
+Utterance 870
+Start: 1583.44
+End: 1583.98
+Duration: 0.54s
+Confidence: 0.5976
+Text: mun,
+
+Utterance 871
+Start: 1584.60
+End: 1584.92
+Duration: 0.32s
+Confidence: 0.9839
+Text: mad,
+
+Utterance 872
+Start: 1585.58
+End: 1585.86
+Duration: 0.28s
+Confidence: 0.8969
+Text: mak,
+
+Utterance 873
+Start: 1587.88
+End: 1587.88
+Duration: 0.00s
+Confidence: 0.9066
+Text: mat
+
+Utterance 874
+Start: 1587.88
+End: 1589.18
+Duration: 1.30s
+Confidence: 0.1472
+Text: Na,
+
+Utterance 875
+Start: 1589.20
+End: 1590.04
+Duration: 0.84s
+Confidence: 0.4788
+Text: ne,
+
+Utterance 876
+Start: 1590.56
+End: 1591.06
+Duration: 0.50s
+Confidence: 0.8735
+Text: ni,
+
+Utterance 877
+Start: 1591.50
+End: 1591.90
+Duration: 0.40s
+Confidence: 0.9054
+Text: no,
+
+Utterance 878
+Start: 1592.44
+End: 1592.98
+Duration: 0.54s
+Confidence: 0.9574
+Text: nu,
+
+Utterance 879
+Start: 1593.66
+End: 1593.68
+Duration: 0.02s
+Confidence: 0.9653
+Text: nag,
+
+Utterance 880
+Start: 1594.32
+End: 1594.98
+Duration: 0.66s
+Confidence: 0.8296
+Text: nai,
+
+Utterance 881
+Start: 1595.34
+End: 1595.76
+Duration: 0.42s
+Confidence: 0.8771
+Text: nib,
+
+Utterance 882
+Start: 1596.34
+End: 1596.66
+Duration: 0.32s
+Confidence: 0.4947
+Text: nau,
+
+Utterance 883
+Start: 1597.30
+End: 1597.84
+Duration: 0.54s
+Confidence: 0.3320
+Text: nen,
+
+Utterance 884
+Start: 1598.18
+End: 1598.80
+Duration: 0.62s
+Confidence: 0.5491
+Text: nok,
+
+Utterance 885
+Start: 1599.24
+End: 1599.60
+Duration: 0.36s
+Confidence: 0.9562
+Text: nan,
+
+Utterance 886
+Start: 1600.22
+End: 1600.70
+Duration: 0.48s
+Confidence: 0.6325
+Text: nig,
+
+Utterance 887
+Start: 1601.18
+End: 1601.66
+Duration: 0.48s
+Confidence: 0.8660
+Text: nin,
+
+Utterance 888
+Start: 1602.24
+End: 1602.76
+Duration: 0.52s
+Confidence: 0.8810
+Text: nang,
+
+Utterance 889
+Start: 1603.16
+End: 1603.76
+Duration: 0.60s
+Confidence: 0.6233
+Text: nog,
+
+Utterance 890
+Start: 1604.18
+End: 1604.44
+Duration: 0.26s
+Confidence: 0.8239
+Text: nak,
+
+Utterance 891
+Start: 1605.12
+End: 1605.42
+Duration: 0.30s
+Confidence: 0.9048
+Text: nim,
+
+Utterance 892
+Start: 1606.04
+End: 1606.52
+Duration: 0.48s
+Confidence: 0.9783
+Text: nas,
+
+Utterance 893
+Start: 1607.04
+End: 1607.38
+Duration: 0.34s
+Confidence: 0.7835
+Text: nig,
+
+Utterance 894
+Start: 1607.98
+End: 1608.56
+Duration: 0.58s
+Confidence: 0.6818
+Text: nob,
+
+Utterance 895
+Start: 1608.98
+End: 1609.34
+Duration: 0.36s
+Confidence: 0.9772
+Text: nam,
+
+Utterance 896
+Start: 1609.68
+End: 1610.19
+Duration: 0.51s
+Confidence: 0.9731
+Text: nil.
+
+Utterance 897
+Start: 1610.19
+End: 1618.25
+Duration: 8.06s
+Confidence: 0.6612
+Text: Ngah -ngeh -ngi -ngo -ngu -ngan -nog -nin
+
+Utterance 898
+Start: 1618.25
+End: 1622.19
+Duration: 3.94s
+Confidence: 0.8101
+Text: -ngay -nye -nin -ngun.
+
+Utterance 899
+Start: 1626.21
+End: 1627.21
+Duration: 1.00s
+Confidence: 0.2789
+Text: Pa,
+
+Utterance 900
+Start: 1627.27
+End: 1627.91
+Duration: 0.64s
+Confidence: 0.3107
+Text: Pe,
+
+Utterance 901
+Start: 1628.41
+End: 1628.91
+Duration: 0.50s
+Confidence: 0.5304
+Text: Pi,
+
+Utterance 902
+Start: 1629.29
+End: 1629.71
+Duration: 0.42s
+Confidence: 0.9167
+Text: Po,
+
+Utterance 903
+Start: 1630.27
+End: 1630.73
+Duration: 0.46s
+Confidence: 0.8278
+Text: Pu,
+
+Utterance 904
+Start: 1631.21
+End: 1631.69
+Duration: 0.48s
+Confidence: 0.8601
+Text: Pag,
+
+Utterance 905
+Start: 1632.07
+End: 1632.43
+Duration: 0.36s
+Confidence: 0.9258
+Text: Pak,
+
+Utterance 906
+Start: 1633.09
+End: 1633.63
+Duration: 0.54s
+Confidence: 0.6993
+Text: Pas,
+
+Utterance 907
+Start: 1634.11
+End: 1634.43
+Duration: 0.32s
+Confidence: 0.9438
+Text: Pat,
+
+Utterance 908
+Start: 1634.99
+End: 1635.31
+Duration: 0.32s
+Confidence: 0.9221
+Text: Pet,
+
+Utterance 909
+Start: 1635.89
+End: 1636.25
+Duration: 0.36s
+Confidence: 0.8187
+Text: Pon,
+
+Utterance 910
+Start: 1636.75
+End: 1637.31
+Duration: 0.56s
+Confidence: 0.9083
+Text: Poy,
+
+Utterance 911
+Start: 1637.83
+End: 1638.03
+Duration: 0.20s
+Confidence: 0.9728
+Text: Pin,
+
+Utterance 912
+Start: 1638.73
+End: 1639.07
+Duration: 0.34s
+Confidence: 0.9513
+Text: Pan,
+
+Utterance 913
+Start: 1639.75
+End: 1640.11
+Duration: 0.36s
+Confidence: 0.9450
+Text: Pit,
+
+Utterance 914
+Start: 1640.63
+End: 1640.89
+Duration: 0.26s
+Confidence: 0.9453
+Text: Pla,
+
+Utterance 915
+Start: 1641.73
+End: 1642.01
+Duration: 0.28s
+Confidence: 0.9794
+Text: Pang,
+
+Utterance 916
+Start: 1642.71
+End: 1643.03
+Duration: 0.32s
+Confidence: 0.7523
+Text: Ping,
+
+Utterance 917
+Start: 1643.95
+End: 1644.17
+Duration: 0.22s
+Confidence: 0.5179
+Text: Pir,
+
+Utterance 918
+Start: 1644.99
+End: 1645.61
+Duration: 0.62s
+Confidence: 0.7577
+Text: Peb,
+
+Utterance 919
+Start: 1646.11
+End: 1646.41
+Duration: 0.30s
+Confidence: 0.8785
+Text: Pos,
+
+Utterance 920
+Start: 1646.93
+End: 1647.27
+Duration: 0.34s
+Confidence: 0.8932
+Text: Pun,
+
+Utterance 921
+Start: 1647.77
+End: 1648.15
+Duration: 0.38s
+Confidence: 0.9658
+Text: Per.
+
+Utterance 922
+Start: 1678.57
+End: 1687.35
+Duration: 8.78s
+Confidence: 0.7965
+Text: IMSING SAG SIG SUK SEP SIL SIS SUK
+
+Utterance 923
+Start: 1687.35
+End: 1694.15
+Duration: 6.80s
+Confidence: 0.7626
+Text: SUL SUL SUM SUN SUN SUS SUE
+
+Utterance 924
+Start: 1694.15
+End: 1696.05
+Duration: 1.90s
+Confidence: 0.1623
+Text: Ta,
+
+Utterance 925
+Start: 1696.09
+End: 1696.95
+Duration: 0.86s
+Confidence: 0.8170
+Text: te,
+
+Utterance 926
+Start: 1697.63
+End: 1698.13
+Duration: 0.50s
+Confidence: 0.9953
+Text: ti,
+
+Utterance 927
+Start: 1698.55
+End: 1698.87
+Duration: 0.32s
+Confidence: 0.8364
+Text: to,
+
+Utterance 928
+Start: 1699.57
+End: 1699.87
+Duration: 0.30s
+Confidence: 0.8656
+Text: tu,
+
+Utterance 929
+Start: 1700.53
+End: 1700.97
+Duration: 0.44s
+Confidence: 0.9336
+Text: tan,
+
+Utterance 930
+Start: 1701.65
+End: 1702.05
+Duration: 0.40s
+Confidence: 0.5715
+Text: tai,
+
+Utterance 931
+Start: 1702.77
+End: 1703.15
+Duration: 0.38s
+Confidence: 0.9223
+Text: tas,
+
+Utterance 932
+Start: 1703.91
+End: 1704.27
+Duration: 0.36s
+Confidence: 0.8665
+Text: tor,
+
+Utterance 933
+Start: 1705.15
+End: 1705.37
+Duration: 0.22s
+Confidence: 0.8870
+Text: tik,
+
+Utterance 934
+Start: 1705.99
+End: 1706.63
+Duration: 0.64s
+Confidence: 0.8808
+Text: tes,
+
+Utterance 935
+Start: 1707.17
+End: 1707.45
+Duration: 0.28s
+Confidence: 0.8651
+Text: tok,
+
+Utterance 936
+Start: 1708.19
+End: 1708.75
+Duration: 0.56s
+Confidence: 0.6298
+Text: tau,
+
+Utterance 937
+Start: 1709.37
+End: 1709.69
+Duration: 0.32s
+Confidence: 0.9693
+Text: tin,
+
+Utterance 938
+Start: 1710.35
+End: 1710.69
+Duration: 0.34s
+Confidence: 0.9353
+Text: tab,
+
+Utterance 939
+Start: 1711.39
+End: 1711.69
+Duration: 0.30s
+Confidence: 0.9559
+Text: tik,
+
+Utterance 940
+Start: 1712.41
+End: 1712.75
+Duration: 0.34s
+Confidence: 0.9790
+Text: tel,
+
+Utterance 941
+Start: 1713.43
+End: 1714.21
+Duration: 0.78s
+Confidence: 0.8156
+Text: tos,
+
+Utterance 942
+Start: 1714.55
+End: 1714.85
+Duration: 0.30s
+Confidence: 0.7768
+Text: tong,
+
+Utterance 943
+Start: 1715.57
+End: 1715.91
+Duration: 0.34s
+Confidence: 0.5906
+Text: tid,
+
+Utterance 944
+Start: 1716.57
+End: 1716.85
+Duration: 0.28s
+Confidence: 0.9741
+Text: ten,
+
+Utterance 945
+Start: 1717.65
+End: 1717.93
+Duration: 0.28s
+Confidence: 0.9403
+Text: ting,
+
+Utterance 946
+Start: 1718.61
+End: 1718.91
+Duration: 0.30s
+Confidence: 0.9281
+Text: tak,
+
+Utterance 947
+Start: 1719.55
+End: 1719.89
+Duration: 0.34s
+Confidence: 0.9864
+Text: tam,
+
+Utterance 948
+Start: 1720.65
+End: 1720.99
+Duration: 0.34s
+Confidence: 0.9583
+Text: tim,
+
+Utterance 949
+Start: 1721.45
+End: 1721.81
+Duration: 0.36s
+Confidence: 0.8661
+Text: til.
+
+Utterance 950
+Start: 1721.81
+End: 1728.81
+Duration: 7.00s
+Confidence: -0.3836
+Text: Cha che chi cho chu chis
+
+Utterance 951
+Start: 1729.61
+End: 1736.81
+Duration: 7.20s
+Confidence: -0.3836
+Text: Va ve vi vo vu ven ver vais
+
+Utterance 952
+Start: 1738.43
+End: 1744.81
+Duration: 6.38s
+Confidence: -0.3836
+Text: Wa we wi wo wu wid wad
+
+Utterance 953
+Start: 1745.81
+End: 1746.73
+Duration: 0.92s
+Confidence: 0.1309
+Text: Wag,
+
+Utterance 954
+Start: 1747.25
+End: 1747.83
+Duration: 0.58s
+Confidence: 0.5244
+Text: Wai,
+
+Utterance 955
+Start: 1748.19
+End: 1748.47
+Duration: 0.28s
+Confidence: 0.4738
+Text: Wel,
+
+Utterance 956
+Start: 1749.13
+End: 1749.55
+Duration: 0.42s
+Confidence: 0.9786
+Text: Wan,
+
+Utterance 957
+Start: 1750.03
+End: 1750.33
+Duration: 0.30s
+Confidence: 0.8640
+Text: Wak,
+
+Utterance 958
+Start: 1750.91
+End: 1751.29
+Duration: 0.38s
+Confidence: 0.8115
+Text: Was,
+
+Utterance 959
+Start: 1751.95
+End: 1752.39
+Duration: 0.44s
+Confidence: 0.8206
+Text: Wat,
+
+Utterance 960
+Start: 1752.83
+End: 1753.13
+Duration: 0.30s
+Confidence: 0.8900
+Text: Win,
+
+Utterance 961
+Start: 1753.73
+End: 1754.03
+Duration: 0.30s
+Confidence: 0.9301
+Text: Wang,
+
+Utterance 962
+Start: 1754.65
+End: 1755.07
+Duration: 0.42s
+Confidence: 0.8836
+Text: Wing,
+
+Utterance 963
+Start: 1756.73
+End: 1756.73
+Duration: 0.00s
+Confidence: 0.9068
+Text: Wong
+
+Utterance 964
+Start: 1756.73
+End: 1757.91
+Duration: 1.18s
+Confidence: 0.1330
+Text: Ya,
+
+Utterance 965
+Start: 1758.41
+End: 1758.65
+Duration: 0.24s
+Confidence: 0.9074
+Text: Ye,
+
+Utterance 966
+Start: 1759.31
+End: 1759.67
+Duration: 0.36s
+Confidence: 0.7616
+Text: Yi,
+
+Utterance 967
+Start: 1760.19
+End: 1760.47
+Duration: 0.28s
+Confidence: 0.8349
+Text: Yo,
+
+Utterance 968
+Start: 1761.15
+End: 1761.51
+Duration: 0.36s
+Confidence: 0.7134
+Text: Yu,
+
+Utterance 969
+Start: 1762.07
+End: 1762.49
+Duration: 0.42s
+Confidence: 0.7632
+Text: Yem,
+
+Utterance 970
+Start: 1762.91
+End: 1763.43
+Duration: 0.52s
+Confidence: 0.7905
+Text: Yin,
+
+Utterance 971
+Start: 1763.85
+End: 1764.23
+Duration: 0.38s
+Confidence: 0.9739
+Text: Yad,
+
+Utterance 972
+Start: 1764.73
+End: 1765.31
+Duration: 0.58s
+Confidence: 0.9514
+Text: Yat,
+
+Utterance 973
+Start: 1765.73
+End: 1766.07
+Duration: 0.34s
+Confidence: 0.9600
+Text: Yan,
+
+Utterance 974
+Start: 1766.57
+End: 1766.91
+Duration: 0.34s
+Confidence: 0.9308
+Text: Yar,
+
+Utterance 975
+Start: 1767.57
+End: 1768.03
+Duration: 0.46s
+Confidence: 0.8922
+Text: Yos,
+
+Utterance 976
+Start: 1768.47
+End: 1769.01
+Duration: 0.54s
+Confidence: 0.8656
+Text: Yer,
+
+Utterance 977
+Start: 1769.39
+End: 1769.91
+Duration: 0.52s
+Confidence: 0.8698
+Text: Yag,
+
+Utterance 978
+Start: 1770.31
+End: 1770.57
+Duration: 0.26s
+Confidence: 0.8836
+Text: Yang,
+
+Utterance 979
+Start: 1771.43
+End: 1771.53
+Duration: 0.10s
+Confidence: 0.9814
+Text: Yak,
+
+Utterance 980
+Start: 1772.19
+End: 1772.39
+Duration: 0.20s
+Confidence: 0.2956
+Text: Yun,
+
+Utterance 981
+Start: 1773.05
+End: 1773.91
+Duration: 0.86s
+Confidence: 0.9492
+Text: Yor
+
+Utterance 982
+Start: 1773.91
+End: 1774.95
+Duration: 1.04s
+Confidence: 0.0922
+Text: Za,
+
+Utterance 983
+Start: 1775.01
+End: 1775.83
+Duration: 0.82s
+Confidence: 0.6048
+Text: ze,
+
+Utterance 984
+Start: 1776.29
+End: 1777.03
+Duration: 0.74s
+Confidence: 0.8145
+Text: zi,
+
+Utterance 985
+Start: 1777.25
+End: 1777.55
+Duration: 0.30s
+Confidence: 0.8957
+Text: zo,
+
+Utterance 986
+Start: 1778.09
+End: 1778.39
+Duration: 0.30s
+Confidence: 0.9280
+Text: zu,
+
+Utterance 987
+Start: 1778.93
+End: 1779.45
+Duration: 0.52s
+Confidence: 0.9260
+Text: zin.
+
+Utterance 988
+Start: 1781.71
+End: 1781.95
+Duration: 0.24s
+Confidence: 0.9746
+Text: Ang,
+
+Utterance 989
+Start: 1782.61
+End: 1783.17
+Duration: 0.56s
+Confidence: 0.9275
+Text: as,
+
+Utterance 990
+Start: 1783.71
+End: 1784.19
+Duration: 0.48s
+Confidence: 0.9388
+Text: ak,
+
+Utterance 991
+Start: 1784.59
+End: 1785.09
+Duration: 0.50s
+Confidence: 0.9647
+Text: ay,
+
+Utterance 992
+Start: 1785.53
+End: 1785.87
+Duration: 0.34s
+Confidence: 0.9907
+Text: at,
+
+Utterance 993
+Start: 1786.51
+End: 1786.95
+Duration: 0.44s
+Confidence: 0.9420
+Text: ar,
+
+Utterance 994
+Start: 1787.51
+End: 1787.89
+Duration: 0.38s
+Confidence: 0.9743
+Text: an,
+
+Utterance 995
+Start: 1788.21
+End: 1788.97
+Duration: 0.76s
+Confidence: 0.9721
+Text: am,
+
+Utterance 996
+Start: 1789.37
+End: 1789.75
+Duration: 0.38s
+Confidence: 0.9850
+Text: ag,
+
+Utterance 997
+Start: 1790.47
+End: 1790.89
+Duration: 0.42s
+Confidence: 0.2843
+Text: n,
+
+Utterance 998
+Start: 1791.43
+End: 1791.97
+Duration: 0.54s
+Confidence: 0.7528
+Text: em,
+
+Utterance 999
+Start: 1792.35
+End: 1792.73
+Duration: 0.38s
+Confidence: 0.8088
+Text: eng,
+
+Utterance 1000
+Start: 1793.31
+End: 1793.67
+Duration: 0.36s
+Confidence: 0.9135
+Text: ed,
+
+Utterance 1001
+Start: 1794.29
+End: 1794.91
+Duration: 0.62s
+Confidence: 0.9321
+Text: es,
+
+Utterance 1002
+Start: 1795.47
+End: 1795.75
+Duration: 0.28s
+Confidence: 0.9228
+Text: is,
+
+Utterance 1003
+Start: 1796.35
+End: 1796.81
+Duration: 0.46s
+Confidence: 0.9527
+Text: in,
+
+Utterance 1004
+Start: 1797.23
+End: 1797.71
+Duration: 0.48s
+Confidence: 0.7742
+Text: ing,
+
+Utterance 1005
+Start: 1798.33
+End: 1798.95
+Duration: 0.62s
+Confidence: 0.9716
+Text: im.
+
+Utterance 1006
+Start: 1798.95
+End: 1807.27
+Duration: 8.32s
+Confidence: 0.6918
+Text: Bung dang dong ging gang gong hang hing
+
+Utterance 1007
+Start: 1807.27
+End: 1815.03
+Duration: 7.76s
+Confidence: 0.7978
+Text: hong king kang kong kung ming mong mung
+
+Utterance 1008
+Start: 1815.03
+End: 1822.77
+Duration: 7.74s
+Confidence: 0.7825
+Text: ning nong nung neng ngun ngin pung pong
+
+Utterance 1009
+Start: 1822.77
+End: 1828.31
+Duration: 5.54s
+Confidence: 0.7629
+Text: ring sang song sing tang tang
+
+Utterance 1010
+Start: 1828.31
+End: 1829.51
+Duration: 1.20s
+Confidence: 0.4755
+Text: Tung,
+
+Utterance 1011
+Start: 1829.51
+End: 1830.25
+Duration: 0.74s
+Confidence: 0.8077
+Text: Chang,
+
+Utterance 1012
+Start: 1830.85
+End: 1831.31
+Duration: 0.46s
+Confidence: 0.5347
+Text: Chong,
+
+Utterance 1013
+Start: 1831.81
+End: 1832.05
+Duration: 0.24s
+Confidence: 0.9343
+Text: Ching,
+
+Utterance 1014
+Start: 1832.77
+End: 1833.05
+Duration: 0.28s
+Confidence: 0.9479
+Text: Ying,
+
+Utterance 1015
+Start: 1833.67
+End: 1833.99
+Duration: 0.32s
+Confidence: 0.8313
+Text: Yong,
+
+Utterance 1016
+Start: 1834.61
+End: 1835.31
+Duration: 0.70s
+Confidence: 0.6217
+Text: Yung
+
+Utterance 1017
+Start: 1838.41
+End: 1839.57
+Duration: 1.16s
+Confidence: 0.2674
+Text: Bab,
+
+Utterance 1018
+Start: 1840.21
+End: 1840.63
+Duration: 0.42s
+Confidence: 0.7336
+Text: Bed,
+
+Utterance 1019
+Start: 1841.15
+End: 1841.75
+Duration: 0.60s
+Confidence: 0.8958
+Text: Bem,
+
+Utterance 1020
+Start: 1842.69
+End: 1842.95
+Duration: 0.26s
+Confidence: 0.4493
+Text: Bow,
+
+Utterance 1021
+Start: 1843.53
+End: 1844.11
+Duration: 0.58s
+Confidence: 0.7808
+Text: Boa,
+
+Utterance 1022
+Start: 1844.51
+End: 1844.83
+Duration: 0.32s
+Confidence: 0.5909
+Text: Boy,
+
+Utterance 1023
+Start: 1845.51
+End: 1845.83
+Duration: 0.32s
+Confidence: 0.8233
+Text: Das,
+
+Utterance 1024
+Start: 1846.43
+End: 1846.67
+Duration: 0.24s
+Confidence: 0.7517
+Text: Dai,
+
+Utterance 1025
+Start: 1847.43
+End: 1847.61
+Duration: 0.18s
+Confidence: 0.9149
+Text: Del,
+
+Utterance 1026
+Start: 1848.35
+End: 1848.61
+Duration: 0.26s
+Confidence: 0.9673
+Text: Den,
+
+Utterance 1027
+Start: 1849.19
+End: 1849.59
+Duration: 0.40s
+Confidence: 0.9644
+Text: Dog,
+
+Utterance 1028
+Start: 1850.13
+End: 1850.81
+Duration: 0.68s
+Confidence: 0.7322
+Text: Dose
+
+Utterance 1029
+Start: 1911.81
+End: 1912.81
+Duration: 1.00s
+Confidence: 0.2042
+Text: ngop,
+
+Utterance 1030
+Start: 1912.81
+End: 1913.57
+Duration: 0.76s
+Confidence: 0.8694
+Text: pad,
+
+Utterance 1031
+Start: 1914.15
+End: 1914.69
+Duration: 0.54s
+Confidence: 0.7950
+Text: peng,
+
+Utterance 1032
+Start: 1915.13
+End: 1915.65
+Duration: 0.52s
+Confidence: 0.6266
+Text: pik,
+
+Utterance 1033
+Start: 1916.15
+End: 1916.43
+Duration: 0.28s
+Confidence: 0.4043
+Text: pow,
+
+Utterance 1034
+Start: 1917.09
+End: 1917.69
+Duration: 0.60s
+Confidence: 0.7849
+Text: puk,
+
+Utterance 1035
+Start: 1918.03
+End: 1918.53
+Duration: 0.50s
+Confidence: 0.8787
+Text: pus,
+
+Utterance 1036
+Start: 1919.15
+End: 1919.43
+Duration: 0.28s
+Confidence: 0.9098
+Text: rab,
+
+Utterance 1037
+Start: 1919.97
+End: 1920.27
+Duration: 0.30s
+Confidence: 0.9876
+Text: rad,
+
+Utterance 1038
+Start: 1920.93
+End: 1921.41
+Duration: 0.48s
+Confidence: 0.9830
+Text: rag,
+
+Utterance 1039
+Start: 1921.83
+End: 1922.31
+Duration: 0.48s
+Confidence: 0.9746
+Text: rak,
+
+Utterance 1040
+Start: 1922.85
+End: 1923.09
+Duration: 0.24s
+Confidence: 0.9829
+Text: rem,
+
+Utterance 1041
+Start: 1923.69
+End: 1924.11
+Duration: 0.42s
+Confidence: 0.9779
+Text: ren,
+
+Utterance 1042
+Start: 1924.61
+End: 1925.11
+Duration: 0.50s
+Confidence: 0.6197
+Text: ris,
+
+Utterance 1043
+Start: 1925.59
+End: 1925.83
+Duration: 0.24s
+Confidence: 0.5050
+Text: ro,
+
+Utterance 1044
+Start: 1926.55
+End: 1926.85
+Duration: 0.30s
+Confidence: 0.9704
+Text: sad,
+
+Utterance 1045
+Start: 1927.55
+End: 1927.93
+Duration: 0.38s
+Confidence: 0.9064
+Text: sat,
+
+Utterance 1046
+Start: 1928.55
+End: 1928.91
+Duration: 0.36s
+Confidence: 0.3565
+Text: say,
+
+Utterance 1047
+Start: 1929.49
+End: 1929.79
+Duration: 0.30s
+Confidence: 0.6040
+Text: sow,
+
+Utterance 1048
+Start: 1930.51
+End: 1931.41
+Duration: 0.90s
+Confidence: 0.6898
+Text: suy,
+
+Utterance 1049
+Start: 1931.53
+End: 1931.79
+Duration: 0.26s
+Confidence: 0.9591
+Text: tad,
+
+Utterance 1050
+Start: 1932.47
+End: 1932.91
+Duration: 0.44s
+Confidence: 0.9653
+Text: tag,
+
+Utterance 1051
+Start: 1933.57
+End: 1933.83
+Duration: 0.26s
+Confidence: 0.9634
+Text: tem,
+
+Utterance 1052
+Start: 1934.57
+End: 1935.07
+Duration: 0.50s
+Confidence: 0.9647
+Text: ten,
+
+Utterance 1053
+Start: 1936.49
+End: 1936.65
+Duration: 0.16s
+Confidence: 0.6312
+Text: tug,
+
+Utterance 1054
+Start: 1936.69
+End: 1937.39
+Duration: 0.70s
+Confidence: 0.8938
+Text: tog,
+
+Utterance 1055
+Start: 1937.75
+End: 1938.01
+Duration: 0.26s
+Confidence: 0.5766
+Text: tow,
+
+Utterance 1056
+Start: 1938.69
+End: 1938.87
+Duration: 0.18s
+Confidence: 0.7480
+Text: chap,
+
+Utterance 1057
+Start: 1939.59
+End: 1939.85
+Duration: 0.26s
+Confidence: 0.4042
+Text: check,
+
+Utterance 1058
+Start: 1963.89
+End: 1964.97
+Duration: 1.08s
+Confidence: 0.5991
+Text: Akin,
+
+Utterance 1059
+Start: 1965.33
+End: 1966.05
+Duration: 0.72s
+Confidence: 0.5584
+Text: Ako,
+
+Utterance 1060
+Start: 1966.35
+End: 1966.71
+Duration: 0.36s
+Confidence: 0.6124
+Text: Ako
+
+Utterance 1061
+Start: 1968.75
+End: 1969.83
+Duration: 1.08s
+Confidence: 0.0314
+Text: Akin,
+
+Utterance 1062
+Start: 1969.83
+End: 1969.83
+Duration: 0.00s
+Confidence: 0.9873
+Text: Ako,
+
+Utterance 1063
+Start: 1969.83
+End: 1969.83
+Duration: 0.00s
+Confidence: 0.9818
+Text: Ako
+
+Utterance 1064
+Start: 1969.83
+End: 1970.51
+Duration: 0.68s
+Confidence: 0.5004
+Text: Ang
+
+Utterance 1065
+Start: 1970.51
+End: 1971.71
+Duration: 1.20s
+Confidence: 0.8161
+Text: anong
+
+Utterance 1066
+Start: 1971.71
+End: 1972.57
+Duration: 0.86s
+Confidence: 0.3629
+Text: años
+
+Utterance 1067
+Start: 1972.57
+End: 1973.09
+Duration: 0.52s
+Confidence: 0.8534
+Text: araw
+
+Utterance 1068
+Start: 1973.09
+End: 1973.83
+Duration: 0.74s
+Confidence: 0.8328
+Text: -araw
+
+Utterance 1069
+Start: 1973.83
+End: 1974.57
+Duration: 0.74s
+Confidence: 0.8691
+Text: asawa
+
+Utterance 1070
+Start: 1974.57
+End: 1975.53
+Duration: 0.96s
+Confidence: 0.9780
+Text: at
+
+Utterance 1071
+Start: 1975.53
+End: 1976.55
+Duration: 1.02s
+Confidence: 0.8206
+Text: atensyon
+
+Utterance 1072
+Start: 1976.55
+End: 1977.61
+Duration: 1.06s
+Confidence: 0.8564
+Text: ay
+
+Utterance 1073
+Start: 1977.61
+End: 1978.63
+Duration: 1.02s
+Confidence: 0.6493
+Text: ba,
+
+Utterance 1074
+Start: 1978.83
+End: 1979.93
+Duration: 1.10s
+Confidence: 0.7070
+Text: ba,
+
+Utterance 1075
+Start: 1980.01
+End: 1981.01
+Duration: 1.00s
+Confidence: 0.9427
+Text: babae,
+
+Utterance 1076
+Start: 1981.37
+End: 1982.11
+Duration: 0.74s
+Confidence: 0.9259
+Text: bakit,
+
+Utterance 1077
+Start: 1982.37
+End: 1983.13
+Duration: 0.76s
+Confidence: 0.9890
+Text: bayan,
+
+Utterance 1078
+Start: 1983.41
+End: 1984.05
+Duration: 0.64s
+Confidence: 0.9945
+Text: bayang,
+
+Utterance 1079
+Start: 1984.25
+End: 1984.99
+Duration: 0.74s
+Confidence: 0.9538
+Text: biglang,
+
+Utterance 1080
+Start: 1985.35
+End: 1985.95
+Duration: 0.60s
+Confidence: 0.9693
+Text: bigyan,
+
+Utterance 1081
+Start: 1986.49
+End: 1987.23
+Duration: 0.74s
+Confidence: 0.9659
+Text: bigyang,
+
+Utterance 1082
+Start: 1987.51
+End: 1988.13
+Duration: 0.62s
+Confidence: 0.9312
+Text: binili,
+
+Utterance 1083
+Start: 1988.87
+End: 1989.49
+Duration: 0.62s
+Confidence: 0.9525
+Text: boyfriend,
+
+Utterance 1084
+Start: 1990.11
+End: 1990.83
+Duration: 0.72s
+Confidence: 0.9677
+Text: bukas.
+
+Utterance 1085
+Start: 1993.55
+End: 1994.55
+Duration: 1.00s
+Confidence: 0.8936
+Text: Dahil,
+
+Utterance 1086
+Start: 1994.55
+End: 1995.55
+Duration: 1.00s
+Confidence: 0.7471
+Text: dahon,
+
+Utterance 1087
+Start: 1995.67
+End: 1996.65
+Duration: 0.98s
+Confidence: 0.9342
+Text: dahon,
+
+Utterance 1088
+Start: 1996.85
+End: 1997.71
+Duration: 0.86s
+Confidence: 0.9754
+Text: dalaga,
+
+Utterance 1089
+Start: 1998.01
+End: 1998.99
+Duration: 0.98s
+Confidence: 0.8805
+Text: dalawamput,
+
+Utterance 1090
+Start: 1999.45
+End: 2000.19
+Duration: 0.74s
+Confidence: 0.9318
+Text: damo,
+
+Utterance 1091
+Start: 2000.49
+End: 2000.83
+Duration: 0.34s
+Confidence: 0.9067
+Text: dapat,
+
+Utterance 1092
+Start: 2001.69
+End: 2002.03
+Duration: 0.34s
+Confidence: 0.8240
+Text: del,
+
+Utterance 1093
+Start: 2002.61
+End: 2003.07
+Duration: 0.46s
+Confidence: 0.9667
+Text: di,
+
+Utterance 1094
+Start: 2003.47
+End: 2004.49
+Duration: 1.02s
+Confidence: 0.7943
+Text: ibedensya,
+
+Utterance 1095
+Start: 2004.93
+End: 2005.43
+Duration: 0.50s
+Confidence: 0.8501
+Text: for,
+
+Utterance 1096
+Start: 2005.91
+End: 2006.67
+Duration: 0.76s
+Confidence: 0.8329
+Text: gagamiting,
+
+Utterance 1097
+Start: 2007.23
+End: 2007.73
+Duration: 0.50s
+Confidence: 0.8460
+Text: gate,
+
+Utterance 1098
+Start: 2008.09
+End: 2008.77
+Duration: 0.68s
+Confidence: 0.9581
+Text: gumising,
+
+Utterance 1099
+Start: 2009.25
+End: 2009.57
+Duration: 0.32s
+Confidence: 0.9883
+Text: gusto,
+
+Utterance 1100
+Start: 2010.33
+End: 2011.15
+Duration: 0.82s
+Confidence: 0.9627
+Text: halamang,
+
+Utterance 1101
+Start: 2011.45
+End: 2012.45
+Duration: 1.00s
+Confidence: 0.9663
+Text: hinintay,
+
+Utterance 1102
+Start: 2012.77
+End: 2013.85
+Duration: 1.08s
+Confidence: 0.9494
+Text: hiwalay,
+
+Utterance 1103
+Start: 2014.25
+End: 2014.97
+Duration: 0.72s
+Confidence: 0.7941
+Text: hugis,
+
+Utterance 1104
+Start: 2015.43
+End: 2015.89
+Duration: 0.46s
+Confidence: 0.9665
+Text: ibang,
+
+Utterance 1105
+Start: 2016.63
+End: 2017.39
+Duration: 0.76s
+Confidence: 0.9909
+Text: isang,
+
+Utterance 1106
+Start: 2017.81
+End: 2018.31
+Duration: 0.50s
+Confidence: 0.7060
+Text: iyon,
+
+Utterance 1107
+Start: 2018.31
+End: 2021.93
+Duration: 3.62s
+Confidence: -0.3627
+Text: JM Jose Jungle
+
+Utterance 1108
+Start: 2021.93
+End: 2022.81
+Duration: 0.88s
+Confidence: 0.6179
+Text: Ka
+
+Utterance 1109
+Start: 2022.81
+End: 2023.97
+Duration: 1.16s
+Confidence: 0.8189
+Text: kaibigan,
+
+Utterance 1110
+Start: 2024.21
+End: 2025.23
+Duration: 1.02s
+Confidence: 0.9496
+Text: kailangan,
+
+Utterance 1111
+Start: 2025.53
+End: 2026.53
+Duration: 1.00s
+Confidence: 0.9838
+Text: kalangitan,
+
+Utterance 1112
+Start: 2026.81
+End: 2027.15
+Duration: 0.34s
+Confidence: 0.6788
+Text: kami,
+
+Utterance 1113
+Start: 2027.79
+End: 2028.79
+Duration: 1.00s
+Confidence: 0.9785
+Text: kanilang,
+
+Utterance 1114
+Start: 2029.03
+End: 2029.99
+Duration: 0.96s
+Confidence: 0.9637
+Text: kantahan,
+
+Utterance 1115
+Start: 2030.23
+End: 2031.35
+Duration: 1.12s
+Confidence: 0.9888
+Text: katulong,
+
+Utterance 1116
+Start: 2031.57
+End: 2032.43
+Duration: 0.86s
+Confidence: 0.9385
+Text: kaya,
+
+Utterance 1117
+Start: 2032.75
+End: 2033.17
+Duration: 0.42s
+Confidence: 0.8719
+Text: kilo,
+
+Utterance 1118
+Start: 2033.61
+End: 2034.51
+Duration: 0.90s
+Confidence: 0.9180
+Text: kinakain,
+
+Utterance 1119
+Start: 2034.93
+End: 2035.39
+Duration: 0.46s
+Confidence: 0.9425
+Text: ko,
+
+Utterance 1120
+Start: 2035.75
+End: 2036.81
+Duration: 1.06s
+Confidence: 0.7271
+Text: kulehiyo,
+
+Utterance 1121
+Start: 2036.93
+End: 2038.07
+Duration: 1.14s
+Confidence: 0.9074
+Text: kundi,
+
+Utterance 1122
+Start: 2038.31
+End: 2038.81
+Duration: 0.50s
+Confidence: 0.8053
+Text: kung,
+
+Utterance 1123
+Start: 2039.19
+End: 2040.21
+Duration: 1.02s
+Confidence: 0.9564
+Text: laban,
+
+Utterance 1124
+Start: 2040.31
+End: 2041.07
+Duration: 0.76s
+Confidence: 0.9738
+Text: labing,
+
+Utterance 1125
+Start: 2041.47
+End: 2042.05
+Duration: 0.58s
+Confidence: 0.9555
+Text: laging,
+
+Utterance 1126
+Start: 2042.41
+End: 2043.53
+Duration: 1.12s
+Confidence: 0.7831
+Text: laglag.
+
+Utterance 1127
+Start: 2043.53
+End: 2045.55
+Duration: 2.02s
+Confidence: 0.6281
+Text: Lara,
+
+Utterance 1128
+Start: 2046.13
+End: 2047.27
+Duration: 1.14s
+Confidence: 0.8770
+Text: limos,
+
+Utterance 1129
+Start: 2047.61
+End: 2048.37
+Duration: 0.76s
+Confidence: 0.7425
+Text: lowi,
+
+Utterance 1130
+Start: 2048.59
+End: 2049.53
+Duration: 0.94s
+Confidence: 0.9929
+Text: lumabas,
+
+Utterance 1131
+Start: 2049.81
+End: 2051.23
+Duration: 1.42s
+Confidence: 0.9064
+Text: maaliwalas,
+
+Utterance 1132
+Start: 2051.55
+End: 2052.53
+Duration: 0.98s
+Confidence: 0.6816
+Text: madaanan,
+
+Utterance 1133
+Start: 2052.73
+End: 2053.63
+Duration: 0.90s
+Confidence: 0.9432
+Text: maganda,
+
+Utterance 1134
+Start: 2053.95
+End: 2055.17
+Duration: 1.22s
+Confidence: 0.9810
+Text: magandang,
+
+Utterance 1135
+Start: 2055.49
+End: 2056.71
+Duration: 1.22s
+Confidence: 0.9634
+Text: magkaibigan,
+
+Utterance 1136
+Start: 2057.01
+End: 2058.25
+Duration: 1.24s
+Confidence: 0.9230
+Text: magkaibigan,
+
+Utterance 1137
+Start: 2058.57
+End: 2060.31
+Duration: 1.74s
+Confidence: 0.9496
+Text: magkakaibigan,
+
+Utterance 1138
+Start: 2061.11
+End: 2062.29
+Duration: 1.18s
+Confidence: 0.9627
+Text: magkalimutan,
+
+Utterance 1139
+Start: 2062.73
+End: 2064.17
+Duration: 1.44s
+Confidence: 0.8590
+Text: magkapamilya,
+
+Utterance 1140
+Start: 2064.53
+End: 2065.41
+Duration: 0.88s
+Confidence: 0.9658
+Text: magluto,
+
+Utterance 1141
+Start: 2066.01
+End: 2067.27
+Duration: 1.26s
+Confidence: 0.8679
+Text: magpalimos,
+
+Utterance 1142
+Start: 2067.57
+End: 2068.93
+Duration: 1.36s
+Confidence: 0.9920
+Text: magulang,
+
+Utterance 1143
+Start: 2069.31
+End: 2070.15
+Duration: 0.84s
+Confidence: 0.9932
+Text: makikita,
+
+Utterance 1144
+Start: 2070.75
+End: 2071.79
+Duration: 1.04s
+Confidence: 0.9796
+Text: malayong,
+
+Utterance 1145
+Start: 2072.13
+End: 2072.59
+Duration: 0.46s
+Confidence: 0.9480
+Text: mamayan,
+
+Utterance 1146
+Start: 2073.39
+End: 2073.51
+Duration: 0.12s
+Confidence: 0.4945
+Text: mamangas,
+
+Utterance 1147
+Start: 2073.51
+End: 2074.63
+Duration: 1.12s
+Confidence: 0.4904
+Text: Mamayan,
+
+Utterance 1148
+Start: 2074.91
+End: 2077.05
+Duration: 2.14s
+Confidence: 0.7371
+Text: marami,
+
+Utterance 1149
+Start: 2077.37
+End: 2078.55
+Duration: 1.18s
+Confidence: 0.8762
+Text: masagana,
+
+Utterance 1150
+Start: 2078.81
+End: 2080.27
+Duration: 1.46s
+Confidence: 0.9569
+Text: masisigurado,
+
+Utterance 1151
+Start: 2080.53
+End: 2081.71
+Duration: 1.18s
+Confidence: 0.9589
+Text: matalik,
+
+Utterance 1152
+Start: 2082.93
+End: 2083.09
+Duration: 0.16s
+Confidence: 0.9630
+Text: may
+
+Utterance 1153
+Start: 2083.09
+End: 2083.61
+Duration: 0.52s
+Confidence: 0.5276
+Text: maya
+
+Utterance 1154
+Start: 2083.61
+End: 2084.33
+Duration: 0.72s
+Confidence: 0.8274
+Text: -maya
+
+Utterance 1155
+Start: 2084.33
+End: 2085.81
+Duration: 1.48s
+Confidence: 0.7611
+Text: mga
+
+Utterance 1156
+Start: 2085.81
+End: 2087.27
+Duration: 1.46s
+Confidence: 0.9741
+Text: MNLF
+
+Utterance 1157
+Start: 2087.27
+End: 2088.55
+Duration: 1.28s
+Confidence: 0.4840
+Text: mo,
+
+Utterance 1158
+Start: 2088.55
+End: 2090.25
+Duration: 1.70s
+Confidence: 0.3443
+Text: mo,
+
+Utterance 1159
+Start: 2090.33
+End: 2090.81
+Duration: 0.48s
+Confidence: 0.6587
+Text: monte,
+
+Utterance 1160
+Start: 2091.71
+End: 2092.41
+Duration: 0.70s
+Confidence: 0.9430
+Text: muna,
+
+Utterance 1161
+Start: 2092.87
+End: 2093.23
+Duration: 0.36s
+Confidence: 0.9720
+Text: na,
+
+Utterance 1162
+Start: 2093.73
+End: 2094.73
+Duration: 1.00s
+Confidence: 0.9823
+Text: na,
+
+Utterance 1163
+Start: 2094.87
+End: 2095.83
+Duration: 0.96s
+Confidence: 0.9031
+Text: naalala,
+
+Utterance 1164
+Start: 2096.09
+End: 2097.25
+Duration: 1.16s
+Confidence: 0.9107
+Text: naarestong,
+
+Utterance 1165
+Start: 2097.65
+End: 2097.83
+Duration: 0.18s
+Confidence: 0.8679
+Text: nag
+
+Utterance 1166
+Start: 2097.83
+End: 2098.89
+Duration: 1.06s
+Confidence: 0.8226
+Text: -aalis,
+
+Utterance 1167
+Start: 2099.09
+End: 2099.33
+Duration: 0.24s
+Confidence: 0.7241
+Text: nag
+
+Utterance 1168
+Start: 2099.33
+End: 2099.97
+Duration: 0.64s
+Confidence: 0.7209
+Text: -didilim,
+
+Utterance 1169
+Start: 2099.97
+End: 2101.83
+Duration: 1.86s
+Confidence: 0.8251
+Text: Nagmamadaling,
+
+Utterance 1170
+Start: 2102.13
+End: 2102.73
+Duration: 0.60s
+Confidence: 0.8091
+Text: nahiga,
+
+Utterance 1171
+Start: 2103.23
+End: 2104.41
+Duration: 1.18s
+Confidence: 0.9640
+Text: nakatulog
+
+Utterance 1172
+Start: 2104.41
+End: 2105.11
+Duration: 0.70s
+Confidence: 0.8721
+Text: naman
+
+Utterance 1173
+Start: 2105.53
+End: 2106.53
+Duration: 1.00s
+Confidence: 0.5736
+Text: ng
+
+Utterance 1174
+Start: 2106.53
+End: 2108.15
+Duration: 1.62s
+Confidence: 0.8408
+Text: naliligaw,
+
+Utterance 1175
+Start: 2108.35
+End: 2109.37
+Duration: 1.02s
+Confidence: 0.9126
+Text: napansin,
+
+Utterance 1176
+Start: 2109.65
+End: 2110.35
+Duration: 0.70s
+Confidence: 0.9862
+Text: napatingin
+
+Utterance 1177
+Start: 2111.01
+End: 2112.27
+Duration: 1.26s
+Confidence: 0.7439
+Text: nasa,
+
+Utterance 1178
+Start: 2112.35
+End: 2112.77
+Duration: 0.42s
+Confidence: 0.8654
+Text: ng
+
+Utterance 1179
+Start: 2112.77
+End: 2114.45
+Duration: 1.68s
+Confidence: 0.7883
+Text: ngayon,
+
+Utterance 1180
+Start: 2114.57
+End: 2115.27
+Duration: 0.70s
+Confidence: 0.9935
+Text: ngayon
+
+Utterance 1181
+Start: 2115.73
+End: 2116.79
+Duration: 1.06s
+Confidence: 0.7642
+Text: ngunit,
+
+Utterance 1182
+Start: 2116.87
+End: 2117.95
+Duration: 1.08s
+Confidence: 0.9233
+Text: nilang,
+
+Utterance 1183
+Start: 2118.03
+End: 2119.09
+Duration: 1.06s
+Confidence: 0.8958
+Text: ninyo,
+
+Utterance 1184
+Start: 2119.35
+End: 2120.09
+Duration: 0.74s
+Confidence: 0.8521
+Text: nito,
+
+Utterance 1185
+Start: 2120.71
+End: 2121.57
+Duration: 0.86s
+Confidence: 0.4931
+Text: nya,
+
+Utterance 1186
+Start: 2121.89
+End: 2123.25
+Duration: 1.36s
+Confidence: 0.7589
+Text: nyang,
+
+Utterance 1187
+Start: 2123.99
+End: 2124.89
+Duration: 0.90s
+Confidence: 0.8220
+Text: nyo
+
+Utterance 1188
+Start: 2124.89
+End: 2132.09
+Duration: 7.20s
+Confidence: -0.3668
+Text: Noong pa-alis paano pagbibigay paghina.
+
+Utterance 1189
+Start: 2135.97
+End: 2137.09
+Duration: 1.12s
+Confidence: 0.8376
+Text: Pakigamot,
+
+Utterance 1190
+Start: 2137.43
+End: 2138.11
+Duration: 0.68s
+Confidence: 0.9305
+Text: palad,
+
+Utterance 1191
+Start: 2138.33
+End: 2139.25
+Duration: 0.92s
+Confidence: 0.8348
+Text: palibhasa,
+
+Utterance 1192
+Start: 2139.59
+End: 2140.77
+Duration: 1.18s
+Confidence: 0.9388
+Text: pamumuhay,
+
+Utterance 1193
+Start: 2141.03
+End: 2142.17
+Duration: 1.14s
+Confidence: 0.9160
+Text: panahon,
+
+Utterance 1194
+Start: 2142.55
+End: 2143.43
+Duration: 0.88s
+Confidence: 0.9637
+Text: pang,
+
+Utterance 1195
+Start: 2143.71
+End: 2144.59
+Duration: 0.88s
+Confidence: 0.8456
+Text: pangit,
+
+Utterance 1196
+Start: 2144.89
+End: 2145.75
+Duration: 0.86s
+Confidence: 0.5367
+Text: pasok,
+
+Utterance 1197
+Start: 2146.09
+End: 2147.21
+Duration: 1.12s
+Confidence: 0.9499
+Text: patungo,
+
+Utterance 1198
+Start: 2147.61
+End: 2148.55
+Duration: 0.94s
+Confidence: 0.9428
+Text: pera,
+
+Utterance 1199
+Start: 2148.81
+End: 2149.77
+Duration: 0.96s
+Confidence: 0.5021
+Text: petsa,
+
+Utterance 1200
+Start: 2149.97
+End: 2151.03
+Duration: 1.06s
+Confidence: 0.8920
+Text: pitong,
+
+Utterance 1201
+Start: 2151.35
+End: 2152.61
+Duration: 1.26s
+Confidence: 0.8168
+Text: PNP,
+
+Utterance 1202
+Start: 2152.87
+End: 2153.67
+Duration: 0.80s
+Confidence: 0.7578
+Text: pusyer,
+
+Utterance 1203
+Start: 2154.13
+End: 2154.43
+Duration: 0.30s
+Confidence: 0.9014
+Text: puso.
+
+Utterance 1204
+Start: 2154.89
+End: 2156.09
+Duration: 1.20s
+Confidence: 0.6683
+Text: Rin,
+
+Utterance 1205
+Start: 2156.45
+End: 2157.27
+Duration: 0.82s
+Confidence: 0.6825
+Text: reto,
+
+Utterance 1206
+Start: 2157.59
+End: 2158.15
+Duration: 0.56s
+Confidence: 0.7816
+Text: sa,
+
+Utterance 1207
+Start: 2158.65
+End: 2159.29
+Duration: 0.64s
+Confidence: 0.8618
+Text: san,
+
+Utterance 1208
+Start: 2159.59
+End: 2160.61
+Duration: 1.02s
+Confidence: 0.9629
+Text: sandaling,
+
+Utterance 1209
+Start: 2161.07
+End: 2161.55
+Duration: 0.48s
+Confidence: 0.2943
+Text: season,
+
+Utterance 1210
+Start: 2162.15
+End: 2162.97
+Duration: 0.82s
+Confidence: 0.8202
+Text: shabu,
+
+Utterance 1211
+Start: 2163.47
+End: 2163.81
+Duration: 0.34s
+Confidence: 0.9202
+Text: si,
+
+Utterance 1212
+Start: 2164.41
+End: 2165.29
+Duration: 0.88s
+Confidence: 0.9469
+Text: sigurado,
+
+Utterance 1213
+Start: 2165.77
+End: 2166.61
+Duration: 0.84s
+Confidence: 0.9831
+Text: silang,
+
+Utterance 1214
+Start: 2166.99
+End: 2167.33
+Duration: 0.34s
+Confidence: 0.8219
+Text: sina,
+
+Utterance 1215
+Start: 2168.41
+End: 2169.29
+Duration: 0.88s
+Confidence: 0.6359
+Text: siya,
+
+Utterance 1216
+Start: 2169.63
+End: 2170.11
+Duration: 0.48s
+Confidence: 0.9912
+Text: sofa,
+
+Utterance 1217
+Start: 2171.11
+End: 2171.59
+Duration: 0.48s
+Confidence: 0.9663
+Text: star,
+
+Utterance 1218
+Start: 2172.61
+End: 2173.59
+Duration: 0.98s
+Confidence: 0.9600
+Text: sugat,
+
+Utterance 1219
+Start: 2174.25
+End: 2175.33
+Duration: 1.08s
+Confidence: 0.9825
+Text: tatlo,
+
+Utterance 1220
+Start: 2175.83
+End: 2176.95
+Duration: 1.12s
+Confidence: 0.9726
+Text: tayo,
+
+Utterance 1221
+Start: 2177.25
+End: 2178.21
+Duration: 0.96s
+Confidence: 0.8020
+Text: telepono,
+
+Utterance 1222
+Start: 2178.69
+End: 2179.83
+Duration: 1.14s
+Confidence: 0.9728
+Text: tinutukoy,
+
+Utterance 1223
+Start: 2179.83
+End: 2181.59
+Duration: 1.76s
+Confidence: 0.7777
+Text: trabaho,
+
+Utterance 1224
+Start: 2182.03
+End: 2183.01
+Duration: 0.98s
+Confidence: 0.9432
+Text: tubig,
+
+Utterance 1225
+Start: 2183.29
+End: 2183.73
+Duration: 0.44s
+Confidence: 0.9301
+Text: tula,
+
+Utterance 1226
+Start: 2184.51
+End: 2185.77
+Duration: 1.26s
+Confidence: 0.9550
+Text: tumawag,
+
+Utterance 1227
+Start: 2186.03
+End: 2187.17
+Duration: 1.14s
+Confidence: 0.9891
+Text: tumunog,
+
+Utterance 1228
+Start: 2187.53
+End: 2188.37
+Duration: 0.84s
+Confidence: 0.9280
+Text: ulan,
+
+Utterance 1229
+Start: 2188.87
+End: 2189.73
+Duration: 0.86s
+Confidence: 0.9915
+Text: umaga,
+
+Utterance 1230
+Start: 2190.21
+End: 2191.11
+Duration: 0.90s
+Confidence: 0.9830
+Text: umulan,
+
+Utterance 1231
+Start: 2191.77
+End: 2192.73
+Duration: 0.96s
+Confidence: 0.9859
+Text: unang,
+
+Utterance 1232
+Start: 2193.07
+End: 2193.97
+Duration: 0.90s
+Confidence: 0.9882
+Text: usapan,
+
+Utterance 1233
+Start: 2194.69
+End: 2195.67
+Duration: 0.98s
+Confidence: 0.8008
+Text: vilma,
+
+Utterance 1234
+Start: 2195.95
+End: 2198.33
+Duration: 2.38s
+Confidence: 0.7270
+Text: walang,
+
+Utterance 1235
+Start: 2199.39
+End: 2199.39
+Duration: 0.00s
+Confidence: 0.7368
+Text: Washington,
+
+Utterance 1236
+Start: 2200.11
+End: 2200.57
+Duration: 0.46s
+Confidence: 0.5555
+Text: zebra,
+
+Utterance 1237
+Start: 2201.21
+End: 2201.43
+Duration: 0.22s
+Confidence: 0.8464
+Text: zoo.
+
