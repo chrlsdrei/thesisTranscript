@@ -2,23 +2,23 @@
 77_xx00xxxx_13A_0002 Pumasok akong katulong sa tao ang may pagkaka-utang ang aking ina para mabayaran ang kanilang utang.
 77_xx00xxxx_13A_0003 Matapos ang tatlong buwan, ay inilipat ako sa anak dito naninirahan sa Naga.
 77_xx00xxxx_13A_0004 Maganda ang kalagayan ko sa kanila, dahil sa mabait ang anak niya, naituring ko ang kapatid.
-77_xx00xxxx_13A_0005 Bago ang krimen, nagtalo ang magasawa dahil sa pagiging lasengo ng biktima at ang lantara nito ang pagpapabaya sa kanyang trabaho.
+77_xx00xxxx_13A_0005 Bago ang krimen, nagtalo ang magasawa dahil sa pagiging lasengo ng biktima at ang lantaran nitong pagpapabaya sa kanyang trabaho.
 77_xx00xxxx_13A_0006 Nang matapos ang awayan at sigawan nila, nagpahinga ang lalaki hanggang sa makatulog.
-77_xx00xxxx_13A_0007 Maya-maya ay binuhusan ang gas ang katawan ng lalaki, ng masunog ang katawan ng lalaki, sa kalamang ito nagising.
-77_xx00xxxx_13A_0008 Kaya dalidaling tuwakbo, palabas at tumalon sa ilog.
+77_xx00xxxx_13A_0007 Maya-maya ay binuhusan ang gas ang katawan ng lalaki, nang masunog ang katawan ng lalaki, sa kalamang ito nagising.
+77_xx00xxxx_13A_0008 Kaya dalidaling tumakbo, palabas at tumalon sa ilog.
 77_xx00xxxx_13A_0009 Isang araw, dumating ang isang trahedya na di inaasahan.
-77_xx00xxxx_13A_0010 Nilusob ng mga balang ang mga pananim sa bukit.
-77_xx00xxxx_13A_0011 Halos walang natira, maging ang mga manging isda ay nagtakarin sa hindi malamang dahilan ay paunti ng paunti ang nauhuli nilang isda sa dagat.
-77_xx00xxxx_13A_0012 Naghirap ang isang dati ay masaga ng bayan.
+77_xx00xxxx_13A_0010 Nilusob ng mga balang ang mga pananim sa bukid.
+77_xx00xxxx_13A_0011 Halos walang natira, maging ang mga mangingisda ay nagtaka rin sa hindi malamang dahilan ay paunti ng paunti ang nauhuli nilang isda sa dagat.
+77_xx00xxxx_13A_0012 Naghirap ang isang dati ay masaganag bayan.
 77_xx00xxxx_13A_0013 Paano kung nauunahan ka ng iyong mga kaibigan kung nalulugi ang negosyo mo?
-77_xx00xxxx_13A_0014 Kung hindi makaabot ang gita mo sa mga bay na sila at ikaw ay wala.
-77_xx00xxxx_13A_0015 At tumatanda ka na at napagiiwanan ka na ng masbata sa iyo.
+77_xx00xxxx_13A_0014 Kung hindi makaabot ang kita mo sa mga bahay na sila at ikaw ay wala.
+77_xx00xxxx_13A_0015 At tumatanda ka na at napagiiwanan ka na ng mas bata sa iyo.
 77_xx00xxxx_13A_0016 E bakit kailangan sa ika-labing tatlo ng pebrero?
 77_xx00xxxx_13A_0017 Tama naman siya, di ba?
 77_xx00xxxx_13A_0018 Ano ba ang nakita mo sa panaginip?
-77_xx00xxxx_13A_0019 Tumalon ka mo ang iyong puso?
+77_xx00xxxx_13A_0019 Tumalon kamo ang iyong puso?
 77_xx00xxxx_13A_0020 Matulog ka na.
-77_xx00xxxx_13A_0021 Puhunta ka ngayon dito.
+77_xx00xxxx_13A_0021 Pumunta ka ngayon dito.
 77_xx00xxxx_13A_0022 Tawagan mo ako.
 77_xx00xxxx_13A_0023 Samahan mo naman ako mamaya.
 77_xx00xxxx_13A_0024 Pakibukas naman ang pinto.
@@ -32,12 +32,12 @@
 77_xx00xxxx_13A_0032 Wala doon ang chocolate na favorite ni Lazoro, Jess at Resty mula sa China at Japan.
 77_xx00xxxx_13A_0033 Elementaria lamang ang natapos ni Ralyon, subalit lumakad siyang matuwid.
 77_xx00xxxx_13A_0034 Pangulo.
-77_xx00xxxx_13A_0035 Magdanakaw.
+77_xx00xxxx_13A_0035 Magnanakaw.
 77_xx00xxxx_13A_0036 Lungsod.
 77_xx00xxxx_13A_0037 Kasalukuyang.
 77_xx00xxxx_13A_0038 Aabutan.
 77_xx00xxxx_13A_0039 Hugis.
-77_xx00xxxx_13A_0040 Magbalimos.
+77_xx00xxxx_13A_0040 Magpalimos.
 77_xx00xxxx_13A_0041 Paso.
 77_xx00xxxx_13A_0042 Aalis.
 77_xx00xxxx_13A_0043 Huling.
@@ -76,7 +76,7 @@
 77_xx00xxxx_13A_0076 Magsawalang kibo.
 77_xx00xxxx_13A_0077 Pautos.
 77_xx00xxxx_13A_0078 Mapapakinabangang.
-77_xx00xxxx_13A_0079 Agu.
+77_xx00xxxx_13A_0079 Agiw.
 77_xx00xxxx_13A_0080 Huwebes.
 77_xx00xxxx_13A_0081 Magsaya.
 77_xx00xxxx_13A_0082 Pebrero.
@@ -95,9 +95,9 @@
 77_xx00xxxx_13A_0095 Magtanong.
 77_xx00xxxx_13A_0096 Akong.
 77_xx00xxxx_13A_0097 Ibang.
-77_xx00xxxx_13A_0098 Magdulungan.
+77_xx00xxxx_13A_0098 Magtulungan.
 77_xx00xxxx_13A_0099 Aksayahin.
-77_xx00xxxx_13A_0100 Magulang.
+77_xx00xxxx_13A_0100 Magulang, senatorial, aktibong
 77_xx00xxxx_13A_0101 Pilat.
 77_xx00xxxx_13A_0102 Magusap.
 77_xx00xxxx_13A_0103 Pili.
@@ -134,13 +134,13 @@
 77_xx00xxxx_13A_0134 Pinanonood.
 77_xx00xxxx_13A_0135 Ikanta.
 77_xx00xxxx_13A_0136 Maingay.
-77_xx00xxxx_13A_0137 Pinatakpo.
+77_xx00xxxx_13A_0137 Pinatakbo.
 77_xx00xxxx_13A_0138 Aming.
 77_xx00xxxx_13A_0139 Ikapitong.
 77_xx00xxxx_13A_0140 Anak.
 77_xx00xxxx_13A_0141 Ikasa.
 77_xx00xxxx_13A_0142 Maintindihan.
-77_xx00xxxx_13A_0143 Pinto.
+77_xx00xxxx_13A_0143 Pinto. Ang
 77_xx00xxxx_13A_0144 Maipaliwanag.
 77_xx00xxxx_13A_0145 Pintura.
 77_xx00xxxx_13A_0146 Anim.
@@ -154,7 +154,7 @@
 77_xx00xxxx_13A_0154 Maitatanggi.
 77_xx00xxxx_13A_0155 Pirasong.
 77_xx00xxxx_13A_0156 Antay.
-77_xx00xxxx_13A_0157 Ilalagay.
+77_xx00xxxx_13A_0157 Ilalagay. makaabot
 77_xx00xxxx_13A_0158 Pirma.
 77_xx00xxxx_13A_0159 Antayin.
 77_xx00xxxx_13A_0160 Makadama.
@@ -166,7 +166,7 @@
 77_xx00xxxx_13A_0166 Antukin.
 77_xx00xxxx_13A_0167 Ilang.
 77_xx00xxxx_13A_0168 Makakatapos.
-77_xx00xxxx_13A_0169 Bisngi.
+77_xx00xxxx_13A_0169 pisngi.
 77_xx00xxxx_13A_0170 Anumang.
 77_xx00xxxx_13A_0171 Magkakuha.
 77_xx00xxxx_13A_0172 Biso.
@@ -184,20 +184,20 @@
 77_xx00xxxx_13A_0184 Apoy.
 77_xx00xxxx_13A_0185 Makarating.
 77_xx00xxxx_13A_0186 Makarating.
-77_xx00xxxx_13A_0187 Premio.
+77_xx00xxxx_13A_0187 Premyo.
 77_xx00xxxx_13A_0188 Ilong.
 77_xx00xxxx_13A_0189 Makasali.
-77_xx00xxxx_13A_0190 Provinsya.
+77_xx00xxxx_13A_0190 Probinsya.
 77_xx00xxxx_13A_0191 Makata.
 77_xx00xxxx_13A_0192 Araw.
-77_xx00xxxx_13A_0193 Imposibling.
+77_xx00xxxx_13A_0193 Imposibleng.
 77_xx00xxxx_13A_0194 Makatulog.
 77_xx00xxxx_13A_0195 Aray.
 77_xx00xxxx_13A_0196 Ina.
 77_xx00xxxx_13A_0197 Makiangkas.
 77_xx00xxxx_13A_0198 Pumasok.
 77_xx00xxxx_13A_0199 Asa.
-77_xx00xxxx_13A_0200 Inaasahan.
+77_xx00xxxx_13A_0200 Inaasahan. makikita
 77_xx00xxxx_13A_0201 Asahan.
 77_xx00xxxx_13A_0202 Inay.
 77_xx00xxxx_13A_0203 Makita.
@@ -212,7 +212,7 @@
 77_xx00xxxx_13A_0212 Makuha.
 77_xx00xxxx_13A_0213 Puno.
 77_xx00xxxx_13A_0214 Aso.
-77_xx00xxxx_13A_0215 Punong.
+77_xx00xxxx_13A_0215 Punong.at ininsulto
 77_xx00xxxx_13A_0216 Punta.
 77_xx00xxxx_13A_0217 Atin.
 77_xx00xxxx_13A_0218 Inis.
@@ -228,21 +228,21 @@
 77_xx00xxxx_13A_0228 Away.
 77_xx00xxxx_13A_0229 Insulto.
 77_xx00xxxx_13A_0230 Record.
-77_xx00xxxx_13A_0231 Pusang.
+77_xx00xxxx_13A_0231 Pusang. awayan
 77_xx00xxxx_13A_0232 Interesado.
 77_xx00xxxx_13A_0233 Recommendation.
-77_xx00xxxx_13A_0234 Grimeng.
+77_xx00xxxx_13A_0234 crimeng.
 77_xx00xxxx_13A_0235 Malamang.
 77_xx00xxxx_13A_0236 Puso.
 77_xx00xxxx_13A_0237 Awayin.
 77_xx00xxxx_13A_0238 Intindihin.
-77_xx00xxxx_13A_0239 Puede.
+77_xx00xxxx_13A_0239 Pwede.
 77_xx00xxxx_13A_0240 Ay.
 77_xx00xxxx_13A_0241 Inurong.
 77_xx00xxxx_13A_0242 Pwedeng.
 77_xx00xxxx_13A_0243 Ayoko.
 77_xx00xxxx_13A_0244 Inyo.
-77_xx00xxxx_13A_0245 Raho.
+77_xx00xxxx_13A_0245 Raho. ayos
 77_xx00xxxx_13A_0246 Inyong.
 77_xx00xxxx_13A_0247 Malawak.
 77_xx00xxxx_13A_0248 Raketa.
@@ -257,7 +257,7 @@
 77_xx00xxxx_13A_0257 Ipagtimpla.
 77_xx00xxxx_13A_0258 Siwang.
 77_xx00xxxx_13A_0259 Ganitong.
-77_xx00xxxx_13A_0260 Malayong.
+77_xx00xxxx_13A_0260 Malayong. babaan ipainom rebulto
 77_xx00xxxx_13A_0261 Bababa.
 77_xx00xxxx_13A_0262 Maligayang.
 77_xx00xxxx_13A_0263 Babae.
@@ -301,8 +301,8 @@
 77_xx00xxxx_13A_0301 Mamaya.
 77_xx00xxxx_13A_0302 Saan man.
 77_xx00xxxx_13A_0303 Bahala.
-77_xx00xxxx_13A_0304 Negosasyong.
-77_xx00xxxx_13A_0305 Rito.
+77_xx00xxxx_13A_0304 Negosasyong. lingo isilang
+77_xx00xxxx_13A_0305 sabado
 77_xx00xxxx_13A_0306 Bahay.
 77_xx00xxxx_13A_0307 Isip.
 77_xx00xxxx_13A_0308 Man.
@@ -317,7 +317,7 @@
 77_xx00xxxx_13A_0317 Sabi.
 77_xx00xxxx_13A_0318 Bakla.
 77_xx00xxxx_13A_0319 Itaas.
-77_xx00xxxx_13A_0320 Is.
+77_xx00xxxx_13A_0320 sabihan. baling showbiz
 77_xx00xxxx_13A_0321 Bang.
 77_xx00xxxx_13A_0322 Bagong.
 77_xx00xxxx_13A_0323 Matanggap.
@@ -331,7 +331,7 @@
 77_xx00xxxx_13A_0331 Saglit.
 77_xx00xxxx_13A_0332 Bantay.
 77_xx00xxxx_13A_0333 Mangasar.
-77_xx00xxxx_13A_0334 Ingay.
+77_xx00xxxx_13A_0334 Ingay. barangay makiangkas sahod
 77_xx00xxxx_13A_0335 Labingsyam.
 77_xx00xxxx_13A_0336 Jamming.
 77_xx00xxxx_13A_0337 Among.
@@ -346,11 +346,11 @@
 77_xx00xxxx_13A_0346 Basa.
 77_xx00xxxx_13A_0347 Iurung.
 77_xx00xxxx_13A_0348 Manggulo.
-77_xx00xxxx_13A_0349 Sakto.
+77_xx00xxxx_13A_0349 Sakto. basa iusog
 77_xx00xxxx_13A_0350 Mangingisda.
 77_xx00xxxx_13A_0351 Sakuna.
-77_xx00xxxx_13A_0352 Basahim.
-77_xx00xxxx_13A_0353 Namamaya pang.
+77_xx00xxxx_13A_0352 Basahin.
+77_xx00xxxx_13A_0353 Namamayapang.
 77_xx00xxxx_13A_0354 Angkas.
 77_xx00xxxx_13A_0355 Notoriosong.
 77_xx00xxxx_13A_0356 Iuwi.
@@ -361,7 +361,7 @@
 77_xx00xxxx_13A_0361 Manok.
 77_xx00xxxx_13A_0362 Basong.
 77_xx00xxxx_13A_0363 Iwanan.
-77_xx00xxxx_13A_0364 Manood.
+77_xx00xxxx_13A_0364 Manood. saksesful basura
 77_xx00xxxx_13A_0365 Iwas.
 77_xx00xxxx_13A_0366 Mapaliwanagan.
 77_xx00xxxx_13A_0367 Basurahan.
@@ -370,13 +370,13 @@
 77_xx00xxxx_13A_0370 Samahan.
 77_xx00xxxx_13A_0371 Samahan.
 77_xx00xxxx_13A_0372 Bata.
-77_xx00xxxx_13A_0373 Iak.
+77_xx00xxxx_13A_0373 Iyak.
 77_xx00xxxx_13A_0374 Sandwich.
 77_xx00xxxx_13A_0375 Mapapatingin.
 77_xx00xxxx_13A_0376 Batang.
-77_xx00xxxx_13A_0377 Ian.
+77_xx00xxxx_13A_0377 Iyan.
 77_xx00xxxx_13A_0378 Marami.
-77_xx00xxxx_13A_0379 Batiin.
+77_xx00xxxx_13A_0379 Batiin. Iyo maraming sambayanan
 77_xx00xxxx_13A_0380 Bato.
 77_xx00xxxx_13A_0381 Iyon.
 77_xx00xxxx_13A_0382 Sampu.
@@ -391,7 +391,7 @@
 77_xx00xxxx_13A_0391 Sana.
 77_xx00xxxx_13A_0392 Bawasan.
 77_xx00xxxx_13A_0393 Jacket.
-77_xx00xxxx_13A_0394 Marshall.
+77_xx00xxxx_13A_0394 Marshall. sandal, bawasin, jelousy
 77_xx00xxxx_13A_0395 Mas.
 77_xx00xxxx_13A_0396 Subject.
 77_xx00xxxx_13A_0397 Rescue.
@@ -406,13 +406,13 @@
 77_xx00xxxx_13A_0406 Sapagat.
 77_xx00xxxx_13A_0407 Bayad.
 77_xx00xxxx_13A_0408 General.
-77_xx00xxxx_13A_0409 General.
+77_xx00xxxx_13A_0409 General. masahe sapakan
 77_xx00xxxx_13A_0410 Bayan.
 77_xx00xxxx_13A_0411 Jeep.
 77_xx00xxxx_13A_0412 Masakit.
 77_xx00xxxx_13A_0413 Sara.
 77_xx00xxxx_13A_0414 Benta.
-77_xx00xxxx_13A_0415 Yujitsu.
+77_xx00xxxx_13A_0415 jujitsu.
 77_xx00xxxx_13A_0416 Masaklap.
 77_xx00xxxx_13A_0417 Sarahan.
 77_xx00xxxx_13A_0418 Birthday.
@@ -421,10 +421,10 @@
 77_xx00xxxx_13A_0421 Sarap.
 77_xx00xxxx_13A_0422 Bibig.
 77_xx00xxxx_13A_0423 Makapagsasabing.
-77_xx00xxxx_13A_0424 Makarating.
+77_xx00xxxx_13A_0424 Makarating. maingay gawang lang
 77_xx00xxxx_13A_0425 Junior.
 77_xx00xxxx_13A_0426 Masamain.
-77_xx00xxxx_13A_0427 Bigas.
+77_xx00xxxx_13A_0427 Bigas. ka
 77_xx00xxxx_13A_0428 Masamang.
 77_xx00xxxx_13A_0429 Semifinals.
 77_xx00xxxx_13A_0430 Sariling.
@@ -435,7 +435,7 @@
 77_xx00xxxx_13A_0435 Bigla.
 77_xx00xxxx_13A_0436 Kaaway.
 77_xx00xxxx_13A_0437 Masaya.
-77_xx00xxxx_13A_0438 Sasamahan.
+77_xx00xxxx_13A_0438 Sasamahan. biglang kabalikat
 77_xx00xxxx_13A_0439 Masigla.
 77_xx00xxxx_13A_0440 Sawa.
 77_xx00xxxx_13A_0441 Bigo.
@@ -450,7 +450,7 @@
 77_xx00xxxx_13A_0450 Kabuhayan.
 77_xx00xxxx_13A_0451 Masisiguro.
 77_xx00xxxx_13A_0452 Semento.
-77_xx00xxxx_13A_0453 Biktima.
+77_xx00xxxx_13A_0453 Biktima. kabundukan masukal septyembre bilang
 77_xx00xxxx_13A_0454 Tanong.
 77_xx00xxxx_13A_0455 Nasasabing.
 77_xx00xxxx_13A_0456 Kagandahan.
@@ -465,7 +465,7 @@
 77_xx00xxxx_13A_0465 Kaharian.
 77_xx00xxxx_13A_0466 Masyado.
 77_xx00xxxx_13A_0467 Reliable.
-77_xx00xxxx_13A_0468 Sibakin.
+77_xx00xxxx_13A_0468 Sibakin. binata
 77_xx00xxxx_13A_0469 Kahit.
 77_xx00xxxx_13A_0470 Mata.
 77_xx00xxxx_13A_0471 Siga.
@@ -479,7 +479,7 @@
 77_xx00xxxx_13A_0479 Nang.
 77_xx00xxxx_13A_0480 Binato.
 77_xx00xxxx_13A_0481 Kaibigan.
-77_xx00xxxx_13A_0482 Matalino.
+77_xx00xxxx_13A_0482 Matalino. sigawan binawasan
 77_xx00xxxx_13A_0483 Kailan.
 77_xx00xxxx_13A_0484 Matamis.
 77_xx00xxxx_13A_0485 Sige.
@@ -509,7 +509,7 @@
 77_xx00xxxx_13A_0509 Sila.
 77_xx00xxxx_13A_0510 Binisita.
 77_xx00xxxx_13A_0511 Kakatwang.
-77_xx00xxxx_13A_0512 Matino.
+77_xx00xxxx_13A_0512 Matino. silang bintana kalagayan
 77_xx00xxxx_13A_0513 Matipuno.
 77_xx00xxxx_13A_0514 Silbi.
 77_xx00xxxx_13A_0515 Binuhusan.
@@ -524,7 +524,7 @@
 77_xx00xxxx_13A_0524 Kalat.
 77_xx00xxxx_13A_0525 May.
 77_xx00xxxx_13A_0526 Simbahan.
-77_xx00xxxx_13A_0527 Bisa.
+77_xx00xxxx_13A_0527 Bisa. kalawakan maya
 77_xx00xxxx_13A_0528 Simple.
 77_xx00xxxx_13A_0529 Bisita.
 77_xx00xxxx_13A_0530 Kalayaan.
@@ -537,9 +537,9 @@
 77_xx00xxxx_13A_0537 Kalikasan.
 77_xx00xxxx_13A_0538 Mayaman.
 77_xx00xxxx_13A_0539 Sinamahan.
-77_xx00xxxx_13A_0540 Biaya.
+77_xx00xxxx_13A_0540 Biyaya.
 77_xx00xxxx_13A_0541 Kalimutan.
-77_xx00xxxx_13A_0542 Mainila.
+77_xx00xxxx_13A_0542 Mainila. sindak biyernes kaliwang
 77_xx00xxxx_13A_0543 Mayo.
 77_xx00xxxx_13A_0544 Sindi.
 77_xx00xxxx_13A_0545 Blackboard.
@@ -554,7 +554,7 @@
 77_xx00xxxx_13A_0554 Kalye.
 77_xx00xxxx_13A_0555 Mensahe.
 77_xx00xxxx_13A_0556 Sinilang.
-77_xx00xxxx_13A_0557 Bolahan.
+77_xx00xxxx_13A_0557 Bolahan. kama meron
 77_xx00xxxx_13A_0558 Sino.
 77_xx00xxxx_13A_0559 Bote.
 77_xx00xxxx_13A_0560 Kamay.
@@ -569,7 +569,7 @@
 77_xx00xxxx_13A_0569 Minsan.
 77_xx00xxxx_13A_0570 Sinunog.
 77_xx00xxxx_13A_0571 Bugbogin.
-77_xx00xxxx_13A_0572 Kaming.
+77_xx00xxxx_13A_0572 Kaming. sinuot buhay kamo sipag
 77_xx00xxxx_13A_0573 Masasamang.
 77_xx00xxxx_13A_0574 Nagtanong.
 77_xx00xxxx_13A_0575 Bukas.
@@ -584,7 +584,7 @@
 77_xx00xxxx_13A_0584 Buksan.
 77_xx00xxxx_13A_0585 Kang.
 77_xx00xxxx_13A_0586 Mo.
-77_xx00xxxx_13A_0587 Sipunin.
+77_xx00xxxx_13A_0587 Sipunin. bumaba kanila mong sira bumati
 77_xx00xxxx_13A_0588 Kanilang.
 77_xx00xxxx_13A_0589 Mukha.
 77_xx00xxxx_13A_0590 Sirain.
@@ -599,7 +599,7 @@
 77_xx00xxxx_13A_0599 Magulang.
 77_xx00xxxx_13A_0600 Aking.
 77_xx00xxxx_13A_0601 Ako.
-77_xx00xxxx_13A_0602 Sistema.
+77_xx00xxxx_13A_0602 Sistema. bumili kantahan siya
 77_xx00xxxx_13A_0603 Bumisita.
 77_xx00xxxx_13A_0604 Kanto.
 77_xx00xxxx_13A_0605 Siyang.
@@ -675,7 +675,7 @@
 77_xx00xxxx_13A_0675 Sulit.
 77_xx00xxxx_13A_0676 Dahon.
 77_xx00xxxx_13A_0677 Kasamahan.
-77_xx00xxxx_13A_0678 Nagdidi.
+77_xx00xxxx_13A_0678 Nagdidilim.
 77_xx00xxxx_13A_0679 Kasama.
 77_xx00xxxx_13A_0680 Kasama.
 77_xx00xxxx_13A_0681 Kasamahan.
@@ -762,7 +762,7 @@
 77_xx00xxxx_13A_0762 Kilos.
 77_xx00xxxx_13A_0763 Nagsabi.
 77_xx00xxxx_13A_0764 Taasan.
-77_xx00xxxx_13A_0765 Dayaan.
+77_xx00xxxx_13A_0765 Dayain.
 77_xx00xxxx_13A_0766 Kinain.
 77_xx00xxxx_13A_0767 Nagsalita.
 77_xx00xxxx_13A_0768 Taba.
@@ -867,8 +867,8 @@
 77_xx00xxxx_13A_0867 Dan.
 77_xx00xxxx_13A_0868 Dig.
 77_xx00xxxx_13A_0869 Ding.
-77_xx00xxxx_13A_0870 Gage.
-77_xx00xxxx_13A_0871 Mad.
+77_xx00xxxx_13A_0870 Ga ge gi go gu.
+77_xx00xxxx_13A_0871 gad.
 77_xx00xxxx_13A_0872 Goa.
 77_xx00xxxx_13A_0873 Gaw.
 77_xx00xxxx_13A_0874 Gin.
@@ -899,7 +899,7 @@
 77_xx00xxxx_13A_0899 Face.
 77_xx00xxxx_13A_0900 Face.
 77_xx00xxxx_13A_0901 Fig.
-77_xx00xxxx_13A_0902 Ha he hi ho fu.
+77_xx00xxxx_13A_0902 Ha he hi ho hu.
 77_xx00xxxx_13A_0903 Hin.
 77_xx00xxxx_13A_0904 Hao.
 77_xx00xxxx_13A_0905 Hen.
@@ -922,16 +922,16 @@
 77_xx00xxxx_13A_0922 Kot.
 77_xx00xxxx_13A_0923 Kit.
 77_xx00xxxx_13A_0924 Kam.
-77_xx00xxxx_13A_0925 Gun.
-77_xx00xxxx_13A_0926 Gas.
-77_xx00xxxx_13A_0927 Gem.
-77_xx00xxxx_13A_0928 Gal.
-77_xx00xxxx_13A_0929 Gen.
-77_xx00xxxx_13A_0930 Get.
+77_xx00xxxx_13A_0925 kun.
+77_xx00xxxx_13A_0926 kas.
+77_xx00xxxx_13A_0927 kem.
+77_xx00xxxx_13A_0928 kal.
+77_xx00xxxx_13A_0929 ken.
+77_xx00xxxx_13A_0930 ket.
 77_xx00xxxx_13A_0931 Kat.
 77_xx00xxxx_13A_0932 Kao.
 77_xx00xxxx_13A_0933 Kim.
-77_xx00xxxx_13A_0934 Gip.
+77_xx00xxxx_13A_0934 kip.
 77_xx00xxxx_13A_0935 La le li lo lu.
 77_xx00xxxx_13A_0936 Lok.
 77_xx00xxxx_13A_0937 Los.
@@ -969,7 +969,7 @@
 77_xx00xxxx_13A_0969 Mun.
 77_xx00xxxx_13A_0970 Mad.
 77_xx00xxxx_13A_0971 Mak.
-77_xx00xxxx_13A_0972 Mat.
+77_xx00xxxx_13A_0972 Mat. na ne ni no nu
 77_xx00xxxx_13A_0973 Nag.
 77_xx00xxxx_13A_0974 Nei.
 77_xx00xxxx_13A_0975 Nib.
@@ -988,7 +988,7 @@
 77_xx00xxxx_13A_0988 Nab.
 77_xx00xxxx_13A_0989 Nam.
 77_xx00xxxx_13A_0990 Nil.
-77_xx00xxxx_13A_0991 Nga ngingi ngongu.
+77_xx00xxxx_13A_0991 Nga nge ngi ngo ngu.
 77_xx00xxxx_13A_0992 Ngan.
 77_xx00xxxx_13A_0993 Nog.
 77_xx00xxxx_13A_0994 Nin.
@@ -1015,7 +1015,7 @@
 77_xx00xxxx_13A_1015 Pang.
 77_xx00xxxx_13A_1016 Ping.
 77_xx00xxxx_13A_1017 Pir.
-77_xx00xxxx_13A_1018 Beb.
+77_xx00xxxx_13A_1018 peb.
 77_xx00xxxx_13A_1019 Pos.
 77_xx00xxxx_13A_1020 Pun.
 77_xx00xxxx_13A_1021 Per.
@@ -1060,7 +1060,7 @@
 77_xx00xxxx_13A_1060 Sang.
 77_xx00xxxx_13A_1061 Sus.
 77_xx00xxxx_13A_1062 Swe.
-77_xx00xxxx_13A_1063 Tat.
+77_xx00xxxx_13A_1063 Ta.
 77_xx00xxxx_13A_1064 Te.
 77_xx00xxxx_13A_1065 Ti.
 77_xx00xxxx_13A_1066 To.
@@ -1085,11 +1085,11 @@
 77_xx00xxxx_13A_1085 Til.
 77_xx00xxxx_13A_1086 Sa se si so su.
 77_xx00xxxx_13A_1087 Sis.
-77_xx00xxxx_13A_1088 Ba ve vi vo vu.
+77_xx00xxxx_13A_1088 va ve vi vo vu.
 77_xx00xxxx_13A_1089 Ven.
 77_xx00xxxx_13A_1090 Ver.
 77_xx00xxxx_13A_1091 Ves.
-77_xx00xxxx_13A_1092 Wa we wi wo vu.
+77_xx00xxxx_13A_1092 Wa we wi wo wu.
 77_xx00xxxx_13A_1093 Wid.
 77_xx00xxxx_13A_1094 Wad.
 77_xx00xxxx_13A_1095 Wag.
@@ -1116,7 +1116,7 @@
 77_xx00xxxx_13A_1116 Yak.
 77_xx00xxxx_13A_1117 Yon.
 77_xx00xxxx_13A_1118 Yor.
-77_xx00xxxx_13A_1119 Sa se si so su.
+77_xx00xxxx_13A_1119 za ze zi zo zu.
 77_xx00xxxx_13A_1120 Zin.
 77_xx00xxxx_13A_1121 Ang.
 77_xx00xxxx_13A_1122 As.
@@ -1148,9 +1148,9 @@
 77_xx00xxxx_13A_1148 Hang.
 77_xx00xxxx_13A_1149 Hing.
 77_xx00xxxx_13A_1150 Hong.
-77_xx00xxxx_13A_1151 Ging.
-77_xx00xxxx_13A_1152 Gang.
-77_xx00xxxx_13A_1153 Gong.
+77_xx00xxxx_13A_1151 king.
+77_xx00xxxx_13A_1152 kang.
+77_xx00xxxx_13A_1153 kong.
 77_xx00xxxx_13A_1154 Kung.
 77_xx00xxxx_13A_1155 Ming.
 77_xx00xxxx_13A_1156 Mong.
@@ -1287,6 +1287,7 @@
 77_xx00xxxx_13A_1287 Zam.
 77_xx00xxxx_13A_1288 Ze.
 77_xx00xxxx_13A_1289 Zig.
+
 77_xx00xxxx_13A_1290 Agad.
 77_xx00xxxx_13A_1291 Aking.
 77_xx00xxxx_13A_1292 Ako.
