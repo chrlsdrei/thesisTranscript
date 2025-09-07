@@ -216,44 +216,4 @@ isort process_whisper.py
 flake8 process_whisper.py
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Run the test suite
-6. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details.
-
-## Acknowledgments
-
-- **OpenAI Whisper**: For the excellent speech recognition model
-- **FFmpeg**: For audio processing capabilities
-- **PyTorch**: For machine learning framework
-
-## Citation
-
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{thesis_transcript,
-  title={Thesis Transcript: Audio Transcription Tool},
-  author={Charles},
-  year={2025},
-  url={https://github.com/yourusername/thesis-transcript}
-}
-```
-
-## Support
-
-For questions, issues, or suggestions:
-- Create an issue on GitHub
-- Contact: your.email@example.com
-
----
-
 **Happy transcribing! 🎙️✨**
