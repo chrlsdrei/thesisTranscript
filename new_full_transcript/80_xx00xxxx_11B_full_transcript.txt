@@ -2,13 +2,13 @@ Utterance 1
 Start: 1.87
 End: 5.33
 Confidence: 0.0
-Text: Isulat ang sariling pangalan sa isang perasong papel
+Text: Isulat ang sariling pangalan sa isang pirasong papel
 
 Utterance 2
 Start: 5.33
 End: 8.47
 Confidence: 0.0
-Text: at idikit ito sa isang pader sa maiibabao
+Text: at idikit ito sa isang pader sa may ibabaw
 
 Utterance 3
 Start: 8.47
@@ -38,7 +38,7 @@ Utterance 7
 Start: 17.43
 End: 20.01
 Confidence: 0.0
-Text: pwede ay hugasan muna nil ang kanilang mga
+Text: pwede ay hugasan muna nila ang kanilang mga
 
 Utterance 8
 Start: 20.01
@@ -62,7 +62,7 @@ Utterance 11
 Start: 27.71
 End: 29.85
 Confidence: 0.0
-Text: pangalan ng iyong gamot bago ito ipaino.
+Text: pangalan ng iyong gamot bago ito ipainom.
 
 Utterance 12
 Start: 30.97
@@ -158,7 +158,7 @@ Utterance 27
 Start: 89.26
 End: 91.30
 Confidence: 0.0
-Text: sa loob ng 23 taon.
+Text: sa loob ng dalawampu't tatlong taon.
 
 Utterance 28
 Start: 93.02
@@ -176,7 +176,7 @@ Utterance 30
 Start: 99.52
 End: 103.86
 Confidence: 0.0
-Text: ang kabuhayan. Di maitatanggin ay pinatutupad ang kaunlalan
+Text: ang kabuhayan. Di maitatanggi na pinatutupad ang kaunlalan
 
 Utterance 31
 Start: 103.86
@@ -206,7 +206,7 @@ Utterance 35
 Start: 116.98
 End: 119.62
 Confidence: 0.0
-Text: halaman na mumungaman o hindi.
+Text: halaman namumunga man o hindi.
 
 Utterance 36
 Start: 120.24
@@ -266,13 +266,13 @@ Utterance 45
 Start: 146.58
 End: 147.76
 Confidence: 0.0
-Text: Antahin nyo naman ako.
+Text: Antayin nyo naman ako.
 
 Utterance 46
 Start: 148.98
 End: 150.42
 Confidence: 0.0
-Text: Pakigawa ng gata si Bonso.
+Text: Pakigawa ng gatas si Bonso.
 
 Utterance 47
 Start: 152.06
@@ -338,7 +338,7 @@ Utterance 57
 Start: 188.78
 End: 191.68
 Confidence: 0.0
-Text: Isang may perang bading ang nabalius isang PBA
+Text: Isang may perang bading ang nabaliw sa isang PBA
 
 Utterance 58
 Start: 191.68
@@ -410,7 +410,7 @@ Utterance 69
 Start: 214.92
 End: 215.82
 Confidence: nan
-Text: tinamay,
+Text: tinapay,
 
 Utterance 70
 Start: 216.26
@@ -434,7 +434,7 @@ Utterance 73
 Start: 220.06
 End: 220.56
 Confidence: nan
-Text: tinanas,
+Text: dinanas,
 
 Utterance 74
 Start: 221.40
@@ -716,7 +716,7 @@ Utterance 120
 Start: 283.26
 End: 283.92
 Confidence: nan
-Text: dios,
+Text: diyos,
 
 Utterance 121
 Start: 284.22
@@ -782,7 +782,7 @@ Utterance 131
 Start: 295.64
 End: 297.56
 Confidence: nan
-Text: tanawit,
+Text: tanawin,
 
 Utterance 132
 Start: 297.68
@@ -1184,7 +1184,7 @@ Utterance 198
 Start: 381.92
 End: 382.86
 Confidence: nan
-Text: nandian,
+Text: nandiyan,
 
 Utterance 199
 Start: 383.28
@@ -1244,7 +1244,7 @@ Utterance 208
 Start: 393.72
 End: 394.62
 Confidence: nan
-Text: elementaria,
+Text: elementarya,
 
 Utterance 209
 Start: 395.22
@@ -1268,7 +1268,7 @@ Utterance 212
 Start: 398.90
 End: 399.68
 Confidence: nan
-Text: inero,
+Text: enero,
 
 Utterance 213
 Start: 399.68
@@ -1418,7 +1418,7 @@ Utterance 237
 Start: 427.94
 End: 429.18
 Confidence: nan
-Text: familia,
+Text: familya,
 
 Utterance 238
 Start: 429.56
@@ -1466,7 +1466,7 @@ Utterance 245
 Start: 440.26
 End: 441.22
 Confidence: nan
-Text: fnatic,
+Text: fanatic,
 
 Utterance 246
 Start: 441.62
@@ -1748,7 +1748,7 @@ Utterance 292
 Start: 498.52
 End: 499.84
 Confidence: nan
-Text: tinatangkilig,
+Text: tinatangkilik,
 
 Utterance 293
 Start: 499.84
@@ -1940,7 +1940,7 @@ Utterance 324
 Start: 539.76
 End: 540.28
 Confidence: nan
-Text: tiak,
+Text: tiyak,
 
 Utterance 325
 Start: 540.58
@@ -2168,13 +2168,13 @@ Utterance 362
 Start: 583.44
 End: 584.48
 Confidence: nan
-Text: gaskasan,
+Text: gasgasan,
 
 Utterance 363
 Start: 584.84
 End: 585.40
 Confidence: nan
-Text: libig,
+Text: libing,
 
 Utterance 364
 Start: 585.66
@@ -2420,7 +2420,7 @@ Utterance 404
 Start: 634.29
 End: 635.03
 Confidence: nan
-Text: nubiembre,
+Text: nobyembre,
 
 Utterance 405
 Start: 635.57
@@ -3014,7 +3014,7 @@ Utterance 503
 Start: 748.27
 End: 749.39
 Confidence: nan
-Text: inusinting,
+Text: kinusinting,
 
 Utterance 504
 Start: 749.55
@@ -3170,7 +3170,7 @@ Utterance 529
 Start: 779.13
 End: 780.27
 Confidence: nan
-Text: umiak,
+Text: umiyak,
 
 Utterance 530
 Start: 780.27
@@ -3884,7 +3884,7 @@ Utterance 648
 Start: 932.26
 End: 933.02
 Confidence: nan
-Text: vendoh,
+Text: vendo,
 
 Utterance 649
 Start: 933.22
@@ -3998,7 +3998,7 @@ Utterance 667
 Start: 955.74
 End: 957.72
 Confidence: nan
-Text: wagihatid,
+Text: pahiwatig,
 
 Utterance 668
 Start: 957.84
@@ -4472,7 +4472,7 @@ Utterance 746
 Start: 1057.10
 End: 1058.30
 Confidence: nan
-Text: iero,
+Text: yero,
 
 Utterance 747
 Start: 1059.06
@@ -4805,6 +4805,12 @@ Confidence: nan
 Text: sesyon.
 
 Utterance 802
+Start: 1127.97
+End: 1141.51
+Confidence: nan
+Text: Ba Be Bi Bo Bu Bad Bab Back Bal Bar Bas
+
+Utterance 802
 Start: 1142.18
 End: 1143.04
 Confidence: nan
@@ -4976,7 +4982,7 @@ Utterance 830
 Start: 1168.90
 End: 1168.90
 Confidence: nan
-Text: du,
+Text: do,
 
 Utterance 831
 Start: 1169.76
@@ -5204,7 +5210,7 @@ Utterance 868
 Start: 1200.94
 End: 1201.74
 Confidence: nan
-Text: Pa,
+Text: fa,
 
 Utterance 869
 Start: 1201.78
@@ -5216,13 +5222,13 @@ Utterance 870
 Start: 1202.48
 End: 1202.90
 Confidence: nan
-Text: pi,
+Text: fi,
 
 Utterance 871
 Start: 1203.24
 End: 1203.48
 Confidence: nan
-Text: ho,
+Text: fo,
 
 Utterance 872
 Start: 1204.76
@@ -5246,19 +5252,19 @@ Utterance 875
 Start: 1207.66
 End: 1208.02
 Confidence: nan
-Text: pan,
+Text: fan,
 
 Utterance 876
 Start: 1208.30
 End: 1208.56
 Confidence: nan
-Text: pi,
+Text: fi,
 
 Utterance 877
 Start: 1208.60
 End: 1209.16
 Confidence: nan
-Text: es,
+Text: fes,
 
 Utterance 878
 Start: 1209.26
@@ -5390,7 +5396,7 @@ Utterance 899
 Start: 1229.04
 End: 1229.74
 Confidence: nan
-Text: ju,
+Text: jo,
 
 Utterance 900
 Start: 1230.82
@@ -5438,7 +5444,7 @@ Utterance 907
 Start: 1236.24
 End: 1236.64
 Confidence: nan
-Text: ku,
+Text: ko,
 
 Utterance 908
 Start: 1236.92
@@ -5732,7 +5738,7 @@ Utterance 956
 Start: 1279.04
 End: 1279.04
 Confidence: nan
-Text: mu,
+Text: mo,
 
 Utterance 957
 Start: 1279.12
@@ -5846,7 +5852,7 @@ Utterance 975
 Start: 1294.52
 End: 1295.52
 Confidence: nan
-Text: ni,
+Text: ne,
 
 Utterance 976
 Start: 1295.62
@@ -5858,7 +5864,7 @@ Utterance 977
 Start: 1296.96
 End: 1296.96
 Confidence: nan
-Text: nu,
+Text: no,
 
 Utterance 978
 Start: 1297.06
@@ -5876,7 +5882,7 @@ Utterance 980
 Start: 1298.80
 End: 1299.66
 Confidence: nan
-Text: nai,
+Text: nay,
 
 Utterance 981
 Start: 1299.76
@@ -5978,31 +5984,31 @@ Utterance 997
 Start: 1314.20
 End: 1315.12
 Confidence: nan
-Text: Na,
+Text: nga,
 
 Utterance 998
 Start: 1315.12
 End: 1315.94
 Confidence: nan
-Text: ni,
+Text: nge,
 
 Utterance 999
 Start: 1316.44
 End: 1317.10
 Confidence: nan
-Text: ni,
+Text: ngi,
 
 Utterance 1000
 Start: 1317.26
 End: 1317.66
 Confidence: nan
-Text: mu,
+Text: ngo,
 
 Utterance 1001
 Start: 1317.96
 End: 1318.68
 Confidence: nan
-Text: mu,
+Text: ngu,
 
 Utterance 1002
 Start: 1319.12
@@ -6014,37 +6020,37 @@ Utterance 1003
 Start: 1320.02
 End: 1320.56
 Confidence: nan
-Text: nug,
+Text: ngug,
 
 Utterance 1004
 Start: 1320.94
 End: 1321.42
 Confidence: nan
-Text: nin,
+Text: ngin,
 
 Utterance 1005
 Start: 1321.76
 End: 1322.36
 Confidence: nan
-Text: nai,
+Text: ngay,
 
 Utterance 1006
 Start: 1322.68
 End: 1322.88
 Confidence: nan
-Text: ni,
+Text: ngi,
 
 Utterance 1007
 Start: 1323.64
 End: 1324.22
 Confidence: nan
-Text: nin,
+Text: ngin,
 
 Utterance 1008
 Start: 1324.52
 End: 1325.04
 Confidence: nan
-Text: nun.
+Text: ngun.
 
 Utterance 1009
 Start: 1326.14
@@ -6500,7 +6506,7 @@ Utterance 1084
 Start: 1393.18
 End: 1394.10
 Confidence: nan
-Text: du,
+Text: tu,
 
 Utterance 1085
 Start: 1394.58
@@ -6638,37 +6644,37 @@ Utterance 1107
 Start: 1415.76
 End: 1417.12
 Confidence: nan
-Text: Ta,
+Text: cha,
 
 Utterance 1108
 Start: 1417.22
 End: 1417.56
 Confidence: nan
-Text: te,
+Text: che,
 
 Utterance 1109
 Start: 1417.90
 End: 1418.38
 Confidence: nan
-Text: ti,
+Text: chi,
 
 Utterance 1110
 Start: 1418.80
 End: 1419.12
 Confidence: nan
-Text: to,
+Text: cho,
 
 Utterance 1111
 Start: 1419.46
 End: 1419.96
 Confidence: nan
-Text: tu,
+Text: chu,
 
 Utterance 1112
 Start: 1420.26
 End: 1421.42
 Confidence: nan
-Text: tis,
+Text: chis,
 
 Utterance 1113
 Start: 1421.78
@@ -6728,25 +6734,25 @@ Utterance 1122
 Start: 1429.38
 End: 1429.80
 Confidence: nan
-Text: ve,
+Text: we,
 
 Utterance 1123
 Start: 1430.12
 End: 1430.60
 Confidence: nan
-Text: vi,
+Text: wi,
 
 Utterance 1124
 Start: 1430.68
 End: 1431.18
 Confidence: nan
-Text: vo,
+Text: wo,
 
 Utterance 1125
 Start: 1431.32
 End: 1431.90
 Confidence: nan
-Text: vu,
+Text: wu,
 
 Utterance 1126
 Start: 1432.50
@@ -6836,7 +6842,7 @@ Utterance 1140
 Start: 1443.06
 End: 1443.82
 Confidence: nan
-Text: yi,
+Text: ye,
 
 Utterance 1141
 Start: 1443.82
@@ -6950,7 +6956,7 @@ Utterance 1159
 Start: 1458.64
 End: 1459.36
 Confidence: nan
-Text: zee,
+Text: zi,
 
 Utterance 1160
 Start: 1459.38
@@ -7148,7 +7154,7 @@ Utterance 1192
 Start: 1487.92
 End: 1488.36
 Confidence: nan
-Text: ging,
+Text: king,
 
 Utterance 1193
 Start: 1488.78
@@ -7304,7 +7310,7 @@ Utterance 1218
 Start: 1511.10
 End: 1511.90
 Confidence: nan
-Text: yung,
+Text: yong,
 
 Utterance 1219
 Start: 1511.92
@@ -7514,19 +7520,19 @@ Utterance 1253
 Start: 1545.38
 End: 1545.66
 Confidence: nan
-Text: cab,
+Text: kab,
 
 Utterance 1254
 Start: 1546.24
 End: 1546.72
 Confidence: nan
-Text: gad,
+Text: kad,
 
 Utterance 1255
 Start: 1547.04
 End: 1547.30
 Confidence: nan
-Text: gag,
+Text: kag,
 
 Utterance 1256
 Start: 1547.90
@@ -7556,7 +7562,7 @@ Utterance 1260
 Start: 1551.22
 End: 1551.72
 Confidence: nan
-Text: koi,
+Text: koy,
 
 Utterance 1261
 Start: 1552.00
@@ -7832,7 +7838,7 @@ Utterance 1306
 Start: 1590.04
 End: 1590.30
 Confidence: nan
-Text: sei,
+Text: sey,
 
 Utterance 1307
 Start: 1590.86
@@ -7844,7 +7850,7 @@ Utterance 1308
 Start: 1591.68
 End: 1592.38
 Confidence: nan
-Text: sui,
+Text: suy,
 
 Utterance 1309
 Start: 1592.54
