@@ -2,7 +2,7 @@ Utterance 1
 Start: 1.10
 End: 4.80
 Confidence: 0.0
-Text: Ako po ay 26 na años at 4 na taon
+Text: Ako po ay dalawamput anim na años at apat na taon
 
 Utterance 2
 Start: 4.80
