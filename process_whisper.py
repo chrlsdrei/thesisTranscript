@@ -1,537 +1,502 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+process_whisper.py
+
+Transcribe .wav files from thesisTranscript/audio_input using Whisper (prefers faster-whisper).
+Outputs:
+  - new_full_transcript/<basename>_full_transcript.txt
+  - new_segments_output/<basename>_segments
+  - new_text_output/<basename>_text
+
+Features:
+  - Interactive file picker (single, list, ranges e.g. 1-5)
+  - Select Whisper model and language (default: medium, tl)
+  - Optional manual boundaries for 4 parts; otherwise auto-detect via silence gaps
+  - Part 1: sentence-level utterances with min/max words per sentence
+  - Parts 2 & 4: word-by-word utterances
+  - Part 3: syllable-by-syllable utterances (treated as word tokens from ASR)
+  - Kaldi outputs follow: <uttid> <recording-id> <start> <end>
+    where uttid = <basename>_<4-digit seq>
+
+Notes:
+  - Confidence reported as average log probability if available; else a safe placeholder (None)
+  - Requires ffmpeg in PATH. If available, pydub silence detection improves part splitting.
+"""
+
 import os
+import re
+import sys
+import math
+import glob
 import json
-import subprocess
-import statistics
+import shutil
+from dataclasses import dataclass
+from typing import List, Tuple, Optional
 
-# Paths
-AUDIO_DIR = "audio_input"
-TRANSCRIPT_DIR = "transcript_output"
-SEGMENTS_DIR = "segments_output"
-TEXT_DIR = "text_output"
+AUDIO_ROOT = os.path.join(".", "audio_input")
+FULL_OUT = os.path.join(".", "new_full_transcript")
+SEG_OUT = os.path.join(".", "new_segments_output")
+TEXT_OUT = os.path.join(".", "new_text_output") 
 
-# Make sure output dirs exist
-os.makedirs(TRANSCRIPT_DIR, exist_ok=True)
-os.makedirs(SEGMENTS_DIR, exist_ok=True)
-os.makedirs(TEXT_DIR, exist_ok=True)
+# -------- Adjustable defaults --------
+DEFAULT_MODEL = "medium"
+DEFAULT_LANGUAGE = "tl"   # e.g. "tl" (Tagalog), "en", etc.
 
-# Whisper model
-MODEL = "medium"  # can change to "small" or "large-v2"
+# For Part 1 sentence grouping
+SENT_MIN_WORDS = 3   # you can raise (e.g., 3) if you want to merge very short sentences
+SENT_MAX_WORDS = 10  # upper cap to avoid run-ons
 
-# Quality thresholds for utterance analysis
-MIN_CONFIDENCE = -0.3  # Minimum average confidence score
-MIN_AVG_DURATION = 2.0  # Minimum average utterance duration in seconds
-MIN_AVG_WORDS = 3  # Minimum average words per utterance
-MAX_SINGLE_WORD_RATIO = 0.3  # Maximum ratio of single-word utterances
+# Silence detection for auto 4-part split
+# We'll consider 'long silences' that likely separate the parts
+LONG_SILENCE_MS = 1500  # gap >= 1.5s considered a candidate boundary
+TOP_GAPS_TO_PICK = 3    # we need 3 boundaries to produce 4 parts
 
-def split_word_segments(segments):
-    """Split segments containing multiple words into individual word utterances."""
-    new_segments = []
-    
-    for i, seg in enumerate(segments):
-        text = seg['text'].strip()
-        
-        # Check if this is likely the "isolated words" section
-        # (multiple comma-separated words, moderate duration)
-        if (',' in text and 
-            len(text.split(',')) > 3 and 
-            seg['end'] - seg['start'] > 10):  # Long segments with commas
-            
-            words = [w.strip() for w in text.split(',') if w.strip()]
-            duration = seg['end'] - seg['start']
-            word_duration = duration / len(words)
-            
-            print(f"  📝 Splitting utterance {i+1}: {len(words)} words")
-            
-            for j, word in enumerate(words):
-                new_start = seg['start'] + (j * word_duration)
-                new_end = seg['start'] + ((j + 1) * word_duration)
-                
-                new_seg = {
-                    'start': round(new_start, 2),
-                    'end': round(new_end, 2),
-                    'text': word,
-                    'avg_logprob': seg.get('avg_logprob', -0.2)
-                }
-                new_segments.append(new_seg)
+# Fallback if pydub is unavailable: we’ll derive gaps from ASR segment boundaries
+USE_PYDUB_IF_AVAILABLE = True
+
+# -------------------------------------
+
+# Try imports conditionally
+HAVE_PYDUB = False
+if USE_PYDUB_IF_AVAILABLE:
+    try:
+        from pydub import AudioSegment, silence
+        HAVE_PYDUB = True
+    except Exception:
+        HAVE_PYDUB = False
+
+HAVE_FASTER = False
+try:
+    from faster_whisper import WhisperModel as FWModel  # type: ignore
+    HAVE_FASTER = True
+except Exception:
+    HAVE_FASTER = False
+
+HAVE_OPENAI_WHISPER = False
+try:
+    import whisper  # openai/whisper
+    HAVE_OPENAI_WHISPER = True
+except Exception:
+    HAVE_OPENAI_WHISPER = False
+
+if not HAVE_FASTER and not HAVE_OPENAI_WHISPER:
+    print("ERROR: Neither faster-whisper nor openai-whisper is available. Please install one of them.")
+    sys.exit(1)
+
+@dataclass
+class WordTok:
+    text: str
+    start: float
+    end: float
+    avg_logprob: Optional[float] = None
+
+@dataclass
+class SegTok:
+    text: str
+    start: float
+    end: float
+    avg_logprob: Optional[float] = None
+    words: Optional[List[WordTok]] = None  # may be None if not available
+
+
+def list_audio_files() -> List[str]:
+    files = sorted(glob.glob(os.path.join(AUDIO_ROOT, "*.wav")))
+    return files
+
+
+def parse_selection(inp: str, n: int) -> List[int]:
+    """
+    Parse user input like "1", "1,3,7", "1-5", "1-3,7,10-12" into zero-based indices.
+    """
+    idxs = set()
+    tokens = [t.strip() for t in inp.split(",") if t.strip()]
+    for tok in tokens:
+        if "-" in tok:
+            a, b = tok.split("-", 1)
+            try:
+                start = int(a) - 1
+                end = int(b) - 1
+                for i in range(start, end + 1):
+                    if 0 <= i < n:
+                        idxs.add(i)
+            except ValueError:
+                pass
         else:
-            # Keep original segment (sentences, syllables, repeated words)
-            new_segments.append(seg)
-    
-    return new_segments
+            try:
+                i = int(tok) - 1
+                if 0 <= i < n:
+                    idxs.add(i)
+            except ValueError:
+                pass
+    return sorted(idxs)
 
-def detect_speech_parts(segments):
-    """Detect the 4 parts of the structured speech recording."""
-    parts = {
-        "paragraphs": [],       # Part 1: Connected speech (paragraphs/sentences)
-        "isolated_words": [],   # Part 2: Isolated words
-        "syllables": [],        # Part 3: Isolated syllables  
-        "repeated_words": []    # Part 4: Repeated words from part 1
-    }
-    
-    current_part = "paragraphs"
-    part_transitions = []
-    
-    # Define pattern thresholds
-    PARAGRAPH_MIN_WORDS = 3
-    PARAGRAPH_MIN_DURATION = 2.0
-    WORD_MAX_DURATION = 2.5
-    SYLLABLE_MAX_DURATION = 1.5
-    SYLLABLE_MAX_CHARS = 4
-    
-    for i, seg in enumerate(segments):
-        text = seg['text'].strip()
-        word_count = len(text.split())
-        duration = seg['end'] - seg['start']
-        char_count = len(text.replace(' ', ''))
-        
-        # Improved classification based on characteristics
-        if duration > 3 and word_count > 5:
-            # Long utterances with multiple words = paragraphs/sentences
-            if current_part != "paragraphs":
-                current_part = "paragraphs"
-                part_transitions.append(("to_paragraphs", i))
-            parts["paragraphs"].append((i, seg))
-            
-        elif duration < 3 and word_count == 1 and len(text) <= 15:
-            # Short single words or syllables
-            if len(text) <= 4 and duration < SYLLABLE_MAX_DURATION:
-                # Very short, likely syllables
-                if current_part != "syllables":
-                    current_part = "syllables"
-                    part_transitions.append(("to_syllables", i))
-                parts["syllables"].append((i, seg))
-            else:
-                # Regular single words
-                if current_part != "isolated_words":
-                    current_part = "isolated_words"
-                    part_transitions.append(("to_isolated_words", i))
-                parts["isolated_words"].append((i, seg))
-                
-        elif word_count >= 1:
-            # Default classification based on position and characteristics
-            total_segments = len(segments)
-            
-            # Last 20% of segments likely repeated words
-            if i > total_segments * 0.8:
-                if current_part != "repeated_words":
-                    current_part = "repeated_words"
-                    part_transitions.append(("to_repeated_words", i))
-                parts["repeated_words"].append((i, seg))
-            else:
-                # Earlier segments with single words = isolated words
-                if current_part != "isolated_words":
-                    current_part = "isolated_words"
-                    part_transitions.append(("to_isolated_words", i))
-                parts["isolated_words"].append((i, seg))
+
+def seconds_to_str(t: float) -> str:
+    return f"{t:.2f}"
+
+
+def sanitize_text(s: str) -> str:
+    # Collapse whitespace; preserve punctuation
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def group_sentences_by_words(words: List[WordTok],
+                             min_words: int,
+                             max_words: int) -> List[SegTok]:
+    """
+    Build sentence-like chunks from tokenized words, respecting punctuation
+    and min/max word constraints. Uses word timestamps to assign precise times.
+    """
+    utterances: List[SegTok] = []
+    buf: List[WordTok] = []
+    def flush():
+        if not buf:
+            return
+        text = sanitize_text(" ".join(w.text for w in buf))
+        start = buf[0].start
+        end = buf[-1].end
+        avg_lp = sum([w.avg_logprob for w in buf if w.avg_logprob is not None]) / max(
+            1, sum(1 for w in buf if w.avg_logprob is not None)
+        )
+        utterances.append(SegTok(text=text, start=start, end=end, avg_logprob=avg_lp, words=list(buf)))
+
+    for w in words:
+        buf.append(w)
+        end_of_sentence = bool(re.search(r"[\.!?…]+$", w.text))
+        # If we hit EOS and buffer is big enough, flush
+        if end_of_sentence and len(buf) >= min_words:
+            flush()
+            buf = []
         else:
-            # Fallback - assign to current part
-            parts[current_part].append((i, seg))
-    
-    return parts, part_transitions
+            # If we exceed max words, flush early
+            if len(buf) >= max_words:
+                flush()
+                buf = []
 
-def analyze_transcription_quality(json_file):
-    """Analyze the quality of transcription and detect speech parts."""
-    with open(json_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    
-    segments = data["segments"]
+    # tail
+    if buf:
+        flush()
+    return utterances
+
+
+def evenly_split_segment_to_words(seg: SegTok) -> List[WordTok]:
+    """
+    Fallback when word timestamps are not available:
+    split text by whitespace and distribute time evenly.
+    """
+    toks = [t for t in re.split(r"\s+", seg.text.strip()) if t]
+    if not toks:
+        return []
+    duration = max(0.0, seg.end - seg.start)
+    per = duration / len(toks) if len(toks) > 0 else duration
+    words = []
+    for i, tok in enumerate(toks):
+        start = seg.start + i * per
+        end = seg.start + (i + 1) * per if i < len(toks) - 1 else seg.end
+        words.append(WordTok(text=tok, start=start, end=end, avg_logprob=seg.avg_logprob))
+    return words
+
+
+def try_pydub_boundaries(wav_path: str, total_dur_s: float) -> Optional[List[float]]:
+    """
+    Use pydub to find long silences and pick the 3 largest gaps as boundaries.
+    Returns sorted boundary times [b1, b2, b3] or None.
+    """
+    if not HAVE_PYDUB:
+        return None
+    try:
+        audio = AudioSegment.from_file(wav_path)
+        # detect_silence returns list of [start_ms, end_ms]
+        sils = silence.detect_silence(audio, min_silence_len=LONG_SILENCE_MS, silence_thresh=audio.dBFS - 16)
+        if not sils:
+            return None
+        # Use silence *starts* as gap markers; pick three with widest spans first
+        # score gaps by duration
+        sils_sorted = sorted(sils, key=lambda ab: (ab[1] - ab[0]), reverse=True)
+        boundaries = []
+        for st, en in sils_sorted:
+            mid = (st + en) / 2.0
+            t = mid / 1000.0
+            boundaries.append(t)
+            if len(boundaries) == TOP_GAPS_TO_PICK:
+                break
+        if len(boundaries) < 3:
+            return None
+        boundaries = sorted(boundaries)
+        # Clamp within audio
+        boundaries = [max(0.0, min(total_dur_s, b)) for b in boundaries]
+        return boundaries
+    except Exception:
+        return None
+
+
+def derive_boundaries_from_segments(segments: List[SegTok], total_dur_s: float) -> Optional[List[float]]:
+    """
+    Fallback: derive top 3 largest gaps between ASR segments as boundaries.
+    """
     if not segments:
-        return {"quality": "poor", "reason": "No segments found"}
-    
-    # Apply word-level splitting
-    print("🔄 Processing word-level segmentation...")
-    original_count = len(segments)
-    segments = split_word_segments(segments)
-    new_count = len(segments)
-    
-    if new_count > original_count:
-        print(f"✅ Segmentation complete: {original_count} → {new_count} utterances")
-        
-        # Update the data with new segments
-        data["segments"] = segments
-        
-        # Save the updated JSON with proper word segmentation
-        with open(json_file, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-    else:
-        print(f"✅ No additional splitting needed: {original_count} utterances")
-    
-    # Detect speech parts with updated segments
-    parts, transitions = detect_speech_parts(segments)
-    
-    # Calculate metrics for each part
-    part_metrics = {}
-    for part_name, part_segments in parts.items():
-        if not part_segments:
-            part_metrics[part_name] = {
-                "count": 0,
-                "avg_confidence": 0,
-                "avg_duration": 0,
-                "avg_words": 0
-            }
-            continue
-            
-        confidences = [seg.get('avg_logprob', -1.0) for _, seg in part_segments]
-        durations = [seg['end'] - seg['start'] for _, seg in part_segments]
-        word_counts = [len(seg['text'].strip().split()) for _, seg in part_segments]
-        
-        part_metrics[part_name] = {
-            "count": len(part_segments),
-            "avg_confidence": statistics.mean(confidences),
-            "avg_duration": statistics.mean(durations),
-            "avg_words": statistics.mean(word_counts),
-            "segments": [(i, seg['text'].strip()) for i, seg in part_segments[:5]]  # First 5 examples
-        }
-    
-    # Overall quality assessment (focus on paragraphs part for training)
-    paragraph_metrics = part_metrics.get("paragraphs", {})
-    
-    quality_issues = []
-    quality = "unknown"
-    
-    if paragraph_metrics.get("count", 0) == 0:
-        quality = "poor"
-        quality_issues.append("No paragraph/sentence segments found")
-    else:
-        p_conf = paragraph_metrics["avg_confidence"]
-        p_dur = paragraph_metrics["avg_duration"]
-        p_words = paragraph_metrics["avg_words"]
-        
-        if p_conf < -0.5:
-            quality_issues.append(f"Low confidence in paragraphs ({p_conf:.3f})")
-        
-        if p_dur < 2.0:
-            quality_issues.append(f"Short paragraph utterances ({p_dur:.1f}s)")
-        
-        if p_words < 3:
-            quality_issues.append(f"Few words in paragraphs ({p_words:.1f})")
-        
-        # Determine overall quality based on paragraph quality
-        if not quality_issues:
-            quality = "excellent"
-        elif len(quality_issues) == 1:
-            quality = "good"
-        elif len(quality_issues) == 2:
-            quality = "fair"
+        return None
+    gaps = []
+    for a, b in zip(segments[:-1], segments[1:]):
+        gap = b.start - a.end
+        gaps.append((gap, (a.end + b.start) / 2.0))
+    if not gaps:
+        return None
+    gaps_sorted = sorted(gaps, key=lambda x: x[0], reverse=True)
+    picks = [t for _, t in gaps_sorted[:TOP_GAPS_TO_PICK]]
+    picks = sorted(picks)
+    picks = [max(0.0, min(total_dur_s, t)) for t in picks]
+    return picks if len(picks) == 3 else None
+
+
+def split_into_parts(boundaries: List[float], total_dur_s: float) -> List[Tuple[float, float]]:
+    """
+    boundaries: exactly 3 sorted times -> returns 4 (start,end) windows
+    """
+    b1, b2, b3 = boundaries
+    parts = [(0.0, b1), (b1, b2), (b2, b3), (b3, total_dur_s)]
+    return parts
+
+
+def load_and_transcribe(wav_path: str, model_name: str, language: str) -> Tuple[List[SegTok], float]:
+    """
+    Returns (segments, total_duration_seconds).
+    Prefers faster-whisper (word timestamps robust), fallback to openai/whisper.
+    """
+    if HAVE_FASTER:
+        # faster-whisper path
+        model = FWModel(model_name, compute_type="auto")
+        segments_iter, info = model.transcribe(wav_path, language=language, word_timestamps=True, vad_filter=True)
+        total_dur = info.duration if hasattr(info, "duration") else None
+        segs: List[SegTok] = []
+        for seg in segments_iter:
+            words = []
+            avg_lp = getattr(seg, "avg_logprob", None)
+            if getattr(seg, "words", None):
+                for w in seg.words:
+                    words.append(WordTok(text=w.word.strip(), start=float(w.start), end=float(w.end),
+                                         avg_logprob=getattr(w, "prob", None)))
+            segs.append(SegTok(text=sanitize_text(seg.text), start=float(seg.start), end=float(seg.end),
+                               avg_logprob=avg_lp, words=words if words else None))
+        # duration fallback
+        if total_dur is None and segs:
+            total_dur = max(segs[-1].end, 0.0)
+        return segs, float(total_dur or 0.0)
+
+    # openai/whisper fallback
+    assert HAVE_OPENAI_WHISPER
+    model = whisper.load_model(model_name)
+    # Note: word timestamps may not be available in vanilla whisper; we still request timestamps=True
+    result = model.transcribe(wav_path, language=language, verbose=False)
+    segs: List[SegTok] = []
+    for s in result.get("segments", []):
+        text = sanitize_text(s.get("text", ""))
+        start = float(s.get("start", 0.0))
+        end = float(s.get("end", start))
+        avg_lp = s.get("avg_logprob", None)
+        words = None
+        if "words" in s and s["words"]:
+            words = []
+            for w in s["words"]:
+                words.append(WordTok(text=w["word"].strip(), start=float(w["start"]), end=float(w["end"]),
+                                     avg_logprob=w.get("prob", None)))
+        segs.append(SegTok(text=text, start=start, end=end, avg_logprob=avg_lp, words=words))
+    total_dur = float(result.get("duration", segs[-1].end if segs else 0.0))
+    return segs, total_dur
+
+
+def collect_all_words(segments: List[SegTok]) -> List[WordTok]:
+    words: List[WordTok] = []
+    for seg in segments:
+        if seg.words:
+            words.extend(seg.words)
         else:
-            quality = "poor"
-    
-    return {
-        "quality": quality,
-        "parts": part_metrics,
-        "transitions": transitions,
-        "total_segments": len(segments),
-        "issues": quality_issues
-    }
+            # evenly split if needed
+            words.extend(evenly_split_segment_to_words(seg))
+    # Remove empty tokens
+    words = [w for w in words if w.text]
+    return words
 
-def transcribe_audio(audio_file):
-    """Run Whisper on audio and return JSON path."""
-    json_out = os.path.join(TRANSCRIPT_DIR, os.path.splitext(audio_file)[0] + ".json")
-    subprocess.run([
-        "whisper", os.path.join(AUDIO_DIR, audio_file),
-        "--model", MODEL,
-        "--language", "tl",
-        "--task", "transcribe",
-        "--output_format", "json",
-        "--output_dir", TRANSCRIPT_DIR,
-        "--no_speech_threshold", "0.3",  # Adjust as needed (silence detection)
-        "--logprob_threshold", "-0.5",   # Split on lower confidence
-        "--compression_ratio_threshold", "1.8"  # More aggressive splitting
-    ])
-    return json_out
 
-def generate_outputs(json_file):
-    """Generate full transcription, segments, and text files."""
-    with open(json_file, "r", encoding="utf-8") as f:
-        data = json.load(f)
+def filter_words_by_window(words: List[WordTok], start: float, end: float) -> List[WordTok]:
+    return [w for w in words if (w.start >= start and w.end <= end)]
 
-    base_name = os.path.splitext(os.path.basename(json_file))[0]
-    
-    # Use the updated segments (already processed for word-level splitting)
-    segments = data["segments"]
-    
-    # Detect speech parts for analysis (but don't generate separate files)
-    parts, transitions = detect_speech_parts(segments)
 
-    # Generate full transcription file
-    full_trans_path = os.path.join(TRANSCRIPT_DIR, base_name + "_full_transcription.txt")
-    with open(full_trans_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(segments, start=1):
+def build_utterances_for_parts(words: List[WordTok],
+                               parts: List[Tuple[float, float]],
+                               sent_min: int,
+                               sent_max: int) -> List[SegTok]:
+    """
+    Generate utterances for the 4 parts:
+      1) sentences (grouped by punctuation & min/max words)
+      2) words (one per utterance)
+      3) syllables (treated as 'words' from ASR)
+      4) words (one per utterance)
+    """
+    out: List[SegTok] = []
+
+    # Part 1: sentence-like
+    p1_words = filter_words_by_window(words, parts[0][0], parts[0][1])
+    out.extend(group_sentences_by_words(p1_words, sent_min, sent_max))
+
+    # Part 2: word-by-word
+    p2_words = filter_words_by_window(words, parts[1][0], parts[1][1])
+    for w in p2_words:
+        out.append(SegTok(text=sanitize_text(w.text), start=w.start, end=w.end, avg_logprob=w.avg_logprob, words=[w]))
+
+    # Part 3: syllable-by-syllable (treated as word tokens, since this part is recorded with syllables)
+    p3_words = filter_words_by_window(words, parts[2][0], parts[2][1])
+    for w in p3_words:
+        out.append(SegTok(text=sanitize_text(w.text), start=w.start, end=w.end, avg_logprob=w.avg_logprob, words=[w]))
+
+    # Part 4: word-by-word
+    p4_words = filter_words_by_window(words, parts[3][0], parts[3][1])
+    for w in p4_words:
+        out.append(SegTok(text=sanitize_text(w.text), start=w.start, end=w.end, avg_logprob=w.avg_logprob, words=[w]))
+
+    return out
+
+
+def write_full_transcript(basename: str, utterances: List[SegTok]) -> None:
+    os.makedirs(FULL_OUT, exist_ok=True)
+    out_path = os.path.join(FULL_OUT, f"{basename}_full_transcript.txt")
+    with open(out_path, "w", encoding="utf-8") as f:
+        for i, u in enumerate(utterances, start=1):
             f.write(f"Utterance {i}\n")
-            f.write(f"Start: {seg['start']:.2f}\n")
-            f.write(f"End: {seg['end']:.2f}\n")
-            f.write(f"Confidence: {seg.get('avg_logprob', 0):.4f}\n")
-            f.write(f"Text: {seg['text'].strip()}\n\n")
+            f.write(f"Start: {seconds_to_str(u.start)}\n")
+            f.write(f"End: {seconds_to_str(u.end)}\n")
+            conf = u.avg_logprob if u.avg_logprob is not None else float("nan")
+            # Keep original sign if it’s already a log prob; if faster-whisper gave prob [0..1], convert to log
+            if conf is not None and conf > 0 and conf <= 1.0:
+                try:
+                    conf = math.log(conf)
+                except Exception:
+                    pass
+            f.write(f"Confidence: {conf if conf is not None else 'None'}\n")
+            f.write(f"Text: {u.text}\n\n")
+    print(f"Saved: {out_path}")
 
-    # Generate segments file (Kaldi style)
-    segments_path = os.path.join(SEGMENTS_DIR, base_name + "_segments.txt")
-    with open(segments_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(segments, start=1):
-            seg_id = f"{base_name}_{i:04d}"
-            f.write(f"{seg_id} {base_name} {seg['start']:.2f} {seg['end']:.2f}\n")
 
-    # Generate text file (Kaldi style)
-    text_path = os.path.join(TEXT_DIR, base_name + "_text.txt")
-    with open(text_path, "w", encoding="utf-8") as f:
-        for i, seg in enumerate(segments, start=1):
-            seg_id = f"{base_name}_{i:04d}"
-            f.write(f"{seg_id} {seg['text'].strip()}\n")
+def write_kaldi_outputs(basename: str, recording_id: str, utterances: List[SegTok]) -> None:
+    os.makedirs(SEG_OUT, exist_ok=True)
+    os.makedirs(TEXT_OUT, exist_ok=True)
+    seg_path = os.path.join(SEG_OUT, f"{basename}_segments")
+    txt_path = os.path.join(TEXT_OUT, f"{basename}_text")
 
-    print(f"✅ Outputs generated for {base_name}")
-    print(f" - Full transcription: {full_trans_path}")
-    print(f" - Segments: {segments_path}")
-    print(f" - Text: {text_path}")
-    
-    # Show speech parts analysis summary
-    parts_summary = []
-    for part_name, part_segments in parts.items():
-        if part_segments:
-            parts_summary.append(f"{part_name.replace('_', ' ').title()}: {len(part_segments)} segments")
-    
-    if parts_summary:
-        print(f" - Speech parts detected: {', '.join(parts_summary)}")
-    
-    return {
-        "full_transcription": full_trans_path,
-        "segments": segments_path,
-        "text": text_path,
-        "parts_analysis": parts
-    }
+    with open(seg_path, "w", encoding="utf-8") as segf, open(txt_path, "w", encoding="utf-8") as txtf:
+        for i, u in enumerate(utterances, start=1):
+            uttid = f"{basename}_{i:04d}"
+            segf.write(f"{uttid} {recording_id} {seconds_to_str(u.start)} {seconds_to_str(u.end)}\n")
+            txtf.write(f"{uttid} {u.text}\n")
+
+    print(f"Saved: {seg_path}")
+    print(f"Saved: {txt_path}")
+
+
+def prompt_for_boundaries(total_dur: float, default_boundaries: Optional[List[float]]) -> List[float]:
+    print("\n--- Part Boundaries ---")
+    print("Your audio contains 4 parts:")
+    print("  1) Sentences/paragraphs")
+    print("  2) Isolated words")
+    print("  3) Isolated syllables")
+    print("  4) Isolated words (from Part 1)")
+    print("Enter three boundary times (in seconds) to split into 4 parts (press Enter to accept auto):")
+
+    if default_boundaries:
+        print(f"Auto-detected boundaries (sec): {', '.join(f'{b:.2f}' for b in default_boundaries)}")
+
+    user_inp = input("Manual boundaries (e.g., 600, 1500, 2100) or leave blank: ").strip()
+    if not user_inp:
+        if default_boundaries and len(default_boundaries) == 3:
+            return default_boundaries
+        else:
+            # If no auto available, do equal quarters
+            q = total_dur / 4.0
+            return [q, 2*q, 3*q]
+
+    try:
+        parts = [float(x) for x in user_inp.split(",")]
+        if len(parts) != 3:
+            raise ValueError
+        parts = sorted([max(0.0, min(total_dur, p)) for p in parts])
+        return parts
+    except Exception:
+        print("Invalid input. Falling back to auto/equal quarters.")
+        if default_boundaries and len(default_boundaries) == 3:
+            return default_boundaries
+        q = total_dur / 4.0
+        return [q, 2*q, 3*q]
+
 
 def main():
-    wav_files = [f for f in os.listdir(AUDIO_DIR) if f.endswith(".wav")]
+    print("=== Whisper Transcription Utility ===")
+    print(f"Audio folder: {AUDIO_ROOT}\n")
 
-    if not wav_files:
-        print("⚠️ No .wav files found in audio_input/")
-        return
+    files = list_audio_files()
+    if not files:
+        print("No .wav files found in audio_input.")
+        sys.exit(0)
 
-    print("\n=== AUDIO TRANSCRIPTION AND QUALITY ANALYSIS ===")
-    print("\nAnalyzing existing transcriptions...")
-    
-    # Check for existing transcriptions and analyze quality
-    existing_analyses = {}
-    for audio_file in wav_files:
-        base_name = os.path.splitext(audio_file)[0]
-        json_file = os.path.join(TRANSCRIPT_DIR, base_name + ".json")
-        
-        if os.path.exists(json_file):
-            try:
-                analysis = analyze_transcription_quality(json_file)
-                existing_analyses[audio_file] = analysis
-            except Exception as e:
-                print(f"⚠️ Error analyzing {audio_file}: {e}")
-    
-    # Display results
-    print("\nAvailable audio files and quality analysis:")
-    print("-" * 80)
-    
-    good_files = []
-    poor_files = []
-    
-    for idx, file in enumerate(wav_files, start=1):
-        status = "Not transcribed"
-        quality_info = ""
-        
-        if file in existing_analyses:
-            analysis = existing_analyses[file]
-            quality = analysis["quality"]
-            status = f"Transcribed - Quality: {quality.upper()}"
-            
-            # Show speech parts info
-            parts_info = []
-            for part_name, metrics in analysis['parts'].items():
-                if metrics['count'] > 0:
-                    parts_info.append(f"{part_name.replace('_', ' ').title()}: {metrics['count']}")
-            
-            if quality in ["excellent", "good"]:
-                good_files.append(file)
-                paragraph_count = analysis['parts'].get('paragraphs', {}).get('count', 0)
-                quality_info = f" ✅ Paragraph segments: {paragraph_count}"
-                if parts_info:
-                    quality_info += f" | Parts: {', '.join(parts_info)}"
-            else:
-                poor_files.append(file)
-                if analysis['issues']:
-                    quality_info = f" ⚠️ Issues: {', '.join(analysis['issues'][:2])}"
-        
-        print(f"{idx}. {file}")
-        print(f"   Status: {status}{quality_info}")
-        print()
-    
-    # Show recommendations
-    if good_files:
-        print("✅ RECOMMENDED FOR TRAINING:")
-        for file in good_files:
-            print(f"   • {file}")
-        print()
-    
-    if poor_files:
-        print("⚠️ NOT RECOMMENDED FOR TRAINING:")
-        for file in poor_files:
-            print(f"   • {file}")
-        print()
-    
-    # User choice - support multiple selections
-    print("📝 TRANSCRIPTION OPTIONS:")
-    print("   • Enter single number (e.g., '3') to transcribe one file")
-    print("   • Enter multiple numbers separated by commas (e.g., '1,2,5') for batch transcription")
-    print("   • Enter range (e.g., '1-5') to transcribe files 1 through 5")
-    print("   • Enter 'all' to transcribe all files")
-    print("   • Enter 'q' to quit")
-    
-    choice = input("\nYour choice: ").strip()
-    if choice.lower() == 'q':
-        return
-    
-    # Parse user input to get selected file indices
-    selected_indices = []
-    
+    for i, fp in enumerate(files, start=1):
+        print(f"{i}. {os.path.basename(fp)}")
+
+    sel = input("\nSelect files to transcribe (e.g., 2 or 1,3,5-7): ").strip()
+    indices = parse_selection(sel, len(files))
+    if not indices:
+        print("No valid selection. Exiting.")
+        sys.exit(0)
+
+    model_name = input(f"Model [{DEFAULT_MODEL}]: ").strip() or DEFAULT_MODEL
+    language = input(f"Language code [{DEFAULT_LANGUAGE}]: ").strip() or DEFAULT_LANGUAGE
+
+    # Sentence constraints for Part 1
     try:
-        if choice.lower() == 'all':
-            selected_indices = list(range(len(wav_files)))
-        elif '-' in choice and choice.count('-') == 1:
-            # Range selection (e.g., "1-5")
-            start, end = choice.split('-')
-            start_idx = int(start.strip()) - 1
-            end_idx = int(end.strip()) - 1
-            if start_idx < 0 or end_idx >= len(wav_files) or start_idx > end_idx:
-                print("❌ Invalid range.")
-                return
-            selected_indices = list(range(start_idx, end_idx + 1))
-        elif ',' in choice:
-            # Multiple selections (e.g., "1,2,5")
-            numbers = [int(x.strip()) - 1 for x in choice.split(',')]
-            for idx in numbers:
-                if idx < 0 or idx >= len(wav_files):
-                    print(f"❌ Invalid file number: {idx + 1}")
-                    return
-            selected_indices = numbers
-        else:
-            # Single selection
-            choice_idx = int(choice) - 1
-            if choice_idx < 0 or choice_idx >= len(wav_files):
-                print("❌ Invalid choice.")
-                return
-            selected_indices = [choice_idx]
-    except ValueError:
-        print("❌ Please enter valid numbers, ranges, or 'all'.")
-        return
+        minw_in = input(f"Part1 min words per sentence [{SENT_MIN_WORDS}]: ").strip()
+        maxw_in = input(f"Part1 max words per sentence [{SENT_MAX_WORDS}]: ").strip()
+        minw = int(minw_in) if minw_in else SENT_MIN_WORDS
+        maxw = int(maxw_in) if maxw_in else SENT_MAX_WORDS
+        if minw < 1: minw = 1
+        if maxw < minw: maxw = max(minw, SENT_MAX_WORDS)
+    except Exception:
+        minw, maxw = SENT_MIN_WORDS, SENT_MAX_WORDS
 
-    selected_files = [wav_files[i] for i in selected_indices]
-    
-    print(f"\n🔊 Processing {len(selected_files)} file(s)...")
-    for i, filename in enumerate(selected_files, 1):
-        print(f"   {i}. {filename}")
-    
-    # Confirm if multiple files
-    if len(selected_files) > 1:
-        confirm = input(f"\nProceed with transcribing {len(selected_files)} files? (y/n): ").lower()
-        if confirm != 'y':
-            print("❌ Transcription cancelled.")
-            return
-    
-    # Process each selected file
-    batch_results = []
-    
-    for i, selected_file in enumerate(selected_files, 1):
-        print(f"\n{'='*60}")
-        print(f"🔊 Processing file {i}/{len(selected_files)}: {selected_file}")
-        print(f"{'='*60}")
-        
-        try:
-            json_path = transcribe_audio(selected_file)
-            
-            # Analyze quality of new transcription
-            print("📊 Analyzing transcription quality and speech parts...")
-            analysis = analyze_transcription_quality(json_path)
-            
-            # Store results for batch summary
-            batch_results.append({
-                'filename': selected_file,
-                'analysis': analysis,
-                'success': True
-            })
-            
-            print(f"\n=== SPEECH PARTS ANALYSIS ===")
-            for part_name, metrics in analysis['parts'].items():
-                if metrics['count'] > 0:
-                    print(f"{part_name.replace('_', ' ').title()}: {metrics['count']} segments "
-                          f"(Conf: {metrics['avg_confidence']:.3f}, "
-                          f"Dur: {metrics['avg_duration']:.1f}s, "
-                          f"Words: {metrics['avg_words']:.1f})")
-            
-            print(f"\nQuality: {analysis['quality'].upper()} | "
-                  f"Total Segments: {analysis['total_segments']}")
-            
-            if analysis['issues']:
-                print(f"⚠️ Issues: {', '.join(analysis['issues'][:2])}")
-            
-            # Generate output files
-            output_files = generate_outputs(json_path)
-            
-            print(f"✅ Completed processing {selected_file}")
-            
-        except Exception as e:
-            print(f"❌ Error processing {selected_file}: {e}")
-            batch_results.append({
-                'filename': selected_file,
-                'error': str(e),
-                'success': False
-            })
-    
-    # Batch summary
-    print(f"\n{'='*60}")
-    print(f"📋 BATCH TRANSCRIPTION SUMMARY")
-    print(f"{'='*60}")
-    
-    successful = [r for r in batch_results if r['success']]
-    failed = [r for r in batch_results if not r['success']]
-    
-    print(f"Total files processed: {len(batch_results)}")
-    print(f"✅ Successful: {len(successful)}")
-    print(f"❌ Failed: {len(failed)}")
-    
-    if successful:
-        print(f"\n✅ SUCCESSFULLY TRANSCRIBED FILES:")
-        
-        training_suitable = []
-        training_unsuitable = []
-        
-        for result in successful:
-            analysis = result['analysis']
-            filename = result['filename']
-            quality = analysis['quality']
-            paragraph_count = analysis['parts'].get('paragraphs', {}).get('count', 0)
-            
-            print(f"   • {filename}")
-            print(f"     Quality: {quality.upper()} | Paragraphs: {paragraph_count} segments")
-            
-            if quality in ['excellent', 'good'] and paragraph_count > 0:
-                training_suitable.append(filename)
-            else:
-                training_unsuitable.append(filename)
-        
-        # Training recommendations
-        if training_suitable:
-            print(f"\n🎯 RECOMMENDED FOR TRAINING ({len(training_suitable)} files):")
-            for filename in training_suitable:
-                print(f"   ✅ {filename}")
-        
-        if training_unsuitable:
-            print(f"\n⚠️ NOT RECOMMENDED FOR TRAINING ({len(training_unsuitable)} files):")
-            for filename in training_unsuitable:
-                print(f"   ⚠️ {filename}")
-    
-    if failed:
-        print(f"\n❌ FAILED TRANSCRIPTIONS:")
-        for result in failed:
-            print(f"   • {result['filename']}: {result['error']}")
-    
-    print(f"\n📚 TRAINING RECOMMENDATIONS:")
-    print(f"   • Use paragraph segments from high-quality files for connected speech training")
-    print(f"   • Use isolated word segments for word-level analysis")
-    print(f"   • Use syllable segments for phoneme analysis")
-    print(f"   • Compare repeated words with original paragraphs for consistency")
+    print("\nStarting transcription...\n")
+
+    for idx in indices:
+        wav_path = files[idx]
+        fname = os.path.basename(wav_path)
+        base = os.path.splitext(fname)[0]
+
+        # recording-id for Kaldi should typically be the file stem
+        recording_id = base
+
+        print(f"\n--- File: {fname} ---")
+        segments, total_dur = load_and_transcribe(wav_path, model_name, language)
+
+        # Prepare default boundaries via pydub or segment gaps
+        default_bounds = try_pydub_boundaries(wav_path, total_dur)
+        if not default_bounds:
+            default_bounds = derive_boundaries_from_segments(segments, total_dur)
+
+        # Ask user to accept/override
+        boundaries = prompt_for_boundaries(total_dur, default_bounds)
+        parts = split_into_parts(boundaries, total_dur)
+
+        # Ensure we have word tokens (or evenly-split fallback)
+        words = collect_all_words(segments)
+
+        # Build utterances for all 4 parts
+        utterances = build_utterances_for_parts(words, parts, minw, maxw)
+
+        # Write outputs
+        write_full_transcript(base, utterances)
+        write_kaldi_outputs(base, recording_id, utterances)
+
+    print("\nAll done.\n")
+
 
 if __name__ == "__main__":
     main()

@@ -8,7 +8,7 @@ Utterance 2
 Start: 10.00
 End: 16.00
 Confidence: -0.2042
-Text: Namumunga din nang madama yung aking mga tanim, sobra-sobra ang biyaya sa amin.
+Text: Namumunga din nang madami yung aking mga tanim, sobra-sobra ang biyaya sa amin.
 
 Utterance 3
 Start: 16.00
@@ -56,7 +56,7 @@ Utterance 10
 Start: 58.00
 End: 61.00
 Confidence: -0.1784
-Text: Siya ay magpipitong taong gulang sa panglima.
+Text: Siya ay magpipitong taong gulang na panglima.
 
 Utterance 11
 Start: 61.00
@@ -68,7 +68,7 @@ Utterance 12
 Start: 66.00
 End: 74.00
 Confidence: -0.1784
-Text: Meron silang maliit na lupa na natataniman ng sari-saring gulay, mga puno, maes at palay.
+Text: Meron silang maliit na lupa na natataniman ng sari-saring gulay, mga puno, mais at palay.
 
 Utterance 13
 Start: 76.00
@@ -80,13 +80,13 @@ Utterance 14
 Start: 92.00
 End: 96.00
 Confidence: -0.1591
-Text: Ano kaya ang lakas na ito na mapapakinabangan ng bansa?
+Text: Ano kay ang lakas na ito na mapapakinabangan ng bansa?
 
 Utterance 15
 Start: 96.00
 End: 98.00
 Confidence: -0.1591
-Text: Saan natagpuan ng tula?
+Text: Saan ang tagpuan ng tula?
 
 Utterance 16
 Start: 100.00
@@ -122,13 +122,13 @@ Utterance 21
 Start: 119.00
 End: 121.00
 Confidence: -0.1422
-Text: Iuwi mo na nga ito sa inyo.
+Text: Iwi mo na nga ito sa inyo.
 
 Utterance 22
 Start: 123.00
 End: 125.00
 Confidence: -0.1422
-Text: Agahan mo naman ang gising.
+Text: Agahan mo naman ng gising.
 
 Utterance 23
 Start: 126.00
@@ -140,7 +140,7 @@ Utterance 24
 Start: 129.00
 End: 131.00
 Confidence: -0.1422
-Text: Ang hirap naman nito?
+Text: Ang hirap naman ito?
 
 Utterance 25
 Start: 132.00
@@ -164,7 +164,7 @@ Utterance 28
 Start: 148.00
 End: 151.00
 Confidence: -0.1967
-Text: Ito'y sapat ng dahilan para maging masaya siya.
+Text: Ito'y sapat ng dahilan para maging masayas siya.
 
 Utterance 29
 Start: 153.00
@@ -182,7 +182,7 @@ Utterance 31
 Start: 165.00
 End: 171.00
 Confidence: -0.2543
-Text: Sabi sa FM at TV si Jack ay nahosted at nahuldap sa zambuangga ng addict sa cebu.
+Text: Sabi sa FM at TV si Jack ay nahosted at nahuldab sa sambuangga ng addict sa Siabu.
 
 Utterance 32
 Start: 177.00
@@ -206,7 +206,7 @@ Utterance 35
 Start: 184.00
 End: 185.00
 Confidence: -0.2543
-Text: Kasalukuyan.
+Text: Kasalukuya.
 
 Utterance 36
 Start: 185.00
@@ -440,7 +440,25 @@ Utterance 74
 Start: 287.00
 End: 288.00
 Confidence: -0.2169
-Text: Kinauukulan.
+Text: Kinauuugin.
+
+Utterance 75
+Start: 288.00
+End: 289.00
+Confidence: -0.1629
+Text: Agawin.
+
+Utterance 76
+Start: 291.00
+End: 292.00
+Confidence: -0.1629
+Text: Huwag.
+
+Utterance 77
+Start: 294.00
+End: 295.00
+Confidence: -0.1629
+Text: Kinauuugulan.
 
 Utterance 78
 Start: 298.00
@@ -464,13 +482,13 @@ Utterance 81
 Start: 309.00
 End: 310.00
 Confidence: -0.1629
-Text: Agiw.
+Text: Agyu.
 
 Utterance 82
 Start: 311.00
 End: 312.00
 Confidence: -0.1629
-Text: Huwebes.
+Text: Huebes.
 
 Utterance 83
 Start: 315.00
@@ -494,7 +512,7 @@ Utterance 86
 Start: 324.00
 End: 325.00
 Confidence: -0.1422
-Text: Akayin.
+Text: Akain.
 
 Utterance 87
 Start: 328.00
@@ -596,7 +614,7 @@ Utterance 103
 Start: 379.00
 End: 380.00
 Confidence: -0.1195
-Text: Magulang.
+Text: Magula.
 
 Utterance 104
 Start: 383.00
@@ -632,7 +650,7 @@ Utterance 109
 Start: 399.00
 End: 400.00
 Confidence: -0.1195
-Text: Akyat.
+Text: Akiat.
 
 Utterance 110
 Start: 402.00
@@ -854,7 +872,7 @@ Utterance 146
 Start: 511.00
 End: 512.00
 Confidence: -0.2008
-Text: Maintindihan.
+Text: Maintinig.
 
 Utterance 147
 Start: 513.00
@@ -897,6 +915,18 @@ Start: 534.00
 End: 535.00
 Confidence: -0.3082
 Text: Pintura.
+
+Utterance 154
+Start: 537.00
+End: 538.00
+Confidence: -0.3082
+Text: Anim.
+
+Utterance 155
+Start: 539.00
+End: 540.00
+Confidence: -0.1063
+Text: Maipapayo.
 
 Utterance 156
 Start: 543.00
@@ -1226,7 +1256,7 @@ Utterance 210
 Start: 706.00
 End: 707.00
 Confidence: -0.1839
-Text: Makikita.
+Text: Makikikita.
 
 Utterance 211
 Start: 708.00
@@ -1286,7 +1316,7 @@ Utterance 220
 Start: 733.00
 End: 734.00
 Confidence: -0.2064
-Text: Inay.
+Text: Inas.
 
 Utterance 221
 Start: 737.00
@@ -1304,7 +1334,7 @@ Utterance 223
 Start: 743.00
 End: 744.00
 Confidence: -0.2064
-Text: Inhinyero.
+Text: Inginyero.
 
 Utterance 224
 Start: 746.00
@@ -1496,7 +1526,7 @@ Utterance 255
 Start: 829.00
 End: 830.00
 Confidence: -0.1983
-Text: Pwede.
+Text: Puede.
 
 Utterance 256
 Start: 832.00
@@ -1778,7 +1808,7 @@ Utterance 302
 Start: 972.00
 End: 973.00
 Confidence: -0.1361
-Text: Bagsakan.
+Text: Bagsakat.
 
 Utterance 303
 Start: 975.00
@@ -2270,7 +2300,7 @@ Utterance 384
 Start: 1251.00
 End: 1252.00
 Confidence: -0.1243
-Text: Namamayapang
+Text: Namamaya pang
 
 Utterance 385
 Start: 1254.00
@@ -2282,19 +2312,19 @@ Utterance 386
 Start: 1259.00
 End: 1260.00
 Confidence: -0.1243
-Text: Notoryosong
+Text: Notoriosong
 
 Utterance 387
 Start: 1262.00
 End: 1263.00
 Confidence: -0.1243
-Text: iuwi.
+Text: iiwi.
 
 Utterance 388
 Start: 1266.00
 End: 1267.00
 Confidence: -0.1243
-Text: Manlinlang.
+Text: Mandin lang.
 
 Utterance 389
 Start: 1270.00
@@ -2396,7 +2426,7 @@ Utterance 405
 Start: 1322.00
 End: 1323.00
 Confidence: -0.0933
-Text: Iyak.
+Text: Iak.
 
 Utterance 406
 Start: 1325.00
@@ -2552,7 +2582,7 @@ Utterance 431
 Start: 1405.00
 End: 1406.00
 Confidence: -0.0990
-Text: Bawasin.
+Text: Bawasan.
 
 Utterance 432
 Start: 1408.00
@@ -2750,7 +2780,7 @@ Utterance 464
 Start: 1505.00
 End: 1506.00
 Confidence: -0.1593
-Text: Makapagsasabing
+Text: Maka pagsasabing
 
 Utterance 465
 Start: 1508.00
@@ -2906,7 +2936,7 @@ Utterance 490
 Start: 1594.00
 End: 1595.00
 Confidence: -0.1183
-Text: kabalyero
+Text: kabaliro
 
 Utterance 491
 Start: 1597.00
@@ -2972,7 +3002,7 @@ Utterance 501
 Start: 1639.00
 End: 1640.00
 Confidence: -0.1055
-Text: semento
+Text: cemento
 
 Utterance 502
 Start: 1643.00
@@ -3128,7 +3158,7 @@ Utterance 527
 Start: 1737.00
 End: 1738.00
 Confidence: -0.0779
-Text: binati
+Text: binatik
 
 Utterance 528
 Start: 1741.00
@@ -3316,6 +3346,18 @@ End: 1849.00
 Confidence: -0.1740
 Text: sikip
 
+Utterance 559
+Start: 1851.00
+End: 1852.00
+Confidence: -0.1740
+Text: at
+
+Utterance 560
+Start: 1852.00
+End: 1853.00
+Confidence: -0.1054
+Text: sikip
+
 Utterance 561
 Start: 1854.00
 End: 1855.00
@@ -3332,7 +3374,7 @@ Utterance 563
 Start: 1858.00
 End: 1859.00
 Confidence: -0.1054
-Text: materyales
+Text: materiales
 
 Utterance 564
 Start: 1860.00
@@ -3578,7 +3620,7 @@ Utterance 604
 Start: 1931.00
 End: 1932.00
 Confidence: -0.1209
-Text: biyaya
+Text: biya
 
 Utterance 605
 Start: 1933.00
@@ -3590,13 +3632,13 @@ Utterance 606
 Start: 1935.00
 End: 1936.00
 Confidence: -0.1209
-Text: maynila
+Text: maininin
 
 Utterance 607
 Start: 1936.00
 End: 1937.00
 Confidence: -0.2058
-Text: sindak
+Text: simdak
 
 Utterance 608
 Start: 1938.00
@@ -3680,7 +3722,7 @@ Utterance 621
 Start: 1961.00
 End: 1962.00
 Confidence: -0.2058
-Text: kalye
+Text: kalie
 
 Utterance 622
 Start: 1963.00
@@ -3878,7 +3920,7 @@ Utterance 654
 Start: 2010.00
 End: 2011.00
 Confidence: -0.1762
-Text: miyerkoles
+Text: merkoles
 
 Utterance 655
 Start: 2011.00
@@ -4058,7 +4100,7 @@ Utterance 684
 Start: 2052.00
 End: 2053.00
 Confidence: -0.1572
-Text: kantahan
+Text: gantahan
 
 Utterance 685
 Start: 2053.00
@@ -4184,7 +4226,7 @@ Utterance 705
 Start: 2083.00
 End: 2084.00
 Confidence: -0.1155
-Text: naalala
+Text: na alala
 
 Utterance 706
 Start: 2084.00
@@ -4232,7 +4274,7 @@ Utterance 713
 Start: 2095.00
 End: 2096.00
 Confidence: -0.1155
-Text: nabasa
+Text: na basa
 
 Utterance 714
 Start: 2096.00
@@ -4256,7 +4298,7 @@ Utterance 717
 Start: 2101.00
 End: 2102.00
 Confidence: -0.1155
-Text: nadinig
+Text: na dinig
 
 Utterance 718
 Start: 2103.00
@@ -4394,7 +4436,7 @@ Utterance 740
 Start: 2139.00
 End: 2140.00
 Confidence: -0.1304
-Text: karanasan
+Text: nasan
 
 Utterance 741
 Start: 2140.00
@@ -4952,7 +4994,7 @@ Utterance 833
 Start: 2285.00
 End: 2286.00
 Confidence: -0.1240
-Text: suweldo
+Text: sueldo
 
 Utterance 834
 Start: 2287.00
@@ -5234,25 +5276,25 @@ Utterance 880
 Start: 2364.00
 End: 2365.00
 Confidence: -0.1340
-Text: ba be bi bo bu
+Text: babibobu
 
 Utterance 881
 Start: 2365.00
 End: 2368.00
 Confidence: -0.3075
-Text: ba ba bak bal bam bani
+Text: bababakbalbambani
 
 Utterance 882
 Start: 2369.00
 End: 2372.00
 Confidence: -0.3075
-Text: bang ba bar bas bat bau
+Text: bangbabarbasbatbau
 
 Utterance 883
 Start: 2372.00
 End: 2374.00
 Confidence: -0.3075
-Text: bay ben big
+Text: baybenbig
 
 Utterance 884
 Start: 2374.00
@@ -5402,7 +5444,7 @@ Utterance 908
 Start: 2408.00
 End: 2409.00
 Confidence: -0.1883
-Text: da
+Text: dah
 
 Utterance 909
 Start: 2409.00
@@ -5666,7 +5708,7 @@ Utterance 952
 Start: 2460.00
 End: 2461.00
 Confidence: -0.1722
-Text: fi
+Text: pi
 
 Utterance 953
 Start: 2461.00
@@ -5732,7 +5774,7 @@ Utterance 963
 Start: 2478.00
 End: 2479.00
 Confidence: -0.1722
-Text: hu
+Text: fu
 
 Utterance 964
 Start: 2479.00
@@ -5876,19 +5918,19 @@ Utterance 987
 Start: 2509.00
 End: 2510.00
 Confidence: -0.2224
-Text: ko ku
+Text: go
 
 Utterance 988
 Start: 2511.00
 End: 2512.00
 Confidence: -0.3219
-Text: kit
+Text: git
 
 Utterance 989
 Start: 2512.00
 End: 2513.00
 Confidence: -0.3219
-Text: kin
+Text: gin
 
 Utterance 990
 Start: 2513.00
@@ -5906,7 +5948,7 @@ Utterance 992
 Start: 2515.00
 End: 2516.00
 Confidence: -0.3219
-Text: kit
+Text: git
 
 Utterance 993
 Start: 2516.00
@@ -5936,13 +5978,13 @@ Utterance 997
 Start: 2520.00
 End: 2521.00
 Confidence: -0.3219
-Text: kal
+Text: gal
 
 Utterance 998
 Start: 2521.00
 End: 2522.00
 Confidence: -0.3219
-Text: kan
+Text: gan
 
 Utterance 999
 Start: 2522.00
@@ -6008,7 +6050,7 @@ Utterance 1009
 Start: 2532.00
 End: 2533.00
 Confidence: -0.3219
-Text: lu
+Text: luq
 
 Utterance 1010
 Start: 2533.00
@@ -6020,7 +6062,7 @@ Utterance 1011
 Start: 2534.00
 End: 2535.00
 Confidence: -0.3219
-Text: la
+Text: ka
 
 Utterance 1012
 Start: 2535.00
@@ -6184,6 +6226,42 @@ End: 2562.00
 Confidence: -0.1431
 Text: ma
 
+Utterance 1039
+Start: 2562.00
+End: 2563.00
+Confidence: -0.1431
+Text: ha
+
+Utterance 1040
+Start: 2563.00
+End: 2564.00
+Confidence: -0.1431
+Text: ha
+
+Utterance 1041
+Start: 2564.00
+End: 2565.00
+Confidence: -0.1431
+Text: ha
+
+Utterance 1042
+Start: 2565.00
+End: 2566.00
+Confidence: -0.1431
+Text: ha
+
+Utterance 1043
+Start: 2566.00
+End: 2567.00
+Confidence: -0.1431
+Text: ha
+
+Utterance 1044
+Start: 2567.00
+End: 2568.00
+Confidence: -0.1431
+Text: ha
+
 Utterance 1045
 Start: 2568.00
 End: 2569.00
@@ -6206,7 +6284,7 @@ Utterance 1048
 Start: 2571.00
 End: 2572.00
 Confidence: -0.1055
-Text: mo
+Text: mu
 
 Utterance 1049
 Start: 2572.00
@@ -6266,7 +6344,7 @@ Utterance 1058
 Start: 2581.00
 End: 2582.00
 Confidence: -0.1055
-Text: may
+Text: mai
 
 Utterance 1059
 Start: 2582.00
@@ -6332,7 +6410,7 @@ Utterance 1069
 Start: 2592.00
 End: 2593.00
 Confidence: -0.1055
-Text: no
+Text: nu
 
 Utterance 1070
 Start: 2593.00
@@ -6374,7 +6452,7 @@ Utterance 1076
 Start: 2600.00
 End: 2601.00
 Confidence: -0.1897
-Text: nay
+Text: nai
 
 Utterance 1077
 Start: 2601.00
@@ -6482,13 +6560,13 @@ Utterance 1094
 Start: 2618.00
 End: 2619.00
 Confidence: -0.1897
-Text: nge ngi
+Text: ngi
 
 Utterance 1095
 Start: 2619.00
 End: 2620.00
 Confidence: -0.1897
-Text: ngo
+Text: ngu
 
 Utterance 1096
 Start: 2620.00
@@ -6527,10 +6605,172 @@ Confidence: -0.1897
 Text: ngu
 
 Utterance 1102
+Start: 2626.00
+End: 2627.00
+Confidence: -0.3446
+Text: nha
+
+Utterance 1103
 Start: 2627.00
+End: 2628.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1104
+Start: 2628.00
+End: 2629.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1105
+Start: 2629.00
 End: 2630.00
-Confidence: -0.1897
-Text: pa pe pi po pu
+Confidence: -0.3446
+Text: nga
+
+Utterance 1106
+Start: 2630.00
+End: 2631.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1107
+Start: 2631.00
+End: 2632.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1108
+Start: 2632.00
+End: 2633.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1109
+Start: 2633.00
+End: 2634.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1110
+Start: 2634.00
+End: 2635.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1111
+Start: 2635.00
+End: 2636.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1112
+Start: 2636.00
+End: 2637.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1113
+Start: 2637.00
+End: 2638.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1114
+Start: 2638.00
+End: 2639.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1115
+Start: 2639.00
+End: 2640.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1116
+Start: 2640.00
+End: 2641.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1117
+Start: 2641.00
+End: 2642.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1118
+Start: 2642.00
+End: 2643.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1119
+Start: 2643.00
+End: 2644.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1120
+Start: 2644.00
+End: 2645.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1121
+Start: 2645.00
+End: 2646.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1122
+Start: 2646.00
+End: 2647.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1123
+Start: 2647.00
+End: 2648.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1124
+Start: 2648.00
+End: 2649.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1125
+Start: 2649.00
+End: 2650.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1126
+Start: 2650.00
+End: 2651.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1127
+Start: 2651.00
+End: 2652.00
+Confidence: -0.3446
+Text: divide
+
+Utterance 1128
+Start: 2652.00
+End: 2653.00
+Confidence: -0.3446
+Text: nga
+
+Utterance 1129
+Start: 2653.00
+End: 2654.00
+Confidence: -0.3446
+Text: divide
 
 Utterance 1130
 Start: 2654.00
@@ -6584,7 +6824,7 @@ Utterance 1138
 Start: 2732.00
 End: 2741.00
 Confidence: -0.4179
-Text: TA TE TI TO TU TAN TAI TAS TOT TOR TIK
+Text: TA TE TI TU TAN TAI TAS FOTOR TIK
 
 Utterance 1139
 Start: 2741.00
@@ -6602,13 +6842,13 @@ Utterance 1141
 Start: 2759.00
 End: 2768.00
 Confidence: -0.4010
-Text: TA TE TI TO TU TIS
+Text: TA TE TI TU TU TIS
 
 Utterance 1142
 Start: 2769.00
 End: 2775.00
 Confidence: -0.4010
-Text: VA VE VI VO VU VEN VER VICE
+Text: VA VEE VEE VOO VOO VEN VER VICE
 
 Utterance 1143
 Start: 2775.00
@@ -6632,7 +6872,7 @@ Utterance 1146
 Start: 2792.00
 End: 2814.00
 Confidence: -0.2468
-Text: YA YE YI YO YU YIM YIN YAD YAT YAN YAR YOS YER YAG YANG YAK YON YOR ZA ZE ZI ZO ZU ZIN
+Text: YA YI YI YU YU YIM YIN YAD YAT YAN YAR YOS YER YAG YANG YAK YON YOR ZA ZI ZI ZU ZIN
 
 Utterance 1147
 Start: 2814.00
@@ -6680,7 +6920,7 @@ Utterance 1154
 Start: 2987.00
 End: 2995.00
 Confidence: -0.3021
-Text: wed, wol, yab, yap, yaw, zam, zay, Zig.
+Text: wed, wol, yab, yap, yaw, zam, zay, gig.
 
 Utterance 1155
 Start: 2996.00

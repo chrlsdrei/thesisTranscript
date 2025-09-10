@@ -1,0 +1,8748 @@
+Utterance 1
+Start: 2.67
+End: 8.33
+Confidence: 0.0
+Text: Bago pa lamang makuha ang hinihiling mong dokumento, kailangan pumila
+
+Utterance 2
+Start: 8.33
+End: 11.71
+Confidence: 0.0
+Text: ka muna para makakuha ka ng numero.
+
+Utterance 3
+Start: 12.37
+End: 16.23
+Confidence: 0.0
+Text: Pagkakuha mo ng numero, pipila ka na naman kung saan
+
+Utterance 4
+Start: 16.23
+End: 18.53
+Confidence: 0.0
+Text: ibigay mo pa lamang ang aplikasyon mo.
+
+Utterance 5
+Start: 19.47
+End: 23.41
+Confidence: 0.0
+Text: Sa pagkuha ng numero, halos buong araw ka pipila.
+
+Utterance 6
+Start: 24.41
+End: 27.39
+Confidence: 0.0
+Text: Halos maghapon din naman ang pag -submit lamang ng iyong
+
+Utterance 7
+Start: 27.39
+End: 37.48
+Confidence: 0.0
+Text: aplikasyon. Kung minsan may mga pangyayaring mahirap ipaliwanag, may pagkakataong
+
+Utterance 8
+Start: 37.48
+End: 41.68
+Confidence: 0.0
+Text: maswerte at may pagkakataong malas.
+
+Utterance 9
+Start: 42.46
+End: 46.52
+Confidence: 0.0
+Text: May luma ngang kasabihan ang kapalaran mo ay hindi mo man hanapin,
+
+Utterance 10
+Start: 47.42
+End: 49.82
+Confidence: 0.0
+Text: mag kukusang lalapit kung talagang aking.
+
+Utterance 11
+Start: 53.34
+End: 57.76
+Confidence: 0.0
+Text: Ang buong pangalan niya ay Sancho Pancho, pero ang tawag
+
+Utterance 12
+Start: 57.76
+End: 59.86
+Confidence: 0.0
+Text: sa kanya ng buong baranggay ay Doy.
+
+Utterance 13
+Start: 60.98
+End: 66.52
+Confidence: 0.0
+Text: Pandak si Doy, apat na talampakan at sampung pulgada ang
+
+Utterance 14
+Start: 66.52
+End: 72.84
+Confidence: 0.0
+Text: taas. Maitim, matipuno ang katawan, nakausli ang mga buto sa
+
+Utterance 15
+Start: 72.84
+End: 78.96
+Confidence: 0.0
+Text: mukha, malago ang kilay, madidilat ang mga matang may kakatawang
+
+Utterance 16
+Start: 78.96
+End: 85.06
+Confidence: 0.0
+Text: ningning, makapal ang mga labing na pinaglalagyan ng patong -patong,
+
+Utterance 17
+Start: 85.30
+End: 89.44
+Confidence: 0.0
+Text: malalaki at madililaw ng ngipin, may pilat siya sa dalawang
+
+Utterance 18
+Start: 89.44
+End: 96.61
+Confidence: 0.0
+Text: kaliwang tagiliran. Saan kayo pupunta?
+
+Utterance 19
+Start: 97.99
+End: 100.51
+Confidence: 0.0
+Text: Kailan ka makakatapos sa episode na yun?
+
+Utterance 20
+Start: 101.83
+End: 103.31
+Confidence: 0.0
+Text: Sino ang nagsabi sa 'yo?
+
+Utterance 21
+Start: 104.99
+End: 107.21
+Confidence: 0.0
+Text: Magkakaraon ba kayo ngayon?
+
+Utterance 22
+Start: 108.91
+End: 113.21
+Confidence: 0.0
+Text: Kainin mo itong hopya, ubusin mo yan.
+
+Utterance 23
+Start: 114.61
+End: 120.95
+Confidence: 0.0
+Text: Pagkanta naman ang paborito ko, pakigawa na ninyo ang daan,
+
+Utterance 24
+Start: 122.64
+End: 125.26
+Confidence: 0.0
+Text: nasagasaan yung aso.
+
+Utterance 25
+Start: 125.62
+End: 127.78
+Confidence: 0.0
+Text: Huwag ka dyan.
+
+Utterance 26
+Start: 128.28
+End: 129.74
+Confidence: 0.0
+Text: Magandang hapon po.
+
+Utterance 27
+Start: 131.18
+End: 133.86
+Confidence: 0.0
+Text: May shampoo at face towel sa lababo.
+
+Utterance 28
+Start: 135.34
+End: 138.00
+Confidence: 0.0
+Text: Sa Nueva Vizcaya siya nagtinda ng chicharon.
+
+Utterance 29
+Start: 139.64
+End: 142.30
+Confidence: 0.0
+Text: Hello, nandiyan ba si Faye Villaluz?
+
+Utterance 30
+Start: 145.10
+End: 147.48
+Confidence: 0.0
+Text: Nasatugatog na ako ng tagumpay.
+
+Utterance 31
+Start: 149.52
+End: 151.26
+Confidence: 0.0
+Text: Empleyado ka lang rito.
+
+Utterance 32
+Start: 157.33
+End: 158.21
+Confidence: nan
+Text: Tagpuan.
+
+Utterance 33
+Start: 159.21
+End: 160.43
+Confidence: nan
+Text: Din.
+
+Utterance 34
+Start: 161.09
+End: 162.49
+Confidence: nan
+Text: Kinwento.
+
+Utterance 35
+Start: 163.31
+End: 164.57
+Confidence: nan
+Text: Nagtrabaho.
+
+Utterance 36
+Start: 165.69
+End: 166.77
+Confidence: nan
+Text: Tahanan.
+
+Utterance 37
+Start: 169.30
+End: 169.62
+Confidence: nan
+Text: Kita.
+
+Utterance 38
+Start: 171.26
+End: 172.46
+Confidence: nan
+Text: Nagtatrabaho.
+
+Utterance 39
+Start: 173.86
+End: 175.06
+Confidence: nan
+Text: Takas.
+
+Utterance 40
+Start: 175.86
+End: 176.84
+Confidence: nan
+Text: Dinamay.
+
+Utterance 41
+Start: 177.96
+End: 178.32
+Confidence: nan
+Text: Ko.
+
+Utterance 42
+Start: 179.34
+End: 180.74
+Confidence: nan
+Text: Nagtutulungan.
+
+Utterance 43
+Start: 181.58
+End: 182.20
+Confidence: nan
+Text: Takbo.
+
+Utterance 44
+Start: 183.60
+End: 184.38
+Confidence: nan
+Text: Dinanas.
+
+Utterance 45
+Start: 185.64
+End: 186.50
+Confidence: nan
+Text: Kompositor.
+
+Utterance 46
+Start: 187.72
+End: 188.70
+Confidence: nan
+Text: Nagtuturo.
+
+Utterance 47
+Start: 189.70
+End: 191.46
+Confidence: nan
+Text: Takdang.
+
+Utterance 48
+Start: 192.42
+End: 193.82
+Confidence: nan
+Text: Dinasal.
+
+Utterance 49
+Start: 194.26
+End: 194.68
+Confidence: nan
+Text: Kong.
+
+Utterance 50
+Start: 196.36
+End: 196.96
+Confidence: nan
+Text: Nahiga.
+
+Utterance 51
+Start: 198.40
+End: 199.42
+Confidence: nan
+Text: Takot.
+
+Utterance 52
+Start: 200.60
+End: 201.20
+Confidence: nan
+Text: Dinggin.
+
+Utterance 53
+Start: 202.90
+End: 204.02
+Confidence: nan
+Text: Konstruksyon.
+
+Utterance 54
+Start: 205.06
+End: 206.22
+Confidence: nan
+Text: Nahuhuli.
+
+Utterance 55
+Start: 207.44
+End: 208.80
+Confidence: nan
+Text: Taxi.
+
+Utterance 56
+Start: 209.26
+End: 210.16
+Confidence: nan
+Text: Dinig.
+
+Utterance 57
+Start: 211.00
+End: 211.54
+Confidence: nan
+Text: Kotse.
+
+Utterance 58
+Start: 212.92
+End: 214.32
+Confidence: nan
+Text: Naintindihan.
+
+Utterance 59
+Start: 215.28
+End: 215.88
+Confidence: nan
+Text: Talaga.
+
+Utterance 60
+Start: 217.32
+End: 218.02
+Confidence: nan
+Text: Dinilaan.
+
+Utterance 61
+Start: 218.98
+End: 220.12
+Confidence: nan
+Text: Krimen.
+
+Utterance 62
+Start: 220.76
+End: 221.52
+Confidence: nan
+Text: Naisahan.
+
+Utterance 63
+Start: 223.00
+End: 223.88
+Confidence: nan
+Text: Talampakan.
+
+Utterance 64
+Start: 225.12
+End: 226.32
+Confidence: nan
+Text: Direksyon.
+
+Utterance 65
+Start: 227.18
+End: 228.12
+Confidence: nan
+Text: Kukuha.
+
+Utterance 66
+Start: 229.02
+End: 230.04
+Confidence: nan
+Text: Nakagagawa.
+
+Utterance 67
+Start: 231.40
+End: 231.90
+Confidence: nan
+Text: Tali.
+
+Utterance 68
+Start: 233.06
+End: 233.78
+Confidence: nan
+Text: Direcho.
+
+Utterance 69
+Start: 235.16
+End: 235.88
+Confidence: nan
+Text: Kulang.
+
+Utterance 70
+Start: 237.68
+End: 238.38
+Confidence: nan
+Text: Nakakapagtakang.
+
+Utterance 71
+Start: 240.92
+End: 241.64
+Confidence: nan
+Text: Talo.
+
+Utterance 72
+Start: 243.38
+End: 244.36
+Confidence: nan
+Text: Desyembre.
+
+Utterance 73
+Start: 246.02
+End: 246.54
+Confidence: nan
+Text: Kulay.
+
+Utterance 74
+Start: 248.64
+End: 250.04
+Confidence: nan
+Text: Nakakasilaw.
+
+Utterance 75
+Start: 250.56
+End: 251.80
+Confidence: nan
+Text: Talon.
+
+Utterance 76
+Start: 252.94
+End: 253.62
+Confidence: nan
+Text: Jogging.
+
+Utterance 77
+Start: 255.18
+End: 256.42
+Confidence: nan
+Text: Maamong.
+
+Utterance 78
+Start: 257.92
+End: 259.02
+Confidence: nan
+Text: Naarestong.
+
+Utterance 79
+Start: 260.30
+End: 261.62
+Confidence: nan
+Text: Nakatakdang.
+
+Utterance 80
+Start: 262.98
+End: 263.96
+Confidence: nan
+Text: Kilong.
+
+Utterance 81
+Start: 264.66
+End: 265.48
+Confidence: nan
+Text: Kakulangan.
+
+Utterance 82
+Start: 267.46
+End: 268.10
+Confidence: nan
+Text: Dito.
+
+Utterance 83
+Start: 269.56
+End: 270.60
+Confidence: nan
+Text: Kulit.
+
+Utterance 84
+Start: 271.50
+End: 272.44
+Confidence: nan
+Text: Nakakita.
+
+Utterance 85
+Start: 274.54
+End: 275.28
+Confidence: nan
+Text: Diwata.
+
+Utterance 86
+Start: 276.64
+End: 277.36
+Confidence: nan
+Text: Kulitin.
+
+Utterance 87
+Start: 279.34
+End: 280.74
+Confidence: nan
+Text: Nakalabas.
+
+Utterance 88
+Start: 281.52
+End: 282.42
+Confidence: nan
+Text: Dyan.
+
+Utterance 89
+Start: 283.22
+End: 284.42
+Confidence: nan
+Text: Kulog.
+
+Utterance 90
+Start: 285.10
+End: 286.50
+Confidence: nan
+Text: Nakapagtapos.
+
+Utterance 91
+Start: 286.90
+End: 287.36
+Confidence: nan
+Text: Tama.
+
+Utterance 92
+Start: 288.40
+End: 289.46
+Confidence: nan
+Text: Diyos.
+
+Utterance 93
+Start: 289.86
+End: 290.56
+Confidence: nan
+Text: Kumain.
+
+Utterance 94
+Start: 291.70
+End: 292.40
+Confidence: nan
+Text: Nakatira.
+
+Utterance 95
+Start: 294.10
+End: 294.80
+Confidence: nan
+Text: Tamad.
+
+Utterance 96
+Start: 295.80
+End: 296.50
+Confidence: nan
+Text: Doktor.
+
+Utterance 97
+Start: 296.98
+End: 297.68
+Confidence: nan
+Text: Kumanta.
+
+Utterance 98
+Start: 298.76
+End: 300.16
+Confidence: nan
+Text: Nakatulog.
+
+Utterance 99
+Start: 300.62
+End: 301.44
+Confidence: nan
+Text: Tambakan.
+
+Utterance 100
+Start: 304.02
+End: 304.72
+Confidence: nan
+Text: Dokumento.
+
+Utterance 101
+Start: 304.72
+End: 305.98
+Confidence: nan
+Text: Kumbento.
+
+Utterance 102
+Start: 306.58
+End: 307.98
+Confidence: nan
+Text: Nakausap.
+
+Utterance 103
+Start: 308.46
+End: 309.76
+Confidence: nan
+Text: Tanawin.
+
+Utterance 104
+Start: 310.30
+End: 310.76
+Confidence: nan
+Text: Drama.
+
+Utterance 105
+Start: 311.94
+End: 312.64
+Confidence: nan
+Text: Kumilos.
+
+Utterance 106
+Start: 314.04
+End: 314.74
+Confidence: nan
+Text: Nakausli.
+
+Utterance 107
+Start: 315.68
+End: 316.60
+Confidence: nan
+Text: Tanga.
+
+Utterance 108
+Start: 317.40
+End: 318.06
+Confidence: nan
+Text: Dugo.
+
+Utterance 109
+Start: 319.60
+End: 320.68
+Confidence: nan
+Text: Kundi.
+
+Utterance 110
+Start: 321.32
+End: 322.24
+Confidence: nan
+Text: Nakaw.
+
+Utterance 111
+Start: 323.22
+End: 324.52
+Confidence: nan
+Text: Tanghali.
+
+Utterance 112
+Start: 325.28
+End: 326.22
+Confidence: nan
+Text: Dugtong.
+
+Utterance 113
+Start: 327.70
+End: 328.00
+Confidence: nan
+Text: Kung.
+
+Utterance 114
+Start: 329.74
+End: 330.48
+Confidence: nan
+Text: Nakawan.
+
+Utterance 115
+Start: 332.00
+End: 332.70
+Confidence: nan
+Text: Tanim.
+
+Utterance 116
+Start: 333.84
+End: 334.54
+Confidence: nan
+Text: Dugtongan.
+
+Utterance 117
+Start: 335.94
+End: 336.64
+Confidence: nan
+Text: Kunin.
+
+Utterance 118
+Start: 338.00
+End: 338.70
+Confidence: nan
+Text: Nakikipagusap.
+
+Utterance 119
+Start: 340.26
+End: 340.96
+Confidence: nan
+Text: Taniman.
+
+Utterance 120
+Start: 342.12
+End: 342.82
+Confidence: nan
+Text: Dumaan.
+
+Utterance 121
+Start: 344.00
+End: 344.70
+Confidence: nan
+Text: Kontento.
+
+Utterance 122
+Start: 346.10
+End: 346.90
+Confidence: nan
+Text: Nakita.
+
+Utterance 123
+Start: 348.22
+End: 348.92
+Confidence: nan
+Text: Tao.
+
+Utterance 124
+Start: 349.98
+End: 350.62
+Confidence: nan
+Text: Dumalo.
+
+Utterance 125
+Start: 351.96
+End: 352.46
+Confidence: nan
+Text: Kusa.
+
+Utterance 126
+Start: 353.52
+End: 354.92
+Confidence: nan
+Text: Nalalanghap.
+
+Utterance 127
+Start: 355.44
+End: 356.46
+Confidence: nan
+Text: Taon.
+
+Utterance 128
+Start: 356.86
+End: 357.68
+Confidence: nan
+Text: Dumamay.
+
+Utterance 129
+Start: 357.68
+End: 359.76
+Confidence: nan
+Text: Kuarto.
+
+Utterance 130
+Start: 360.22
+End: 360.92
+Confidence: nan
+Text: Nalasing.
+
+Utterance 131
+Start: 362.08
+End: 363.34
+Confidence: nan
+Text: Taong.
+
+Utterance 132
+Start: 364.10
+End: 365.00
+Confidence: nan
+Text: Dumamba.
+
+Utterance 133
+Start: 365.98
+End: 366.62
+Confidence: nan
+Text: Kuento.
+
+Utterance 134
+Start: 367.68
+End: 368.50
+Confidence: nan
+Text: Nalito.
+
+Utterance 135
+Start: 369.66
+End: 370.48
+Confidence: nan
+Text: Tapakan.
+
+Utterance 136
+Start: 371.64
+End: 372.38
+Confidence: nan
+Text: Dumami.
+
+Utterance 137
+Start: 373.80
+End: 375.12
+Confidence: nan
+Text: Labi.
+
+Utterance 138
+Start: 375.62
+End: 376.40
+Confidence: nan
+Text: Nalulugi.
+
+Utterance 139
+Start: 377.78
+End: 378.78
+Confidence: nan
+Text: Tapat.
+
+Utterance 140
+Start: 379.38
+End: 379.98
+Confidence: nan
+Text: Dumapa.
+
+Utterance 141
+Start: 381.60
+End: 382.50
+Confidence: nan
+Text: Labing.
+
+Utterance 142
+Start: 383.46
+End: 384.02
+Confidence: nan
+Text: Naman.
+
+Utterance 143
+Start: 385.62
+End: 386.32
+Confidence: nan
+Text: Tapon.
+
+Utterance 144
+Start: 387.30
+End: 388.44
+Confidence: nan
+Text: Dumarami.
+
+Utterance 145
+Start: 389.60
+End: 390.30
+Confidence: nan
+Text: Labis.
+
+Utterance 146
+Start: 391.48
+End: 392.18
+Confidence: nan
+Text: Namatay.
+
+Utterance 147
+Start: 393.54
+End: 394.24
+Confidence: nan
+Text: Tapos.
+
+Utterance 148
+Start: 395.34
+End: 396.02
+Confidence: nan
+Text: Dumating.
+
+Utterance 149
+Start: 397.22
+End: 398.20
+Confidence: nan
+Text: Lagay.
+
+Utterance 150
+Start: 399.34
+End: 399.94
+Confidence: nan
+Text: Namin.
+
+Utterance 151
+Start: 401.84
+End: 402.54
+Confidence: nan
+Text: Tapusin.
+
+Utterance 152
+Start: 404.28
+End: 404.94
+Confidence: nan
+Text: Dumi.
+
+Utterance 153
+Start: 406.14
+End: 406.66
+Confidence: nan
+Text: Lagi.
+
+Utterance 154
+Start: 407.80
+End: 408.50
+Confidence: nan
+Text: Namumunga.
+
+Utterance 155
+Start: 410.24
+End: 410.48
+Confidence: nan
+Text: Tara.
+
+Utterance 156
+Start: 411.94
+End: 412.64
+Confidence: nan
+Text: Dumidinig.
+
+Utterance 157
+Start: 412.64
+End: 414.90
+Confidence: nan
+Text: Laging.
+
+Utterance 158
+Start: 416.00
+End: 416.70
+Confidence: nan
+Text: Nanalangin.
+
+Utterance 159
+Start: 417.80
+End: 418.84
+Confidence: nan
+Text: Tatag.
+
+Utterance 160
+Start: 419.50
+End: 420.78
+Confidence: nan
+Text: Dumilat.
+
+Utterance 161
+Start: 421.20
+End: 422.14
+Confidence: nan
+Text: Laglag.
+
+Utterance 162
+Start: 423.10
+End: 424.50
+Confidence: nan
+Text: Nanay.
+
+Utterance 163
+Start: 424.96
+End: 425.90
+Confidence: nan
+Text: Tatakbo.
+
+Utterance 164
+Start: 426.86
+End: 427.88
+Confidence: nan
+Text: Doon.
+
+Utterance 165
+Start: 428.56
+End: 429.32
+Confidence: nan
+Text: Lagpas.
+
+Utterance 166
+Start: 430.40
+End: 431.24
+Confidence: nan
+Text: Nandito.
+
+Utterance 167
+Start: 432.32
+End: 433.04
+Confidence: nan
+Text: Tauhan.
+
+Utterance 168
+Start: 434.04
+End: 434.74
+Confidence: nan
+Text: Edad.
+
+Utterance 169
+Start: 436.16
+End: 436.86
+Confidence: nan
+Text: Lagpasan.
+
+Utterance 170
+Start: 438.00
+End: 438.64
+Confidence: nan
+Text: Nandyan.
+
+Utterance 171
+Start: 438.64
+End: 440.88
+Confidence: nan
+Text: Tawad.
+
+Utterance 172
+Start: 441.50
+End: 442.54
+Confidence: nan
+Text: Eh.
+
+Utterance 173
+Start: 443.16
+End: 444.32
+Confidence: nan
+Text: Lagyan.
+
+Utterance 174
+Start: 444.98
+End: 445.68
+Confidence: nan
+Text: Nang.
+
+Utterance 175
+Start: 446.68
+End: 447.64
+Confidence: nan
+Text: Tawag.
+
+Utterance 176
+Start: 448.50
+End: 449.34
+Confidence: nan
+Text: Eksam.
+
+Utterance 177
+Start: 450.08
+End: 450.78
+Confidence: nan
+Text: Lahat.
+
+Utterance 178
+Start: 451.22
+End: 452.40
+Confidence: nan
+Text: Naninirahan.
+
+Utterance 179
+Start: 453.46
+End: 454.16
+Confidence: nan
+Text: Tawagan.
+
+Utterance 180
+Start: 455.10
+End: 456.24
+Confidence: nan
+Text: Elementarya.
+
+Utterance 181
+Start: 457.08
+End: 457.74
+Confidence: nan
+Text: Lahok.
+
+Utterance 182
+Start: 458.70
+End: 459.98
+Confidence: nan
+Text: Nanliligaw.
+
+Utterance 183
+Start: 461.26
+End: 461.96
+Confidence: nan
+Text: Tawiran.
+
+Utterance 184
+Start: 463.10
+End: 464.20
+Confidence: nan
+Text: Enero.
+
+Utterance 185
+Start: 464.20
+End: 465.84
+Confidence: nan
+Text: Lakad.
+
+Utterance 186
+Start: 466.18
+End: 466.50
+Confidence: nan
+Text: Napag
+
+Utterance 187
+Start: 466.50
+End: 468.32
+Confidence: nan
+Text: -iiwanan.
+
+Utterance 188
+Start: 468.76
+End: 469.08
+Confidence: nan
+Text: Tay.
+
+Utterance 189
+Start: 470.24
+End: 471.50
+Confidence: nan
+Text: Entablado.
+
+Utterance 190
+Start: 472.22
+End: 473.34
+Confidence: nan
+Text: Lakas.
+
+Utterance 191
+Start: 473.88
+End: 475.16
+Confidence: nan
+Text: Napansin.
+
+Utterance 192
+Start: 475.96
+End: 476.62
+Confidence: nan
+Text: Taya.
+
+Utterance 193
+Start: 477.86
+End: 478.56
+Confidence: nan
+Text: Eskwela.
+
+Utterance 194
+Start: 479.28
+End: 479.92
+Confidence: nan
+Text: Lalaki.
+
+Utterance 195
+Start: 481.72
+End: 482.42
+Confidence: nan
+Text: Napatingin.
+
+Utterance 196
+Start: 483.40
+End: 484.08
+Confidence: nan
+Text: Tayaan.
+
+Utterance 197
+Start: 485.40
+End: 485.78
+Confidence: nan
+Text: Eto.
+
+Utterance 198
+Start: 486.98
+End: 487.76
+Confidence: nan
+Text: Lalaking.
+
+Utterance 199
+Start: 488.76
+End: 489.56
+Confidence: nan
+Text: Narito.
+
+Utterance 200
+Start: 491.18
+End: 491.88
+Confidence: nan
+Text: Tayo.
+
+Utterance 201
+Start: 492.84
+End: 493.60
+Confidence: nan
+Text: Ewan.
+
+Utterance 202
+Start: 494.88
+End: 495.58
+Confidence: nan
+Text: Lalapit.
+
+Utterance 203
+Start: 497.02
+End: 497.74
+Confidence: nan
+Text: Nariyan.
+
+Utterance 204
+Start: 499.00
+End: 499.72
+Confidence: nan
+Text: Tayo.
+
+Utterance 205
+Start: 500.90
+End: 501.92
+Confidence: nan
+Text: Faksyon.
+
+Utterance 206
+Start: 502.74
+End: 503.18
+Confidence: nan
+Text: Lalo.
+
+Utterance 207
+Start: 504.32
+End: 504.88
+Confidence: nan
+Text: Nars.
+
+Utterance 208
+Start: 506.24
+End: 506.94
+Confidence: nan
+Text: Tayuan.
+
+Utterance 209
+Start: 508.44
+End: 509.68
+Confidence: nan
+Text: Familya.
+
+Utterance 210
+Start: 510.14
+End: 510.58
+Confidence: nan
+Text: Laman.
+
+Utterance 211
+Start: 511.78
+End: 512.30
+Confidence: nan
+Text: Naroon.
+
+Utterance 212
+Start: 514.38
+End: 515.32
+Confidence: nan
+Text: Teka.
+
+Utterance 213
+Start: 516.02
+End: 516.86
+Confidence: nan
+Text: Familiar.
+
+Utterance 214
+Start: 516.86
+End: 519.32
+Confidence: nan
+Text: Lamang.
+
+Utterance 215
+Start: 519.78
+End: 521.18
+Confidence: nan
+Text: Nasa.
+
+Utterance 216
+Start: 522.28
+End: 523.02
+Confidence: nan
+Text: Telepono.
+
+Utterance 217
+Start: 525.86
+End: 526.56
+Confidence: nan
+Text: Fanatik.
+
+Utterance 218
+Start: 528.14
+End: 528.84
+Confidence: nan
+Text: Lamangan.
+
+Utterance 219
+Start: 530.04
+End: 530.68
+Confidence: nan
+Text: Nasaan.
+
+Utterance 220
+Start: 532.04
+End: 532.74
+Confidence: nan
+Text: Tigil.
+
+Utterance 221
+Start: 533.54
+End: 534.56
+Confidence: nan
+Text: Fantastik.
+
+Utterance 222
+Start: 535.44
+End: 536.12
+Confidence: nan
+Text: Lambing.
+
+Utterance 223
+Start: 537.20
+End: 538.44
+Confidence: nan
+Text: Nasagasaan.
+
+Utterance 224
+Start: 539.20
+End: 539.84
+Confidence: nan
+Text: Tigilan.
+
+Utterance 225
+Start: 541.00
+End: 542.32
+Confidence: nan
+Text: Federasyon.
+
+Utterance 226
+Start: 544.06
+End: 545.04
+Confidence: nan
+Text: Lambingan.
+
+Utterance 227
+Start: 545.86
+End: 546.50
+Confidence: nan
+Text: Nasira.
+
+Utterance 228
+Start: 548.04
+End: 548.74
+Confidence: nan
+Text: Tigilin.
+
+Utterance 229
+Start: 549.78
+End: 550.50
+Confidence: nan
+Text: Feminist.
+
+Utterance 230
+Start: 551.58
+End: 552.70
+Confidence: nan
+Text: Lamok.
+
+Utterance 231
+Start: 553.26
+End: 554.62
+Confidence: nan
+Text: Nasiraan.
+
+Utterance 232
+Start: 555.36
+End: 556.20
+Confidence: nan
+Text: Tikim.
+
+Utterance 233
+Start: 558.46
+End: 559.30
+Confidence: nan
+Text: Fibor.
+
+Utterance 234
+Start: 560.74
+End: 561.08
+Confidence: nan
+Text: Lang.
+
+Utterance 235
+Start: 562.80
+End: 563.72
+Confidence: nan
+Text: Nasugatan.
+
+Utterance 236
+Start: 565.04
+End: 565.98
+Confidence: nan
+Text: Tigman.
+
+Utterance 237
+Start: 567.02
+End: 567.38
+Confidence: nan
+Text: Fake.
+
+Utterance 238
+Start: 568.84
+End: 569.72
+Confidence: nan
+Text: Langit.
+
+Utterance 239
+Start: 570.90
+End: 571.92
+Confidence: nan
+Text: Natataniman.
+
+Utterance 240
+Start: 573.20
+End: 573.70
+Confidence: nan
+Text: Tila.
+
+Utterance 241
+Start: 575.14
+End: 575.52
+Confidence: nan
+Text: Fair.
+
+Utterance 242
+Start: 575.52
+End: 577.64
+Confidence: nan
+Text: Lansa.
+
+Utterance 243
+Start: 578.66
+End: 579.86
+Confidence: nan
+Text: Natin.
+
+Utterance 244
+Start: 580.24
+End: 580.78
+Confidence: nan
+Text: Timpla.
+
+Utterance 245
+Start: 581.96
+End: 582.28
+Confidence: nan
+Text: Face
+
+Utterance 246
+Start: 582.28
+End: 582.88
+Confidence: nan
+Text: towel.
+
+Utterance 247
+Start: 584.02
+End: 584.82
+Confidence: nan
+Text: Lantaran.
+
+Utterance 248
+Start: 586.10
+End: 587.14
+Confidence: nan
+Text: Nating.
+
+Utterance 249
+Start: 588.34
+End: 589.74
+Confidence: nan
+Text: Timplahan.
+
+Utterance 250
+Start: 592.37
+End: 593.19
+Confidence: nan
+Text: Figurin.
+
+Utterance 251
+Start: 594.29
+End: 595.15
+Confidence: nan
+Text: Laos.
+
+Utterance 252
+Start: 596.39
+End: 596.97
+Confidence: nan
+Text: Natira.
+
+Utterance 253
+Start: 598.45
+End: 599.29
+Confidence: nan
+Text: Tinamad.
+
+Utterance 254
+Start: 600.61
+End: 601.27
+Confidence: nan
+Text: Fiesta.
+
+Utterance 255
+Start: 602.45
+End: 603.39
+Confidence: nan
+Text: Lapit.
+
+Utterance 256
+Start: 604.23
+End: 605.21
+Confidence: nan
+Text: Nauunahan.
+
+Utterance 257
+Start: 605.21
+End: 607.33
+Confidence: nan
+Text: Tinambakan.
+
+Utterance 258
+Start: 608.05
+End: 609.33
+Confidence: nan
+Text: Gaan.
+
+Utterance 259
+Start: 609.75
+End: 610.53
+Confidence: nan
+Text: Lapitan.
+
+Utterance 260
+Start: 611.37
+End: 612.15
+Confidence: nan
+Text: Nawala.
+
+Utterance 261
+Start: 612.81
+End: 613.51
+Confidence: nan
+Text: Tinapon.
+
+Utterance 262
+Start: 614.43
+End: 615.03
+Confidence: nan
+Text: Gaano.
+
+Utterance 263
+Start: 616.31
+End: 616.73
+Confidence: nan
+Text: Lara.
+
+Utterance 264
+Start: 618.98
+End: 619.62
+Confidence: nan
+Text: Nawalan.
+
+Utterance 265
+Start: 620.66
+End: 622.06
+Confidence: nan
+Text: Tinatangkilik.
+
+Utterance 266
+Start: 622.76
+End: 623.84
+Confidence: nan
+Text: Gabi.
+
+Utterance 267
+Start: 624.14
+End: 624.88
+Confidence: nan
+Text: Larangan.
+
+Utterance 268
+Start: 625.98
+End: 626.88
+Confidence: nan
+Text: Nawawala.
+
+Utterance 269
+Start: 627.96
+End: 628.46
+Confidence: nan
+Text: Tindi.
+
+Utterance 270
+Start: 629.54
+End: 630.70
+Confidence: nan
+Text: Supporter.
+
+Utterance 271
+Start: 630.70
+End: 633.04
+Confidence: nan
+Text: Gagawa.
+
+Utterance 272
+Start: 635.06
+End: 636.46
+Confidence: nan
+Text: Laro.
+
+Utterance 273
+Start: 636.94
+End: 638.30
+Confidence: nan
+Text: Negosyo.
+
+Utterance 274
+Start: 638.78
+End: 639.62
+Confidence: nan
+Text: Sitkom.
+
+Utterance 275
+Start: 640.34
+End: 641.12
+Confidence: nan
+Text: Tinis.
+
+Utterance 276
+Start: 641.94
+End: 642.82
+Confidence: nan
+Text: Galangin.
+
+Utterance 277
+Start: 643.70
+End: 644.30
+Confidence: nan
+Text: Laruan.
+
+Utterance 278
+Start: 645.62
+End: 646.32
+Confidence: nan
+Text: Nanita.
+
+Utterance 279
+Start: 647.78
+End: 648.48
+Confidence: nan
+Text: Tinirhan.
+
+Utterance 280
+Start: 650.26
+End: 650.68
+Confidence: nan
+Text: Galing.
+
+Utterance 281
+Start: 651.66
+End: 652.24
+Confidence: nan
+Text: Laruin.
+
+Utterance 282
+Start: 653.40
+End: 654.14
+Confidence: nan
+Text: Nang.
+
+Utterance 283
+Start: 654.58
+End: 655.66
+Confidence: nan
+Text: Tinutukoy.
+
+Utterance 284
+Start: 656.44
+End: 657.00
+Confidence: nan
+Text: Galing.
+
+Utterance 285
+Start: 657.00
+End: 659.34
+Confidence: nan
+Text: Lasa.
+
+Utterance 286
+Start: 659.56
+End: 660.78
+Confidence: nan
+Text: Nga.
+
+Utterance 287
+Start: 661.30
+End: 661.88
+Confidence: nan
+Text: Tira.
+
+Utterance 288
+Start: 662.92
+End: 664.12
+Confidence: nan
+Text: Galingan.
+
+Utterance 289
+Start: 664.52
+End: 665.22
+Confidence: nan
+Text: Lasahan.
+
+Utterance 290
+Start: 666.40
+End: 666.92
+Confidence: nan
+Text: Ngang.
+
+Utterance 291
+Start: 667.96
+End: 668.78
+Confidence: nan
+Text: Tiwala.
+
+Utterance 292
+Start: 669.82
+End: 670.88
+Confidence: nan
+Text: Gamit.
+
+Utterance 293
+Start: 671.24
+End: 672.16
+Confidence: nan
+Text: Lasengo.
+
+Utterance 294
+Start: 672.92
+End: 673.80
+Confidence: nan
+Text: Ngayon.
+
+Utterance 295
+Start: 674.50
+End: 675.18
+Confidence: nan
+Text: Tiyak.
+
+Utterance 296
+Start: 675.84
+End: 676.56
+Confidence: nan
+Text: Gamitin.
+
+Utterance 297
+Start: 677.28
+End: 678.14
+Confidence: nan
+Text: Lasing.
+
+Utterance 298
+Start: 678.82
+End: 679.78
+Confidence: nan
+Text: Ngipin.
+
+Utterance 299
+Start: 679.78
+End: 681.08
+Confidence: nan
+Text: Tiyan.
+
+Utterance 300
+Start: 681.70
+End: 682.56
+Confidence: nan
+Text: Gamot.
+
+Utterance 301
+Start: 683.26
+End: 683.96
+Confidence: nan
+Text: Laya.
+
+Utterance 302
+Start: 684.42
+End: 685.34
+Confidence: nan
+Text: Ngunit.
+
+Utterance 303
+Start: 685.62
+End: 685.92
+Confidence: nan
+Text: Toto.
+
+Utterance 304
+Start: 686.80
+End: 687.64
+Confidence: nan
+Text: Ganap.
+
+Utterance 305
+Start: 688.54
+End: 689.76
+Confidence: nan
+Text: Layas.
+
+Utterance 306
+Start: 690.46
+End: 690.86
+Confidence: nan
+Text: Ni.
+
+Utterance 307
+Start: 691.58
+End: 692.54
+Confidence: nan
+Text: Trabaho.
+
+Utterance 308
+Start: 693.46
+End: 694.14
+Confidence: nan
+Text: Ganda.
+
+Utterance 309
+Start: 694.76
+End: 695.46
+Confidence: nan
+Text: Layasan.
+
+Utterance 310
+Start: 696.58
+End: 697.00
+Confidence: nan
+Text: Nila.
+
+Utterance 311
+Start: 698.04
+End: 698.94
+Confidence: nan
+Text: Trahedya.
+
+Utterance 312
+Start: 699.82
+End: 700.54
+Confidence: nan
+Text: Gandahan.
+
+Utterance 313
+Start: 700.54
+End: 702.42
+Confidence: nan
+Text: Layo.
+
+Utterance 314
+Start: 702.68
+End: 703.94
+Confidence: nan
+Text: Nilagay.
+
+Utterance 315
+Start: 704.28
+End: 705.14
+Confidence: nan
+Text: Chek.
+
+Utterance 316
+Start: 705.46
+End: 706.24
+Confidence: nan
+Text: Ganito.
+
+Utterance 317
+Start: 706.74
+End: 707.38
+Confidence: nan
+Text: Layuan.
+
+Utterance 318
+Start: 708.12
+End: 708.86
+Confidence: nan
+Text: Nilakbay.
+
+Utterance 319
+Start: 709.90
+End: 710.64
+Confidence: nan
+Text: Cheke.
+
+Utterance 320
+Start: 711.12
+End: 711.84
+Confidence: nan
+Text: Ganoon.
+
+Utterance 321
+Start: 712.36
+End: 712.94
+Confidence: nan
+Text: Layuin.
+
+Utterance 322
+Start: 713.88
+End: 714.88
+Confidence: nan
+Text: Nilang.
+
+Utterance 323
+Start: 715.36
+End: 716.14
+Confidence: nan
+Text: Chinelas.
+
+Utterance 324
+Start: 717.32
+End: 718.08
+Confidence: nan
+Text: Ganyan.
+
+Utterance 325
+Start: 718.88
+End: 720.28
+Confidence: nan
+Text: Langwahe.
+
+Utterance 326
+Start: 729.12
+End: 730.52
+Confidence: nan
+Text: Nilapit.
+
+Utterance 327
+Start: 732.16
+End: 734.38
+Confidence: nan
+Text: Gasgasan.
+
+Utterance 328
+Start: 734.38
+End: 735.50
+Confidence: nan
+Text: Libing.
+
+Utterance 329
+Start: 735.82
+End: 736.40
+Confidence: nan
+Text: Nilasing.
+
+Utterance 330
+Start: 737.26
+End: 737.70
+Confidence: nan
+Text: Tula.
+
+Utterance 331
+Start: 738.64
+End: 739.62
+Confidence: nan
+Text: Gastos.
+
+Utterance 332
+Start: 740.04
+End: 740.74
+Confidence: nan
+Text: Liblib.
+
+Utterance 333
+Start: 741.58
+End: 742.64
+Confidence: nan
+Text: Nilusob.
+
+Utterance 334
+Start: 743.04
+End: 743.88
+Confidence: nan
+Text: Tulad.
+
+Utterance 335
+Start: 744.42
+End: 745.08
+Confidence: nan
+Text: Gastusan.
+
+Utterance 336
+Start: 745.96
+End: 746.82
+Confidence: nan
+Text: Libro.
+
+Utterance 337
+Start: 747.58
+End: 748.20
+Confidence: nan
+Text: Ningning.
+
+Utterance 338
+Start: 749.14
+End: 749.62
+Confidence: nan
+Text: Tulo.
+
+Utterance 339
+Start: 750.36
+End: 751.22
+Confidence: nan
+Text: Gastusin.
+
+Utterance 340
+Start: 752.04
+End: 753.00
+Confidence: nan
+Text: Ligaw.
+
+Utterance 341
+Start: 753.00
+End: 754.72
+Confidence: nan
+Text: Nino.
+
+Utterance 342
+Start: 755.18
+End: 756.42
+Confidence: nan
+Text: Tulungan.
+
+Utterance 343
+Start: 756.86
+End: 757.44
+Confidence: nan
+Text: Gatas.
+
+Utterance 344
+Start: 758.22
+End: 758.98
+Confidence: nan
+Text: Ligawan.
+
+Utterance 345
+Start: 760.28
+End: 760.88
+Confidence: nan
+Text: Ninyo.
+
+Utterance 346
+Start: 761.72
+End: 762.72
+Confidence: nan
+Text: Tumakas.
+
+Utterance 347
+Start: 763.28
+End: 764.12
+Confidence: nan
+Text: Gatong.
+
+Utterance 348
+Start: 764.64
+End: 765.30
+Confidence: nan
+Text: Ligaya.
+
+Utterance 349
+Start: 766.44
+End: 767.20
+Confidence: nan
+Text: Nitong.
+
+Utterance 350
+Start: 767.82
+End: 768.58
+Confidence: nan
+Text: Tumakbo.
+
+Utterance 351
+Start: 769.66
+End: 770.38
+Confidence: nan
+Text: Gaya.
+
+Utterance 352
+Start: 771.24
+End: 771.78
+Confidence: nan
+Text: Ligo.
+
+Utterance 353
+Start: 772.62
+End: 773.04
+Confidence: nan
+Text: Niya.
+
+Utterance 354
+Start: 774.02
+End: 774.62
+Confidence: nan
+Text: Tumalon.
+
+Utterance 355
+Start: 774.62
+End: 776.84
+Confidence: nan
+Text: Giyahin.
+
+Utterance 356
+Start: 777.14
+End: 778.54
+Confidence: nan
+Text: Ligpitin.
+
+Utterance 357
+Start: 779.02
+End: 779.70
+Confidence: nan
+Text: Nian.
+
+Utterance 358
+Start: 780.28
+End: 781.62
+Confidence: nan
+Text: Tumatanda.
+
+Utterance 359
+Start: 782.30
+End: 782.70
+Confidence: nan
+Text: Gate.
+
+Utterance 360
+Start: 783.94
+End: 784.64
+Confidence: nan
+Text: Liham.
+
+Utterance 361
+Start: 785.28
+End: 786.18
+Confidence: nan
+Text: Niyang.
+
+Utterance 362
+Start: 786.78
+End: 788.18
+Confidence: nan
+Text: Tumatawag.
+
+Utterance 363
+Start: 788.70
+End: 789.98
+Confidence: nan
+Text: Gigil.
+
+Utterance 364
+Start: 790.58
+End: 791.48
+Confidence: nan
+Text: Lihim.
+
+Utterance 365
+Start: 792.32
+End: 792.76
+Confidence: nan
+Text: Nyo.
+
+Utterance 366
+Start: 793.92
+End: 794.92
+Confidence: nan
+Text: Tumawag.
+
+Utterance 367
+Start: 795.64
+End: 796.48
+Confidence: nan
+Text: Gilid.
+
+Utterance 368
+Start: 797.02
+End: 797.56
+Confidence: nan
+Text: Liko.
+
+Utterance 369
+Start: 797.56
+End: 799.80
+Confidence: nan
+Text: Nobiyembre.
+
+Utterance 370
+Start: 799.80
+End: 801.18
+Confidence: nan
+Text: Tumawid.
+
+Utterance 371
+Start: 801.62
+End: 802.06
+Confidence: nan
+Text: Giling.
+
+Utterance 372
+Start: 803.42
+End: 804.68
+Confidence: nan
+Text: Likot.
+
+Utterance 373
+Start: 805.24
+End: 806.04
+Confidence: nan
+Text: Noong.
+
+Utterance 374
+Start: 806.96
+End: 807.66
+Confidence: nan
+Text: Tumayo.
+
+Utterance 375
+Start: 809.08
+End: 809.78
+Confidence: nan
+Text: Gilingin.
+
+Utterance 376
+Start: 810.50
+End: 811.42
+Confidence: nan
+Text: Likuan.
+
+Utterance 377
+Start: 812.14
+End: 812.88
+Confidence: nan
+Text: Numiro.
+
+Utterance 378
+Start: 813.68
+End: 814.46
+Confidence: nan
+Text: Gilyo.
+
+Utterance 379
+Start: 814.86
+End: 815.36
+Confidence: nan
+Text: Lima.
+
+Utterance 380
+Start: 816.32
+End: 816.72
+Confidence: nan
+Text: Nung.
+
+Utterance 381
+Start: 817.66
+End: 818.44
+Confidence: nan
+Text: Gimik.
+
+Utterance 382
+Start: 818.94
+End: 819.70
+Confidence: nan
+Text: Limos.
+
+Utterance 383
+Start: 819.70
+End: 821.42
+Confidence: nan
+Text: Nuod.
+
+Utterance 384
+Start: 821.76
+End: 822.80
+Confidence: nan
+Text: Tunay.
+
+Utterance 385
+Start: 823.20
+End: 823.90
+Confidence: nan
+Text: Ginang.
+
+Utterance 386
+Start: 824.42
+End: 825.40
+Confidence: nan
+Text: Lindol.
+
+Utterance 387
+Start: 826.08
+End: 827.10
+Confidence: nan
+Text: Okey.
+
+Utterance 388
+Start: 827.22
+End: 828.02
+Confidence: nan
+Text: Tungkol.
+
+Utterance 389
+Start: 828.82
+End: 829.64
+Confidence: nan
+Text: Ginhawa.
+
+Utterance 390
+Start: 830.34
+End: 831.28
+Confidence: nan
+Text: Linggong.
+
+Utterance 391
+Start: 831.90
+End: 832.62
+Confidence: nan
+Text: Okra.
+
+Utterance 392
+Start: 833.32
+End: 834.10
+Confidence: nan
+Text: Tunog.
+
+Utterance 393
+Start: 834.54
+End: 835.20
+Confidence: nan
+Text: Ginisa.
+
+Utterance 394
+Start: 838.60
+End: 839.32
+Confidence: nan
+Text: Lingo.
+
+Utterance 395
+Start: 840.02
+End: 841.26
+Confidence: nan
+Text: Oktubre.
+
+Utterance 396
+Start: 842.70
+End: 843.14
+Confidence: nan
+Text: Turo.
+
+Utterance 397
+Start: 843.14
+End: 844.80
+Confidence: nan
+Text: Ginuo.
+
+Utterance 398
+Start: 845.16
+End: 846.06
+Confidence: nan
+Text: Lingon.
+
+Utterance 399
+Start: 846.66
+End: 847.02
+Confidence: nan
+Text: Oo.
+
+Utterance 400
+Start: 847.78
+End: 848.22
+Confidence: nan
+Text: Tuwid.
+
+Utterance 401
+Start: 848.78
+End: 849.24
+Confidence: nan
+Text: Ginto.
+
+Utterance 402
+Start: 850.10
+End: 850.84
+Confidence: nan
+Text: Linis.
+
+Utterance 403
+Start: 851.30
+End: 852.10
+Confidence: nan
+Text: Opisina.
+
+Utterance 404
+Start: 853.20
+End: 853.88
+Confidence: nan
+Text: Ube.
+
+Utterance 405
+Start: 854.72
+End: 855.46
+Confidence: nan
+Text: Gintong.
+
+Utterance 406
+Start: 856.02
+End: 856.70
+Confidence: nan
+Text: Linisin.
+
+Utterance 407
+Start: 857.16
+End: 858.04
+Confidence: nan
+Text: Opisinang.
+
+Utterance 408
+Start: 859.28
+End: 860.24
+Confidence: nan
+Text: Ubo.
+
+Utterance 409
+Start: 861.12
+End: 861.60
+Confidence: nan
+Text: Gising.
+
+Utterance 410
+Start: 862.34
+End: 862.92
+Confidence: nan
+Text: Linlang.
+
+Utterance 411
+Start: 862.92
+End: 864.96
+Confidence: nan
+Text: Opo.
+
+Utterance 412
+Start: 866.36
+End: 867.26
+Confidence: nan
+Text: Ubuhin.
+
+Utterance 413
+Start: 867.74
+End: 868.40
+Confidence: nan
+Text: Gisingin.
+
+Utterance 414
+Start: 868.68
+End: 869.18
+Confidence: nan
+Text: Linta.
+
+Utterance 415
+Start: 870.14
+End: 870.84
+Confidence: nan
+Text: Oras.
+
+Utterance 416
+Start: 871.16
+End: 872.12
+Confidence: nan
+Text: Ubusin.
+
+Utterance 417
+Start: 872.44
+End: 873.06
+Confidence: nan
+Text: Gitna.
+
+Utterance 418
+Start: 873.62
+End: 874.90
+Confidence: nan
+Text: Lisanin.
+
+Utterance 419
+Start: 875.20
+End: 875.74
+Confidence: nan
+Text: Orasan.
+
+Utterance 420
+Start: 876.36
+End: 877.06
+Confidence: nan
+Text: Ugali.
+
+Utterance 421
+Start: 877.66
+End: 878.40
+Confidence: nan
+Text: Gubat.
+
+Utterance 422
+Start: 878.86
+End: 879.62
+Confidence: nan
+Text: Litaw.
+
+Utterance 423
+Start: 880.42
+End: 881.00
+Confidence: nan
+Text: Oso.
+
+Utterance 424
+Start: 881.82
+End: 882.52
+Confidence: nan
+Text: Ugat.
+
+Utterance 425
+Start: 882.52
+End: 884.94
+Confidence: nan
+Text: Gulang.
+
+Utterance 426
+Start: 884.96
+End: 886.08
+Confidence: nan
+Text: Lito.
+
+Utterance 427
+Start: 886.68
+End: 887.24
+Confidence: nan
+Text: Oto.
+
+Utterance 428
+Start: 888.12
+End: 888.86
+Confidence: nan
+Text: Uhaw.
+
+Utterance 429
+Start: 889.54
+End: 890.26
+Confidence: nan
+Text: Gulangan.
+
+Utterance 430
+Start: 890.94
+End: 891.86
+Confidence: nan
+Text: Lituhin.
+
+Utterance 431
+Start: 892.62
+End: 893.06
+Confidence: nan
+Text: Pa.
+
+Utterance 432
+Start: 893.78
+End: 894.70
+Confidence: nan
+Text: Ulam.
+
+Utterance 433
+Start: 895.58
+End: 896.56
+Confidence: nan
+Text: Gulat.
+
+Utterance 434
+Start: 898.62
+End: 900.02
+Confidence: nan
+Text: Lokohan.
+
+Utterance 435
+Start: 901.06
+End: 902.32
+Confidence: nan
+Text: Paa.
+
+Utterance 436
+Start: 903.06
+End: 903.56
+Confidence: nan
+Text: Ulan.
+
+Utterance 437
+Start: 904.82
+End: 905.48
+Confidence: nan
+Text: Gulatin.
+
+Utterance 438
+Start: 906.60
+End: 907.80
+Confidence: nan
+Text: Lokohin.
+
+Utterance 439
+Start: 907.80
+End: 909.80
+Confidence: nan
+Text: Paakyat.
+
+Utterance 440
+Start: 910.82
+End: 912.04
+Confidence: nan
+Text: Ulanan.
+
+Utterance 441
+Start: 912.54
+End: 913.60
+Confidence: nan
+Text: Gulay.
+
+Utterance 442
+Start: 913.90
+End: 914.50
+Confidence: nan
+Text: Paalis.
+
+Utterance 443
+Start: 917.79
+End: 918.61
+Confidence: nan
+Text: Ulang.
+
+Utterance 444
+Start: 919.69
+End: 920.07
+Confidence: nan
+Text: Gulo.
+
+Utterance 445
+Start: 920.93
+End: 921.59
+Confidence: nan
+Text: Paano.
+
+Utterance 446
+Start: 922.35
+End: 922.95
+Confidence: nan
+Text: Uli.
+
+Utterance 447
+Start: 923.81
+End: 924.59
+Confidence: nan
+Text: Gulod.
+
+Utterance 448
+Start: 925.47
+End: 926.21
+Confidence: nan
+Text: Paaralan.
+
+Utterance 449
+Start: 927.09
+End: 928.05
+Confidence: nan
+Text: Ulit.
+
+Utterance 450
+Start: 928.67
+End: 929.29
+Confidence: nan
+Text: Gulpi.
+
+Utterance 451
+Start: 930.21
+End: 931.15
+Confidence: nan
+Text: Pabalik.
+
+Utterance 452
+Start: 933.13
+End: 933.71
+Confidence: nan
+Text: Ulitan.
+
+Utterance 453
+Start: 938.73
+End: 940.13
+Confidence: nan
+Text: Guluhin.
+
+Utterance 454
+Start: 941.15
+End: 942.11
+Confidence: nan
+Text: Padamdam.
+
+Utterance 455
+Start: 943.09
+End: 944.03
+Confidence: nan
+Text: Ulo.
+
+Utterance 456
+Start: 944.51
+End: 945.73
+Confidence: nan
+Text: Gumamit.
+
+Utterance 457
+Start: 946.05
+End: 946.85
+Confidence: nan
+Text: Pader.
+
+Utterance 458
+Start: 947.31
+End: 948.29
+Confidence: nan
+Text: Rosario.
+
+Utterance 459
+Start: 949.73
+End: 950.43
+Confidence: nan
+Text: Restaurant.
+
+Utterance 460
+Start: 951.97
+End: 952.55
+Confidence: nan
+Text: Records.
+
+Utterance 461
+Start: 953.53
+End: 954.55
+Confidence: nan
+Text: Limang.
+
+Utterance 462
+Start: 955.03
+End: 956.35
+Confidence: nan
+Text: Inusenteng.
+
+Utterance 463
+Start: 956.67
+End: 957.73
+Confidence: nan
+Text: Pangangilangan.
+
+Utterance 464
+Start: 958.69
+End: 959.83
+Confidence: nan
+Text: Pinangyarihan.
+
+Utterance 465
+Start: 960.55
+End: 961.61
+Confidence: nan
+Text: Umabot.
+
+Utterance 466
+Start: 962.25
+End: 962.93
+Confidence: nan
+Text: Gumiling.
+
+Utterance 467
+Start: 962.93
+End: 965.27
+Confidence: nan
+Text: Lupang.
+
+Utterance 468
+Start: 965.27
+End: 966.59
+Confidence: nan
+Text: Pagbati.
+
+Utterance 469
+Start: 967.15
+End: 968.17
+Confidence: nan
+Text: Umaga.
+
+Utterance 470
+Start: 968.85
+End: 969.99
+Confidence: nan
+Text: Kumising.
+
+Utterance 471
+Start: 970.71
+End: 971.47
+Confidence: nan
+Text: Maaari.
+
+Utterance 472
+Start: 972.75
+End: 973.45
+Confidence: nan
+Text: Pagbibigay.
+
+Utterance 473
+Start: 973.95
+End: 974.55
+Confidence: nan
+Text: Umalis.
+
+Utterance 474
+Start: 975.41
+End: 976.03
+Confidence: nan
+Text: Gunting.
+
+Utterance 475
+Start: 976.97
+End: 977.83
+Confidence: nan
+Text: Maaaring.
+
+Utterance 476
+Start: 978.75
+End: 979.35
+Confidence: nan
+Text: Pagdami.
+
+Utterance 477
+Start: 980.15
+End: 980.99
+Confidence: nan
+Text: Umarte.
+
+Utterance 478
+Start: 981.73
+End: 982.89
+Confidence: nan
+Text: Gupit.
+
+Utterance 479
+Start: 983.17
+End: 984.05
+Confidence: nan
+Text: Maabilidad.
+
+Utterance 480
+Start: 984.95
+End: 985.79
+Confidence: nan
+Text: Pagdating.
+
+Utterance 481
+Start: 985.79
+End: 987.69
+Confidence: nan
+Text: Umihi.
+
+Utterance 482
+Start: 988.01
+End: 989.07
+Confidence: nan
+Text: Gupitan.
+
+Utterance 483
+Start: 989.85
+End: 990.81
+Confidence: nan
+Text: Maabot.
+
+Utterance 484
+Start: 991.35
+End: 991.91
+Confidence: nan
+Text: Paggawa.
+
+Utterance 485
+Start: 992.85
+End: 993.77
+Confidence: nan
+Text: Umiyak.
+
+Utterance 486
+Start: 994.29
+End: 995.43
+Confidence: nan
+Text: Gupitin.
+
+Utterance 487
+Start: 995.89
+End: 996.59
+Confidence: nan
+Text: Maaga.
+
+Utterance 488
+Start: 997.15
+End: 998.35
+Confidence: nan
+Text: Pagaharapin.
+
+Utterance 489
+Start: 998.91
+End: 999.75
+Confidence: nan
+Text: Gusali.
+
+Utterance 490
+Start: 1000.37
+End: 1001.27
+Confidence: nan
+Text: Maagang.
+
+Utterance 491
+Start: 1001.83
+End: 1003.21
+Confidence: nan
+Text: Paghandaan.
+
+Utterance 492
+Start: 1003.75
+End: 1004.89
+Confidence: nan
+Text: Gusto.
+
+Utterance 493
+Start: 1005.21
+End: 1006.29
+Confidence: nan
+Text: Maalat.
+
+Utterance 494
+Start: 1006.99
+End: 1007.83
+Confidence: nan
+Text: Paghina.
+
+Utterance 495
+Start: 1007.83
+End: 1009.97
+Confidence: nan
+Text: Gustuhin.
+
+Utterance 496
+Start: 1010.33
+End: 1011.73
+Confidence: nan
+Text: Maaliwalas.
+
+Utterance 497
+Start: 1012.07
+End: 1013.15
+Confidence: nan
+Text: Pagibig.
+
+Utterance 498
+Start: 1013.81
+End: 1014.93
+Confidence: nan
+Text: Maasim.
+
+Utterance 499
+Start: 1015.43
+End: 1016.49
+Confidence: nan
+Text: Pagiging.
+
+Utterance 500
+Start: 1017.23
+End: 1017.93
+Confidence: nan
+Text: Haba.
+
+Utterance 501
+Start: 1018.33
+End: 1019.31
+Confidence: nan
+Text: Mabagal.
+
+Utterance 502
+Start: 1019.73
+End: 1020.43
+Confidence: nan
+Text: Pagkabigla.
+
+Utterance 503
+Start: 1021.45
+End: 1021.93
+Confidence: nan
+Text: Una.
+
+Utterance 504
+Start: 1022.67
+End: 1023.59
+Confidence: nan
+Text: Habaan.
+
+Utterance 505
+Start: 1024.31
+End: 1025.01
+Confidence: nan
+Text: Mabaho.
+
+Utterance 506
+Start: 1025.77
+End: 1026.97
+Confidence: nan
+Text: Nakilalang.
+
+Utterance 507
+Start: 1027.33
+End: 1028.53
+Confidence: nan
+Text: Magpipitong.
+
+Utterance 508
+Start: 1028.89
+End: 1029.87
+Confidence: nan
+Text: Nasabing.
+
+Utterance 509
+Start: 1029.87
+End: 1031.27
+Confidence: nan
+Text: Parangal.
+
+Utterance 510
+Start: 1031.73
+End: 1032.61
+Confidence: nan
+Text: Karangalan.
+
+Utterance 511
+Start: 1033.51
+End: 1034.25
+Confidence: nan
+Text: Dating.
+
+Utterance 512
+Start: 1034.81
+End: 1035.71
+Confidence: nan
+Text: Planong.
+
+Utterance 513
+Start: 1036.17
+End: 1037.55
+Confidence: nan
+Text: Pagkabuhat.
+
+Utterance 514
+Start: 1038.39
+End: 1039.35
+Confidence: nan
+Text: Unahan.
+
+Utterance 515
+Start: 1041.19
+End: 1041.89
+Confidence: nan
+Text: Habang.
+
+Utterance 516
+Start: 1042.17
+End: 1042.93
+Confidence: nan
+Text: Mabait.
+
+Utterance 517
+Start: 1043.63
+End: 1044.57
+Confidence: nan
+Text: Pagkain.
+
+Utterance 518
+Start: 1045.15
+End: 1045.75
+Confidence: nan
+Text: Unang.
+
+Utterance 519
+Start: 1046.09
+End: 1047.09
+Confidence: nan
+Text: Hagdanan.
+
+Utterance 520
+Start: 1047.43
+End: 1047.97
+Confidence: nan
+Text: Mabango.
+
+Utterance 521
+Start: 1048.61
+End: 1049.75
+Confidence: nan
+Text: Pagkakilala.
+
+Utterance 522
+Start: 1050.23
+End: 1051.31
+Confidence: nan
+Text: Universidad.
+
+Utterance 523
+Start: 1051.31
+End: 1053.21
+Confidence: nan
+Text: Pagkaharapin.
+
+Utterance 524
+Start: 1053.39
+End: 1054.63
+Confidence: nan
+Text: Mabayaran.
+
+Utterance 525
+Start: 1055.17
+End: 1056.41
+Confidence: nan
+Text: Pagkakatao.
+
+Utterance 526
+Start: 1056.75
+End: 1057.29
+Confidence: nan
+Text: Uod.
+
+Utterance 527
+Start: 1057.89
+End: 1058.41
+Confidence: nan
+Text: Halaga.
+
+Utterance 528
+Start: 1059.05
+End: 1060.11
+Confidence: nan
+Text: Mabilis.
+
+Utterance 529
+Start: 1060.45
+End: 1061.69
+Confidence: nan
+Text: Pagkakautang.
+
+Utterance 530
+Start: 1062.11
+End: 1062.95
+Confidence: nan
+Text: Upang.
+
+Utterance 531
+Start: 1063.39
+End: 1063.99
+Confidence: nan
+Text: Halaman.
+
+Utterance 532
+Start: 1064.73
+End: 1065.85
+Confidence: nan
+Text: Mabuhay.
+
+Utterance 533
+Start: 1066.23
+End: 1067.27
+Confidence: nan
+Text: Pagkakuha.
+
+Utterance 534
+Start: 1068.31
+End: 1069.19
+Confidence: nan
+Text: Upo.
+
+Utterance 535
+Start: 1069.69
+End: 1070.57
+Confidence: nan
+Text: Halayin.
+
+Utterance 536
+Start: 1070.95
+End: 1071.49
+Confidence: nan
+Text: Mabuo.
+
+Utterance 537
+Start: 1071.49
+End: 1073.35
+Confidence: nan
+Text: Pagkatalo.
+
+Utterance 538
+Start: 1073.55
+End: 1074.31
+Confidence: nan
+Text: Upuan.
+
+Utterance 539
+Start: 1075.09
+End: 1075.75
+Confidence: nan
+Text: Halika.
+
+Utterance 540
+Start: 1076.29
+End: 1077.21
+Confidence: nan
+Text: Mabuti.
+
+Utterance 541
+Start: 1077.71
+End: 1079.11
+Confidence: nan
+Text: Pagkatapos.
+
+Utterance 542
+Start: 1079.47
+End: 1079.97
+Confidence: nan
+Text: Uri.
+
+Utterance 543
+Start: 1080.49
+End: 1081.19
+Confidence: nan
+Text: Halina.
+
+Utterance 544
+Start: 1081.75
+End: 1082.57
+Confidence: nan
+Text: Madaanan.
+
+Utterance 545
+Start: 1083.33
+End: 1083.99
+Confidence: nan
+Text: Pagkawala.
+
+Utterance 546
+Start: 1084.83
+End: 1085.55
+Confidence: nan
+Text: Usapan.
+
+Utterance 547
+Start: 1086.25
+End: 1087.05
+Confidence: nan
+Text: Halos.
+
+Utterance 548
+Start: 1087.47
+End: 1088.59
+Confidence: nan
+Text: Madalas.
+
+Utterance 549
+Start: 1088.83
+End: 1089.65
+Confidence: nan
+Text: Pagkuha.
+
+Utterance 550
+Start: 1090.39
+End: 1090.97
+Confidence: nan
+Text: Utang.
+
+Utterance 551
+Start: 1090.97
+End: 1092.77
+Confidence: nan
+Text: Hambing.
+
+Utterance 552
+Start: 1092.79
+End: 1094.11
+Confidence: nan
+Text: Madali.
+
+Utterance 553
+Start: 1094.67
+End: 1095.41
+Confidence: nan
+Text: Pagod.
+
+Utterance 554
+Start: 1095.87
+End: 1096.63
+Confidence: nan
+Text: Uunlad.
+
+Utterance 555
+Start: 1097.51
+End: 1097.89
+Confidence: nan
+Text: Handa.
+
+Utterance 556
+Start: 1098.71
+End: 1099.79
+Confidence: nan
+Text: Madami.
+
+Utterance 557
+Start: 1100.09
+End: 1100.97
+Confidence: nan
+Text: Pagpapabaya.
+
+Utterance 558
+Start: 1101.77
+End: 1102.17
+Confidence: nan
+Text: Uwe.
+
+Utterance 559
+Start: 1103.11
+End: 1103.85
+Confidence: nan
+Text: Handaan.
+
+Utterance 560
+Start: 1104.77
+End: 1105.59
+Confidence: nan
+Text: Madarama.
+
+Utterance 561
+Start: 1106.29
+End: 1107.57
+Confidence: nan
+Text: Pagsamit.
+
+Utterance 562
+Start: 1108.51
+End: 1109.63
+Confidence: nan
+Text: Valdiktorian.
+
+Utterance 563
+Start: 1110.35
+End: 1111.45
+Confidence: nan
+Text: Hanggang.
+
+Utterance 564
+Start: 1111.83
+End: 1112.59
+Confidence: nan
+Text: Madidilad.
+
+Utterance 565
+Start: 1112.59
+End: 1114.97
+Confidence: nan
+Text: Pagsubok.
+
+Utterance 566
+Start: 1115.17
+End: 1116.49
+Confidence: nan
+Text: Valibol.
+
+Utterance 567
+Start: 1116.95
+End: 1117.67
+Confidence: nan
+Text: Hanging.
+
+Utterance 568
+Start: 1118.17
+End: 1119.41
+Confidence: nan
+Text: Madidilaw.
+
+Utterance 569
+Start: 1119.67
+End: 1120.31
+Confidence: nan
+Text: Pagulan.
+
+Utterance 570
+Start: 1121.19
+End: 1121.97
+Confidence: nan
+Text: Vanilla.
+
+Utterance 571
+Start: 1122.77
+End: 1123.63
+Confidence: nan
+Text: Hapag.
+
+Utterance 572
+Start: 1124.11
+End: 1125.39
+Confidence: nan
+Text: Magagandang.
+
+Utterance 573
+Start: 1126.43
+End: 1127.25
+Confidence: nan
+Text: Pakialam.
+
+Utterance 574
+Start: 1128.13
+End: 1129.33
+Confidence: nan
+Text: Vibes.
+
+Utterance 575
+Start: 1129.99
+End: 1130.47
+Confidence: nan
+Text: Hapon.
+
+Utterance 576
+Start: 1131.53
+End: 1132.07
+Confidence: nan
+Text: Magaling.
+
+Utterance 577
+Start: 1132.93
+End: 1134.17
+Confidence: nan
+Text: Pakibukas.
+
+Utterance 578
+Start: 1135.23
+End: 1135.93
+Confidence: nan
+Text: Violet.
+
+Utterance 579
+Start: 1135.93
+End: 1137.93
+Confidence: nan
+Text: Harap.
+
+Utterance 580
+Start: 1139.05
+End: 1140.19
+Confidence: nan
+Text: Maganda.
+
+Utterance 581
+Start: 1140.79
+End: 1141.97
+Confidence: nan
+Text: Pakigamot.
+
+Utterance 582
+Start: 1142.59
+End: 1142.99
+Confidence: nan
+Text: Vice
+
+Utterance 583
+Start: 1142.99
+End: 1143.67
+Confidence: nan
+Text: versa.
+
+Utterance 584
+Start: 1144.53
+End: 1145.21
+Confidence: nan
+Text: Ginawang.
+
+Utterance 585
+Start: 1145.97
+End: 1146.93
+Confidence: nan
+Text: Pangyayaring.
+
+Utterance 586
+Start: 1147.73
+End: 1148.43
+Confidence: nan
+Text: Anyang.
+
+Utterance 587
+Start: 1149.27
+End: 1149.97
+Confidence: nan
+Text: Pambansang.
+
+Utterance 588
+Start: 1150.45
+End: 1151.19
+Confidence: nan
+Text: Mabigyang.
+
+Utterance 589
+Start: 1152.35
+End: 1153.63
+Confidence: nan
+Text: Panunungkulang.
+
+Utterance 590
+Start: 1153.99
+End: 1154.37
+Confidence: nan
+Text: Kataas
+
+Utterance 591
+Start: 1154.37
+End: 1155.25
+Confidence: nan
+Text: -taasang.
+
+Utterance 592
+Start: 1156.27
+End: 1157.27
+Confidence: nan
+Text: Tayong.
+
+Utterance 593
+Start: 1158.23
+End: 1159.19
+Confidence: nan
+Text: Magsabong.
+
+Utterance 594
+Start: 1159.55
+End: 1160.19
+Confidence: nan
+Text: Magsawalang
+
+Utterance 595
+Start: 1160.19
+End: 1160.59
+Confidence: nan
+Text: kibo.
+
+Utterance 596
+Start: 1160.59
+End: 1162.83
+Confidence: nan
+Text: Kasamahan.
+
+Utterance 597
+Start: 1163.07
+End: 1164.01
+Confidence: nan
+Text: Ibang.
+
+Utterance 598
+Start: 1164.45
+End: 1165.69
+Confidence: nan
+Text: Mapayapang.
+
+Utterance 599
+Start: 1166.23
+End: 1166.77
+Confidence: nan
+Text: Harapan.
+
+Utterance 600
+Start: 1169.51
+End: 1170.21
+Confidence: nan
+Text: Magandang.
+
+Utterance 601
+Start: 1170.53
+End: 1171.15
+Confidence: nan
+Text: Pakigawa.
+
+Utterance 602
+Start: 1172.43
+End: 1172.99
+Confidence: nan
+Text: Vendo.
+
+Utterance 603
+Start: 1173.63
+End: 1174.45
+Confidence: nan
+Text: Harapin.
+
+Utterance 604
+Start: 1174.93
+End: 1176.27
+Confidence: nan
+Text: Magaral.
+
+Utterance 605
+Start: 1176.75
+End: 1177.77
+Confidence: nan
+Text: Pakihugas.
+
+Utterance 606
+Start: 1178.47
+End: 1179.49
+Confidence: nan
+Text: Veranda.
+
+Utterance 607
+Start: 1180.11
+End: 1180.63
+Confidence: nan
+Text: Hasa.
+
+Utterance 608
+Start: 1181.33
+End: 1182.25
+Confidence: nan
+Text: Magasawa.
+
+Utterance 609
+Start: 1182.87
+End: 1183.65
+Confidence: nan
+Text: Pakiwan.
+
+Utterance 610
+Start: 1183.65
+End: 1185.81
+Confidence: nan
+Text: Versatil.
+
+Utterance 611
+Start: 1185.81
+End: 1187.11
+Confidence: nan
+Text: Hasain.
+
+Utterance 612
+Start: 1187.53
+End: 1188.71
+Confidence: nan
+Text: Magasawang.
+
+Utterance 613
+Start: 1189.39
+End: 1190.09
+Confidence: nan
+Text: Pakikanta.
+
+Utterance 614
+Start: 1191.01
+End: 1191.71
+Confidence: nan
+Text: Versus.
+
+Utterance 615
+Start: 1192.31
+End: 1192.73
+Confidence: nan
+Text: Hataw.
+
+Utterance 616
+Start: 1193.27
+End: 1193.79
+Confidence: nan
+Text: Magawa.
+
+Utterance 617
+Start: 1194.57
+End: 1195.63
+Confidence: nan
+Text: Pakikuha.
+
+Utterance 618
+Start: 1196.41
+End: 1197.43
+Confidence: nan
+Text: Vigilante.
+
+Utterance 619
+Start: 1198.15
+End: 1199.31
+Confidence: nan
+Text: Hatawin.
+
+Utterance 620
+Start: 1200.05
+End: 1200.65
+Confidence: nan
+Text: Magbago.
+
+Utterance 621
+Start: 1201.57
+End: 1202.07
+Confidence: nan
+Text: Wagi.
+
+Utterance 622
+Start: 1202.93
+End: 1203.73
+Confidence: nan
+Text: Hatid.
+
+Utterance 623
+Start: 1204.01
+End: 1205.17
+Confidence: nan
+Text: Magbantay.
+
+Utterance 624
+Start: 1205.17
+End: 1207.01
+Confidence: nan
+Text: Pakinabang.
+
+Utterance 625
+Start: 1207.01
+End: 1208.31
+Confidence: nan
+Text: Wakas.
+
+Utterance 626
+Start: 1208.65
+End: 1209.35
+Confidence: nan
+Text: Hawaan.
+
+Utterance 627
+Start: 1210.21
+End: 1210.87
+Confidence: nan
+Text: Magbasa.
+
+Utterance 628
+Start: 1211.73
+End: 1212.91
+Confidence: nan
+Text: Pakiusap.
+
+Utterance 629
+Start: 1213.33
+End: 1213.75
+Confidence: nan
+Text: Wala.
+
+Utterance 630
+Start: 1214.51
+End: 1215.17
+Confidence: nan
+Text: Hawakan.
+
+Utterance 631
+Start: 1215.85
+End: 1216.75
+Confidence: nan
+Text: Magbasag.
+
+Utterance 632
+Start: 1217.35
+End: 1218.35
+Confidence: nan
+Text: Pakiusapan.
+
+Utterance 633
+Start: 1219.19
+End: 1220.01
+Confidence: nan
+Text: Walang.
+
+Utterance 634
+Start: 1220.43
+End: 1221.13
+Confidence: nan
+Text: Hayag.
+
+Utterance 635
+Start: 1221.65
+End: 1222.69
+Confidence: nan
+Text: Magbawas.
+
+Utterance 636
+Start: 1223.13
+End: 1224.17
+Confidence: nan
+Text: Paksa.
+
+Utterance 637
+Start: 1224.63
+End: 1225.55
+Confidence: nan
+Text: Walis.
+
+Utterance 638
+Start: 1225.55
+End: 1226.99
+Confidence: nan
+Text: Hayop.
+
+Utterance 639
+Start: 1227.37
+End: 1228.75
+Confidence: nan
+Text: Magbayad.
+
+Utterance 640
+Start: 1229.11
+End: 1229.87
+Confidence: nan
+Text: Pala.
+
+Utterance 641
+Start: 1230.49
+End: 1230.95
+Confidence: nan
+Text: Walo.
+
+Utterance 642
+Start: 1231.79
+End: 1232.09
+Confidence: nan
+Text: High
+
+Utterance 643
+Start: 1232.09
+End: 1232.81
+Confidence: nan
+Text: school.
+
+Utterance 644
+Start: 1233.39
+End: 1234.35
+Confidence: nan
+Text: Magbenta.
+
+Utterance 645
+Start: 1235.11
+End: 1236.23
+Confidence: nan
+Text: Palabas.
+
+Utterance 646
+Start: 1236.59
+End: 1237.47
+Confidence: nan
+Text: Walong.
+
+Utterance 647
+Start: 1237.93
+End: 1238.49
+Confidence: nan
+Text: General.
+
+Utterance 648
+Start: 1239.29
+End: 1240.31
+Confidence: nan
+Text: Magbigayan.
+
+Utterance 649
+Start: 1241.17
+End: 1241.79
+Confidence: nan
+Text: Palad.
+
+Utterance 650
+Start: 1242.29
+End: 1243.13
+Confidence: nan
+Text: Warat.
+
+Utterance 651
+Start: 1243.57
+End: 1244.59
+Confidence: nan
+Text: Higaan.
+
+Utterance 652
+Start: 1244.93
+End: 1245.95
+Confidence: nan
+Text: Magbilang.
+
+Utterance 653
+Start: 1245.95
+End: 1247.39
+Confidence: nan
+Text: Palawakin.
+
+Utterance 654
+Start: 1248.11
+End: 1249.19
+Confidence: nan
+Text: Wasak.
+
+Utterance 655
+Start: 1249.57
+End: 1250.33
+Confidence: nan
+Text: Hila.
+
+Utterance 656
+Start: 1250.77
+End: 1251.93
+Confidence: nan
+Text: Magbubukid.
+
+Utterance 657
+Start: 1252.55
+End: 1253.75
+Confidence: nan
+Text: Palayasin.
+
+Utterance 658
+Start: 1254.07
+End: 1254.53
+Confidence: nan
+Text: Wika.
+
+Utterance 659
+Start: 1255.39
+End: 1256.13
+Confidence: nan
+Text: Hilahan.
+
+Utterance 660
+Start: 1257.01
+End: 1257.77
+Confidence: nan
+Text: Magdala.
+
+Utterance 661
+Start: 1258.53
+End: 1259.93
+Confidence: nan
+Text: Palibhasa.
+
+Utterance 662
+Start: 1260.37
+End: 1260.89
+Confidence: nan
+Text: Yaman.
+
+Utterance 663
+Start: 1261.47
+End: 1262.15
+Confidence: nan
+Text: Hilain.
+
+Utterance 664
+Start: 1263.01
+End: 1264.15
+Confidence: nan
+Text: Magdasal.
+
+Utterance 665
+Start: 1264.55
+End: 1265.55
+Confidence: nan
+Text: Paliwanagan.
+
+Utterance 666
+Start: 1266.55
+End: 1266.81
+Confidence: nan
+Text: Yan.
+
+Utterance 667
+Start: 1266.81
+End: 1268.55
+Confidence: nan
+Text: Hilingin.
+
+Utterance 668
+Start: 1268.71
+End: 1269.93
+Confidence: nan
+Text: Maghanda.
+
+Utterance 669
+Start: 1270.67
+End: 1271.37
+Confidence: nan
+Text: Pambihira.
+
+Utterance 670
+Start: 1271.99
+End: 1272.49
+Confidence: nan
+Text: Yari.
+
+Utterance 671
+Start: 1273.19
+End: 1274.51
+Confidence: nan
+Text: Recreation.
+
+Utterance 672
+Start: 1275.03
+End: 1275.75
+Confidence: nan
+Text: Kongreso.
+
+Utterance 673
+Start: 1276.41
+End: 1277.61
+Confidence: nan
+Text: Pagmamahal.
+
+Utterance 674
+Start: 1277.91
+End: 1279.25
+Confidence: nan
+Text: Namayapang.
+
+Utterance 675
+Start: 1279.63
+End: 1280.77
+Confidence: nan
+Text: Magsasalita.
+
+Utterance 676
+Start: 1281.57
+End: 1282.71
+Confidence: nan
+Text: Senet.
+
+Utterance 677
+Start: 1283.13
+End: 1284.05
+Confidence: nan
+Text: Sekretary.
+
+Utterance 678
+Start: 1284.71
+End: 1285.55
+Confidence: nan
+Text: Abalang.
+
+Utterance 679
+Start: 1286.31
+End: 1287.35
+Confidence: nan
+Text: Alamang.
+
+Utterance 680
+Start: 1287.71
+End: 1288.49
+Confidence: nan
+Text: Manggugulo.
+
+Utterance 681
+Start: 1290.35
+End: 1291.05
+Confidence: nan
+Text: Nangyari.
+
+Utterance 682
+Start: 1292.15
+End: 1292.97
+Confidence: nan
+Text: Darating.
+
+Utterance 683
+Start: 1296.24
+End: 1296.94
+Confidence: nan
+Text: Humuhingi.
+
+Utterance 684
+Start: 1298.04
+End: 1298.74
+Confidence: nan
+Text: Dalawampung.
+
+Utterance 685
+Start: 1299.56
+End: 1300.60
+Confidence: nan
+Text: Narsing.
+
+Utterance 686
+Start: 1300.84
+End: 1301.80
+Confidence: nan
+Text: Himbing.
+
+Utterance 687
+Start: 1302.48
+End: 1303.30
+Confidence: nan
+Text: Maghapon.
+
+Utterance 688
+Start: 1304.40
+End: 1305.80
+Confidence: nan
+Text: Pamilya.
+
+Utterance 689
+Start: 1306.30
+End: 1307.70
+Confidence: nan
+Text: Yaya.
+
+Utterance 690
+Start: 1308.82
+End: 1309.42
+Confidence: nan
+Text: Hina.
+
+Utterance 691
+Start: 1311.22
+End: 1312.62
+Confidence: nan
+Text: Maghihintay.
+
+Utterance 692
+Start: 1314.00
+End: 1314.76
+Confidence: nan
+Text: Yayain.
+
+Utterance 693
+Start: 1315.80
+End: 1316.68
+Confidence: nan
+Text: Hinayang.
+
+Utterance 694
+Start: 1317.56
+End: 1318.20
+Confidence: nan
+Text: Maghintay
+
+Utterance 695
+Start: 1318.20
+End: 1318.90
+Confidence: nan
+Text: -hintay.
+
+Utterance 696
+Start: 1318.90
+End: 1321.12
+Confidence: nan
+Text: Panaginip.
+
+Utterance 697
+Start: 1321.40
+End: 1322.22
+Confidence: nan
+Text: Yelo.
+
+Utterance 698
+Start: 1322.76
+End: 1323.06
+Confidence: nan
+Text: Hindi.
+
+Utterance 699
+Start: 1323.88
+End: 1324.90
+Confidence: nan
+Text: Magiging.
+
+Utterance 700
+Start: 1325.28
+End: 1325.86
+Confidence: nan
+Text: Panahon.
+
+Utterance 701
+Start: 1326.76
+End: 1327.24
+Confidence: nan
+Text: Yero.
+
+Utterance 702
+Start: 1327.98
+End: 1328.90
+Confidence: nan
+Text: Hiningan.
+
+Utterance 703
+Start: 1329.32
+End: 1329.94
+Confidence: nan
+Text: Maging.
+
+Utterance 704
+Start: 1330.28
+End: 1330.82
+Confidence: nan
+Text: Pananim.
+
+Utterance 705
+Start: 1331.62
+End: 1332.14
+Confidence: nan
+Text: Yoyo.
+
+Utterance 706
+Start: 1332.84
+End: 1333.88
+Confidence: nan
+Text: Hinintay.
+
+Utterance 707
+Start: 1334.02
+End: 1334.54
+Confidence: nan
+Text: Magisa.
+
+Utterance 708
+Start: 1335.40
+End: 1336.16
+Confidence: nan
+Text: Pandak.
+
+Utterance 709
+Start: 1336.48
+End: 1337.24
+Confidence: nan
+Text: Yumao.
+
+Utterance 710
+Start: 1337.24
+End: 1338.70
+Confidence: nan
+Text: Hinipuan.
+
+Utterance 711
+Start: 1338.94
+End: 1340.18
+Confidence: nan
+Text: Magkaibigan.
+
+Utterance 712
+Start: 1340.82
+End: 1341.26
+Confidence: nan
+Text: Pang.
+
+Utterance 713
+Start: 1341.88
+End: 1342.28
+Confidence: nan
+Text: Yung.
+
+Utterance 714
+Start: 1342.90
+End: 1343.64
+Confidence: nan
+Text: Hintay.
+
+Utterance 715
+Start: 1343.94
+End: 1345.00
+Confidence: nan
+Text: Magkakabisa.
+
+Utterance 716
+Start: 1345.62
+End: 1346.32
+Confidence: nan
+Text: Pangalan.
+
+Utterance 717
+Start: 1347.76
+End: 1348.16
+Confidence: nan
+Text: Zero.
+
+Utterance 718
+Start: 1349.24
+End: 1349.96
+Confidence: nan
+Text: Hintayin.
+
+Utterance 719
+Start: 1350.38
+End: 1351.60
+Confidence: nan
+Text: Magkakaibigan.
+
+Utterance 720
+Start: 1353.93
+End: 1354.65
+Confidence: nan
+Text: Panganim.
+
+Utterance 721
+Start: 1355.45
+End: 1356.31
+Confidence: nan
+Text: Sigsag.
+
+Utterance 722
+Start: 1356.79
+End: 1357.25
+Confidence: nan
+Text: Hinto.
+
+Utterance 723
+Start: 1358.23
+End: 1359.63
+Confidence: nan
+Text: Magkakapatid.
+
+Utterance 724
+Start: 1359.93
+End: 1360.93
+Confidence: nan
+Text: Pangarap.
+
+Utterance 725
+Start: 1360.93
+End: 1362.91
+Confidence: nan
+Text: Zinya.
+
+Utterance 726
+Start: 1362.91
+End: 1364.21
+Confidence: nan
+Text: Hintong.
+
+Utterance 727
+Start: 1364.73
+End: 1365.81
+Confidence: nan
+Text: Magkakaroon.
+
+Utterance 728
+Start: 1366.45
+End: 1367.29
+Confidence: nan
+Text: Pangit.
+
+Utterance 729
+Start: 1367.71
+End: 1368.37
+Confidence: nan
+Text: Zipper.
+
+Utterance 730
+Start: 1369.07
+End: 1369.81
+Confidence: nan
+Text: Hintuan.
+
+Utterance 731
+Start: 1371.49
+End: 1372.79
+Confidence: nan
+Text: Panglima.
+
+Utterance 732
+Start: 1373.25
+End: 1374.45
+Confidence: nan
+Text: Hipan.
+
+Utterance 733
+Start: 1374.75
+End: 1375.97
+Confidence: nan
+Text: Magkamay.
+
+Utterance 734
+Start: 1376.37
+End: 1377.19
+Confidence: nan
+Text: Pangyayari.
+
+Utterance 735
+Start: 1379.65
+End: 1381.01
+Confidence: nan
+Text: Hipanin.
+
+Utterance 736
+Start: 1382.27
+End: 1383.67
+Confidence: nan
+Text: Magkapamilya.
+
+Utterance 737
+Start: 1384.01
+End: 1384.67
+Confidence: nan
+Text: Paningin.
+
+Utterance 738
+Start: 1385.61
+End: 1386.55
+Confidence: nan
+Text: Hipo.
+
+Utterance 739
+Start: 1386.55
+End: 1388.47
+Confidence: nan
+Text: Magkasama.
+
+Utterance 740
+Start: 1388.91
+End: 1390.07
+Confidence: nan
+Text: Pantalon.
+
+Utterance 741
+Start: 1390.41
+End: 1391.65
+Confidence: nan
+Text: Hipuan.
+
+Utterance 742
+Start: 1392.05
+End: 1393.11
+Confidence: nan
+Text: Maglagay.
+
+Utterance 743
+Start: 1393.43
+End: 1394.27
+Confidence: nan
+Text: Papel.
+
+Utterance 744
+Start: 1394.87
+End: 1395.69
+Confidence: nan
+Text: Hirap.
+
+Utterance 745
+Start: 1395.97
+End: 1397.01
+Confidence: nan
+Text: Magsalita.
+
+Utterance 746
+Start: 1398.31
+End: 1398.57
+Confidence: nan
+Text: Para.
+
+Utterance 747
+Start: 1399.47
+End: 1399.87
+Confidence: nan
+Text: Hos.
+
+Utterance 748
+Start: 1400.83
+End: 1401.51
+Confidence: nan
+Text: Parang.
+
+Utterance 749
+Start: 1402.21
+End: 1402.57
+Confidence: nan
+Text: Hotel.
+
+Utterance 750
+Start: 1403.67
+End: 1405.07
+Confidence: nan
+Text: Pasahin.
+
+Utterance 751
+Start: 1406.09
+End: 1406.79
+Confidence: nan
+Text: Hugasan.
+
+Utterance 752
+Start: 1407.91
+End: 1408.87
+Confidence: nan
+Text: Magnakaw.
+
+Utterance 753
+Start: 1412.16
+End: 1412.98
+Confidence: nan
+Text: Pasko.
+
+Utterance 754
+Start: 1413.62
+End: 1414.44
+Confidence: nan
+Text: Nakakulong.
+
+Utterance 755
+Start: 1415.12
+End: 1415.94
+Confidence: nan
+Text: Sessions.
+
+Utterance 756
+Start: 1421.99
+End: 1422.31
+Confidence: nan
+Text: Ba.
+
+Utterance 757
+Start: 1422.59
+End: 1422.83
+Confidence: nan
+Text: Be.
+
+Utterance 758
+Start: 1423.33
+End: 1423.75
+Confidence: nan
+Text: Bi.
+
+Utterance 759
+Start: 1424.09
+End: 1424.41
+Confidence: nan
+Text: Bo.
+
+Utterance 760
+Start: 1424.73
+End: 1425.07
+Confidence: nan
+Text: Bu.
+
+Utterance 761
+Start: 1426.57
+End: 1426.89
+Confidence: nan
+Text: Bad.
+
+Utterance 762
+Start: 1427.71
+End: 1428.01
+Confidence: nan
+Text: Bag.
+
+Utterance 763
+Start: 1428.81
+End: 1429.09
+Confidence: nan
+Text: Bak.
+
+Utterance 764
+Start: 1429.97
+End: 1430.27
+Confidence: nan
+Text: Bal.
+
+Utterance 765
+Start: 1431.21
+End: 1431.49
+Confidence: nan
+Text: Bam.
+
+Utterance 766
+Start: 1432.49
+End: 1432.89
+Confidence: nan
+Text: Bank.
+
+Utterance 767
+Start: 1434.13
+End: 1434.51
+Confidence: nan
+Text: Bang.
+
+Utterance 768
+Start: 1435.29
+End: 1435.69
+Confidence: nan
+Text: Bap.
+
+Utterance 769
+Start: 1436.51
+End: 1436.89
+Confidence: nan
+Text: Bar.
+
+Utterance 770
+Start: 1437.69
+End: 1438.05
+Confidence: nan
+Text: Bas.
+
+Utterance 771
+Start: 1438.95
+End: 1439.25
+Confidence: nan
+Text: Bat.
+
+Utterance 772
+Start: 1440.23
+End: 1440.53
+Confidence: nan
+Text: Bau.
+
+Utterance 773
+Start: 1441.53
+End: 1441.81
+Confidence: nan
+Text: Bay.
+
+Utterance 774
+Start: 1442.79
+End: 1443.19
+Confidence: nan
+Text: Ben.
+
+Utterance 775
+Start: 1444.11
+End: 1444.47
+Confidence: nan
+Text: Bid.
+
+Utterance 776
+Start: 1444.47
+End: 1445.77
+Confidence: nan
+Text: Big.
+
+Utterance 777
+Start: 1446.39
+End: 1446.93
+Confidence: nan
+Text: Bic.
+
+Utterance 778
+Start: 1448.03
+End: 1448.57
+Confidence: nan
+Text: Bill.
+
+Utterance 779
+Start: 1449.29
+End: 1449.55
+Confidence: nan
+Text: Bin.
+
+Utterance 780
+Start: 1450.41
+End: 1451.00
+Confidence: nan
+Text: Bim.
+
+Utterance 781
+Start: 1451.59
+End: 1451.91
+Confidence: nan
+Text: Bing.
+
+Utterance 782
+Start: 1452.89
+End: 1453.25
+Confidence: nan
+Text: Bis.
+
+Utterance 783
+Start: 1453.99
+End: 1454.25
+Confidence: nan
+Text: Bit.
+
+Utterance 784
+Start: 1455.29
+End: 1455.65
+Confidence: nan
+Text: Bog.
+
+Utterance 785
+Start: 1456.47
+End: 1456.75
+Confidence: nan
+Text: Bon.
+
+Utterance 786
+Start: 1457.67
+End: 1457.97
+Confidence: nan
+Text: Bong.
+
+Utterance 787
+Start: 1458.83
+End: 1459.17
+Confidence: nan
+Text: Bot.
+
+Utterance 788
+Start: 1459.93
+End: 1460.21
+Confidence: nan
+Text: Boy.
+
+Utterance 789
+Start: 1461.33
+End: 1461.59
+Confidence: nan
+Text: Bug.
+
+Utterance 790
+Start: 1462.43
+End: 1462.67
+Confidence: nan
+Text: Bur.
+
+Utterance 791
+Start: 1463.47
+End: 1463.81
+Confidence: nan
+Text: Bok.
+
+Utterance 792
+Start: 1464.65
+End: 1465.01
+Confidence: nan
+Text: Ball.
+
+Utterance 793
+Start: 1465.95
+End: 1466.47
+Confidence: nan
+Text: Bril.
+
+Utterance 794
+Start: 1467.03
+End: 1467.31
+Confidence: nan
+Text: Blue.
+
+Utterance 795
+Start: 1468.19
+End: 1468.39
+Confidence: nan
+Text: Bre.
+
+Utterance 796
+Start: 1469.21
+End: 1469.69
+Confidence: nan
+Text: Box.
+
+Utterance 797
+Start: 1470.43
+End: 1470.69
+Confidence: nan
+Text: Bre.
+
+Utterance 798
+Start: 1471.71
+End: 1472.03
+Confidence: nan
+Text: Bull.
+
+Utterance 799
+Start: 1472.93
+End: 1473.19
+Confidence: nan
+Text: Bear.
+
+Utterance 800
+Start: 1474.27
+End: 1475.23
+Confidence: nan
+Text: Bra.
+
+Utterance 801
+Start: 1475.95
+End: 1476.17
+Confidence: nan
+Text: Da.
+
+Utterance 802
+Start: 1476.53
+End: 1476.81
+Confidence: nan
+Text: De.
+
+Utterance 803
+Start: 1477.13
+End: 1477.71
+Confidence: nan
+Text: Di.
+
+Utterance 804
+Start: 1478.01
+End: 1478.37
+Confidence: nan
+Text: Do.
+
+Utterance 805
+Start: 1478.73
+End: 1479.31
+Confidence: nan
+Text: Du.
+
+Utterance 806
+Start: 1480.71
+End: 1480.97
+Confidence: nan
+Text: Dag.
+
+Utterance 807
+Start: 1481.81
+End: 1482.11
+Confidence: nan
+Text: Dal.
+
+Utterance 808
+Start: 1482.81
+End: 1483.47
+Confidence: nan
+Text: Dik.
+
+Utterance 809
+Start: 1483.83
+End: 1484.17
+Confidence: nan
+Text: Dra.
+
+Utterance 810
+Start: 1485.05
+End: 1485.31
+Confidence: nan
+Text: Dad.
+
+Utterance 811
+Start: 1486.17
+End: 1486.73
+Confidence: nan
+Text: Dug.
+
+Utterance 812
+Start: 1487.21
+End: 1487.55
+Confidence: nan
+Text: Dak.
+
+Utterance 813
+Start: 1488.41
+End: 1488.67
+Confidence: nan
+Text: Dal.
+
+Utterance 814
+Start: 1489.51
+End: 1489.99
+Confidence: nan
+Text: Dib.
+
+Utterance 815
+Start: 1490.59
+End: 1490.91
+Confidence: nan
+Text: Dam.
+
+Utterance 816
+Start: 1491.71
+End: 1492.55
+Confidence: nan
+Text: Dey.
+
+Utterance 817
+Start: 1492.99
+End: 1493.27
+Confidence: nan
+Text: Don.
+
+Utterance 818
+Start: 1493.99
+End: 1494.37
+Confidence: nan
+Text: Dig.
+
+Utterance 819
+Start: 1495.07
+End: 1495.41
+Confidence: nan
+Text: Ding.
+
+Utterance 820
+Start: 1496.73
+End: 1497.09
+Confidence: nan
+Text: Ga.
+
+Utterance 821
+Start: 1497.57
+End: 1497.89
+Confidence: nan
+Text: Ge.
+
+Utterance 822
+Start: 1498.35
+End: 1498.83
+Confidence: nan
+Text: Gi.
+
+Utterance 823
+Start: 1499.45
+End: 1499.85
+Confidence: nan
+Text: Go.
+
+Utterance 824
+Start: 1500.39
+End: 1500.65
+Confidence: nan
+Text: Gu.
+
+Utterance 825
+Start: 1500.65
+End: 1502.57
+Confidence: nan
+Text: Gud.
+
+Utterance 826
+Start: 1503.37
+End: 1504.67
+Confidence: nan
+Text: Gua.
+
+Utterance 827
+Start: 1505.11
+End: 1505.49
+Confidence: nan
+Text: Gaw.
+
+Utterance 828
+Start: 1506.55
+End: 1506.87
+Confidence: nan
+Text: Gin.
+
+Utterance 829
+Start: 1507.89
+End: 1508.51
+Confidence: nan
+Text: Giw.
+
+Utterance 830
+Start: 1509.15
+End: 1509.47
+Confidence: nan
+Text: Gos.
+
+Utterance 831
+Start: 1510.41
+End: 1510.81
+Confidence: nan
+Text: Gas.
+
+Utterance 832
+Start: 1511.77
+End: 1512.03
+Confidence: nan
+Text: Gay.
+
+Utterance 833
+Start: 1513.07
+End: 1513.35
+Confidence: nan
+Text: Gan.
+
+Utterance 834
+Start: 1514.41
+End: 1514.85
+Confidence: nan
+Text: Gil.
+
+Utterance 835
+Start: 1515.69
+End: 1515.99
+Confidence: nan
+Text: Git.
+
+Utterance 836
+Start: 1516.97
+End: 1517.27
+Confidence: nan
+Text: Gul.
+
+Utterance 837
+Start: 1518.17
+End: 1518.47
+Confidence: nan
+Text: Gun.
+
+Utterance 838
+Start: 1519.45
+End: 1519.71
+Confidence: nan
+Text: Gal.
+
+Utterance 839
+Start: 1520.73
+End: 1521.15
+Confidence: nan
+Text: Gus.
+
+Utterance 840
+Start: 1521.97
+End: 1522.63
+Confidence: nan
+Text: Gat.
+
+Utterance 841
+Start: 1522.97
+End: 1523.29
+Confidence: nan
+Text: Gab.
+
+Utterance 842
+Start: 1524.93
+End: 1525.47
+Confidence: nan
+Text: Fa.
+
+Utterance 843
+Start: 1526.15
+End: 1526.45
+Confidence: nan
+Text: Fe.
+
+Utterance 844
+Start: 1527.21
+End: 1527.61
+Confidence: nan
+Text: Fi.
+
+Utterance 845
+Start: 1528.51
+End: 1528.79
+Confidence: nan
+Text: Fo.
+
+Utterance 846
+Start: 1528.79
+End: 1530.49
+Confidence: nan
+Text: Fu.
+
+Utterance 847
+Start: 1530.97
+End: 1532.05
+Confidence: nan
+Text: Feis.
+
+Utterance 848
+Start: 1532.13
+End: 1532.67
+Confidence: nan
+Text: Fan.
+
+Utterance 849
+Start: 1533.29
+End: 1533.79
+Confidence: nan
+Text: Fies.
+
+Utterance 850
+Start: 1534.67
+End: 1535.43
+Confidence: nan
+Text: Fig.
+
+Utterance 851
+Start: 1537.03
+End: 1537.45
+Confidence: nan
+Text: Ha.
+
+Utterance 852
+Start: 1537.93
+End: 1538.23
+Confidence: nan
+Text: He.
+
+Utterance 853
+Start: 1538.77
+End: 1539.15
+Confidence: nan
+Text: Hi.
+
+Utterance 854
+Start: 1539.81
+End: 1540.17
+Confidence: nan
+Text: Ho.
+
+Utterance 855
+Start: 1540.73
+End: 1541.21
+Confidence: nan
+Text: Hu.
+
+Utterance 856
+Start: 1542.27
+End: 1542.65
+Confidence: nan
+Text: Hin.
+
+Utterance 857
+Start: 1543.49
+End: 1543.95
+Confidence: nan
+Text: Hau.
+
+Utterance 858
+Start: 1544.93
+End: 1545.25
+Confidence: nan
+Text: Han.
+
+Utterance 859
+Start: 1546.15
+End: 1546.51
+Confidence: nan
+Text: Hai.
+
+Utterance 860
+Start: 1547.31
+End: 1547.71
+Confidence: nan
+Text: Hit.
+
+Utterance 861
+Start: 1548.53
+End: 1548.81
+Confidence: nan
+Text: Hoy.
+
+Utterance 862
+Start: 1549.79
+End: 1550.15
+Confidence: nan
+Text: Has.
+
+Utterance 863
+Start: 1551.11
+End: 1551.37
+Confidence: nan
+Text: Hil.
+
+Utterance 864
+Start: 1552.25
+End: 1552.57
+Confidence: nan
+Text: Him.
+
+Utterance 865
+Start: 1553.57
+End: 1553.87
+Confidence: nan
+Text: Hag.
+
+Utterance 866
+Start: 1554.83
+End: 1555.21
+Confidence: nan
+Text: Hul.
+
+Utterance 867
+Start: 1556.07
+End: 1556.35
+Confidence: nan
+Text: Ham.
+
+Utterance 868
+Start: 1557.43
+End: 1558.43
+Confidence: nan
+Text: Ja.
+
+Utterance 869
+Start: 1558.61
+End: 1559.29
+Confidence: nan
+Text: Je.
+
+Utterance 870
+Start: 1559.93
+End: 1560.35
+Confidence: nan
+Text: Ji.
+
+Utterance 871
+Start: 1561.33
+End: 1561.69
+Confidence: nan
+Text: Jo.
+
+Utterance 872
+Start: 1562.19
+End: 1562.69
+Confidence: nan
+Text: Ju.
+
+Utterance 873
+Start: 1563.61
+End: 1564.17
+Confidence: nan
+Text: Jit.
+
+Utterance 874
+Start: 1564.57
+End: 1565.07
+Confidence: nan
+Text: Juk.
+
+Utterance 875
+Start: 1565.53
+End: 1565.99
+Confidence: nan
+Text: Jun.
+
+Utterance 876
+Start: 1567.53
+End: 1567.91
+Confidence: nan
+Text: Ka.
+
+Utterance 877
+Start: 1568.45
+End: 1568.69
+Confidence: nan
+Text: Ke.
+
+Utterance 878
+Start: 1569.33
+End: 1569.67
+Confidence: nan
+Text: Ki.
+
+Utterance 879
+Start: 1570.27
+End: 1570.67
+Confidence: nan
+Text: Ko.
+
+Utterance 880
+Start: 1571.05
+End: 1571.37
+Confidence: nan
+Text: Ku.
+
+Utterance 881
+Start: 1572.43
+End: 1572.99
+Confidence: nan
+Text: Kid.
+
+Utterance 882
+Start: 1573.39
+End: 1573.73
+Confidence: nan
+Text: Kin.
+
+Utterance 883
+Start: 1574.49
+End: 1574.79
+Confidence: nan
+Text: Kot.
+
+Utterance 884
+Start: 1575.51
+End: 1575.89
+Confidence: nan
+Text: Kit.
+
+Utterance 885
+Start: 1576.59
+End: 1576.89
+Confidence: nan
+Text: Kum.
+
+Utterance 886
+Start: 1577.63
+End: 1577.91
+Confidence: nan
+Text: Kun.
+
+Utterance 887
+Start: 1578.81
+End: 1579.19
+Confidence: nan
+Text: Kas.
+
+Utterance 888
+Start: 1579.85
+End: 1580.17
+Confidence: nan
+Text: Kam.
+
+Utterance 889
+Start: 1581.15
+End: 1581.55
+Confidence: nan
+Text: Kal.
+
+Utterance 890
+Start: 1582.33
+End: 1582.65
+Confidence: nan
+Text: Kan.
+
+Utterance 891
+Start: 1583.51
+End: 1583.85
+Confidence: nan
+Text: Ket.
+
+Utterance 892
+Start: 1583.85
+End: 1585.11
+Confidence: nan
+Text: Kat.
+
+Utterance 893
+Start: 1585.63
+End: 1586.15
+Confidence: nan
+Text: Kao.
+
+Utterance 894
+Start: 1586.81
+End: 1587.55
+Confidence: nan
+Text: Kim.
+
+Utterance 895
+Start: 1587.83
+End: 1588.35
+Confidence: nan
+Text: Kip.
+
+Utterance 896
+Start: 1589.75
+End: 1590.11
+Confidence: nan
+Text: La.
+
+Utterance 897
+Start: 1590.71
+End: 1591.03
+Confidence: nan
+Text: Le.
+
+Utterance 898
+Start: 1591.57
+End: 1591.89
+Confidence: nan
+Text: Li.
+
+Utterance 899
+Start: 1592.49
+End: 1592.81
+Confidence: nan
+Text: Lo.
+
+Utterance 900
+Start: 1593.23
+End: 1593.75
+Confidence: nan
+Text: Lu.
+
+Utterance 901
+Start: 1594.83
+End: 1595.15
+Confidence: nan
+Text: Lok.
+
+Utterance 902
+Start: 1595.99
+End: 1596.37
+Confidence: nan
+Text: Los.
+
+Utterance 903
+Start: 1597.31
+End: 1597.57
+Confidence: nan
+Text: Lam.
+
+Utterance 904
+Start: 1598.43
+End: 1598.69
+Confidence: nan
+Text: Lin.
+
+Utterance 905
+Start: 1599.55
+End: 1599.79
+Confidence: nan
+Text: Ling.
+
+Utterance 906
+Start: 1600.59
+End: 1600.99
+Confidence: nan
+Text: Lit.
+
+Utterance 907
+Start: 1601.61
+End: 1602.09
+Confidence: nan
+Text: Lik.
+
+Utterance 908
+Start: 1602.77
+End: 1603.05
+Confidence: nan
+Text: Lung.
+
+Utterance 909
+Start: 1603.83
+End: 1604.09
+Confidence: nan
+Text: Lang.
+
+Utterance 910
+Start: 1604.89
+End: 1605.17
+Confidence: nan
+Text: Lan.
+
+Utterance 911
+Start: 1605.95
+End: 1606.19
+Confidence: nan
+Text: Lat.
+
+Utterance 912
+Start: 1606.95
+End: 1607.43
+Confidence: nan
+Text: Lid.
+
+Utterance 913
+Start: 1607.95
+End: 1608.57
+Confidence: nan
+Text: Liw.
+
+Utterance 914
+Start: 1608.99
+End: 1609.21
+Confidence: nan
+Text: Lau.
+
+Utterance 915
+Start: 1610.25
+End: 1610.49
+Confidence: nan
+Text: Long.
+
+Utterance 916
+Start: 1611.45
+End: 1611.75
+Confidence: nan
+Text: Leng.
+
+Utterance 917
+Start: 1612.39
+End: 1612.73
+Confidence: nan
+Text: Lis.
+
+Utterance 918
+Start: 1613.43
+End: 1613.75
+Confidence: nan
+Text: Las.
+
+Utterance 919
+Start: 1613.75
+End: 1614.77
+Confidence: nan
+Text: Les.
+
+Utterance 920
+Start: 1615.27
+End: 1615.79
+Confidence: nan
+Text: Lag.
+
+Utterance 921
+Start: 1616.57
+End: 1617.15
+Confidence: nan
+Text: Lam.
+
+Utterance 922
+Start: 1617.61
+End: 1617.87
+Confidence: nan
+Text: Lun.
+
+Utterance 923
+Start: 1618.55
+End: 1618.97
+Confidence: nan
+Text: Lon.
+
+Utterance 924
+Start: 1619.39
+End: 1620.03
+Confidence: nan
+Text: Lis.
+
+Utterance 925
+Start: 1622.30
+End: 1622.66
+Confidence: nan
+Text: Ma.
+
+Utterance 926
+Start: 1623.08
+End: 1623.42
+Confidence: nan
+Text: Me.
+
+Utterance 927
+Start: 1624.02
+End: 1624.44
+Confidence: nan
+Text: Mi.
+
+Utterance 928
+Start: 1624.72
+End: 1625.16
+Confidence: nan
+Text: Mo.
+
+Utterance 929
+Start: 1625.90
+End: 1626.78
+Confidence: nan
+Text: Mu.
+
+Utterance 930
+Start: 1627.92
+End: 1628.28
+Confidence: nan
+Text: Mag.
+
+Utterance 931
+Start: 1629.06
+End: 1629.42
+Confidence: nan
+Text: Mar.
+
+Utterance 932
+Start: 1630.02
+End: 1630.30
+Confidence: nan
+Text: Mis.
+
+Utterance 933
+Start: 1630.88
+End: 1631.10
+Confidence: nan
+Text: Min.
+
+Utterance 934
+Start: 1631.80
+End: 1632.14
+Confidence: nan
+Text: Mil.
+
+Utterance 935
+Start: 1632.62
+End: 1633.04
+Confidence: nan
+Text: Mok.
+
+Utterance 936
+Start: 1633.50
+End: 1633.94
+Confidence: nan
+Text: Men.
+
+Utterance 937
+Start: 1634.46
+End: 1634.72
+Confidence: nan
+Text: Mang.
+
+Utterance 938
+Start: 1635.36
+End: 1635.78
+Confidence: nan
+Text: Mai.
+
+Utterance 939
+Start: 1636.30
+End: 1636.62
+Confidence: nan
+Text: Mit.
+
+Utterance 940
+Start: 1637.28
+End: 1637.58
+Confidence: nan
+Text: Mik.
+
+Utterance 941
+Start: 1638.08
+End: 1638.42
+Confidence: nan
+Text: Man.
+
+Utterance 942
+Start: 1638.92
+End: 1639.24
+Confidence: nan
+Text: Moon.
+
+Utterance 943
+Start: 1639.94
+End: 1640.14
+Confidence: nan
+Text: Mad.
+
+Utterance 944
+Start: 1640.76
+End: 1641.00
+Confidence: nan
+Text: Mak.
+
+Utterance 945
+Start: 1641.42
+End: 1641.68
+Confidence: nan
+Text: Mat.
+
+Utterance 946
+Start: 1642.88
+End: 1643.20
+Confidence: nan
+Text: Na.
+
+Utterance 947
+Start: 1643.20
+End: 1643.88
+Confidence: nan
+Text: Ne.
+
+Utterance 948
+Start: 1643.88
+End: 1644.70
+Confidence: nan
+Text: Ni.
+
+Utterance 949
+Start: 1645.06
+End: 1645.34
+Confidence: nan
+Text: No.
+
+Utterance 950
+Start: 1645.72
+End: 1646.28
+Confidence: nan
+Text: Nu.
+
+Utterance 951
+Start: 1647.02
+End: 1647.16
+Confidence: nan
+Text: Nag.
+
+Utterance 952
+Start: 1647.72
+End: 1648.00
+Confidence: nan
+Text: Nay.
+
+Utterance 953
+Start: 1648.66
+End: 1649.18
+Confidence: nan
+Text: Nib.
+
+Utterance 954
+Start: 1649.58
+End: 1650.02
+Confidence: nan
+Text: Nau.
+
+Utterance 955
+Start: 1650.38
+End: 1650.76
+Confidence: nan
+Text: Nen.
+
+Utterance 956
+Start: 1651.22
+End: 1651.48
+Confidence: nan
+Text: Nok.
+
+Utterance 957
+Start: 1652.04
+End: 1652.36
+Confidence: nan
+Text: Nan.
+
+Utterance 958
+Start: 1652.88
+End: 1653.26
+Confidence: nan
+Text: Nig.
+
+Utterance 959
+Start: 1653.70
+End: 1654.02
+Confidence: nan
+Text: Nin.
+
+Utterance 960
+Start: 1654.60
+End: 1655.06
+Confidence: nan
+Text: Nang.
+
+Utterance 961
+Start: 1655.50
+End: 1656.10
+Confidence: nan
+Text: Nog.
+
+Utterance 962
+Start: 1656.42
+End: 1656.80
+Confidence: nan
+Text: Nak.
+
+Utterance 963
+Start: 1657.52
+End: 1657.84
+Confidence: nan
+Text: Nim.
+
+Utterance 964
+Start: 1658.54
+End: 1658.90
+Confidence: nan
+Text: Nas.
+
+Utterance 965
+Start: 1659.56
+End: 1659.92
+Confidence: nan
+Text: Nig.
+
+Utterance 966
+Start: 1660.58
+End: 1661.40
+Confidence: nan
+Text: Nob.
+
+Utterance 967
+Start: 1661.56
+End: 1661.78
+Confidence: nan
+Text: Nam.
+
+Utterance 968
+Start: 1662.36
+End: 1662.66
+Confidence: nan
+Text: Nil.
+
+Utterance 969
+Start: 1663.96
+End: 1664.36
+Confidence: nan
+Text: Nga.
+
+Utterance 970
+Start: 1664.68
+End: 1665.08
+Confidence: nan
+Text: Nge.
+
+Utterance 971
+Start: 1665.34
+End: 1665.86
+Confidence: nan
+Text: Ngi.
+
+Utterance 972
+Start: 1665.98
+End: 1666.54
+Confidence: nan
+Text: Ngo.
+
+Utterance 973
+Start: 1666.82
+End: 1667.32
+Confidence: nan
+Text: Ngu.
+
+Utterance 974
+Start: 1668.10
+End: 1668.56
+Confidence: nan
+Text: Ngan.
+
+Utterance 975
+Start: 1669.18
+End: 1669.54
+Confidence: nan
+Text: Nog.
+
+Utterance 976
+Start: 1670.08
+End: 1670.46
+Confidence: nan
+Text: Ngin.
+
+Utterance 977
+Start: 1670.46
+End: 1671.70
+Confidence: nan
+Text: Ngay.
+
+Utterance 978
+Start: 1672.06
+End: 1672.40
+Confidence: nan
+Text: Nge.
+
+Utterance 979
+Start: 1672.80
+End: 1673.24
+Confidence: nan
+Text: Nin.
+
+Utterance 980
+Start: 1673.92
+End: 1674.52
+Confidence: nan
+Text: Ngon.
+
+Utterance 981
+Start: 1676.00
+End: 1676.58
+Confidence: nan
+Text: Pa.
+
+Utterance 982
+Start: 1676.66
+End: 1677.00
+Confidence: nan
+Text: Pe.
+
+Utterance 983
+Start: 1677.30
+End: 1677.84
+Confidence: nan
+Text: Pi.
+
+Utterance 984
+Start: 1678.14
+End: 1678.58
+Confidence: nan
+Text: Po.
+
+Utterance 985
+Start: 1678.90
+End: 1679.38
+Confidence: nan
+Text: Pu.
+
+Utterance 986
+Start: 1680.66
+End: 1681.36
+Confidence: nan
+Text: Pag.
+
+Utterance 987
+Start: 1681.88
+End: 1682.20
+Confidence: nan
+Text: Pak.
+
+Utterance 988
+Start: 1683.04
+End: 1683.48
+Confidence: nan
+Text: Pas.
+
+Utterance 989
+Start: 1684.22
+End: 1684.66
+Confidence: nan
+Text: Pat.
+
+Utterance 990
+Start: 1685.30
+End: 1685.52
+Confidence: nan
+Text: Pet.
+
+Utterance 991
+Start: 1686.34
+End: 1686.54
+Confidence: nan
+Text: Pon.
+
+Utterance 992
+Start: 1687.44
+End: 1688.00
+Confidence: nan
+Text: Poy.
+
+Utterance 993
+Start: 1688.62
+End: 1688.84
+Confidence: nan
+Text: Tin.
+
+Utterance 994
+Start: 1689.60
+End: 1689.90
+Confidence: nan
+Text: Pan.
+
+Utterance 995
+Start: 1690.64
+End: 1690.88
+Confidence: nan
+Text: Pit.
+
+Utterance 996
+Start: 1691.66
+End: 1691.98
+Confidence: nan
+Text: Pla.
+
+Utterance 997
+Start: 1692.84
+End: 1693.12
+Confidence: nan
+Text: Pang.
+
+Utterance 998
+Start: 1693.84
+End: 1694.14
+Confidence: nan
+Text: Ping.
+
+Utterance 999
+Start: 1694.92
+End: 1695.14
+Confidence: nan
+Text: Pir.
+
+Utterance 1000
+Start: 1695.90
+End: 1696.44
+Confidence: nan
+Text: Peb.
+
+Utterance 1001
+Start: 1696.92
+End: 1697.16
+Confidence: nan
+Text: Pos.
+
+Utterance 1002
+Start: 1697.76
+End: 1698.04
+Confidence: nan
+Text: Pun.
+
+Utterance 1003
+Start: 1698.72
+End: 1698.90
+Confidence: nan
+Text: Per.
+
+Utterance 1004
+Start: 1700.16
+End: 1701.12
+Confidence: nan
+Text: Ra.
+
+Utterance 1005
+Start: 1701.30
+End: 1701.88
+Confidence: nan
+Text: Re.
+
+Utterance 1006
+Start: 1702.56
+End: 1703.04
+Confidence: nan
+Text: Ri.
+
+Utterance 1007
+Start: 1703.62
+End: 1703.90
+Confidence: nan
+Text: Ro.
+
+Utterance 1008
+Start: 1704.50
+End: 1705.08
+Confidence: nan
+Text: Ru.
+
+Utterance 1009
+Start: 1706.12
+End: 1706.40
+Confidence: nan
+Text: Ras.
+
+Utterance 1010
+Start: 1707.08
+End: 1707.36
+Confidence: nan
+Text: Ral.
+
+Utterance 1011
+Start: 1708.02
+End: 1708.40
+Confidence: nan
+Text: Rang.
+
+Utterance 1012
+Start: 1708.98
+End: 1709.30
+Confidence: nan
+Text: Rat.
+
+Utterance 1013
+Start: 1710.04
+End: 1710.30
+Confidence: nan
+Text: Ran.
+
+Utterance 1014
+Start: 1711.04
+End: 1711.52
+Confidence: nan
+Text: Rau.
+
+Utterance 1015
+Start: 1711.88
+End: 1712.20
+Confidence: nan
+Text: Rin.
+
+Utterance 1016
+Start: 1712.76
+End: 1713.02
+Confidence: nan
+Text: Ret.
+
+Utterance 1017
+Start: 1713.70
+End: 1714.02
+Confidence: nan
+Text: Rap.
+
+Utterance 1018
+Start: 1714.46
+End: 1714.84
+Confidence: nan
+Text: Rong.
+
+Utterance 1019
+Start: 1716.66
+End: 1717.10
+Confidence: nan
+Text: Sa.
+
+Utterance 1020
+Start: 1717.58
+End: 1717.80
+Confidence: nan
+Text: Se.
+
+Utterance 1021
+Start: 1718.38
+End: 1718.78
+Confidence: nan
+Text: Si.
+
+Utterance 1022
+Start: 1719.30
+End: 1719.66
+Confidence: nan
+Text: So.
+
+Utterance 1023
+Start: 1720.06
+End: 1720.32
+Confidence: nan
+Text: Su.
+
+Utterance 1024
+Start: 1721.34
+End: 1721.72
+Confidence: nan
+Text: Shem.
+
+Utterance 1025
+Start: 1722.34
+End: 1722.60
+Confidence: nan
+Text: Sin.
+
+Utterance 1026
+Start: 1723.26
+End: 1723.54
+Confidence: nan
+Text: Sak.
+
+Utterance 1027
+Start: 1724.06
+End: 1724.52
+Confidence: nan
+Text: Shon.
+
+Utterance 1028
+Start: 1725.08
+End: 1725.34
+Confidence: nan
+Text: San.
+
+Utterance 1029
+Start: 1725.96
+End: 1726.48
+Confidence: nan
+Text: Sip.
+
+Utterance 1030
+Start: 1726.84
+End: 1727.18
+Confidence: nan
+Text: Sul.
+
+Utterance 1031
+Start: 1727.74
+End: 1728.28
+Confidence: nan
+Text: Sog.
+
+Utterance 1032
+Start: 1728.28
+End: 1729.56
+Confidence: nan
+Text: Skwe.
+
+Utterance 1033
+Start: 1730.02
+End: 1730.42
+Confidence: nan
+Text: Sal.
+
+Utterance 1034
+Start: 1730.96
+End: 1731.32
+Confidence: nan
+Text: Sim.
+
+Utterance 1035
+Start: 1731.80
+End: 1732.06
+Confidence: nan
+Text: Sing.
+
+Utterance 1036
+Start: 1732.80
+End: 1733.08
+Confidence: nan
+Text: Sag.
+
+Utterance 1037
+Start: 1733.60
+End: 1733.90
+Confidence: nan
+Text: Sig.
+
+Utterance 1038
+Start: 1734.38
+End: 1735.08
+Confidence: nan
+Text: Sog.
+
+Utterance 1039
+Start: 1735.22
+End: 1735.54
+Confidence: nan
+Text: Sep.
+
+Utterance 1040
+Start: 1736.12
+End: 1736.72
+Confidence: nan
+Text: Sil.
+
+Utterance 1041
+Start: 1737.18
+End: 1737.52
+Confidence: nan
+Text: Sis.
+
+Utterance 1042
+Start: 1738.12
+End: 1738.46
+Confidence: nan
+Text: Suk.
+
+Utterance 1043
+Start: 1738.96
+End: 1739.26
+Confidence: nan
+Text: Sul.
+
+Utterance 1044
+Start: 1739.86
+End: 1740.28
+Confidence: nan
+Text: Sol.
+
+Utterance 1045
+Start: 1740.84
+End: 1741.10
+Confidence: nan
+Text: Sum.
+
+Utterance 1046
+Start: 1741.96
+End: 1742.30
+Confidence: nan
+Text: Sun.
+
+Utterance 1047
+Start: 1743.06
+End: 1743.28
+Confidence: nan
+Text: Sung.
+
+Utterance 1048
+Start: 1744.30
+End: 1744.64
+Confidence: nan
+Text: Sus.
+
+Utterance 1049
+Start: 1745.32
+End: 1745.54
+Confidence: nan
+Text: Sue.
+
+Utterance 1050
+Start: 1747.26
+End: 1747.84
+Confidence: nan
+Text: Ta.
+
+Utterance 1051
+Start: 1748.32
+End: 1748.54
+Confidence: nan
+Text: Te.
+
+Utterance 1052
+Start: 1749.10
+End: 1749.52
+Confidence: nan
+Text: Ti.
+
+Utterance 1053
+Start: 1750.16
+End: 1750.36
+Confidence: nan
+Text: To.
+
+Utterance 1054
+Start: 1750.98
+End: 1751.24
+Confidence: nan
+Text: Tu.
+
+Utterance 1055
+Start: 1752.56
+End: 1752.88
+Confidence: nan
+Text: Tan.
+
+Utterance 1056
+Start: 1753.76
+End: 1754.02
+Confidence: nan
+Text: Tay.
+
+Utterance 1057
+Start: 1754.82
+End: 1755.12
+Confidence: nan
+Text: Tas.
+
+Utterance 1058
+Start: 1755.88
+End: 1756.20
+Confidence: nan
+Text: Tor.
+
+Utterance 1059
+Start: 1756.20
+End: 1757.08
+Confidence: nan
+Text: Tik.
+
+Utterance 1060
+Start: 1757.52
+End: 1758.42
+Confidence: nan
+Text: Tes.
+
+Utterance 1061
+Start: 1759.10
+End: 1759.36
+Confidence: nan
+Text: Tok.
+
+Utterance 1062
+Start: 1760.12
+End: 1760.48
+Confidence: nan
+Text: Taw.
+
+Utterance 1063
+Start: 1761.22
+End: 1761.48
+Confidence: nan
+Text: Tin.
+
+Utterance 1064
+Start: 1762.22
+End: 1762.46
+Confidence: nan
+Text: Tab.
+
+Utterance 1065
+Start: 1763.26
+End: 1763.66
+Confidence: nan
+Text: Tik.
+
+Utterance 1066
+Start: 1764.36
+End: 1764.70
+Confidence: nan
+Text: Tel.
+
+Utterance 1067
+Start: 1766.12
+End: 1766.74
+Confidence: nan
+Text: Tos.
+
+Utterance 1068
+Start: 1767.12
+End: 1767.46
+Confidence: nan
+Text: Tong.
+
+Utterance 1069
+Start: 1768.18
+End: 1768.54
+Confidence: nan
+Text: Tin.
+
+Utterance 1070
+Start: 1769.20
+End: 1769.58
+Confidence: nan
+Text: Ting.
+
+Utterance 1071
+Start: 1770.22
+End: 1770.54
+Confidence: nan
+Text: Tak.
+
+Utterance 1072
+Start: 1771.08
+End: 1771.32
+Confidence: nan
+Text: Tam.
+
+Utterance 1073
+Start: 1772.00
+End: 1772.22
+Confidence: nan
+Text: Tim.
+
+Utterance 1074
+Start: 1773.18
+End: 1773.52
+Confidence: nan
+Text: Til.
+
+Utterance 1075
+Start: 1777.50
+End: 1778.04
+Confidence: nan
+Text: Bab.
+
+Utterance 1076
+Start: 1782.87
+End: 1783.17
+Confidence: nan
+Text: Bed.
+
+Utterance 1077
+Start: 1783.87
+End: 1784.13
+Confidence: nan
+Text: Bem.
+
+Utterance 1078
+Start: 1785.01
+End: 1785.27
+Confidence: nan
+Text: Bow.
+
+Utterance 1079
+Start: 1786.13
+End: 1786.71
+Confidence: nan
+Text: Boa.
+
+Utterance 1080
+Start: 1787.29
+End: 1787.57
+Confidence: nan
+Text: Boy.
+
+Utterance 1081
+Start: 1788.49
+End: 1788.89
+Confidence: nan
+Text: Das.
+
+Utterance 1082
+Start: 1789.73
+End: 1790.03
+Confidence: nan
+Text: Die.
+
+Utterance 1083
+Start: 1790.83
+End: 1791.07
+Confidence: nan
+Text: Del.
+
+Utterance 1084
+Start: 1791.83
+End: 1792.07
+Confidence: nan
+Text: Den.
+
+Utterance 1085
+Start: 1792.89
+End: 1793.19
+Confidence: nan
+Text: Dog.
+
+Utterance 1086
+Start: 1793.19
+End: 1794.45
+Confidence: nan
+Text: Dos.
+
+Utterance 1087
+Start: 1796.09
+End: 1796.09
+Confidence: nan
+Text: Gad.
+
+Utterance 1088
+Start: 1796.45
+End: 1797.09
+Confidence: nan
+Text: Gag.
+
+Utterance 1089
+Start: 1797.51
+End: 1797.89
+Confidence: nan
+Text: Gam.
+
+Utterance 1090
+Start: 1798.39
+End: 1798.83
+Confidence: nan
+Text: Gap.
+
+Utterance 1091
+Start: 1799.67
+End: 1800.01
+Confidence: nan
+Text: Far.
+
+Utterance 1092
+Start: 1800.77
+End: 1801.11
+Confidence: nan
+Text: Fat.
+
+Utterance 1093
+Start: 1801.71
+End: 1801.95
+Confidence: nan
+Text: Fel.
+
+Utterance 1094
+Start: 1802.59
+End: 1803.19
+Confidence: nan
+Text: Fing.
+
+Utterance 1095
+Start: 1803.53
+End: 1803.77
+Confidence: nan
+Text: Fo.
+
+Utterance 1096
+Start: 1804.93
+End: 1805.21
+Confidence: nan
+Text: Hab.
+
+Utterance 1097
+Start: 1805.79
+End: 1806.07
+Confidence: nan
+Text: Had.
+
+Utterance 1098
+Start: 1806.75
+End: 1807.03
+Confidence: nan
+Text: Hat.
+
+Utterance 1099
+Start: 1807.63
+End: 1807.99
+Confidence: nan
+Text: Hen.
+
+Utterance 1100
+Start: 1808.47
+End: 1809.07
+Confidence: nan
+Text: Hid.
+
+Utterance 1101
+Start: 1809.37
+End: 1809.71
+Confidence: nan
+Text: Hog.
+
+Utterance 1102
+Start: 1810.37
+End: 1810.67
+Confidence: nan
+Text: Hung.
+
+Utterance 1103
+Start: 1811.87
+End: 1812.21
+Confidence: nan
+Text: Jag.
+
+Utterance 1104
+Start: 1812.67
+End: 1812.93
+Confidence: nan
+Text: Jack.
+
+Utterance 1105
+Start: 1813.55
+End: 1813.77
+Confidence: nan
+Text: Jas.
+
+Utterance 1106
+Start: 1814.67
+End: 1814.99
+Confidence: nan
+Text: Jazz.
+
+Utterance 1107
+Start: 1816.15
+End: 1816.43
+Confidence: nan
+Text: Jing.
+
+Utterance 1108
+Start: 1817.09
+End: 1817.39
+Confidence: nan
+Text: Joy.
+
+Utterance 1109
+Start: 1818.55
+End: 1818.85
+Confidence: nan
+Text: Kab.
+
+Utterance 1110
+Start: 1819.35
+End: 1819.65
+Confidence: nan
+Text: Kad.
+
+Utterance 1111
+Start: 1820.11
+End: 1820.41
+Confidence: nan
+Text: Kag.
+
+Utterance 1112
+Start: 1821.01
+End: 1821.21
+Confidence: nan
+Text: Ken.
+
+Utterance 1113
+Start: 1821.21
+End: 1822.47
+Confidence: nan
+Text: Kib.
+
+Utterance 1114
+Start: 1822.75
+End: 1823.19
+Confidence: nan
+Text: Kog.
+
+Utterance 1115
+Start: 1823.73
+End: 1824.25
+Confidence: nan
+Text: Kou.
+
+Utterance 1116
+Start: 1824.47
+End: 1825.01
+Confidence: nan
+Text: Koy.
+
+Utterance 1117
+Start: 1825.31
+End: 1825.63
+Confidence: nan
+Text: Kur.
+
+Utterance 1118
+Start: 1827.09
+End: 1827.49
+Confidence: nan
+Text: Lab.
+
+Utterance 1119
+Start: 1828.11
+End: 1828.41
+Confidence: nan
+Text: Lad.
+
+Utterance 1120
+Start: 1828.97
+End: 1829.51
+Confidence: nan
+Text: Lai.
+
+Utterance 1121
+Start: 1829.87
+End: 1830.13
+Confidence: nan
+Text: Log.
+
+Utterance 1122
+Start: 1830.73
+End: 1830.97
+Confidence: nan
+Text: Low.
+
+Utterance 1123
+Start: 1831.55
+End: 1831.81
+Confidence: nan
+Text: Loy.
+
+Utterance 1124
+Start: 1832.35
+End: 1832.55
+Confidence: nan
+Text: Luk.
+
+Utterance 1125
+Start: 1833.55
+End: 1833.83
+Confidence: nan
+Text: Mal.
+
+Utterance 1126
+Start: 1834.61
+End: 1834.87
+Confidence: nan
+Text: Mem.
+
+Utterance 1127
+Start: 1835.63
+End: 1836.09
+Confidence: nan
+Text: Nip.
+
+Utterance 1128
+Start: 1836.63
+End: 1836.85
+Confidence: nan
+Text: Near.
+
+Utterance 1129
+Start: 1837.61
+End: 1837.87
+Confidence: nan
+Text: Mau.
+
+Utterance 1130
+Start: 1838.61
+End: 1839.13
+Confidence: nan
+Text: Mug.
+
+Utterance 1131
+Start: 1839.47
+End: 1839.79
+Confidence: nan
+Text: Muk.
+
+Utterance 1132
+Start: 1841.05
+End: 1841.35
+Confidence: nan
+Text: Nab.
+
+Utterance 1133
+Start: 1842.07
+End: 1842.45
+Confidence: nan
+Text: Dab.
+
+Utterance 1134
+Start: 1843.31
+End: 1843.69
+Confidence: nan
+Text: Nal.
+
+Utterance 1135
+Start: 1844.09
+End: 1844.37
+Confidence: nan
+Text: Neg.
+
+Utterance 1136
+Start: 1844.99
+End: 1845.27
+Confidence: nan
+Text: Nep.
+
+Utterance 1137
+Start: 1845.95
+End: 1846.49
+Confidence: nan
+Text: Nip.
+
+Utterance 1138
+Start: 1846.89
+End: 1847.15
+Confidence: nan
+Text: Near.
+
+Utterance 1139
+Start: 1847.89
+End: 1848.17
+Confidence: nan
+Text: Nos.
+
+Utterance 1140
+Start: 1848.91
+End: 1849.13
+Confidence: nan
+Text: No.
+
+Utterance 1141
+Start: 1849.13
+End: 1850.47
+Confidence: nan
+Text: Nus.
+
+Utterance 1142
+Start: 1850.87
+End: 1851.61
+Confidence: nan
+Text: Ngas.
+
+Utterance 1143
+Start: 1852.09
+End: 1852.67
+Confidence: nan
+Text: Ngek.
+
+Utterance 1144
+Start: 1852.99
+End: 1853.63
+Confidence: nan
+Text: Ngik.
+
+Utterance 1145
+Start: 1853.99
+End: 1854.49
+Confidence: nan
+Text: Ngop.
+
+Utterance 1146
+Start: 1855.53
+End: 1855.85
+Confidence: nan
+Text: Pad.
+
+Utterance 1147
+Start: 1856.39
+End: 1856.75
+Confidence: nan
+Text: Beng.
+
+Utterance 1148
+Start: 1857.21
+End: 1857.75
+Confidence: nan
+Text: Pik.
+
+Utterance 1149
+Start: 1858.23
+End: 1858.65
+Confidence: nan
+Text: Pou.
+
+Utterance 1150
+Start: 1859.07
+End: 1859.59
+Confidence: nan
+Text: Puk.
+
+Utterance 1151
+Start: 1859.97
+End: 1860.43
+Confidence: nan
+Text: Pus.
+
+Utterance 1152
+Start: 1860.89
+End: 1861.17
+Confidence: nan
+Text: Rab.
+
+Utterance 1153
+Start: 1861.83
+End: 1862.03
+Confidence: nan
+Text: Rad.
+
+Utterance 1154
+Start: 1862.71
+End: 1863.09
+Confidence: nan
+Text: Rag.
+
+Utterance 1155
+Start: 1863.59
+End: 1863.87
+Confidence: nan
+Text: Rak.
+
+Utterance 1156
+Start: 1864.83
+End: 1865.13
+Confidence: nan
+Text: Rem.
+
+Utterance 1157
+Start: 1865.77
+End: 1866.09
+Confidence: nan
+Text: Ren.
+
+Utterance 1158
+Start: 1866.65
+End: 1867.07
+Confidence: nan
+Text: Ris.
+
+Utterance 1159
+Start: 1867.71
+End: 1867.87
+Confidence: nan
+Text: Ro.
+
+Utterance 1160
+Start: 1868.63
+End: 1868.89
+Confidence: nan
+Text: Sad.
+
+Utterance 1161
+Start: 1869.77
+End: 1870.09
+Confidence: nan
+Text: Sat.
+
+Utterance 1162
+Start: 1870.57
+End: 1870.85
+Confidence: nan
+Text: Sei.
+
+Utterance 1163
+Start: 1871.39
+End: 1871.67
+Confidence: nan
+Text: So.
+
+Utterance 1164
+Start: 1872.13
+End: 1872.81
+Confidence: nan
+Text: Suy.
+
+Utterance 1165
+Start: 1873.67
+End: 1873.97
+Confidence: nan
+Text: Tad.
+
+Utterance 1166
+Start: 1874.41
+End: 1874.73
+Confidence: nan
+Text: Tag.
+
+Utterance 1167
+Start: 1875.35
+End: 1875.67
+Confidence: nan
+Text: Tem.
+
+Utterance 1168
+Start: 1876.23
+End: 1876.49
+Confidence: nan
+Text: Ten.
+
+Utterance 1169
+Start: 1876.49
+End: 1877.97
+Confidence: nan
+Text: Tog.
+
+Utterance 1170
+Start: 1878.07
+End: 1878.67
+Confidence: nan
+Text: Taw.
+
+Utterance 1171
+Start: 1878.99
+End: 1879.31
+Confidence: nan
+Text: Chap.
+
+Utterance 1172
+Start: 1879.87
+End: 1880.17
+Confidence: nan
+Text: Check.
+
+Utterance 1173
+Start: 1880.65
+End: 1881.17
+Confidence: nan
+Text: Ches.
+
+Utterance 1174
+Start: 1881.43
+End: 1882.27
+Confidence: nan
+Text: Choq.
+
+Utterance 1175
+Start: 1882.33
+End: 1882.77
+Confidence: nan
+Text: Chuy.
+
+Utterance 1176
+Start: 1884.03
+End: 1884.47
+Confidence: nan
+Text: Vak.
+
+Utterance 1177
+Start: 1884.89
+End: 1885.19
+Confidence: nan
+Text: Val.
+
+Utterance 1178
+Start: 1885.75
+End: 1886.17
+Confidence: nan
+Text: Ves.
+
+Utterance 1179
+Start: 1886.55
+End: 1886.99
+Confidence: nan
+Text: Vin.
+
+Utterance 1180
+Start: 1887.55
+End: 1887.77
+Confidence: nan
+Text: Bol.
+
+Utterance 1181
+Start: 1888.87
+End: 1889.21
+Confidence: nan
+Text: Wal.
+
+Utterance 1182
+Start: 1889.77
+End: 1889.99
+Confidence: nan
+Text: War.
+
+Utterance 1183
+Start: 1890.47
+End: 1890.83
+Confidence: nan
+Text: Wed.
+
+Utterance 1184
+Start: 1891.55
+End: 1891.55
+Confidence: nan
+Text: Wal.
+
+Utterance 1185
+Start: 1892.57
+End: 1892.95
+Confidence: nan
+Text: Yab.
+
+Utterance 1186
+Start: 1893.31
+End: 1893.59
+Confidence: nan
+Text: Yap.
+
+Utterance 1187
+Start: 1894.13
+End: 1894.45
+Confidence: nan
+Text: Yaw.
+
+Utterance 1188
+Start: 1895.25
+End: 1895.53
+Confidence: nan
+Text: Zam.
+
+Utterance 1189
+Start: 1896.33
+End: 1896.87
+Confidence: nan
+Text: Zay.
+
+Utterance 1190
+Start: 1897.19
+End: 1897.53
+Confidence: nan
+Text: Zig.
+
+Utterance 1191
+Start: 1905.16
+End: 1905.62
+Confidence: nan
+Text: Bab.
+
+Utterance 1192
+Start: 1906.06
+End: 1906.34
+Confidence: nan
+Text: Bed.
+
+Utterance 1193
+Start: 1906.84
+End: 1907.16
+Confidence: nan
+Text: Bem.
+
+Utterance 1194
+Start: 1907.78
+End: 1908.04
+Confidence: nan
+Text: Bow.
+
+Utterance 1195
+Start: 1908.64
+End: 1909.30
+Confidence: nan
+Text: Buwa.
+
+Utterance 1196
+Start: 1909.62
+End: 1910.18
+Confidence: nan
+Text: Buy.
+
+Utterance 1197
+Start: 1910.18
+End: 1911.94
+Confidence: nan
+Text: Das.
+
+Utterance 1198
+Start: 1912.36
+End: 1912.74
+Confidence: nan
+Text: Dai.
+
+Utterance 1199
+Start: 1913.32
+End: 1913.68
+Confidence: nan
+Text: Del.
+
+Utterance 1200
+Start: 1914.24
+End: 1914.56
+Confidence: nan
+Text: Den.
+
+Utterance 1201
+Start: 1915.14
+End: 1915.34
+Confidence: nan
+Text: Dog.
+
+Utterance 1202
+Start: 1916.10
+End: 1916.42
+Confidence: nan
+Text: Dos.
+
+Utterance 1203
+Start: 1917.08
+End: 1917.34
+Confidence: nan
+Text: Gad.
+
+Utterance 1204
+Start: 1917.96
+End: 1918.40
+Confidence: nan
+Text: Gak.
+
+Utterance 1205
+Start: 1918.80
+End: 1919.10
+Confidence: nan
+Text: Gam.
+
+Utterance 1206
+Start: 1919.64
+End: 1920.34
+Confidence: nan
+Text: Gap.
+
+Utterance 1207
+Start: 1921.40
+End: 1921.82
+Confidence: nan
+Text: Far.
+
+Utterance 1208
+Start: 1922.32
+End: 1922.58
+Confidence: nan
+Text: Fat.
+
+Utterance 1209
+Start: 1923.06
+End: 1923.38
+Confidence: nan
+Text: Fel.
+
+Utterance 1210
+Start: 1923.92
+End: 1924.64
+Confidence: nan
+Text: Fing.
+
+Utterance 1211
+Start: 1924.78
+End: 1925.60
+Confidence: nan
+Text: Foo.
+
+Utterance 1212
+Start: 1926.46
+End: 1926.80
+Confidence: nan
+Text: Hab.
+
+Utterance 1213
+Start: 1927.38
+End: 1927.60
+Confidence: nan
+Text: Had.
+
+Utterance 1214
+Start: 1928.26
+End: 1928.52
+Confidence: nan
+Text: Hat.
+
+Utterance 1215
+Start: 1929.16
+End: 1929.44
+Confidence: nan
+Text: Hen.
+
+Utterance 1216
+Start: 1930.04
+End: 1930.42
+Confidence: nan
+Text: Hid.
+
+Utterance 1217
+Start: 1930.84
+End: 1931.20
+Confidence: nan
+Text: Hog.
+
+Utterance 1218
+Start: 1931.64
+End: 1931.98
+Confidence: nan
+Text: Hung.
+
+Utterance 1219
+Start: 1933.18
+End: 1933.46
+Confidence: nan
+Text: Jag.
+
+Utterance 1220
+Start: 1934.08
+End: 1934.36
+Confidence: nan
+Text: Jak.
+
+Utterance 1221
+Start: 1934.92
+End: 1935.14
+Confidence: nan
+Text: Jas.
+
+Utterance 1222
+Start: 1935.86
+End: 1936.74
+Confidence: nan
+Text: Jalz.
+
+Utterance 1223
+Start: 1937.12
+End: 1937.42
+Confidence: nan
+Text: Jing.
+
+Utterance 1224
+Start: 1937.42
+End: 1938.60
+Confidence: nan
+Text: Joy.
+
+Utterance 1225
+Start: 1939.28
+End: 1939.34
+Confidence: nan
+Text: Kab.
+
+Utterance 1226
+Start: 1940.08
+End: 1940.62
+Confidence: nan
+Text: Kad.
+
+Utterance 1227
+Start: 1941.06
+End: 1941.64
+Confidence: nan
+Text: Kag.
+
+Utterance 1228
+Start: 1942.24
+End: 1942.50
+Confidence: nan
+Text: Ken.
+
+Utterance 1229
+Start: 1943.38
+End: 1943.89
+Confidence: nan
+Text: Kib.
+
+Utterance 1230
+Start: 1944.50
+End: 1945.04
+Confidence: nan
+Text: Kog.
+
+Utterance 1231
+Start: 1945.58
+End: 1946.08
+Confidence: nan
+Text: Kow.
+
+Utterance 1232
+Start: 1946.46
+End: 1946.96
+Confidence: nan
+Text: Koy.
+
+Utterance 1233
+Start: 1947.54
+End: 1947.94
+Confidence: nan
+Text: Kur.
+
+Utterance 1234
+Start: 1948.82
+End: 1949.24
+Confidence: nan
+Text: Lab.
+
+Utterance 1235
+Start: 1949.82
+End: 1950.04
+Confidence: nan
+Text: Lad.
+
+Utterance 1236
+Start: 1950.80
+End: 1951.12
+Confidence: nan
+Text: Lay.
+
+Utterance 1237
+Start: 1952.00
+End: 1952.26
+Confidence: nan
+Text: Log.
+
+Utterance 1238
+Start: 1953.00
+End: 1953.22
+Confidence: nan
+Text: Low.
+
+Utterance 1239
+Start: 1954.04
+End: 1954.34
+Confidence: nan
+Text: Loy.
+
+Utterance 1240
+Start: 1955.16
+End: 1955.44
+Confidence: nan
+Text: Luk.
+
+Utterance 1241
+Start: 1956.58
+End: 1956.96
+Confidence: nan
+Text: Mal.
+
+Utterance 1242
+Start: 1957.48
+End: 1957.72
+Confidence: nan
+Text: Mem.
+
+Utterance 1243
+Start: 1958.22
+End: 1958.70
+Confidence: nan
+Text: Mip.
+
+Utterance 1244
+Start: 1959.18
+End: 1959.40
+Confidence: nan
+Text: Mir.
+
+Utterance 1245
+Start: 1960.20
+End: 1960.48
+Confidence: nan
+Text: Mo.
+
+Utterance 1246
+Start: 1961.20
+End: 1961.78
+Confidence: nan
+Text: Mug.
+
+Utterance 1247
+Start: 1962.28
+End: 1962.56
+Confidence: nan
+Text: Muk.
+
+Utterance 1248
+Start: 1963.82
+End: 1964.20
+Confidence: nan
+Text: Nab.
+
+Utterance 1249
+Start: 1964.76
+End: 1964.98
+Confidence: nan
+Text: Nad.
+
+Utterance 1250
+Start: 1964.98
+End: 1965.96
+Confidence: nan
+Text: Nal.
+
+Utterance 1251
+Start: 1966.10
+End: 1966.68
+Confidence: nan
+Text: Neg.
+
+Utterance 1252
+Start: 1967.28
+End: 1967.58
+Confidence: nan
+Text: Nep.
+
+Utterance 1253
+Start: 1968.16
+End: 1968.64
+Confidence: nan
+Text: Nip.
+
+Utterance 1254
+Start: 1969.00
+End: 1969.20
+Confidence: nan
+Text: Nir.
+
+Utterance 1255
+Start: 1969.80
+End: 1970.10
+Confidence: nan
+Text: Nos.
+
+Utterance 1256
+Start: 1970.60
+End: 1970.78
+Confidence: nan
+Text: No.
+
+Utterance 1257
+Start: 1971.44
+End: 1972.04
+Confidence: nan
+Text: Nus.
+
+Utterance 1258
+Start: 1972.30
+End: 1972.72
+Confidence: nan
+Text: Ngas.
+
+Utterance 1259
+Start: 1973.22
+End: 1973.52
+Confidence: nan
+Text: Ngek.
+
+Utterance 1260
+Start: 1973.90
+End: 1974.56
+Confidence: nan
+Text: Ngik.
+
+Utterance 1261
+Start: 1974.82
+End: 1975.42
+Confidence: nan
+Text: Ngop.
+
+Utterance 1262
+Start: 1976.50
+End: 1976.96
+Confidence: nan
+Text: Pad.
+
+Utterance 1263
+Start: 1977.42
+End: 1977.74
+Confidence: nan
+Text: Peng.
+
+Utterance 1264
+Start: 1978.20
+End: 1978.58
+Confidence: nan
+Text: Pik.
+
+Utterance 1265
+Start: 1979.10
+End: 1979.48
+Confidence: nan
+Text: Paw.
+
+Utterance 1266
+Start: 1980.00
+End: 1980.46
+Confidence: nan
+Text: Puk.
+
+Utterance 1267
+Start: 1980.78
+End: 1981.20
+Confidence: nan
+Text: Pus.
+
+Utterance 1268
+Start: 1981.74
+End: 1981.98
+Confidence: nan
+Text: Rab.
+
+Utterance 1269
+Start: 1982.92
+End: 1983.16
+Confidence: nan
+Text: Rad.
+
+Utterance 1270
+Start: 1983.86
+End: 1984.10
+Confidence: nan
+Text: Rag.
+
+Utterance 1271
+Start: 1984.62
+End: 1984.92
+Confidence: nan
+Text: Rak.
+
+Utterance 1272
+Start: 1985.90
+End: 1986.12
+Confidence: nan
+Text: Rem.
+
+Utterance 1273
+Start: 1986.80
+End: 1987.08
+Confidence: nan
+Text: Ren.
+
+Utterance 1274
+Start: 1987.62
+End: 1987.90
+Confidence: nan
+Text: Ris.
+
+Utterance 1275
+Start: 1988.30
+End: 1988.54
+Confidence: nan
+Text: Ro.
+
+Utterance 1276
+Start: 1989.04
+End: 1989.24
+Confidence: nan
+Text: Sad.
+
+Utterance 1277
+Start: 1990.14
+End: 1990.48
+Confidence: nan
+Text: Sat.
+
+Utterance 1278
+Start: 1990.96
+End: 1991.20
+Confidence: nan
+Text: Say.
+
+Utterance 1279
+Start: 1991.72
+End: 1991.94
+Confidence: nan
+Text: So.
+
+Utterance 1280
+Start: 1992.44
+End: 1993.26
+Confidence: nan
+Text: Sui.
+
+Utterance 1281
+Start: 1993.26
+End: 1994.40
+Confidence: nan
+Text: Tad.
+
+Utterance 1282
+Start: 1994.54
+End: 1994.88
+Confidence: nan
+Text: Tag.
+
+Utterance 1283
+Start: 1995.34
+End: 1995.58
+Confidence: nan
+Text: Tem.
+
+Utterance 1284
+Start: 1996.10
+End: 1996.52
+Confidence: nan
+Text: Ten.
+
+Utterance 1285
+Start: 1996.88
+End: 1997.38
+Confidence: nan
+Text: Tog.
+
+Utterance 1286
+Start: 1997.70
+End: 1998.54
+Confidence: nan
+Text: Taw.
+
+Utterance 1287
+Start: 1998.96
+End: 1999.48
+Confidence: nan
+Text: Chap.
+
+Utterance 1288
+Start: 1999.90
+End: 2000.48
+Confidence: nan
+Text: Chek.
+
+Utterance 1289
+Start: 2000.60
+End: 2001.04
+Confidence: nan
+Text: Ches.
+
+Utterance 1290
+Start: 2001.42
+End: 2001.86
+Confidence: nan
+Text: Chok.
+
+Utterance 1291
+Start: 2002.18
+End: 2003.04
+Confidence: nan
+Text: Choy.
+
+Utterance 1292
+Start: 2003.52
+End: 2004.00
+Confidence: nan
+Text: Vak.
+
+Utterance 1293
+Start: 2004.46
+End: 2004.76
+Confidence: nan
+Text: Val.
+
+Utterance 1294
+Start: 2005.30
+End: 2005.58
+Confidence: nan
+Text: Bes.
+
+Utterance 1295
+Start: 2006.00
+End: 2006.36
+Confidence: nan
+Text: Vin.
+
+Utterance 1296
+Start: 2006.96
+End: 2007.20
+Confidence: nan
+Text: Vol.
+
+Utterance 1297
+Start: 2008.36
+End: 2008.66
+Confidence: nan
+Text: Wal.
+
+Utterance 1298
+Start: 2009.20
+End: 2009.44
+Confidence: nan
+Text: War.
+
+Utterance 1299
+Start: 2009.86
+End: 2010.22
+Confidence: nan
+Text: Red.
+
+Utterance 1300
+Start: 2010.76
+End: 2010.98
+Confidence: nan
+Text: Wal.
+
+Utterance 1301
+Start: 2012.08
+End: 2012.48
+Confidence: nan
+Text: Yab.
+
+Utterance 1302
+Start: 2012.90
+End: 2013.16
+Confidence: nan
+Text: Yap.
+
+Utterance 1303
+Start: 2013.76
+End: 2014.10
+Confidence: nan
+Text: Yaw.
+
+Utterance 1304
+Start: 2014.60
+End: 2014.82
+Confidence: nan
+Text: Zam.
+
+Utterance 1305
+Start: 2015.40
+End: 2016.00
+Confidence: nan
+Text: Zay.
+
+Utterance 1306
+Start: 2016.34
+End: 2016.68
+Confidence: nan
+Text: Zig.
+
+Utterance 1307
+Start: 2020.32
+End: 2020.90
+Confidence: nan
+Text: Akin.
+
+Utterance 1308
+Start: 2021.40
+End: 2021.80
+Confidence: nan
+Text: Ako.
+
+Utterance 1309
+Start: 2022.50
+End: 2022.94
+Confidence: nan
+Text: Ang.
+
+Utterance 1310
+Start: 2023.68
+End: 2024.11
+Confidence: nan
+Text: Apat.
+
+Utterance 1311
+Start: 2024.11
+End: 2026.37
+Confidence: nan
+Text: Aplikasyon.
+
+Utterance 1312
+Start: 2026.57
+End: 2027.97
+Confidence: nan
+Text: Aplikasyon.
+
+Utterance 1313
+Start: 2028.41
+End: 2028.79
+Confidence: nan
+Text: Araw.
+
+Utterance 1314
+Start: 2029.51
+End: 2029.87
+Confidence: nan
+Text: Aso.
+
+Utterance 1315
+Start: 2030.81
+End: 2031.41
+Confidence: nan
+Text: At.
+
+Utterance 1316
+Start: 2031.83
+End: 2032.19
+Confidence: nan
+Text: Ay.
+
+Utterance 1317
+Start: 2032.91
+End: 2033.25
+Confidence: nan
+Text: Ba.
+
+Utterance 1318
+Start: 2033.91
+End: 2034.47
+Confidence: nan
+Text: Bago.
+
+Utterance 1319
+Start: 2035.09
+End: 2035.83
+Confidence: nan
+Text: Barangay.
+
+Utterance 1320
+Start: 2036.37
+End: 2037.07
+Confidence: nan
+Text: Buong.
+
+Utterance 1321
+Start: 2037.39
+End: 2038.39
+Confidence: nan
+Text: Buto.
+
+Utterance 1322
+Start: 2038.75
+End: 2039.47
+Confidence: nan
+Text: Chicharon.
+
+Utterance 1323
+Start: 2041.03
+End: 2041.95
+Confidence: nan
+Text: Daan.
+
+Utterance 1324
+Start: 2042.69
+End: 2043.91
+Confidence: nan
+Text: Dalawang.
+
+Utterance 1325
+Start: 2044.35
+End: 2044.61
+Confidence: nan
+Text: Din.
+
+Utterance 1326
+Start: 2045.47
+End: 2046.17
+Confidence: nan
+Text: Dokumento.
+
+Utterance 1327
+Start: 2047.27
+End: 2047.51
+Confidence: nan
+Text: Doy.
+
+Utterance 1328
+Start: 2048.59
+End: 2048.91
+Confidence: nan
+Text: Jan.
+
+Utterance 1329
+Start: 2049.75
+End: 2050.55
+Confidence: nan
+Text: Empleyado.
+
+Utterance 1330
+Start: 2051.51
+End: 2052.29
+Confidence: nan
+Text: Episode.
+
+Utterance 1331
+Start: 2052.29
+End: 2054.61
+Confidence: nan
+Text: Faye.
+
+Utterance 1332
+Start: 2054.75
+End: 2055.55
+Confidence: nan
+Text: Face.
+
+Utterance 1333
+Start: 2056.47
+End: 2057.29
+Confidence: nan
+Text: Halos.
+
+Utterance 1334
+Start: 2058.03
+End: 2058.72
+Confidence: nan
+Text: Hanapin.
+
+Utterance 1335
+Start: 2060.13
+End: 2060.49
+Confidence: nan
+Text: Hapon.
+
+Utterance 1336
+Start: 2060.99
+End: 2061.31
+Confidence: nan
+Text: Hello.
+
+Utterance 1337
+Start: 2062.17
+End: 2062.41
+Confidence: nan
+Text: Hindi.
+
+Utterance 1338
+Start: 2063.19
+End: 2064.01
+Confidence: nan
+Text: Hinihiling.
+
+Utterance 1339
+Start: 2064.47
+End: 2065.29
+Confidence: nan
+Text: Hopya.
+
+Utterance 1340
+Start: 2065.83
+End: 2066.71
+Confidence: nan
+Text: Huwag.
+
+Utterance 1341
+Start: 2067.11
+End: 2068.25
+Confidence: nan
+Text: Ibibigay.
+
+Utterance 1342
+Start: 2068.55
+End: 2069.81
+Confidence: nan
+Text: Ipaliwanag.
+
+Utterance 1343
+Start: 2070.31
+End: 2070.93
+Confidence: nan
+Text: Itong.
+
+Utterance 1344
+Start: 2071.61
+End: 2072.27
+Confidence: nan
+Text: Iyong.
+
+Utterance 1345
+Start: 2072.97
+End: 2073.35
+Confidence: nan
+Text: Ka.
+
+Utterance 1346
+Start: 2074.39
+End: 2075.21
+Confidence: nan
+Text: Kailan.
+
+Utterance 1347
+Start: 2075.53
+End: 2076.71
+Confidence: nan
+Text: Kailangang.
+
+Utterance 1348
+Start: 2077.09
+End: 2078.01
+Confidence: nan
+Text: Kainin.
+
+Utterance 1349
+Start: 2078.35
+End: 2078.99
+Confidence: nan
+Text: Kakatwang.
+
+Utterance 1350
+Start: 2079.79
+End: 2080.39
+Confidence: nan
+Text: Kaliwang.
+
+Utterance 1351
+Start: 2080.39
+End: 2082.29
+Confidence: nan
+Text: Kanya.
+
+Utterance 1352
+Start: 2082.63
+End: 2083.91
+Confidence: nan
+Text: Kapalaran.
+
+Utterance 1353
+Start: 2084.17
+End: 2084.87
+Confidence: nan
+Text: Kasabihan.
+
+Utterance 1354
+Start: 2085.65
+End: 2086.59
+Confidence: nan
+Text: Katawan.
+
+Utterance 1355
+Start: 2087.07
+End: 2088.39
+Confidence: nan
+Text: Kayo.
+
+Utterance 1356
+Start: 2088.79
+End: 2089.77
+Confidence: nan
+Text: Kilay.
+
+Utterance 1357
+Start: 2090.21
+End: 2090.57
+Confidence: nan
+Text: Ko.
+
+Utterance 1358
+Start: 2091.37
+End: 2091.79
+Confidence: nan
+Text: Kung.
+
+Utterance 1359
+Start: 2092.41
+End: 2093.03
+Confidence: nan
+Text: Lababo.
+
+Utterance 1360
+Start: 2093.75
+End: 2094.65
+Confidence: nan
+Text: Labing.
+
+Utterance 1361
+Start: 2095.17
+End: 2096.39
+Confidence: nan
+Text: Lalapit.
+
+Utterance 1362
+Start: 2096.81
+End: 2097.59
+Confidence: nan
+Text: Lamang.
+
+Utterance 1363
+Start: 2098.09
+End: 2098.33
+Confidence: nan
+Text: Lang.
+
+Utterance 1364
+Start: 2099.37
+End: 2099.75
+Confidence: nan
+Text: Luma.
+
+Utterance 1365
+Start: 2100.47
+End: 2101.29
+Confidence: nan
+Text: Madilat.
+
+Utterance 1366
+Start: 2102.07
+End: 2102.89
+Confidence: nan
+Text: Madilaw.
+
+Utterance 1367
+Start: 2103.57
+End: 2104.51
+Confidence: nan
+Text: Magandang.
+
+Utterance 1368
+Start: 2104.85
+End: 2105.59
+Confidence: nan
+Text: Maghapon.
+
+Utterance 1369
+Start: 2106.21
+End: 2107.07
+Confidence: nan
+Text: Magkakaroon.
+
+Utterance 1370
+Start: 2107.81
+End: 2108.87
+Confidence: nan
+Text: Magkukusang.
+
+Utterance 1371
+Start: 2108.87
+End: 2110.33
+Confidence: nan
+Text: Mahirap.
+
+Utterance 1372
+Start: 2110.55
+End: 2111.17
+Confidence: nan
+Text: Maitim.
+
+Utterance 1373
+Start: 2112.15
+End: 2112.87
+Confidence: nan
+Text: Makakatapos.
+
+Utterance 1374
+Start: 2113.71
+End: 2114.65
+Confidence: nan
+Text: Makakuha.
+
+Utterance 1375
+Start: 2115.25
+End: 2116.49
+Confidence: nan
+Text: Makapal.
+
+Utterance 1376
+Start: 2116.75
+End: 2117.71
+Confidence: nan
+Text: Makuha.
+
+Utterance 1377
+Start: 2118.15
+End: 2118.79
+Confidence: nan
+Text: Malago.
+
+Utterance 1378
+Start: 2120.01
+End: 2120.71
+Confidence: nan
+Text: Malalaki.
+
+Utterance 1379
+Start: 2121.63
+End: 2122.47
+Confidence: nan
+Text: Malas.
+
+Utterance 1380
+Start: 2122.95
+End: 2123.27
+Confidence: nan
+Text: Man.
+
+Utterance 1381
+Start: 2123.83
+End: 2124.97
+Confidence: nan
+Text: Masuerte.
+
+Utterance 1382
+Start: 2125.35
+End: 2126.43
+Confidence: nan
+Text: Matang.
+
+Utterance 1383
+Start: 2126.75
+End: 2127.45
+Confidence: nan
+Text: Matipuno.
+
+Utterance 1384
+Start: 2128.39
+End: 2128.93
+Confidence: nan
+Text: May.
+
+Utterance 1385
+Start: 2129.37
+End: 2130.19
+Confidence: nan
+Text: Mga.
+
+Utterance 1386
+Start: 2130.55
+End: 2131.13
+Confidence: nan
+Text: Mga.
+
+Utterance 1387
+Start: 2131.83
+End: 2132.89
+Confidence: nan
+Text: Minsan.
+
+Utterance 1388
+Start: 2133.31
+End: 2133.83
+Confidence: nan
+Text: Mo.
+
+Utterance 1389
+Start: 2134.53
+End: 2134.79
+Confidence: nan
+Text: Mong.
+
+Utterance 1390
+Start: 2135.37
+End: 2136.05
+Confidence: nan
+Text: Mukha.
+
+Utterance 1391
+Start: 2136.65
+End: 2137.01
+Confidence: nan
+Text: Muna.
+
+Utterance 1392
+Start: 2137.01
+End: 2138.01
+Confidence: nan
+Text: Na.
+
+Utterance 1393
+Start: 2138.67
+End: 2139.85
+Confidence: nan
+Text: Nagsabi.
+
+Utterance 1394
+Start: 2140.79
+End: 2141.71
+Confidence: nan
+Text: Nagtinda.
+
+Utterance 1395
+Start: 2142.09
+End: 2143.07
+Confidence: nan
+Text: Nakausli.
+
+Utterance 1396
+Start: 2143.55
+End: 2144.29
+Confidence: nan
+Text: Naman.
+
+Utterance 1397
+Start: 2144.53
+End: 2145.51
+Confidence: nan
+Text: Nandiyan.
+
+Utterance 1398
+Start: 2145.79
+End: 2146.27
+Confidence: nan
+Text: Nasa.
+
+Utterance 1399
+Start: 2146.79
+End: 2146.97
+Confidence: nan
+Text: Nasa
+
+Utterance 1400
+Start: 2146.97
+End: 2147.61
+Confidence: nan
+Text: gasaan.
+
+Utterance 1401
+Start: 2148.69
+End: 2149.43
+Confidence: nan
+Text: Nang.
+
+Utterance 1402
+Start: 2149.87
+End: 2150.57
+Confidence: nan
+Text: Ngang.
+
+Utterance 1403
+Start: 2150.87
+End: 2151.71
+Confidence: nan
+Text: Ngayon.
+
+Utterance 1404
+Start: 2151.99
+End: 2152.75
+Confidence: nan
+Text: Ngipin.
+
+Utterance 1405
+Start: 2153.01
+End: 2153.69
+Confidence: nan
+Text: Ningning.
+
+Utterance 1406
+Start: 2154.09
+End: 2154.89
+Confidence: nan
+Text: Ninyo.
+
+Utterance 1407
+Start: 2155.21
+End: 2155.73
+Confidence: nan
+Text: Nia.
+
+Utterance 1408
+Start: 2156.33
+End: 2157.33
+Confidence: nan
+Text: Nueva.
+
+Utterance 1409
+Start: 2157.87
+End: 2158.51
+Confidence: nan
+Text: Numiro.
+
+Utterance 1410
+Start: 2159.19
+End: 2159.57
+Confidence: nan
+Text: Pa.
+
+Utterance 1411
+Start: 2160.05
+End: 2161.03
+Confidence: nan
+Text: Paborito.
+
+Utterance 1412
+Start: 2161.53
+End: 2162.81
+Confidence: nan
+Text: Pagkakataong.
+
+Utterance 1413
+Start: 2163.65
+End: 2164.63
+Confidence: nan
+Text: Pagkakuha.
+
+Utterance 1414
+Start: 2164.63
+End: 2166.39
+Confidence: nan
+Text: Pagkuha.
+
+Utterance 1415
+Start: 2166.79
+End: 2167.95
+Confidence: nan
+Text: Pagsubmit.
+
+Utterance 1416
+Start: 2168.27
+End: 2168.99
+Confidence: nan
+Text: Pakigawa.
+
+Utterance 1417
+Start: 2169.81
+End: 2170.65
+Confidence: nan
+Text: Pakikanta.
+
+Utterance 1418
+Start: 2171.63
+End: 2172.49
+Confidence: nan
+Text: Pancho.
+
+Utterance 1419
+Start: 2172.89
+End: 2173.79
+Confidence: nan
+Text: Pandak.
+
+Utterance 1420
+Start: 2174.33
+End: 2175.13
+Confidence: nan
+Text: Pangalan.
+
+Utterance 1421
+Start: 2175.67
+End: 2176.63
+Confidence: nan
+Text: Pangyayaring.
+
+Utterance 1422
+Start: 2177.61
+End: 2177.79
+Confidence: nan
+Text: Para.
+
+Utterance 1423
+Start: 2178.81
+End: 2179.17
+Confidence: nan
+Text: Patong
+
+Utterance 1424
+Start: 2179.17
+End: 2180.27
+Confidence: nan
+Text: -patong.
+
+Utterance 1425
+Start: 2181.31
+End: 2181.73
+Confidence: nan
+Text: Pero.
+
+Utterance 1426
+Start: 2182.73
+End: 2183.33
+Confidence: nan
+Text: Pilat.
+
+Utterance 1427
+Start: 2183.93
+End: 2184.61
+Confidence: nan
+Text: Pinaglalag
+
+Utterance 1428
+Start: 2184.61
+End: 2185.05
+Confidence: nan
+Text: yan.
+
+Utterance 1429
+Start: 2185.75
+End: 2186.57
+Confidence: nan
+Text: Pipila.
+
+Utterance 1430
+Start: 2187.41
+End: 2187.59
+Confidence: nan
+Text: Po.
+
+Utterance 1431
+Start: 2188.35
+End: 2189.05
+Confidence: nan
+Text: Pulgada.
+
+Utterance 1432
+Start: 2189.81
+End: 2190.59
+Confidence: nan
+Text: Pumila.
+
+Utterance 1433
+Start: 2191.15
+End: 2191.93
+Confidence: nan
+Text: Pupunta.
+
+Utterance 1434
+Start: 2192.55
+End: 2193.11
+Confidence: nan
+Text: Rito.
+
+Utterance 1435
+Start: 2193.11
+End: 2194.05
+Confidence: nan
+Text: Sa.
+
+Utterance 1436
+Start: 2194.55
+End: 2195.27
+Confidence: nan
+Text: Saan.
+
+Utterance 1437
+Start: 2195.53
+End: 2196.61
+Confidence: nan
+Text: Sampong.
+
+Utterance 1438
+Start: 2197.03
+End: 2197.91
+Confidence: nan
+Text: Sancho.
+
+Utterance 1439
+Start: 2198.31
+End: 2198.93
+Confidence: nan
+Text: Sayo.
+
+Utterance 1440
+Start: 2199.41
+End: 2200.45
+Confidence: nan
+Text: Sampu.
+
+Utterance 1441
+Start: 2201.13
+End: 2201.47
+Confidence: nan
+Text: Si.
+
+Utterance 1442
+Start: 2202.11
+End: 2202.57
+Confidence: nan
+Text: Sino.
+
+Utterance 1443
+Start: 2203.47
+End: 2204.79
+Confidence: nan
+Text: Siya.
+
+Utterance 1444
+Start: 2205.25
+End: 2206.29
+Confidence: nan
+Text: Siya.
+
+Utterance 1445
+Start: 2206.71
+End: 2207.87
+Confidence: nan
+Text: Taas.
+
+Utterance 1446
+Start: 2208.21
+End: 2208.95
+Confidence: nan
+Text: Tagiliran.
+
+Utterance 1447
+Start: 2209.47
+End: 2210.57
+Confidence: nan
+Text: Tagumpay.
+
+Utterance 1448
+Start: 2211.09
+End: 2211.71
+Confidence: nan
+Text: Talagang.
+
+Utterance 1449
+Start: 2212.37
+End: 2213.27
+Confidence: nan
+Text: Talampakan.
+
+Utterance 1450
+Start: 2214.07
+End: 2214.73
+Confidence: nan
+Text: Tawag.
+
+Utterance 1451
+Start: 2215.37
+End: 2216.03
+Confidence: nan
+Text: Tawel.
+
+Utterance 1452
+Start: 2216.49
+End: 2217.35
+Confidence: nan
+Text: Tugatog.
+
+Utterance 1453
+Start: 2217.87
+End: 2218.75
+Confidence: nan
+Text: Ubusin.
+
+Utterance 1454
+Start: 2219.19
+End: 2220.05
+Confidence: nan
+Text: Villaluz.
+
+Utterance 1455
+Start: 2220.67
+End: 2221.33
+Confidence: nan
+Text: Viskaya.
+
+Utterance 1456
+Start: 2221.33
+End: 2222.67
+Confidence: nan
+Text: Yan.
+
+Utterance 1457
+Start: 2223.31
+End: 2223.61
+Confidence: nan
+Text: Yun.
+
+Utterance 1458
+Start: 2224.33
+End: 2224.53
+Confidence: nan
+Text: Yun.
+
