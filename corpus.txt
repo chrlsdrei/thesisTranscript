@@ -26,14 +26,14 @@
 77_xx00xxxx_13A_0026 sa iyo eh bakit kailangan sa ikalabing tatlo ng pebrero
 77_xx00xxxx_13A_0027 tama naman siya diba
 77_xx00xxxx_13A_0028 ano ba ang nakita mo sa panaginip
-77_xx00xxxx_13A_0029 tumalon ka mo ang iyong puso
+77_xx00xxxx_13A_0029 tumalon kamo ang iyong puso
 77_xx00xxxx_13A_0030 matulog ka na
 77_xx00xxxx_13A_0031 pumunta ka ngayon dito
 77_xx00xxxx_13A_0032 tawagan mo ako
 77_xx00xxxx_13A_0033 samahan mo naman ako mamaya
 77_xx00xxxx_13A_0034 pakibukas naman ang pinto
 77_xx00xxxx_13A_0035 aray may multo
-77_xx00xxxx_13A_0036 siya si hans anderson gumuhuit ng baliw na unggoy sa
+77_xx00xxxx_13A_0036 siya si hans anderson gumuhit ng baliw na unggoy sa
 77_xx00xxxx_13A_0037 violet na pinto
 77_xx00xxxx_13A_0038 siya rin ang nasa commercial ng jag
 77_xx00xxxx_13A_0039 ang vice president ay pupunta sa mindanao zone upang makita
@@ -41,7 +41,7 @@
 77_xx00xxxx_13A_0041 wala doon ang chocolate na favorite ni lazoro
 77_xx00xxxx_13A_0042 wala doon ang chocolate na favorite ni lazoro jess at
 77_xx00xxxx_13A_0043 resty mula sa china at japan
-77_xx00xxxx_13A_0044 elementaria lamang ang natapos ni ra leon subalit lumakad siyang
+77_xx00xxxx_13A_0044 elementarya lamang ang natapos ni ra leon subalit lumakad siyang
 77_xx00xxxx_13A_0045 matuwid
 77_xx00xxxx_13A_0046 pangulo
 77_xx00xxxx_13A_0047 magnanakaw
@@ -91,7 +91,7 @@
 77_xx00xxxx_13A_0091 pautos
 77_xx00xxxx_13A_0092 mapapakinabangang
 77_xx00xxxx_13A_0093 agiw
-77_xx00xxxx_13A_0094 huebes
+77_xx00xxxx_13A_0094 huwebes
 77_xx00xxxx_13A_0095 magsaya
 77_xx00xxxx_13A_0096 pebrero
 77_xx00xxxx_13A_0097 hating
@@ -115,7 +115,7 @@
 77_xx00xxxx_13A_0115 aksayahin
 77_xx00xxxx_13A_0116 magulang
 77_xx00xxxx_13A_0117 pilat
-77_xx00xxxx_13A_0118 senatorial
+77_xx00xxxx_13A_0118 senatoryal
 77_xx00xxxx_13A_0119 aktibong
 77_xx00xxxx_13A_0120 magusap
 77_xx00xxxx_13A_0121 pili
@@ -190,8 +190,8 @@
 77_xx00xxxx_13A_0190 anumang
 77_xx00xxxx_13A_0191 makakuha
 77_xx00xxxx_13A_0192 piso
-77_xx00xxxx_13A_0193 años
-77_xx00xxxx_13A_0194 makapaggalat
+77_xx00xxxx_13A_0193 anyos
+77_xx00xxxx_13A_0194 makapagkalat
 77_xx00xxxx_13A_0195 apat
 77_xx00xxxx_13A_0196 ilibing
 77_xx00xxxx_13A_0197 makapagsasabing
@@ -203,7 +203,7 @@
 77_xx00xxxx_13A_0203 yong
 77_xx00xxxx_13A_0204 apoy
 77_xx00xxxx_13A_0205 makarating
-77_xx00xxxx_13A_0206 premio
+77_xx00xxxx_13A_0206 premyo
 77_xx00xxxx_13A_0207 ilong
 77_xx00xxxx_13A_0208 makasali
 77_xx00xxxx_13A_0209 probinsya
@@ -508,7 +508,7 @@
 77_xx00xxxx_13A_0508 bigyan
 77_xx00xxxx_13A_0509 kabuhayan
 77_xx00xxxx_13A_0510 masisiguro
-77_xx00xxxx_13A_0511 cemento
+77_xx00xxxx_13A_0511 semento
 77_xx00xxxx_13A_0512 biktima
 77_xx00xxxx_13A_0513 kabundukan
 77_xx00xxxx_13A_0514 masukal
@@ -568,7 +568,7 @@
 77_xx00xxxx_13A_0568 sikip
 77_xx00xxxx_13A_0569 binihag
 77_xx00xxxx_13A_0570 kainin
-77_xx00xxxx_13A_0571 materiales
+77_xx00xxxx_13A_0571 materyales
 77_xx00xxxx_13A_0572 sikipan
 77_xx00xxxx_13A_0573 binili
 77_xx00xxxx_13A_0574 kakampi
@@ -613,7 +613,7 @@
 77_xx00xxxx_13A_0613 kalimutan
 77_xx00xxxx_13A_0614 mainila
 77_xx00xxxx_13A_0615 sindak
-77_xx00xxxx_13A_0616 viernes
+77_xx00xxxx_13A_0616 biyernes
 77_xx00xxxx_13A_0617 kaliwang
 77_xx00xxxx_13A_0618 mayo
 77_xx00xxxx_13A_0619 sindi
@@ -623,7 +623,7 @@
 77_xx00xxxx_13A_0623 sindihan
 77_xx00xxxx_13A_0624 bobo
 77_xx00xxxx_13A_0625 kalungkutan
-77_xx00xxxx_13A_0626 maysakit
+77_xx00xxxx_13A_0626 masakit
 77_xx00xxxx_13A_0627 singkit
 77_xx00xxxx_13A_0628 bola
 77_xx00xxxx_13A_0629 kalye
@@ -734,7 +734,7 @@
 77_xx00xxxx_13A_0734 noong
 77_xx00xxxx_13A_0735 abangan
 77_xx00xxxx_13A_0736 seconds
-77_xx00xxxx_13A_0737 suspect
+77_xx00xxxx_13A_0737 suspek
 77_xx00xxxx_13A_0738 shop
 77_xx00xxxx_13A_0739 regulation
 77_xx00xxxx_13A_0740 aktibong
@@ -746,7 +746,7 @@
 77_xx00xxxx_13A_0746 nagaway
 77_xx00xxxx_13A_0747 sulat
 77_xx00xxxx_13A_0748 dagdagan
-77_xx00xxxx_13A_0749 carpintero
+77_xx00xxxx_13A_0749 karpintero
 77_xx00xxxx_13A_0750 nagbasa
 77_xx00xxxx_13A_0751 sulatan
 77_xx00xxxx_13A_0752 dahas
@@ -764,12 +764,12 @@
 77_xx00xxxx_13A_0764 sulit
 77_xx00xxxx_13A_0765 dahon
 77_xx00xxxx_13A_0766 kasamahan
-77_xx00xxxx_13A_0767 nagdidelim
+77_xx00xxxx_13A_0767 nagdidilim
 77_xx00xxxx_13A_0768 sulitin
 77_xx00xxxx_13A_0769 dahong
 77_xx00xxxx_13A_0770 show
 77_xx00xxxx_13A_0771 kasawian
-77_xx00xxxx_13A_0772 naghinagbis
+77_xx00xxxx_13A_0772 naghinagpis
 77_xx00xxxx_13A_0773 sul
 77_xx00xxxx_13A_0774 sol
 77_xx00xxxx_13A_0775 daigdig
@@ -1444,7 +1444,7 @@
 77_xx00xxxx_13B_0006 magdasal bago matulog at hilingin makita sa panaginip ang lalaking
 77_xx00xxxx_13B_0007 magkakaroon ng kauugnayan sa iyong buhay at pag ibig
 77_xx00xxxx_13B_0008 nakakapagtakang may mga pagkakataong ang pag ibig na dapat sana
-77_xx00xxxx_13B_0009 ay nagpapaligay sa tao
+77_xx00xxxx_13B_0009 ay nagpapalagay sa tao
 77_xx00xxxx_13B_0010 ay sya pang dahilan ng kasawian
 77_xx00xxxx_13B_0011 pero lagi nating isaisip dadi pag ibig ang sumisira sa
 77_xx00xxxx_13B_0012 tao kundi tao mismo
@@ -1473,7 +1473,7 @@
 77_xx00xxxx_13B_0035 siya ang jack na pumunta sa freeport zone noong friday
 77_xx00xxxx_13B_0036 at nag phishing
 77_xx00xxxx_13B_0037 galing daw ang wise employment sa chinese embassy
-77_xx00xxxx_13B_0038 tagboan
+77_xx00xxxx_13B_0038 tagpuan
 77_xx00xxxx_13B_0039 din
 77_xx00xxxx_13B_0040 kinuwento
 77_xx00xxxx_13B_0041 nagtrabaho
@@ -1483,7 +1483,7 @@
 77_xx00xxxx_13B_0045 takas
 77_xx00xxxx_13B_0046 dinamay
 77_xx00xxxx_13B_0047 ko
-77_xx00xxxx_13B_0048 nagdutulungan
+77_xx00xxxx_13B_0048 nagtutulungan
 77_xx00xxxx_13B_0049 takbo
 77_xx00xxxx_13B_0050 dinanas
 77_xx00xxxx_13B_0051 kompositor
@@ -1495,7 +1495,7 @@
 77_xx00xxxx_13B_0057 takot
 77_xx00xxxx_13B_0058 dingin
 77_xx00xxxx_13B_0059 konstruksyon
-77_xx00xxxx_13B_0060 nauhuli
+77_xx00xxxx_13B_0060 nahuhuli
 77_xx00xxxx_13B_0061 taxi
 77_xx00xxxx_13B_0062 dinig
 77_xx00xxxx_13B_0063 kotse
@@ -1517,10 +1517,10 @@
 77_xx00xxxx_13B_0079 kulay
 77_xx00xxxx_13B_0080 nakakasilaw
 77_xx00xxxx_13B_0081 talon
-77_xx00xxxx_13B_0082 jaging
-77_xx00xxxx_13B_0083 maamung
+77_xx00xxxx_13B_0082 jogging
+77_xx00xxxx_13B_0083 maamong
 77_xx00xxxx_13B_0084 narestong
-77_xx00xxxx_13B_0085 nakatagdang
+77_xx00xxxx_13B_0085 nakatakdang
 77_xx00xxxx_13B_0086 kilong
 77_xx00xxxx_13B_0087 kakulangan
 77_xx00xxxx_13B_0088 dito
@@ -1533,7 +1533,7 @@
 77_xx00xxxx_13B_0095 kulog
 77_xx00xxxx_13B_0096 nakapagtapos
 77_xx00xxxx_13B_0097 tama
-77_xx00xxxx_13B_0098 dios
+77_xx00xxxx_13B_0098 diyos
 77_xx00xxxx_13B_0099 kumain
 77_xx00xxxx_13B_0100 nakatira
 77_xx00xxxx_13B_0101 tamad
@@ -1552,7 +1552,7 @@
 77_xx00xxxx_13B_0114 tanga
 77_xx00xxxx_13B_0115 dugo
 77_xx00xxxx_13B_0116 kundi
-77_xx00xxxx_13B_0117 nakao
+77_xx00xxxx_13B_0117 nakaw
 77_xx00xxxx_13B_0118 tanghali
 77_xx00xxxx_13B_0119 dugtong
 77_xx00xxxx_13B_0120 kong
@@ -1572,7 +1572,7 @@
 77_xx00xxxx_13B_0134 nalalanghap
 77_xx00xxxx_13B_0135 taon
 77_xx00xxxx_13B_0136 dumamay
-77_xx00xxxx_13B_0137 kuarto
+77_xx00xxxx_13B_0137 kwarto
 77_xx00xxxx_13B_0138 nalasing
 77_xx00xxxx_13B_0139 taong
 77_xx00xxxx_13B_0140 dumamba
@@ -1624,9 +1624,9 @@
 77_xx00xxxx_13B_0186 lahat
 77_xx00xxxx_13B_0187 naninirahan
 77_xx00xxxx_13B_0188 tawagan
-77_xx00xxxx_13B_0189 elementaria
+77_xx00xxxx_13B_0189 elementarya
 77_xx00xxxx_13B_0190 lahok
-77_xx00xxxx_13B_0191 naniligaw
+77_xx00xxxx_13B_0191 nanliligaw
 77_xx00xxxx_13B_0192 tawiran
 77_xx00xxxx_13B_0193 enero
 77_xx00xxxx_13B_0194 lakad
@@ -1648,18 +1648,18 @@
 77_xx00xxxx_13B_0210 tayo
 77_xx00xxxx_13B_0211 ewan
 77_xx00xxxx_13B_0212 lalapit
-77_xx00xxxx_13B_0213 narian
+77_xx00xxxx_13B_0213 nariyan
 77_xx00xxxx_13B_0214 tayo
 77_xx00xxxx_13B_0215 faksyon
 77_xx00xxxx_13B_0216 lalo
 77_xx00xxxx_13B_0217 nars
 77_xx00xxxx_13B_0218 tayuan
 77_xx00xxxx_13B_0219 tayuan
-77_xx00xxxx_13B_0220 familia
+77_xx00xxxx_13B_0220 familya
 77_xx00xxxx_13B_0221 laman
 77_xx00xxxx_13B_0222 naroon
-77_xx00xxxx_13B_0223 deka
-77_xx00xxxx_13B_0224 familiar
+77_xx00xxxx_13B_0223 teka
+77_xx00xxxx_13B_0224 familyar
 77_xx00xxxx_13B_0225 lamang
 77_xx00xxxx_13B_0226 nasa
 77_xx00xxxx_13B_0227 telefonono
@@ -1712,7 +1712,7 @@
 77_xx00xxxx_13B_0274 gaano
 77_xx00xxxx_13B_0275 lara
 77_xx00xxxx_13B_0276 nawalan
-77_xx00xxxx_13B_0277 tinatangkilig
+77_xx00xxxx_13B_0277 tinatangkilik
 77_xx00xxxx_13B_0278 gabi
 77_xx00xxxx_13B_0279 larangan
 77_xx00xxxx_13B_0280 nawawala
@@ -1722,7 +1722,7 @@
 77_xx00xxxx_13B_0284 lalo
 77_xx00xxxx_13B_0285 negosyo
 77_xx00xxxx_13B_0286 sitkom
-77_xx00xxxx_13B_0287 timis
+77_xx00xxxx_13B_0287 tamis
 77_xx00xxxx_13B_0288 galangin
 77_xx00xxxx_13B_0289 laruan
 77_xx00xxxx_13B_0290 nenita
@@ -1740,9 +1740,9 @@
 77_xx00xxxx_13B_0302 ngang
 77_xx00xxxx_13B_0303 tiwala
 77_xx00xxxx_13B_0304 gamit
-77_xx00xxxx_13B_0305 lasengo
+77_xx00xxxx_13B_0305 lasenggo
 77_xx00xxxx_13B_0306 ngayon
-77_xx00xxxx_13B_0307 tiak
+77_xx00xxxx_13B_0307 tiyak
 77_xx00xxxx_13B_0308 gamitin
 77_xx00xxxx_13B_0309 lasing
 77_xx00xxxx_13B_0310 ngipin
@@ -1767,13 +1767,13 @@
 77_xx00xxxx_13B_0329 ganito
 77_xx00xxxx_13B_0330 layoan
 77_xx00xxxx_13B_0331 nilakbay
-77_xx00xxxx_13B_0332 cheque
+77_xx00xxxx_13B_0332 cheke
 77_xx00xxxx_13B_0333 ganoon
 77_xx00xxxx_13B_0334 layuin
 77_xx00xxxx_13B_0335 nilang
 77_xx00xxxx_13B_0336 chinelas
 77_xx00xxxx_13B_0337 ganyan
-77_xx00xxxx_13B_0338 lengguahe
+77_xx00xxxx_13B_0338 lengguwahe
 77_xx00xxxx_13B_0339 nilapit
 77_xx00xxxx_13B_0340 chismis
 77_xx00xxxx_13B_0341 gas
@@ -1806,7 +1806,7 @@
 77_xx00xxxx_13B_0368 tumakbo
 77_xx00xxxx_13B_0369 gaya
 77_xx00xxxx_13B_0370 ligo
-77_xx00xxxx_13B_0371 nia
+77_xx00xxxx_13B_0371 niya
 77_xx00xxxx_13B_0372 tumalon
 77_xx00xxxx_13B_0373 gayahin
 77_xx00xxxx_13B_0374 ligpitin
@@ -1819,7 +1819,7 @@
 77_xx00xxxx_13B_0381 gigil
 77_xx00xxxx_13B_0382 lihim
 77_xx00xxxx_13B_0383 niyo
-77_xx00xxxx_13B_0384 nyo
+77_xx00xxxx_13B_0384 niyo
 77_xx00xxxx_13B_0385 tumawag
 77_xx00xxxx_13B_0386 gilid
 77_xx00xxxx_13B_0387 liko
@@ -1854,7 +1854,7 @@
 77_xx00xxxx_13B_0416 ginoo
 77_xx00xxxx_13B_0417 lingon
 77_xx00xxxx_13B_0418 oo
-77_xx00xxxx_13B_0419 tuid
+77_xx00xxxx_13B_0419 tuwid
 77_xx00xxxx_13B_0420 ginto
 77_xx00xxxx_13B_0421 linis
 77_xx00xxxx_13B_0422 opisina
@@ -1894,7 +1894,7 @@
 77_xx00xxxx_13B_0456 ulan
 77_xx00xxxx_13B_0457 gulatin
 77_xx00xxxx_13B_0458 lokohin
-77_xx00xxxx_13B_0459 pakyat
+77_xx00xxxx_13B_0459 akyat
 77_xx00xxxx_13B_0460 ulanan
 77_xx00xxxx_13B_0461 gulay
 77_xx00xxxx_13B_0462 palis
@@ -1917,12 +1917,12 @@
 77_xx00xxxx_13B_0479 pulo
 77_xx00xxxx_13B_0480 gumamit
 77_xx00xxxx_13B_0481 pader
-77_xx00xxxx_13B_0482 rosario
+77_xx00xxxx_13B_0482 rosaryo
 77_xx00xxxx_13B_0483 restaurant
 77_xx00xxxx_13B_0484 records
 77_xx00xxxx_13B_0485 limang
 77_xx00xxxx_13B_0486 inusenteng
-77_xx00xxxx_13B_0487 pangailangan
+77_xx00xxxx_13B_0487 pangaylangan
 77_xx00xxxx_13B_0488 pinangyarihan
 77_xx00xxxx_13B_0489 umabot
 77_xx00xxxx_13B_0490 gumiling
@@ -1944,7 +1944,7 @@
 77_xx00xxxx_13B_0506 gupitan
 77_xx00xxxx_13B_0507 maabot
 77_xx00xxxx_13B_0508 paggawa
-77_xx00xxxx_13B_0509 umiak
+77_xx00xxxx_13B_0509 umiyak
 77_xx00xxxx_13B_0510 gupitin
 77_xx00xxxx_13B_0511 maaga
 77_xx00xxxx_13B_0512 paghaharapin
@@ -1979,8 +1979,8 @@
 77_xx00xxxx_13B_0541 mabait
 77_xx00xxxx_13B_0542 pagkain
 77_xx00xxxx_13B_0543 unang
-77_xx00xxxx_13B_0544 agdanan
-77_xx00xxxx_13B_0545 mabangu
+77_xx00xxxx_13B_0544 hagdanan
+77_xx00xxxx_13B_0545 mabango
 77_xx00xxxx_13B_0546 pagkakilala
 77_xx00xxxx_13B_0547 universidad
 77_xx00xxxx_13B_0548 haharapin
@@ -1995,7 +1995,7 @@
 77_xx00xxxx_13B_0557 mabuhay
 77_xx00xxxx_13B_0558 pagkakuha
 77_xx00xxxx_13B_0559 upo
-77_xx00xxxx_13B_0560 halain
+77_xx00xxxx_13B_0560 halayin
 77_xx00xxxx_13B_0561 mabuo
 77_xx00xxxx_13B_0562 pagkatalo
 77_xx00xxxx_13B_0563 upuan
@@ -2848,12 +2848,12 @@
 78_xx00xxxx_14A_0080 pautos
 78_xx00xxxx_14A_0081 mapapakinabangang
 78_xx00xxxx_14A_0082 agiw
-78_xx00xxxx_14A_0083 huebes
+78_xx00xxxx_14A_0083 huwebes
 78_xx00xxxx_14A_0084 magsaya
 78_xx00xxxx_14A_0085 pebrero
 78_xx00xxxx_14A_0086 hating
 78_xx00xxxx_14A_0087 gabi
-78_xx00xxxx_14A_0088 akain
+78_xx00xxxx_14A_0088 akayin
 78_xx00xxxx_14A_0089 magsikap
 78_xx00xxxx_14A_0090 pera
 78_xx00xxxx_14A_0091 akin
@@ -2876,7 +2876,7 @@
 78_xx00xxxx_14A_0108 aktibong
 78_xx00xxxx_14A_0109 magusap
 78_xx00xxxx_14A_0110 pili
-78_xx00xxxx_14A_0111 akiat
+78_xx00xxxx_14A_0111 akyat
 78_xx00xxxx_14A_0112 magutos
 78_xx00xxxx_14A_0113 alagaan
 78_xx00xxxx_14A_0114 ibigin
@@ -3230,7 +3230,7 @@
 78_xx00xxxx_14A_0462 masaklap
 78_xx00xxxx_14A_0463 sarahan
 78_xx00xxxx_14A_0464 birthday
-78_xx00xxxx_14A_0465 jukbox
+78_xx00xxxx_14A_0465 jukebox
 78_xx00xxxx_14A_0466 masama
 78_xx00xxxx_14A_0467 sarap
 78_xx00xxxx_14A_0468 bibig
@@ -3368,7 +3368,7 @@
 78_xx00xxxx_14A_0600 praning
 78_xx00xxxx_14A_0601 ngayon
 78_xx00xxxx_14A_0602 sinama
-78_xx00xxxx_14A_0603 bituin
+78_xx00xxxx_14A_0603 bitwin
 78_xx00xxxx_14A_0604 kalikasan
 78_xx00xxxx_14A_0605 mayaman
 78_xx00xxxx_14A_0606 sinamahan
@@ -3423,7 +3423,7 @@
 78_xx00xxxx_14A_0655 sipagin
 78_xx00xxxx_14A_0656 bukid
 78_xx00xxxx_14A_0657 kamusta
-78_xx00xxxx_14A_0658 mirkules
+78_xx00xxxx_14A_0658 miyerkules
 78_xx00xxxx_14A_0659 sipain
 78_xx00xxxx_14A_0660 buksan
 78_xx00xxxx_14A_0661 kang
@@ -3636,7 +3636,7 @@
 78_xx00xxxx_14A_0868 dikitan
 78_xx00xxxx_14A_0869 kinalat
 78_xx00xxxx_14A_0870 nagsawa
-78_xx00xxxx_14A_0871 tae
+78_xx00xxxx_14A_0871 tai
 78_xx00xxxx_14A_0872 dikitin
 78_xx00xxxx_14A_0873 kinangtahan
 78_xx00xxxx_14A_0874 nagtaka
@@ -4534,7 +4534,7 @@
 78_xx00xxxx_14B_0337 nilang
 78_xx00xxxx_14B_0338 chinelas
 78_xx00xxxx_14B_0339 ganyan
-78_xx00xxxx_14B_0340 lingguahe
+78_xx00xxxx_14B_0340 linggwahe
 78_xx00xxxx_14B_0341 nilapit
 78_xx00xxxx_14B_0342 chismis
 78_xx00xxxx_14B_0343 gas
@@ -6370,7 +6370,7 @@
 79_xx10xxxx_15A_0839 tabi
 79_xx10xxxx_15A_0840 dibdib
 79_xx10xxxx_15A_0841 kinakain
-79_xx10xxxx_15A_0842 nagsasalaisay
+79_xx10xxxx_15A_0842 nagsasalaysay
 79_xx10xxxx_15A_0843 tabihan
 79_xx10xxxx_15A_0844 dikit
 79_xx10xxxx_15A_0845 kinalalagyan
@@ -7064,7 +7064,7 @@
 79_xx10xxxx_15B_0126 nalalanghap
 79_xx10xxxx_15B_0127 taon
 79_xx10xxxx_15B_0128 dumamay
-79_xx10xxxx_15B_0129 kuarto
+79_xx10xxxx_15B_0129 kwarto
 79_xx10xxxx_15B_0130 nalasing
 79_xx10xxxx_15B_0131 taong
 79_xx10xxxx_15B_0132 dumamba
@@ -7292,7 +7292,7 @@
 79_xx10xxxx_15B_0354 tumalon
 79_xx10xxxx_15B_0355 giyahin
 79_xx10xxxx_15B_0356 ligpitin
-79_xx10xxxx_15B_0357 nian
+79_xx10xxxx_15B_0357 niyan
 79_xx10xxxx_15B_0358 tumatanda
 79_xx10xxxx_15B_0359 gate
 79_xx10xxxx_15B_0360 liham
@@ -8272,7 +8272,7 @@
 80_xx00xxxx_11A_full_transcription_0028 itoy sapat ng dahilan para maging masayas siya
 80_xx00xxxx_11A_full_transcription_0029 nainis nga ako sa kanya dahil hindi siya nagtatanong
 80_xx00xxxx_11A_full_transcription_0030 isang oras siyat akong niyugyug ng ilipante
-80_xx00xxxx_11A_full_transcription_0031 sabi sa fm at tv si jack ay nahosted at nahuldab sa sambuangga ng addict sa siabu
+80_xx00xxxx_11A_full_transcription_0031 sabi sa fm at tv si jack ay nahosted at nahuldap sa zamboanga ng addict sa siabu
 80_xx00xxxx_11A_full_transcription_0032 pangulo
 80_xx00xxxx_11A_full_transcription_0033 magnanakaw
 80_xx00xxxx_11A_full_transcription_0034 lungsod
@@ -8350,7 +8350,7 @@
 80_xx00xxxx_11A_full_transcription_0106 aktibong
 80_xx00xxxx_11A_full_transcription_0107 magusap
 80_xx00xxxx_11A_full_transcription_0108 pili
-80_xx00xxxx_11A_full_transcription_0109 akiat
+80_xx00xxxx_11A_full_transcription_0109 akyat
 80_xx00xxxx_11A_full_transcription_0110 magutos
 80_xx00xxxx_11A_full_transcription_0111 alagaan
 80_xx00xxxx_11A_full_transcription_0112 ibigin
@@ -8627,7 +8627,7 @@
 80_xx00xxxx_11A_full_transcription_0383 basahin
 80_xx00xxxx_11A_full_transcription_0384 namamaya pang
 80_xx00xxxx_11A_full_transcription_0385 angkas
-80_xx00xxxx_11A_full_transcription_0386 notoriosong
+80_xx00xxxx_11A_full_transcription_0386 notoryosong
 80_xx00xxxx_11A_full_transcription_0387 iiwi
 80_xx00xxxx_11A_full_transcription_0388 mandin lang
 80_xx00xxxx_11A_full_transcription_0389 salamat
@@ -8646,7 +8646,7 @@
 80_xx00xxxx_11A_full_transcription_0402 mapapakinabangan
 80_xx00xxxx_11A_full_transcription_0403 samahan
 80_xx00xxxx_11A_full_transcription_0404 bata
-80_xx00xxxx_11A_full_transcription_0405 iak
+80_xx00xxxx_11A_full_transcription_0405 iyak
 80_xx00xxxx_11A_full_transcription_0406 sandwich
 80_xx00xxxx_11A_full_transcription_0407 mapapatingin
 80_xx00xxxx_11A_full_transcription_0408 batang
@@ -8804,7 +8804,7 @@
 80_xx00xxxx_11A_full_transcription_0560 sikip
 80_xx00xxxx_11A_full_transcription_0561 binihag
 80_xx00xxxx_11A_full_transcription_0562 kainin
-80_xx00xxxx_11A_full_transcription_0563 materiales
+80_xx00xxxx_11A_full_transcription_0563 materyales
 80_xx00xxxx_11A_full_transcription_0564 sikipan
 80_xx00xxxx_11A_full_transcription_0565 binili
 80_xx00xxxx_11A_full_transcription_0566 kakampi
@@ -9100,7 +9100,7 @@
 80_xx00xxxx_11A_full_transcription_0856 tabi
 80_xx00xxxx_11A_full_transcription_0857 dibdib
 80_xx00xxxx_11A_full_transcription_0858 kinakain
-80_xx00xxxx_11A_full_transcription_0859 nagsasalaisay
+80_xx00xxxx_11A_full_transcription_0859 nagsasalaysay
 80_xx00xxxx_11A_full_transcription_0860 tabihan
 80_xx00xxxx_11A_full_transcription_0861 tikit
 80_xx00xxxx_11A_full_transcription_0862 kinalalagyan
@@ -9626,7 +9626,7 @@
 80_xx00xxxx_11B_0228 tayo
 80_xx00xxxx_11B_0229 ewan
 80_xx00xxxx_11B_0230 lalapit
-80_xx00xxxx_11B_0231 narian
+80_xx00xxxx_11B_0231 nariyan
 80_xx00xxxx_11B_0232 tayo
 80_xx00xxxx_11B_0233 faksyon
 80_xx00xxxx_11B_0234 lalo
@@ -9894,7 +9894,7 @@
 80_xx00xxxx_11B_0496 ulo
 80_xx00xxxx_11B_0497 gumamit
 80_xx00xxxx_11B_0498 pader
-80_xx00xxxx_11B_0499 rosario
+80_xx00xxxx_11B_0499 rosaryo
 80_xx00xxxx_11B_0500 restaurant
 80_xx00xxxx_11B_0501 records
 80_xx00xxxx_11B_0502 limang
@@ -10940,7 +10940,7 @@
 81_xx00xxxx_12A_0207 yong
 81_xx00xxxx_12A_0208 apoy
 81_xx00xxxx_12A_0209 makarating
-81_xx00xxxx_12A_0210 premio
+81_xx00xxxx_12A_0210 premyo
 81_xx00xxxx_12A_0211 ilong
 81_xx00xxxx_12A_0212 makasali
 81_xx00xxxx_12A_0213 probinsya
@@ -11888,7 +11888,7 @@
 81_xx00xxxx_12A_1155 si
 81_xx00xxxx_12A_1156 so
 81_xx00xxxx_12A_1157 su
-81_xx00xxxx_12A_1158 siam
+81_xx00xxxx_12A_1158 siyam
 81_xx00xxxx_12A_1159 sin
 81_xx00xxxx_12A_1160 sak
 81_xx00xxxx_12A_1161 siyon
@@ -13090,7 +13090,7 @@
 82_xx10xxxx_13A_0044 mga tao doon
 82_xx10xxxx_13A_0045 wala doon ang chocolate na favorite ni lazoro
 82_xx10xxxx_13A_0046 jess at resty mula sa china at japan
-82_xx10xxxx_13A_0047 elementaria lamang ang natapos ni rallion subalit lumakad
+82_xx10xxxx_13A_0047 elementarya lamang ang natapos ni rallion subalit lumakad
 82_xx10xxxx_13A_0048 siyang matuwid
 82_xx10xxxx_13A_0049 pangulo
 82_xx10xxxx_13A_0050 magnanakaw
@@ -14655,7 +14655,7 @@
 82_xx10xxxx_13B_0186 lahat
 82_xx10xxxx_13B_0187 naninirahan
 82_xx10xxxx_13B_0188 tawagan
-82_xx10xxxx_13B_0189 elementaria
+82_xx10xxxx_13B_0189 elementarya
 82_xx10xxxx_13B_0190 lahok
 82_xx10xxxx_13B_0191 nanliligaw
 82_xx10xxxx_13B_0192 tawiran
@@ -14684,7 +14684,7 @@
 82_xx10xxxx_13B_0215 lalo
 82_xx10xxxx_13B_0216 nars
 82_xx10xxxx_13B_0217 tayoan
-82_xx10xxxx_13B_0218 familia
+82_xx10xxxx_13B_0218 familya
 82_xx10xxxx_13B_0219 laman
 82_xx10xxxx_13B_0220 naroon
 82_xx10xxxx_13B_0221 teka
@@ -15875,7 +15875,7 @@
 83_xx00xxxx_14A_0090 pebrero
 83_xx00xxxx_14A_0091 hating
 83_xx00xxxx_14A_0092 gabi
-83_xx00xxxx_14A_0093 akain
+83_xx00xxxx_14A_0093 akayin
 83_xx00xxxx_14A_0094 magsikap
 83_xx00xxxx_14A_0095 pera
 83_xx00xxxx_14A_0096 akin
@@ -15894,11 +15894,11 @@
 83_xx00xxxx_14A_0109 aksayahin
 83_xx00xxxx_14A_0110 agulang
 83_xx00xxxx_14A_0111 pilat
-83_xx00xxxx_14A_0112 senatorial
+83_xx00xxxx_14A_0112 senatoryal
 83_xx00xxxx_14A_0113 aktibong
 83_xx00xxxx_14A_0114 magusap
 83_xx00xxxx_14A_0115 pili
-83_xx00xxxx_14A_0116 akiat
+83_xx00xxxx_14A_0116 akyat
 83_xx00xxxx_14A_0117 magutos
 83_xx00xxxx_14A_0118 alagaan
 83_xx00xxxx_14A_0119 ibigin
@@ -15986,7 +15986,7 @@
 83_xx00xxxx_14A_0201 premyo
 83_xx00xxxx_14A_0202 ilong
 83_xx00xxxx_14A_0203 makasali
-83_xx00xxxx_14A_0204 provincia
+83_xx00xxxx_14A_0204 provinsya
 83_xx00xxxx_14A_0205 makata
 83_xx00xxxx_14A_0206 araw
 83_xx00xxxx_14A_0207 imposibling
@@ -16343,7 +16343,7 @@
 83_xx00xxxx_14A_0558 sikip
 83_xx00xxxx_14A_0559 binihag
 83_xx00xxxx_14A_0560 kainin
-83_xx00xxxx_14A_0561 materiales
+83_xx00xxxx_14A_0561 materyales
 83_xx00xxxx_14A_0562 sikipan
 83_xx00xxxx_14A_0563 binili
 83_xx00xxxx_14A_0564 kakampi
@@ -16643,7 +16643,7 @@
 83_xx00xxxx_14A_0858 tabi
 83_xx00xxxx_14A_0859 dibdib
 83_xx00xxxx_14A_0860 kinakain
-83_xx00xxxx_14A_0861 nagsasalaisay
+83_xx00xxxx_14A_0861 nagsasalaysay
 83_xx00xxxx_14A_0862 tabihan
 83_xx00xxxx_14A_0863 dikit
 83_xx00xxxx_14A_0864 kinalalagyan

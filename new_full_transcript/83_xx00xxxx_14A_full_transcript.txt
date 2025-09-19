@@ -554,7 +554,7 @@ Utterance 93
 Start: 236.54
 End: 237.20
 Confidence: nan
-Text: Akain.
+Text: Akayin.
 
 Utterance 94
 Start: 237.78
@@ -668,7 +668,7 @@ Utterance 112
 Start: 267.50
 End: 268.20
 Confidence: nan
-Text: Senatorial.
+Text: Senatoryal.
 
 Utterance 113
 Start: 269.42
@@ -692,7 +692,7 @@ Utterance 116
 Start: 275.08
 End: 276.12
 Confidence: nan
-Text: Akiat.
+Text: Akyat.
 
 Utterance 117
 Start: 276.94
@@ -1220,7 +1220,7 @@ Utterance 204
 Start: 424.34
 End: 425.42
 Confidence: nan
-Text: Provincia.
+Text: Provinsya.
 
 Utterance 205
 Start: 425.80
@@ -3362,7 +3362,7 @@ Utterance 561
 Start: 890.29
 End: 891.35
 Confidence: nan
-Text: Materiales.
+Text: Materyales.
 
 Utterance 562
 Start: 891.65
@@ -5162,7 +5162,7 @@ Utterance 861
 Start: 1272.76
 End: 1273.92
 Confidence: nan
-Text: Nagsasalaisay.
+Text: Nagsasalaysay.
 
 Utterance 862
 Start: 1274.18

@@ -770,7 +770,7 @@ Utterance 129
 Start: 357.68
 End: 359.76
 Confidence: nan
-Text: Kuarto.
+Text: Kwarto.
 
 Utterance 130
 Start: 360.22
@@ -2138,7 +2138,7 @@ Utterance 357
 Start: 779.02
 End: 779.70
 Confidence: nan
-Text: Nian.
+Text: Niyan.
 
 Utterance 358
 Start: 780.28

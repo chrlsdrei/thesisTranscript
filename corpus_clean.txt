@@ -26,14 +26,14 @@ at tumatanda ka na at napagiiwanan ka na ng mas bata
 sa iyo eh bakit kailangan sa ikalabing tatlo ng pebrero
 tama naman siya diba
 ano ba ang nakita mo sa panaginip
-tumalon ka mo ang iyong puso
+tumalon kamo ang iyong puso
 matulog ka na
 pumunta ka ngayon dito
 tawagan mo ako
 samahan mo naman ako mamaya
 pakibukas naman ang pinto
 aray may multo
-siya si hans anderson gumuhuit ng baliw na unggoy sa
+siya si hans anderson gumuhit ng baliw na unggoy sa
 violet na pinto
 siya rin ang nasa commercial ng jag
 ang vice president ay pupunta sa mindanao zone upang makita
@@ -41,7 +41,7 @@ agad ang indinulot ng mnlf sa mga tao doon
 wala doon ang chocolate na favorite ni lazoro
 wala doon ang chocolate na favorite ni lazoro jess at
 resty mula sa china at japan
-elementaria lamang ang natapos ni ra leon subalit lumakad siyang
+elementarya lamang ang natapos ni ra leon subalit lumakad siyang
 matuwid
 pangulo
 magnanakaw
@@ -91,7 +91,7 @@ kibo
 pautos
 mapapakinabangang
 agiw
-huebes
+huwebes
 magsaya
 pebrero
 hating
@@ -115,7 +115,7 @@ magtulungan
 aksayahin
 magulang
 pilat
-senatorial
+senatoryal
 aktibong
 magusap
 pili
@@ -190,8 +190,8 @@ pisngi
 anumang
 makakuha
 piso
-años
-makapaggalat
+anyos
+makapagkalat
 apat
 ilibing
 makapagsasabing
@@ -203,7 +203,7 @@ balitang
 yong
 apoy
 makarating
-premio
+premyo
 ilong
 makasali
 probinsya
@@ -508,7 +508,7 @@ segundo
 bigyan
 kabuhayan
 masisiguro
-cemento
+semento
 biktima
 kabundukan
 masukal
@@ -568,7 +568,7 @@ matapos
 sikip
 binihag
 kainin
-materiales
+materyales
 sikipan
 binili
 kakampi
@@ -613,7 +613,7 @@ biyaya
 kalimutan
 mainila
 sindak
-viernes
+biyernes
 kaliwang
 mayo
 sindi
@@ -623,7 +623,7 @@ mayroon
 sindihan
 bobo
 kalungkutan
-maysakit
+masakit
 singkit
 bola
 kalye
@@ -734,7 +734,7 @@ dagat
 noong
 abangan
 seconds
-suspect
+suspek
 shop
 regulation
 aktibong
@@ -746,7 +746,7 @@ karanasan
 nagaway
 sulat
 dagdagan
-carpintero
+karpintero
 nagbasa
 sulatan
 dahas
@@ -764,12 +764,12 @@ nagbubungkal
 sulit
 dahon
 kasamahan
-nagdidelim
+nagdidilim
 sulitin
 dahong
 show
 kasawian
-naghinagbis
+naghinagpis
 sul
 sol
 daigdig
@@ -1444,7 +1444,7 @@ tapat ng inyong ulo
 magdasal bago matulog at hilingin makita sa panaginip ang lalaking
 magkakaroon ng kauugnayan sa iyong buhay at pag ibig
 nakakapagtakang may mga pagkakataong ang pag ibig na dapat sana
-ay nagpapaligay sa tao
+ay nagpapalagay sa tao
 ay sya pang dahilan ng kasawian
 pero lagi nating isaisip dadi pag ibig ang sumisira sa
 tao kundi tao mismo
@@ -1473,7 +1473,7 @@ rico na binili sa zoo
 siya ang jack na pumunta sa freeport zone noong friday
 at nag phishing
 galing daw ang wise employment sa chinese embassy
-tagboan
+tagpuan
 din
 kinuwento
 nagtrabaho
@@ -1483,7 +1483,7 @@ nagtratrabaho
 takas
 dinamay
 ko
-nagdutulungan
+nagtutulungan
 takbo
 dinanas
 kompositor
@@ -1495,7 +1495,7 @@ nahiga
 takot
 dingin
 konstruksyon
-nauhuli
+nahuhuli
 taxi
 dinig
 kotse
@@ -1517,10 +1517,10 @@ disyembre
 kulay
 nakakasilaw
 talon
-jaging
-maamung
+jogging
+maamong
 narestong
-nakatagdang
+nakatakdang
 kilong
 kakulangan
 dito
@@ -1533,7 +1533,7 @@ diyan
 kulog
 nakapagtapos
 tama
-dios
+diyos
 kumain
 nakatira
 tamad
@@ -1552,7 +1552,7 @@ nakausli
 tanga
 dugo
 kundi
-nakao
+nakaw
 tanghali
 dugtong
 kong
@@ -1572,7 +1572,7 @@ kusa
 nalalanghap
 taon
 dumamay
-kuarto
+kwarto
 nalasing
 taong
 dumamba
@@ -1624,9 +1624,9 @@ exam
 lahat
 naninirahan
 tawagan
-elementaria
+elementarya
 lahok
-naniligaw
+nanliligaw
 tawiran
 enero
 lakad
@@ -1648,18 +1648,18 @@ narito
 tayo
 ewan
 lalapit
-narian
+nariyan
 tayo
 faksyon
 lalo
 nars
 tayuan
 tayuan
-familia
+familya
 laman
 naroon
-deka
-familiar
+teka
+familyar
 lamang
 nasa
 telefonono
@@ -1712,7 +1712,7 @@ tinapon
 gaano
 lara
 nawalan
-tinatangkilig
+tinatangkilik
 gabi
 larangan
 nawawala
@@ -1722,7 +1722,7 @@ gagawa
 lalo
 negosyo
 sitkom
-timis
+tamis
 galangin
 laruan
 nenita
@@ -1740,9 +1740,9 @@ lasaan
 ngang
 tiwala
 gamit
-lasengo
+lasenggo
 ngayon
-tiak
+tiyak
 gamitin
 lasing
 ngipin
@@ -1767,13 +1767,13 @@ check
 ganito
 layoan
 nilakbay
-cheque
+cheke
 ganoon
 layuin
 nilang
 chinelas
 ganyan
-lengguahe
+lengguwahe
 nilapit
 chismis
 gas
@@ -1806,7 +1806,7 @@ nitong
 tumakbo
 gaya
 ligo
-nia
+niya
 tumalon
 gayahin
 ligpitin
@@ -1819,7 +1819,7 @@ tumatawag
 gigil
 lihim
 niyo
-nyo
+niyo
 tumawag
 gilid
 liko
@@ -1854,7 +1854,7 @@ turo
 ginoo
 lingon
 oo
-tuid
+tuwid
 ginto
 linis
 opisina
@@ -1894,7 +1894,7 @@ ulan
 ulan
 gulatin
 lokohin
-pakyat
+akyat
 ulanan
 gulay
 palis
@@ -1917,12 +1917,12 @@ padamdam
 pulo
 gumamit
 pader
-rosario
+rosaryo
 restaurant
 records
 limang
 inusenteng
-pangailangan
+pangaylangan
 pinangyarihan
 umabot
 gumiling
@@ -1944,7 +1944,7 @@ umihi
 gupitan
 maabot
 paggawa
-umiak
+umiyak
 gupitin
 maaga
 paghaharapin
@@ -1979,8 +1979,8 @@ habang
 mabait
 pagkain
 unang
-agdanan
-mabangu
+hagdanan
+mabango
 pagkakilala
 universidad
 haharapin
@@ -1995,7 +1995,7 @@ halaman
 mabuhay
 pagkakuha
 upo
-halain
+halayin
 mabuo
 pagkatalo
 upuan
@@ -2848,12 +2848,12 @@ kibo
 pautos
 mapapakinabangang
 agiw
-huebes
+huwebes
 magsaya
 pebrero
 hating
 gabi
-akain
+akayin
 magsikap
 pera
 akin
@@ -2876,7 +2876,7 @@ sinatorial
 aktibong
 magusap
 pili
-akiat
+akyat
 magutos
 alagaan
 ibigin
@@ -3230,7 +3230,7 @@ jujitsu
 masaklap
 sarahan
 birthday
-jukbox
+jukebox
 masama
 sarap
 bibig
@@ -3368,7 +3368,7 @@ pwedeng
 praning
 ngayon
 sinama
-bituin
+bitwin
 kalikasan
 mayaman
 sinamahan
@@ -3423,7 +3423,7 @@ mismong
 sipagin
 bukid
 kamusta
-mirkules
+miyerkules
 sipain
 buksan
 kang
@@ -3636,7 +3636,7 @@ tabo
 dikitan
 kinalat
 nagsawa
-tae
+tai
 dikitin
 kinangtahan
 nagtaka
@@ -4534,7 +4534,7 @@ layuin
 nilang
 chinelas
 ganyan
-lingguahe
+linggwahe
 nilapit
 chismis
 gas
@@ -6370,7 +6370,7 @@ nagsasabog
 tabi
 dibdib
 kinakain
-nagsasalaisay
+nagsasalaysay
 tabihan
 dikit
 kinalalagyan
@@ -7064,7 +7064,7 @@ kusa
 nalalanghap
 taon
 dumamay
-kuarto
+kwarto
 nalasing
 taong
 dumamba
@@ -7292,7 +7292,7 @@ niya
 tumalon
 giyahin
 ligpitin
-nian
+niyan
 tumatanda
 gate
 liham
@@ -8272,7 +8272,7 @@ hihinto rin sila kapag nabusog sa chicharon at coke
 itoy sapat ng dahilan para maging masayas siya
 nainis nga ako sa kanya dahil hindi siya nagtatanong
 isang oras siyat akong niyugyug ng ilipante
-sabi sa fm at tv si jack ay nahosted at nahuldab sa sambuangga ng addict sa siabu
+sabi sa fm at tv si jack ay nahosted at nahuldap sa zamboanga ng addict sa siabu
 pangulo
 magnanakaw
 lungsod
@@ -8350,7 +8350,7 @@ sinatorial
 aktibong
 magusap
 pili
-akiat
+akyat
 magutos
 alagaan
 ibigin
@@ -8627,7 +8627,7 @@ basahin
 basahin
 namamaya pang
 angkas
-notoriosong
+notoryosong
 iiwi
 mandin lang
 salamat
@@ -8646,7 +8646,7 @@ iwasan
 mapapakinabangan
 samahan
 bata
-iak
+iyak
 sandwich
 mapapatingin
 batang
@@ -8804,7 +8804,7 @@ at
 sikip
 binihag
 kainin
-materiales
+materyales
 sikipan
 binili
 kakampi
@@ -9100,7 +9100,7 @@ nagsasabog
 tabi
 dibdib
 kinakain
-nagsasalaisay
+nagsasalaysay
 tabihan
 tikit
 kinalalagyan
@@ -9626,7 +9626,7 @@ narito
 tayo
 ewan
 lalapit
-narian
+nariyan
 tayo
 faksyon
 lalo
@@ -9894,7 +9894,7 @@ padamdam
 ulo
 gumamit
 pader
-rosario
+rosaryo
 restaurant
 records
 limang
@@ -10940,7 +10940,7 @@ balitang
 yong
 apoy
 makarating
-premio
+premyo
 ilong
 makasali
 probinsya
@@ -11888,7 +11888,7 @@ se
 si
 so
 su
-siam
+siyam
 sin
 sak
 siyon
@@ -13090,7 +13090,7 @@ upang makita agad ang idinulot ng mnlf sa
 mga tao doon
 wala doon ang chocolate na favorite ni lazoro
 jess at resty mula sa china at japan
-elementaria lamang ang natapos ni rallion subalit lumakad
+elementarya lamang ang natapos ni rallion subalit lumakad
 siyang matuwid
 pangulo
 magnanakaw
@@ -14655,7 +14655,7 @@ exam
 lahat
 naninirahan
 tawagan
-elementaria
+elementarya
 lahok
 nanliligaw
 tawiran
@@ -14684,7 +14684,7 @@ faction
 lalo
 nars
 tayoan
-familia
+familya
 laman
 naroon
 teka
@@ -15875,7 +15875,7 @@ magsaya
 pebrero
 hating
 gabi
-akain
+akayin
 magsikap
 pera
 akin
@@ -15894,11 +15894,11 @@ magtulungan
 aksayahin
 agulang
 pilat
-senatorial
+senatoryal
 aktibong
 magusap
 pili
-akiat
+akyat
 magutos
 alagaan
 ibigin
@@ -15986,7 +15986,7 @@ makarating
 premyo
 ilong
 makasali
-provincia
+provinsya
 makata
 araw
 imposibling
@@ -16343,7 +16343,7 @@ matapos
 sikip
 binihag
 kainin
-materiales
+materyales
 sikipan
 binili
 kakampi
@@ -16643,7 +16643,7 @@ nagsasabog
 tabi
 dibdib
 kinakain
-nagsasalaisay
+nagsasalaysay
 tabihan
 dikit
 kinalalagyan

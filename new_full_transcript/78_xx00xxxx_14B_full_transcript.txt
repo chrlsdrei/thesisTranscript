@@ -2036,7 +2036,7 @@ Utterance 340
 Start: 470.90
 End: 471.68
 Confidence: nan
-Text: lingguahe,
+Text: linggwahe,
 
 Utterance 341
 Start: 471.84

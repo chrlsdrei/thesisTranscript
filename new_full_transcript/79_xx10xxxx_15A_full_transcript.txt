@@ -5048,7 +5048,7 @@ Utterance 842
 Start: 1613.83
 End: 1615.21
 Confidence: nan
-Text: Nagsasalaisay.
+Text: Nagsasalaysay.
 
 Utterance 843
 Start: 1615.85

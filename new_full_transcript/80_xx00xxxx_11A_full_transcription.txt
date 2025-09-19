@@ -182,7 +182,7 @@ Utterance 31
 Start: 165.00
 End: 171.00
 Confidence: -0.2543
-Text: Sabi sa FM at TV si Jack ay nahosted at nahuldab sa sambuangga ng addict sa Siabu.
+Text: Sabi sa FM at TV si Jack ay nahosted at nahuldap sa Zamboanga ng addict sa Siabu.
 
 Utterance 32
 Start: 177.00
@@ -650,7 +650,7 @@ Utterance 109
 Start: 399.00
 End: 400.00
 Confidence: -0.1195
-Text: Akiat.
+Text: Akyat.
 
 Utterance 110
 Start: 402.00
@@ -2312,7 +2312,7 @@ Utterance 386
 Start: 1259.00
 End: 1260.00
 Confidence: -0.1243
-Text: Notoriosong
+Text: Notoryosong
 
 Utterance 387
 Start: 1262.00
@@ -2426,7 +2426,7 @@ Utterance 405
 Start: 1322.00
 End: 1323.00
 Confidence: -0.0933
-Text: Iak.
+Text: Iyak.
 
 Utterance 406
 Start: 1325.00
@@ -3374,7 +3374,7 @@ Utterance 563
 Start: 1858.00
 End: 1859.00
 Confidence: -0.1054
-Text: materiales
+Text: materyales
 
 Utterance 564
 Start: 1860.00
@@ -5150,7 +5150,7 @@ Utterance 859
 Start: 2324.00
 End: 2325.00
 Confidence: -0.1212
-Text: nagsasalaisay
+Text: nagsasalaysay
 
 Utterance 860
 Start: 2326.00

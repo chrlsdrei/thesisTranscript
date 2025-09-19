@@ -1256,7 +1256,7 @@ Utterance 210
 Start: 387.93
 End: 388.51
 Confidence: nan
-Text: Premio.
+Text: Premyo.
 
 Utterance 211
 Start: 389.89
@@ -6944,7 +6944,7 @@ Utterance 1157
 Start: 1668.63
 End: 1669.07
 Confidence: nan
-Text: Siam.
+Text: Siyam.
 
 Utterance 1158
 Start: 1669.47

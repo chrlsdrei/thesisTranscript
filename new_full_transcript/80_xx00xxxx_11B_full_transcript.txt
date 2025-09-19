@@ -1382,7 +1382,7 @@ Utterance 231
 Start: 421.24
 End: 421.86
 Confidence: nan
-Text: narian,
+Text: nariyan,
 
 Utterance 232
 Start: 422.40
@@ -2990,7 +2990,7 @@ Utterance 499
 Start: 743.75
 End: 744.53
 Confidence: nan
-Text: rosario,
+Text: rosaryo,
 
 Utterance 500
 Start: 744.85

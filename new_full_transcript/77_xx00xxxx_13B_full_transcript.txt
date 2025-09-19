@@ -50,7 +50,7 @@ Utterance 9
 Start: 35.84
 End: 37.90
 Confidence: 0.0
-Text: ay nagpapaligay sa tao.
+Text: ay nagpapalagay sa tao.
 
 Utterance 10
 Start: 38.94
@@ -224,7 +224,7 @@ Utterance 38
 Start: 137.09
 End: 137.85
 Confidence: nan
-Text: Tagboan,
+Text: Tagpuan,
 
 Utterance 39
 Start: 138.17
@@ -284,7 +284,7 @@ Utterance 48
 Start: 148.75
 End: 150.33
 Confidence: nan
-Text: Nagdutulungan,
+Text: Nagtutulungan,
 
 Utterance 49
 Start: 150.49
@@ -356,7 +356,7 @@ Utterance 60
 Start: 163.37
 End: 165.01
 Confidence: nan
-Text: nauhuli,
+Text: nahuhuli,
 
 Utterance 61
 Start: 168.19
@@ -488,13 +488,13 @@ Utterance 82
 Start: 197.59
 End: 198.15
 Confidence: nan
-Text: jaging,
+Text: jogging,
 
 Utterance 83
 Start: 198.39
 End: 199.39
 Confidence: nan
-Text: maamung,
+Text: maamong,
 
 Utterance 84
 Start: 199.73
@@ -506,7 +506,7 @@ Utterance 85
 Start: 200.93
 End: 201.81
 Confidence: nan
-Text: nakatagdang,
+Text: nakatakdang,
 
 Utterance 86
 Start: 202.27
@@ -584,7 +584,7 @@ Utterance 98
 Start: 215.93
 End: 216.69
 Confidence: nan
-Text: dios,
+Text: diyos,
 
 Utterance 99
 Start: 216.97
@@ -698,7 +698,7 @@ Utterance 117
 Start: 239.41
 End: 240.07
 Confidence: nan
-Text: nakao,
+Text: nakaw,
 
 Utterance 118
 Start: 240.13
@@ -818,7 +818,7 @@ Utterance 137
 Start: 263.05
 End: 263.83
 Confidence: nan
-Text: kuarto,
+Text: kwarto,
 
 Utterance 138
 Start: 264.15
@@ -1130,7 +1130,7 @@ Utterance 189
 Start: 323.91
 End: 324.59
 Confidence: nan
-Text: elementaria,
+Text: elementarya,
 
 Utterance 190
 Start: 325.03
@@ -1142,7 +1142,7 @@ Utterance 191
 Start: 325.97
 End: 327.13
 Confidence: nan
-Text: naniligaw,
+Text: nanliligaw,
 
 Utterance 192
 Start: 327.41
@@ -1274,7 +1274,7 @@ Utterance 213
 Start: 353.77
 End: 354.67
 Confidence: nan
-Text: narian,
+Text: nariyan,
 
 Utterance 214
 Start: 355.03
@@ -1316,7 +1316,7 @@ Utterance 220
 Start: 361.07
 End: 362.75
 Confidence: nan
-Text: familia,
+Text: familya,
 
 Utterance 221
 Start: 363.35
@@ -1334,13 +1334,13 @@ Utterance 223
 Start: 365.63
 End: 366.15
 Confidence: nan
-Text: deka,
+Text: teka,
 
 Utterance 224
 Start: 366.51
 End: 367.11
 Confidence: nan
-Text: familiar,
+Text: familyar,
 
 Utterance 225
 Start: 367.59
@@ -1658,7 +1658,7 @@ Utterance 277
 Start: 426.34
 End: 427.38
 Confidence: nan
-Text: tinatangkilig,
+Text: tinatangkilik,
 
 Utterance 278
 Start: 427.62
@@ -1718,7 +1718,7 @@ Utterance 287
 Start: 436.86
 End: 437.88
 Confidence: nan
-Text: timis,
+Text: tamis,
 
 Utterance 288
 Start: 438.24
@@ -1826,7 +1826,7 @@ Utterance 305
 Start: 454.44
 End: 455.08
 Confidence: nan
-Text: lasengo,
+Text: lasenggo,
 
 Utterance 306
 Start: 455.50
@@ -1838,7 +1838,7 @@ Utterance 307
 Start: 456.36
 End: 456.92
 Confidence: nan
-Text: tiak,
+Text: tiyak,
 
 Utterance 308
 Start: 457.20
@@ -1988,7 +1988,7 @@ Utterance 332
 Start: 479.74
 End: 480.50
 Confidence: nan
-Text: cheque,
+Text: cheke,
 
 Utterance 333
 Start: 480.50
@@ -2024,7 +2024,7 @@ Utterance 338
 Start: 485.74
 End: 486.74
 Confidence: nan
-Text: lengguahe,
+Text: lengguwahe,
 
 Utterance 339
 Start: 486.88
@@ -2222,7 +2222,7 @@ Utterance 371
 Start: 518.30
 End: 518.80
 Confidence: nan
-Text: nia,
+Text: niya,
 
 Utterance 372
 Start: 518.98
@@ -2300,7 +2300,7 @@ Utterance 384
 Start: 532.12
 End: 532.90
 Confidence: nan
-Text: nyo,
+Text: niyo,
 
 Utterance 385
 Start: 532.90
@@ -2510,7 +2510,7 @@ Utterance 419
 Start: 566.76
 End: 567.28
 Confidence: nan
-Text: tuid,
+Text: tuwid,
 
 Utterance 420
 Start: 567.44
@@ -2750,7 +2750,7 @@ Utterance 459
 Start: 606.24
 End: 607.02
 Confidence: nan
-Text: pakyat,
+Text: akyat,
 
 Utterance 460
 Start: 607.30
@@ -2888,7 +2888,7 @@ Utterance 482
 Start: 632.54
 End: 633.52
 Confidence: nan
-Text: rosario,
+Text: rosaryo,
 
 Utterance 483
 Start: 634.06
@@ -2918,7 +2918,7 @@ Utterance 487
 Start: 639.32
 End: 640.04
 Confidence: nan
-Text: pangailangan,
+Text: pangaylangan,
 
 Utterance 488
 Start: 640.40
@@ -3050,7 +3050,7 @@ Utterance 509
 Start: 662.26
 End: 663.22
 Confidence: nan
-Text: umiak,
+Text: umiyak,
 
 Utterance 510
 Start: 663.46
@@ -3260,13 +3260,13 @@ Utterance 544
 Start: 700.85
 End: 701.67
 Confidence: nan
-Text: agdanan,
+Text: hagdanan,
 
 Utterance 545
 Start: 701.83
 End: 702.81
 Confidence: nan
-Text: mabangu,
+Text: mabango,
 
 Utterance 546
 Start: 703.09
@@ -3356,7 +3356,7 @@ Utterance 560
 Start: 721.83
 End: 722.37
 Confidence: nan
-Text: halain,
+Text: halayin,
 
 Utterance 561
 Start: 722.75

@@ -1130,7 +1130,7 @@ Utterance 189
 Start: 339.11
 End: 340.35
 Confidence: nan
-Text: elementaria,
+Text: elementarya,
 
 Utterance 190
 Start: 340.71
@@ -1304,7 +1304,7 @@ Utterance 218
 Start: 377.77
 End: 378.29
 Confidence: nan
-Text: familia,
+Text: familya,
 
 Utterance 219
 Start: 379.33

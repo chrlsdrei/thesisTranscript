@@ -170,7 +170,7 @@ Utterance 29
 Start: 128.03
 End: 129.95
 Confidence: 0.0
-Text: Tumalon ka mo ang iyong puso?
+Text: Tumalon kamo ang iyong puso?
 
 Utterance 30
 Start: 131.13
@@ -212,7 +212,7 @@ Utterance 36
 Start: 149.61
 End: 153.11
 Confidence: 0.0
-Text: Siya si Hans Anderson, gumuhuit ng baliw na unggoy sa
+Text: Siya si Hans Anderson, gumuhit ng baliw na unggoy sa
 
 Utterance 37
 Start: 153.11
@@ -260,7 +260,7 @@ Utterance 44
 Start: 186.57
 End: 190.61
 Confidence: 0.0
-Text: Elementaria lamang ang natapos ni Ra Leon, subalit lumakad siyang
+Text: Elementarya lamang ang natapos ni Ra Leon, subalit lumakad siyang
 
 Utterance 45
 Start: 190.61
@@ -560,7 +560,7 @@ Utterance 94
 Start: 287.72
 End: 289.12
 Confidence: nan
-Text: huebes,
+Text: huwebes,
 
 Utterance 95
 Start: 289.50
@@ -704,7 +704,7 @@ Utterance 118
 Start: 329.60
 End: 330.40
 Confidence: nan
-Text: senatorial,
+Text: senatoryal,
 
 Utterance 119
 Start: 331.52
@@ -1154,13 +1154,13 @@ Utterance 193
 Start: 479.65
 End: 480.57
 Confidence: nan
-Text: años,
+Text: anyos,
 
 Utterance 194
 Start: 481.57
 End: 483.05
 Confidence: nan
-Text: makapaggalat,
+Text: makapagkalat,
 
 Utterance 195
 Start: 483.93
@@ -1232,7 +1232,7 @@ Utterance 206
 Start: 505.67
 End: 506.87
 Confidence: nan
-Text: premio,
+Text: premyo,
 
 Utterance 207
 Start: 507.61
@@ -3062,7 +3062,7 @@ Utterance 511
 Start: 1022.65
 End: 1023.83
 Confidence: nan
-Text: cemento,
+Text: semento,
 
 Utterance 512
 Start: 1024.15
@@ -3422,7 +3422,7 @@ Utterance 571
 Start: 1129.32
 End: 1130.42
 Confidence: nan
-Text: materiales,
+Text: materyales,
 
 Utterance 572
 Start: 1130.98
@@ -3692,7 +3692,7 @@ Utterance 616
 Start: 1204.56
 End: 1205.38
 Confidence: nan
-Text: viernes,
+Text: biyernes,
 
 Utterance 617
 Start: 1206.22
@@ -3752,7 +3752,7 @@ Utterance 626
 Start: 1220.82
 End: 1222.04
 Confidence: nan
-Text: maysakit,
+Text: masakit,
 
 Utterance 627
 Start: 1222.40
@@ -4418,7 +4418,7 @@ Utterance 737
 Start: 1389.82
 End: 1390.40
 Confidence: nan
-Text: suspect,
+Text: suspek,
 
 Utterance 738
 Start: 1391.44
@@ -4490,7 +4490,7 @@ Utterance 749
 Start: 1406.16
 End: 1408.18
 Confidence: nan
-Text: carpintero,
+Text: karpintero,
 
 Utterance 750
 Start: 1408.32
@@ -4598,7 +4598,7 @@ Utterance 767
 Start: 1437.06
 End: 1439.18
 Confidence: nan
-Text: nagdidelim,
+Text: nagdidilim,
 
 Utterance 768
 Start: 1439.38
@@ -4628,7 +4628,7 @@ Utterance 772
 Start: 1445.90
 End: 1447.38
 Confidence: nan
-Text: naghinagbis,
+Text: naghinagpis,
 
 Utterance 773
 Start: 1447.68

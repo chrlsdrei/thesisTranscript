@@ -278,7 +278,7 @@ Utterance 47
 Start: 160.92
 End: 165.00
 Confidence: 0.0
-Text: Elementaria lamang ang natapos ni Rallion subalit lumakad
+Text: Elementarya lamang ang natapos ni Rallion subalit lumakad
 
 Utterance 48
 Start: 165.00

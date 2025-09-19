@@ -494,7 +494,7 @@ Utterance 83
 Start: 218.04
 End: 219.04
 Confidence: nan
-Text: Huebes.
+Text: Huwebes.
 
 Utterance 84
 Start: 219.60
@@ -524,7 +524,7 @@ Utterance 88
 Start: 224.18
 End: 224.86
 Confidence: nan
-Text: Akain.
+Text: Akayin.
 
 Utterance 89
 Start: 225.46
@@ -662,7 +662,7 @@ Utterance 111
 Start: 255.74
 End: 256.68
 Confidence: nan
-Text: Akiat.
+Text: Akyat.
 
 Utterance 112
 Start: 256.94
@@ -2786,7 +2786,7 @@ Utterance 465
 Start: 700.52
 End: 701.14
 Confidence: nan
-Text: Jukbox.
+Text: Jukebox.
 
 Utterance 466
 Start: 701.82
@@ -3614,7 +3614,7 @@ Utterance 603
 Start: 865.89
 End: 866.51
 Confidence: nan
-Text: Bituin.
+Text: Bitwin.
 
 Utterance 604
 Start: 866.51
@@ -3944,7 +3944,7 @@ Utterance 658
 Start: 922.81
 End: 923.49
 Confidence: nan
-Text: Mirkules.
+Text: Miyerkules.
 
 Utterance 659
 Start: 923.49
@@ -5222,7 +5222,7 @@ Utterance 871
 Start: 1181.96
 End: 1182.48
 Confidence: nan
-Text: Tae.
+Text: Tai.
 
 Utterance 872
 Start: 1182.80
